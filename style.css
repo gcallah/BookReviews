@@ -62,24 +62,29 @@ h2.subhead {
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 24px;
     margin: 20px 32px 12px 32px;
     color: #ecb;
     font-weight: bold;
 }
 
 h4 {
-    font-size: 18px;
+    font-size: 22px;
     margin: 16px 40px 12px 40px;
     color: #339;
     font-weight: bold;
 }
 
 h5 {
-    font-size: 16px;
+    font-size: 20px;
     margin: 16px 48px 12px 48px;
     color: #600;
     font-weight: bold;
 
+}
+
+blockquote {
+    margin: 10px 64px 10px 64px;
+    font-size: 18px;
 }
 

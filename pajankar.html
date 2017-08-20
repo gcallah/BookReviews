@@ -76,12 +76,37 @@
             </p>
 
             <p>
-            In discussing Python's built-in unittest module, Pajankar first
+            In discussing Python's built-in <i>unittest</i> module, Pajankar first
             introduces the case of having a single test class in a
             test module, and then presents a case of having several test
             classes in a single module. However, he does not make clear
             <i>why</i> one would want to have one or more than one class
             in a module.
+            </p>
+
+            <p>
+            Another technical quibble is that Pajankar apparently does not
+            understand the meaning of the "all" keyword in a __init__.py file.
+            He asserts that one has to include a file in __init__.py to 
+            make it part of that directories package. But that is wrong:
+            what including a file in "all" does is to make it imported
+            when one writes "from <i>package</i> import *".
+            </p>
+
+            <p>
+            On page 55, the author presents two tables of assertions available
+            in <i>unittest</i>, but gives no indication as to why these
+            tests are presented in separate tables. A couple of pages later, 
+            he writes "Many times, you might want to have a method that
+            explicitly fails a test when it's called." But he does not offer
+            any explanation of what those "many times" might be. For someone
+            trying to learn how to write good tests, a bit of explanation 
+            here would be many times as valuable as the "Introduction
+            to Python" chapter. Similarly, when he writes, "You can also skip
+            entire test classes in a test module using the
+            unittest.skip(reason) decoration, I would gladly have sacrificed 
+            the entire first chapter for a few more words explaining what
+            that sentence means.
             </p>
 
     </body>

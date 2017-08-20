@@ -18,5 +18,71 @@
                 </i>.
                 New York: Apress, 2017.
             </h3>
+
+            <p>
+            This book is a nice introduction to unit test automation in Python,
+            albeit one with several annoying flaws. If one needs a succint
+            overview of this topic, this book will certainly do the job,
+            even though it might have done the job a bit better.
+            </p>
+
+            <p>
+            The first thing that struck me about this book is that Chapter One
+            seems very strange inclusion. It is a very brief, high-level
+            introduction to the Python programming language, aimed at someone
+            who knows almost nothing about it. But...
+            </p>
+
+            <p>
+            Is that reader likely to buy a book called <i>Python Unit Test
+            Automation</i> as their first introduction to the language?! Won't they
+            pick up something with a name like <i>Beginning Python</i>
+            or <i>Learn Python in 30 Days</i>? It is hard to avoid
+            the suspicion that Pajankar's book had come up
+            just a little shy of its minimum page count, and so the
+            publisher said, "Why not throw in an intro to Python to start
+            things off?"
+            </p>
+
+            <p>
+            This book includes a very large number of screen shots and copies
+            of the output of running some command or other. Now certainly, a
+            bit of this can be useful. But truly great programming books, such
+            as Software Tools, Programming on Purpose, or Programming Pearls,
+            include (almost?) nothing of this sort. It is as though the authors
+            had plenty to convey without dumping the screen output of every
+            command or program discussed into their works.
+            </p>
+
+            <p>
+            Again, I don't claim that any inclusion of such output should be
+            forbidden. But I suggest that, say, for a series of very similar
+            tests, it is enough to put in, "Here is an example of the output of
+            test A," and not also show the nearly identical output for tests B,
+            C, D and E. And, once again, I have the sneaking suspicion the
+            publisher who asks for the output of B, C, D and E is trying to pad
+            out a volume they fear may otherwise be too slim to sell.
+            </p>
+
+            <p>
+            There are also some less serious technical problems in this work.
+            For instance, Pajankar claims "You must use [the verbose more of
+            doctest] because without it, the test will not produce any output
+            unless it fails" (25). However, in many case, that outcome might be
+            exactly what one wants: produce output only on failure. In fact,
+            that is the default behavior of many UNIX-style tools, and
+            Pajankar's recommendation violates Eric Raymond's "Rule of Silence"
+            (https://en.wikipedia.org/wiki/The_Art_of_Unix_Programming).
+            </p>
+
+            <p>
+            In discussing Python's built-in unittest module, Pajankar first
+            introduces the case of having a single test class in a
+            test module, and then presents a case of having several test
+            classes in a single module. However, he does not make clear
+            <i>why</i> one would want to have one or more than one class
+            in a module.
+            </p>
+
     </body>
 </html>

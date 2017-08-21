@@ -29,10 +29,10 @@
             "Agile" and "DevOps" approaches to software creation
             and deployment. The ability to get code into production with great
             regularity (companies good at this may deploy code into
-            production hundreds or even thousands of times per day)
+            production hundreds or thousands of times per day)
             requires that code is regularly and thoroughly tested as it
             is developed, and not just "thrown over the wall" into
-            QA just before it is scheduled to be released.
+            QA just before it is released.
             To achieve this result, it is necessary to write automated
             tests (since such thorough, regular testing simply cannot
             be done "by hand" by busy developers) that cover all common
@@ -49,28 +49,29 @@
             book is a timely addition to the literature.
             He has written a nice introduction
             to unit test automation in Python,
-            albeit one with several flaws.  If one needs a succint
+            albeit one with several flaws.  If one needs a succinct
             overview of this topic, this book will certainly do the job,
             </p>
 
             <p>
-            Pajankar surveys five main testing frameworks: <i>doctest</i>, a very
+            Pajankar surveys five main testing
+            frameworks: <i>doctest</i>, a very
             elementary testing framework in which tests are written into 
             Python comments, <i>unittest</i>, Python's built-in,
             more sophisticated testing module, <i>nose</i> and <i>nose2</i>,
             two extensions of <i>unittest</i>, and finally <i>pytest</i>.
             As the author points out,
             <i>Doctest</i> is too primitive a tool to use for 
-            continuous-integration-style development, as its tests are limited
+            continuous-integration-style development. Its tests are limited
             to comparing single examples against a known value -- an important
             aspect of more sophiticated testing is the ability to test
-            against random, unexpected input -- but he is justified
-            in using it to introduce the concept of unit testing, due to 
-            this very simplicity.
+            against random, unexpected input -- but Pajankar
+            is justified in using it to introduce the concept
+            of unit testing, due to this very simplicity.
             </p>
 
             <p>
-            After describing the various virtues and defects of
+            After describing the various pros and cons of
             <i>unittest</i>, <i>nose</i> and <i>nose2</i>,
             Pajankar recommends the <i>pytest</i> as the best choice,
             due to its wealth of features and compatibility with both
@@ -80,7 +81,8 @@
             <p>
             The first problematic thing that struck
             me about this book is that Chapter One
-            seems a very strange inclusion. It is a very brief, high-level
+            seems a very strange inclusion.
+            The chapter is a very brief, high-level
             introduction to the Python programming language, aimed at someone
             who knows almost nothing about it. But...
             Is that reader likely to buy a book called <i>Python Unit Test
@@ -100,28 +102,30 @@
 
             <p>
             There are also some minor technical problems in this work.
-            For instance, Pajankar claims "You must use [the verbose more of
+            For instance, Pajankar claims "You must use [the verbose mode of
             doctest] because without it, the test will not produce any output
-            unless it fails" (25). However, in many case, that outcome might be
-            exactly what one wants: produce output only on failure.
+            unless it fails" (25). However, in many cases,
+            that outcome might be exactly what
+            one wants: produce output only on failure.
             </p>
 
             <p>
             Another technical quibble is that Pajankar apparently does not
             understand the meaning of the "all" keyword in a __init__.py file.
-            He asserts that one has to include a file in __init__.py to 
+            He asserts that one has to include
+            a file in the "all" section of __init__.py to 
             make it part of that directory's package. But that is wrong:
             what including a file in "all" does is to make it imported
             when one writes "from <i>package</i> import *".
             </p>
 
             <p>
-            On page 57, Pajankar writes,
+            Also, on page 57, Pajankar writes,
             "Many times, you might want to have a method that
             explicitly fails a test when it's called." But he does not offer
             any explanation of what those "many times" might be. For someone
             trying to learn how to write good tests, an example or two 
-            here would be very valuable.
+            here would have been very valuable.
             </p>
 
             <p>
@@ -131,7 +135,7 @@
             one needs in a testing framework. For anyone who has begun
             writing Python programs, but is unsure about how to write
             automated tests for those programs, this book provides excellent
-            guidance on how to get started on the latter task.
+            guidance on how to get started.
             </p>
 
     </body>

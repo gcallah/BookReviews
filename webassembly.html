@@ -13,7 +13,7 @@
         </h1>
             <h3>
                 <i>
-                     "Bringing the Web up to Speedwith WebAssembly"
+                     "Bringing the Web up to Speed with WebAssembly"
                 </i>
                 JF Bastien, Dan Gohman, Andreas Haas, 
                 Michael Holman, Andreas Rossberg, Derek L. Schuff,
@@ -22,7 +22,12 @@
             </h3>
 
             <p>
-            CSS Terms: D.2.5 Testing and Debugging [PRIMARY], D.3.2 Python
+                CCS Terms:
+                [PRIMARY]
+                D.3 Programming Languages,
+                D.3.2 Javascript,
+                I.2.5 Programming Languages And Software,
+                C.2.4 Client/Server
             </p>
 
             <p>
@@ -35,7 +40,7 @@
                 applications require efficient and secure code. But the main
                 language for browser-side programming, JavaScript, is neither.
                 Various attempts to improve the situation, such as Java or
-                NaCl, have not succeeded.
+                NaCl, have not altogether succeeded.
             </p>
 
             <p>
@@ -43,19 +48,29 @@
                 major browser companies -- in fact, this paper's authors 
                 are from Apple, Google, Mozilla, and Microsoft -- that promises
                 fast and safe browser-side code execution: WebAssembly. 
-                WebAssembly is meant as a compilation target for other
+                It is a binary code standard for a virtual machine intended to
+                be embedded in a browser, as well as 
+                an accompanying "assembly-like"  language
+                specification. It is primarily intended 
+                as a compilation target for other
                 languages, and promises safe, fast, platform-independent
-                code that is easy decode, validate and compile.
+                code that is easy to decode, validate and compile.
             </p>
 
             <p>
-                The effort seems promising: by designing with a formal
-                semantics for what is the "machine language"
-                for a browser-hosted virtual machine, the creators have 
+                The effort seems promising: by designing the language
+                with formal semantics, the creators have 
                 achieved a clean design that is easy to reason about. By
                 inclduing structured control flow concepts in their VM, they
                 have designed out many common errors, such as branching into
-                the middle of a multi-byte instruction.
+                the middle of a multi-byte instruction. The authors note that
+                "By design, unstructured and irreducible control flow using
+                <code>goto</code> is impossible in WebAssembly," a choice
+                that should surely help make the VM easier to debug and secure.
+                Code fetched over the Web, is, in WebAssembly, validated 
+                by an "embarrassingly simple" type checking system.
+                Quite importantly for its initial acceptance, WebAssembly code
+                can be called from, and can call out to, JavaScript.
             </p>
 
             <p>

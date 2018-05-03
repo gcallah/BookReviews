@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="style.css" rel="stylesheet" type="text/css"/>
+        <title>
+            Review of "Bringing the Web up to Speed"
+        </title>
+    </head>
+
+    <body>
+        <h1>
+            Review of "Bringing the Web up to Speed"
+        </h1>
+            <h3>
+                <i>
+                     "Bringing the Web up to Speedwith WebAssembly"
+                </i>
+                JF Bastien, Dan Gohman, Andreas Haas, 
+                Michael Holman, Andreas Rossberg, Derek L. Schuff,
+                Ben L.  Titzer, Luke Wagner, and Alon Zakai,
+                PLDI'17, Barcelona, Spain, 2017.
+            </h3>
+
+            <p>
+            CSS Terms: D.2.5 Testing and Debugging [PRIMARY], D.3.2 Python
+            </p>
+
+            <p>
+            </p>
+
+            <p>
+                Web browsers have become a primary method of delivering
+                applications both inside corporate networks and from
+                corporations to the external customers and suppliers. Such
+                applications require efficient and secure code. But the main
+                language for browser-side programming, JavaScript, is neither.
+                Various attempts to improve the situation, such as Java or
+                NaCl, have not succeeded.
+            </p>
+
+            <p>
+                This paper describes an alternative, supported by all of the
+                major browser companies -- in fact, this paper's authors 
+                are from Apple, Google, Mozilla, and Microsoft -- that promises
+                fast and safe browser-side code execution: WebAssembly. 
+                WebAssembly is meant as a compilation target for other
+                languages, and promises safe, fast, platform-independent
+                code that is easy decode, validate and compile.
+            </p>
+
+            <p>
+                The effort seems promising: by designing with a formal
+                semantics for what is the "machine language"
+                for a browser-hosted virtual machine, the creators have 
+                achieved a clean design that is easy to reason about. By
+                inclduing structured control flow concepts in their VM, they
+                have designed out many common errors, such as branching into
+                the middle of a multi-byte instruction.
+            </p>
+
+            <p>
+                This paper is a thorough and rigorous, if dense, introduction
+                to what could be a break-through in browser-side coding for the
+                web. (The authors note that WebAssembly is not restricted to
+                running inside a browser, so other uses of it may develop as
+                well.) Only time well tell if this ambitious project will
+                succceed, but for anyone engaged in web development, it is
+                certainly worth tracking.
+            </p>
+
+
+
+    </body>
+</html>

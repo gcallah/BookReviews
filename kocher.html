@@ -81,11 +81,23 @@
             <p>
                 At the end of the container section, the author includes two
                 chapters on "Container Orchestration" and 
-                "Containers Management." These are very useful summaries of the 
+                "Containers Management." These are very summaries of the 
                 technical solutions available for deploying a suite of
                 containers, each of which needs to be able to talk to all of
                 the other containers, and for seeing how all of those
                 containers are doing. 
+                There are brief but serviceable sections on Mesos, Kubernetes,
+                and Docker Swarm, all of which manage suites of containers.
+                There is also a section on the important topic 
+                of service discovery: with multiple containers spinning up
+                and coming down all over your network of hundreds of
+                microservices, how is a poor client machine supposed to know
+                where to connect to what? The best solution, per this
+                book, is to keep the knowledge in something like a load
+                balancer, which fields requests for, say, user authentication,
+                and knows where all the authentication servers are and which
+                are busy, so it can route the client request to the
+                best one.
 
             </p>
 

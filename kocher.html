@@ -25,18 +25,19 @@
             </p>
 
             <p>
-                This is an interesting book, albeit a flawed one.
-                It addresses two currently important topics, microservices
-                and containers, but only loosely justifies putting the two
-                topics in the same work. It is divided into three sections, the
+                <i>Microservices and Containers</i>
+                is an interesting book, albeit a flawed one.
+                It addresses two currently important topics,
+                but only loosely justifies putting the two
+                topics in the same work. It is divided into three sections:
                 first addressing microservices, the second containers, and the
-                third 
+                third offers a case study combining the two.
             </p>
 
             <p>
-                The first part of this book deals with microservices. In it,
+                In the first part of the book,
                 Kocher argues that for organizations with large, monolithic 
-                applications, adopting a microservice approach could prove
+                applications, adopting a microservice approach should prove
                 beneficial because:
             </p>
 
@@ -63,7 +64,7 @@
                 </li>
 
                 <li>
-                    Bugs are isolated in a microservices and can't bring
+                    Bugs are isolated in a microservice and can't bring
                     down all components of a system.
                 </li>
 
@@ -77,21 +78,24 @@
             </ul>
 
             <p>
-                The connection between part one of the book, and part two,
-                dealing with containers, and in particular Docker, is loose,
-                and consists in little more than Kocher's assertion that 
-                containers are a good way to run multiple microservices.
-                Alternatives, like "serverless" computing in the cloud,
-                are not examined. Nevertheless, the chapters on containers do
-                provide a good overview of their use, why you might prefer them
-                to virtuals machines (they use resources more efficiently), and
+                Part two of the book addresses containers, and in particular
+                Docker.  Containers are a lightweight method of packing an
+                application together with all of the machinery (OS, database,
+                files, environment settings, etc.) that support it.  The
+                connection between part one of the book and this part is
+                tenuous, and consists in little more than Kocher's assertion
+                that containers are a good way to run multiple microservices.
+                Alternatives, like "serverless" computing in the cloud, are not
+                examined. Nevertheless, these chapters do provide a good
+                overview of container use, why you might prefer them to
+                virtuals machines (they use resources more efficiently), and
                 why Docker is the most popular container implementation.
             </p>
 
             <p>
                 At the end of the container section, the author includes two
                 chapters on "Container Orchestration" and 
-                "Containers Management." These are very summaries of the 
+                "Containers Management." These are summaries of the 
                 technical solutions available for deploying a suite of
                 containers, each of which needs to be able to talk to all of
                 the other containers, and for seeing how all of those
@@ -100,47 +104,56 @@
                 and Docker Swarm, all of which manage suites of containers.
                 There is also a section on the important topic 
                 of service discovery: with multiple containers spinning up
-                and coming down all over your network of hundreds of
-                microservices, how is a poor client machine supposed to know
-                where to connect to what? The best solution, per this
-                book, is to keep the knowledge in something like a load
-                balancer, which fields requests for, say, user authentication,
-                and knows where all the authentication servers are and which
-                are busy, so it can route the client request to the
-                best one.
-
+                and coming down all over your network of hundreds or 
+                thousands of microservices, how is a poor client machine
+                supposed to know where to connect to what? The best solution,
+                per Kocher, is to keep the knowledge in something like a
+                load balancer, which fields requests for, say, user
+                authentication, and knows where all the authentication servers
+                are and which are busy, so it can route the client request to
+                the best one.
             </p>
 
             <p>
-                The editors of this book let the author down in many places,
-                leaving in such clunkers as "becomes little complex" and "What
-                would happen if the service... has error?"
-                A more serious problem is that several contentions don't seem
+                The chapters illustrating how to use containers and
+                microservices to build a helpdesk app provide useful examples 
+                of how to apply the more theoretical material from the first
+                two sections. The conclusion of the book suddenly introduces 
+                the term <i>DevOps</i>, "another hot topic" (247). The topic is
+                dealt with so briefly one can't help but suspect it was thrown
+                in since it <i>is</i> a hot topic: if DevOps was going to be
+                addressed in the book, it would have been much better to 
+                keep the topic in mind throughout, and discuss how
+                microservices and containers enable DevOps practices
+                as appropriate in each section.
+            </p>
+
+            <p>
+                Some contentions in the book don't seem
                 to make sense. For instance, the author writes, "Docker...
                 addresses the deployment and scalability problems by separating
                 applications from the info structure dependencies. It addresses
                 these problems with containers, which allow us to package the
-                application with all its dependencies." So Docker "separates"
+                application with all its dependencies" (49). So Docker "separates"
                 applications and their infrastructure dependencies by...
                 packaging them together?
-            
             </p>
 
             <p>
-                Another annoying aspect of this book is the use of extensive
+                Another frustrating aspect of this book is the use of extensive
                 screen dumps to pad out the material. For instance, the chapter
-                on Docker commands consists of
-                about half images of the output of Docker
-                commands. A little of this sort of things is OK,
-                but a little goes a long way, and
-                the extensive use of these images here has gone way too far.
+                on Docker commands is about 50% images of the output
+                of such commands. A little of this sort of things is OK, but a
+                little goes a long way, and the extensive use of these images
+                here has gone way too far.
             </p>
 
             <p>
                 In summary, if one is unfamiliar with microservices and/or
                 containers, this book provides a decent introduction to 
                 both topics. That being the case, with some better editing, 
-                and a more robust link established between the two topics,
+                a more robust link established between the two topics,
+                and discussion of DevOps integrated throughout,
                 this book could have gone from being a decent introduction to
                 an excellent one.
             </p>

@@ -46,7 +46,9 @@
             does not, such as a complete separation of his calculator engine
             from the user interface, which enables him to create two-faced
             calculator that can appear on the command line or in a GUI.
-            And he does an excellent job explaining what design patterns
+            He also shows how to implement a plug-in feature to extend the
+            calculator, also absent in Stroustrup's program.
+            And Singer does an excellent job explaining what design patterns
             he employs to create each of his calculator's features.
             </p>
 
@@ -67,12 +69,44 @@
             Reverse Polish Notation (RPN). Singer assures us that if we just
             get used to RPN, we'll like it. But several hundred years of
             mathematical practice suggest that human beings most easily
-            understand mathematical expression when they are expressed in the
+            understand mathematical expressions when they are written in the
             "normal" way, i.e., using infix notation. RPN was created to ease
             the burden on programmers and machines, not on users. With 
             fast CPUs accessing gigabytes of RAM, programmed by engineers who
             can stand upon decades of experience creating parsers, perhaps we
             ought to lay this vestige of the days of 4K core memories to rest? 
+            </p>
+
+            <p>
+            After laying out the user requirements, Singer explains his design
+            requirements. The difference between the two is that the user
+            requirements delineate what the software ought to <i>do</i>,
+            while the design requirements describe how it ought to be
+            constructed, in order to do what it needs to do. The chief design 
+            virtues Singer wants to illustrate are modularity, encapsulation,
+            cohesion, and low coupling. These are familiar enough that I think
+            there is no need to expound upon them here.
+            </p>
+
+            <p>
+            Singer next explains the idea of patterns, and differentiates
+            architectural patterns (by which he means the architecture of
+            a computer system, and not the actual architectural patterns
+            that Christopher Alexander described) and design patterns. 
+            Per his distinction, design patterns apply primarily to a class or
+            a small group of classes, while architectural patterns address
+            entire information processing systems.
+            </p>
+
+            <p>
+                The first of the two architectural patterns 
+                that Singer examines is
+                multi-tiering, separating the top-tier user interface,
+                which can comunicate only with the middle, logic tier,
+                and a bottom-level data tier, which again can communicate
+                only with the middle tier.
+                The second pattern is model-view-controller (MVC).
+                Singer describes the major difference between 
             </p>
 
     </body>

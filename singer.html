@@ -106,16 +106,21 @@
                 and a bottom-level data tier, which again can communicate
                 only with the middle tier.
                 The second pattern is model-view-controller (MVC).
-                Singer describes the major difference between 
+                Singer describes the major difference between the
+                two as consisting in the fact that the multi-tier
+                pattern restricts communication in the system to adjacent
+                tiers, while the MVC pattern allows each of M, V, and C 
+                to communicate with the others as needed. (Singer winds up
+                choosing MVC for his application.)
             </p>
 
             <p>
                 In the rest of his progress towards a working calculator,
                 Singer addresses many more important design ideas, including
-                the "pimpl idiom" (a private pointer that keeps a classes
+                the "pimpl idiom" (a private pointer that keeps a class's
                 private implementation out of a header file), the Observer
-                pattern (for waiting on events), the Command pattern (for
-                implementing commands like "add" and "subtract")
+                pattern (for waiting on events), and the Command pattern (for
+                implementing commands like "add" and "subtract").
                 He discusses modern C++ features such as unique and shared
                 pointers, the `final` keyword, and uniform initialization,
                 and shows how they are superior to older styles used

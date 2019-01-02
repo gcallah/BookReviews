@@ -30,15 +30,13 @@
             book, I taught a class in C++ using Bjarne Stroustrup's 
             book <i>Programming: Principles and Practices Using C++</i>.
             Stroustrup, in four chapters (out of 26), has the reader
-            build a small calculator including separate lexical
-            analysis, recursive-descent parsing, variables, and more.
-            I thought <i>Practical C++ Design</i> would be a great
-            follow-up: I would surely pick up ways to extend the
-            calculator I had built, following Stroustrup, from
-            Singer. But to my surprise, Singer takes a whole book to
-            design a calculator in several ways less fully realized than
-            Stroustrup's: there are no variables, for instance, and no
-            grammar-driven parser.
+            build a small calculator including recursive-descent parsing,
+            variables, and more.  I thought <i>Practical C++ Design</i> would
+            be a great follow-up: I would surely pick up ways to extend the
+            calculator I had built from Singer. But to my surprise, Singer
+            takes a whole book to design a calculator in several ways less
+            fully realized than Stroustrup's: there are no variables, for
+            instance, and no grammar-driven parser.
             </p>
 
             <p>
@@ -48,8 +46,8 @@
             calculator that can appear on the command line or in a GUI.
             And he shows how to implement a plug-in feature to extend the
             calculator, also absent in Stroustrup's program.
-            And Singer does an excellent job explaining what design patterns
-            he employs to create each of his calculator's features.
+            Furthermore, Singer does an excellent job explaining what design
+            patterns he employs to create each of his calculator's features.
             </p>
 
             <p>
@@ -58,7 +56,7 @@
             project is not building his program for anyone else, the
             requirements are like a note from Singer the user to Singer the
             programmer. Nevertheless, even on a project no one but the coder 
-            himself will ever use, explicitly stating what is required of it
+            himself will ever use, explicitly stating what is required 
             may be useful. And here, this serves an additional didactic
             purpose.
             </p>
@@ -71,10 +69,7 @@
             mathematical practice suggest that human beings most easily
             understand mathematical expressions when they are written in the
             "normal" way, i.e., using infix notation. RPN was created to ease
-            the burden on programmers and machines, not on users. With 
-            fast CPUs accessing gigabytes of RAM, programmed by engineers who
-            can stand upon decades of experience creating parsers, perhaps we
-            ought to lay this vestige of the days of 4K core memories to rest? 
+            the burden on programmers and machines, not on users. 
             </p>
 
             <p>
@@ -84,15 +79,12 @@
             while the design requirements describe how it ought to be
             constructed, in order to do what it needs to do. The chief design 
             virtues Singer wants to illustrate are modularity, encapsulation,
-            cohesion, and low coupling. These are familiar enough that I think
-            there is no need to expound upon them here.
+            cohesion, and low coupling. 
             </p>
 
             <p>
             Singer next explains the idea of patterns, and differentiates
-            architectural patterns (by which he means the architecture of
-            a computer system, and not the actual architectural patterns
-            that Christopher Alexander described) and design patterns. 
+            (software) architectural patterns and design patterns. 
             Per his distinction, design patterns apply primarily to a class or
             a small group of classes, while architectural patterns address
             entire information processing systems.
@@ -101,10 +93,8 @@
             <p>
                 The first of the two architectural patterns 
                 that Singer examines is
-                multi-tiering, separating the top-tier user interface,
-                which can comunicate only with the middle, logic tier,
-                and a bottom-level data tier, which again can communicate
-                only with the middle tier.
+                multi-tiering, separating a top-tier user interface
+                from a middle, logic tier, and a bottom-level data tier.
                 The second pattern is model-view-controller (MVC).
                 Singer describes the major difference between the
                 two as consisting in the fact that the multi-tier
@@ -124,8 +114,7 @@
                 He discusses modern C++ features such as unique and shared
                 pointers, the `final` keyword, and uniform initialization,
                 and shows how they are superior to older styles used
-                in similar situations. He stresses the importance of early
-                testing, but does not go into depth on the topic.
+                in similar situations. 
             </p>
 
             <p>

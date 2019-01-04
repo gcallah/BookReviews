@@ -26,13 +26,14 @@
             </p>
 
             <p>
-            It is unfortunate for Singer that not long before reviewing his
+            Not long before reviewing his
             book, I taught a class in C++ using Bjarne Stroustrup's 
             book <i>Programming: Principles and Practices Using C++</i>.
             Stroustrup, in four chapters (out of 26), has the reader
-            build a small calculator including recursive-descent parsing,
-            variables, and more.  I thought <i>Practical C++ Design</i> would
-            be a great follow-up: I would surely pick up ways to extend the
+            build a small calculator including several advanced features.
+            I thought <i>Practical C++ Design</i> would
+            be a great follow-up, as its focus is on building a calculator
+            in C++: I would surely pick up ways to extend the
             calculator I had built from Singer. But to my surprise, Singer
             takes a whole book to design a calculator in several ways less
             fully realized than Stroustrup's: there are no variables, for
@@ -40,7 +41,7 @@
             </p>
 
             <p>
-            To be fair to Singer, however, he does include features Stroustrup
+            To be fair to Singer, he does include features Stroustrup
             does not, such as a complete separation of his calculator engine
             from the user interface, which enables him to create a two-faced
             calculator that can appear on the command line or in a GUI.
@@ -51,25 +52,21 @@
             </p>
 
             <p>
-            The book begins, quite properly, by setting out the "requirements"
-            for the calculator to be built. Since Singer at the start of the
-            project is not building his program for anyone else, the
-            requirements are like a note from Singer the user to Singer the
-            programmer. Nevertheless, even on a project no one but the coder 
-            himself will ever use, explicitly stating what is required 
-            may be useful. And here, this serves an additional didactic
+            The book begins by setting out the "requirements"
+            for the calculator to be built.  Even on a small project like this one,
+            explicitly stating what is required may be useful.
+            And here, this serves an additional didactic
             purpose.
             </p>
 
             <p>
-            But here as well there is a fly in the ointment: one of the 
-            "requirements" of the project is that the calculator use
-            Reverse Polish Notation (RPN). Singer assures us that if we just
-            get used to RPN, we'll like it. But several hundred years of
-            mathematical practice suggest that human beings most easily
-            understand mathematical expressions when they are written in the
-            "normal" way, i.e., using infix notation. RPN was created to ease
-            the burden on programmers and machines, not on users. 
+            However, one of the "requirements" of the project is that the
+            calculator use Reverse Polish Notation (RPN). Singer assures us
+            that if we just get used to RPN, we'll like it. But several hundred
+            years of mathematical practice suggest that human beings most
+            easily understand mathematical expressions when they are written in
+            the "normal" way, i.e., using infix notation. RPN was created to
+            ease the burden on programmers and machines, not on users. 
             </p>
 
             <p>
@@ -95,12 +92,11 @@
                 that Singer examines is
                 multi-tiering, separating a top-tier user interface
                 from a middle, logic tier, and a bottom-level data tier.
-                The second pattern is model-view-controller (MVC).
-                Singer describes the major difference between the
-                two as consisting in the fact that the multi-tier
-                pattern restricts communication in the system to adjacent
-                tiers, while the MVC pattern allows each of M, V, and C 
-                to communicate with the others as needed. (Singer winds up
+                The second is model-view-controller (MVC).
+                Singer describes the major difference between them:
+                the multi-tier pattern restricts communication in the system to
+                adjacent tiers, while the MVC pattern allows each of M, V, and
+                C to communicate with the others as needed. (Singer winds up
                 choosing MVC for his application.)
             </p>
 
@@ -123,12 +119,11 @@
                 can set up, assemble, and execute the calculator in just six
                 lines. As he notes, the most important aspect of such a design
                 is that a new programmer coming along to maintain the program
-                can easily grasp its overall structure in just a brief perusal
-                of `main.cpp`.
+                can easily grasp its overall structure.
             </p>
 
             <p>
-                This is an excellent book, clearly demonstrating how to employ
+                This excellent book clearly demonstrates how to employ
                 many OOP design patterns to create a maintainable, working 
                 program. I only wish Singer had taken note of his illustrious
                 predecessor's work in the same domain, as he could have shown

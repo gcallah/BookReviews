@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-size: 20px;
+    font-size: 100%;
     color: #222;
     background: #dde;
 }
@@ -19,18 +19,19 @@ table, th, td {
     border: 1px solid black;
     }
     th, td {
-            padding: 15px;
+        padding: 2em;
     }
 
-p {
-    margin: 8px 40px 8px 40px;
+hr {
+    margin: 2em 8em 2em 8em;
 }
 
 ol, ul, dl, li {
-    margin: 20px 12px 8px 12px;
+    margin: 2.5em 1.5em 1em 1.5em;
 }
 
 p {
+    margin: 1em 5em 1em 5em;
     padding: 0;
     line-height: 140%;
 }
@@ -40,17 +41,17 @@ h1,h2,h3,h4,h5 {
 }
 
 h1 {
-    margin: 28px 8px 24px 8px;
+    margin: 2em 1em 2em 1em;
     text-align: center;
     font-weight: 300;
-    font-size: 32px;
+    font-size: 2.2em;
     color: #438;
     background-color: #fbd;
 }
 
 h2 {
-    font-size: 26px;
-    margin: 20px 24px 12px 24px;
+    font-size: 1.8em;
+    margin: 2.5em 3em 1.5em 3em;
     color: #966;
 }
 
@@ -60,25 +61,25 @@ h2.subhead {
 }
 
 h3 {
-    font-size: 24px;
-    margin: 20px 32px 12px 32px;
+    font-size: 1.5em;
+    margin: 2.5em 4em 1.5em 4em;
     color: #734;
 }
 
 h4 {
-    font-size: 22px;
-    margin: 16px 40px 12px 40px;
+    font-size: 1.4em;
+    margin: 2em 5em 1.5em 5em;
     color: #339;
 }
 
 h5 {
-    font-size: 20px;
-    margin: 16px 48px 12px 48px;
+    font-size: 1.3em;
+    margin: 2em 6em 1.5em 6em;
     color: #600;
 }
 
 blockquote {
-    margin: 10px 64px 10px 64px;
-    font-size: 18px;
+    margin: 1.2em 8em 1.2em 8em;
+    font-size: .9em;
 }
 

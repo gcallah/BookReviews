@@ -7,6 +7,8 @@ Margaret Schabas and Carl Wennerlind.
 
 Chicago: The University of Chicago Press, 2020. 316 pages.
 
+---
+
 "his vision for the future of humanity" (1).
 
 

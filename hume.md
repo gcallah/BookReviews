@@ -69,6 +69,13 @@ to modern economics, how is it relevant to our evaluation of Hume's status as an
 economist that *someone else* had developed it before he wrote about economics?
 
 
+Hume's own take on the status of natural laws: that we have no real knowledge
+of causes, and no reason to think natural laws always have and always will
+hold, clearly undermines his argument against accepting evidence for miracles
+(they violate natural laws, so we should never believe in them). But Hume's
+prejudice against religion was clearly more important to him than was
+consistency. Since they discuss both of these aspects of Hume's thought, they
+ought to have noted this discrepancy.
 
 
 ### References

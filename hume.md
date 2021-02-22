@@ -78,4 +78,12 @@ consistency. Since they discuss both of these aspects of Hume's thought, they
 ought to have noted this discrepancy.
 
 
+The authors do not seem to realize that Holy Eucharist and Reconciliation are
+two different Catholic sacraments: "Hume pointed out that market exchange is
+analogous to the metamorphosis that Roman Catholics invoke with the ritual of
+transubstantiation. Although absolution requires only 'a certain form of words,
+along with a certain intention, [it] changes entirely the nature of an external
+object, and even of a human creature.'" (101)
+
+
 ### References

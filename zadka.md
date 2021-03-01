@@ -36,6 +36,29 @@ better understanding of a lot of packages we have been using.
 
 ## OS Automation
 
+The section on "OS Automation" would be better named "how to write shell
+scripts in Python." And there are reasons one might want to do so: for
+instance, Python certainly has better and more varied control structures than
+any shell we've used, and if your script needs to loop over a list of
+dictionaries, you should certainly write it in Python.
+
+The author notes that Python is not as good as shell languages at connecting
+multiple, existing tools together in pipelines, but goes on to make the odd
+remark, "those long pipelines of text transformers turn out to
+be an artifact of shell limitations.” But these pipelines are not an "artifact"
+of anything: no, they were a quite deliberate design decision on the part of
+the early UNIX pioneers at Bell Labs, as described in a book like *Software
+Tools*. And they are often the right tool for the job. For instance, if we want
+to get the five longest reviews, by line count, in our book reviews repo, we
+could write a Python program to do this in... 10 minutes? But using a shell
+pipeline, it took us literally about 10 *seconds* to write:
+
+`wc -l *html | sort -r | head -n 6 | tail -n 5`
+
+It would be silly for us to call the 10 minutes we would take writing the
+Python program "an artifact of Python limitations": a good software engineer
+has a *toolkit*, not a single tool, because she knows that different tools are
+appropriate for different jobs.
 
 
 ## Testing
@@ -58,8 +81,8 @@ its `Sessions` capability.
 
 There is a section on REST services, but it is not clear the author really
 understands what distinguishes a RESTful service from one that is not REST, as
-he doesn't discuss making the server stateless. (Instead he talks about
-idempotency.)
+he doesn't discuss making the server not store applicaiton state.
+(Instead he talks about idempotency, which is a different concept.)
 
 ## Cryptography
 
@@ -67,6 +90,16 @@ idempotency.)
 
 ## Paramiko
 
+In discussing SSH, Zadka writes, "Client private and public keys are kept in
+fiules that are next to each other." However, no file system we have ever
+worked on uses the concept of two files being "next to each other," so it is
+hard to know what he means.
+
+The author doesn't make it completely clear why one would use Paramiko to SSH
+rather than a OS shell. He mentions how nice it is to use Jupyter notebooks to
+make self-ducmenting SSH sessions: but Z shell and Bash are both have Jupyter
+kernels. It may be that Paramiko indeed offers advantages here; we just weren't
+sure what they were.
 
 ## Salt Stack
 

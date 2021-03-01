@@ -44,10 +44,22 @@ better understanding of a lot of packages we have been using.
 
 ## Text Manipulation
 
+The chapter on text manipulation is brief, and discusses useful Python text
+processing capabilities, such as built-in handling of JSON and CSV formats, and
+regular expressions. While all of this can be used in a DevOps setting, there
+is nothing specifically "DevOpsy" about it.
 
 
 ## Requests
 
+Chapter 7 deals with creating API servers and handling calls to them. The
+author recommends using the `requests` library, and especially explicitly using
+its `Sessions` capability.
+
+There is a section on REST services, but it is not clear the author really
+understands what distinguishes a RESTful service from one that is not REST, as
+he doesn't discuss making the server stateless. (Instead he talks about
+idempotency.)
 
 ## Cryptography
 

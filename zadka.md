@@ -63,6 +63,11 @@ appropriate for different jobs.
 
 ## Testing
 
+In this section, the author discusses testing strategies, with particular
+emphasis on testing the code "used for automating systems." As Zadka notes,
+such code often suffers from a lack of proper testing compared to the
+application code itself. This is unfortunate, because "testing is one of the
+best ways to increase code quality" (51).
 
 
 ## Text Manipulation

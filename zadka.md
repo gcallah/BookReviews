@@ -31,8 +31,10 @@ better understanding of a lot of packages we have been using.
 
 
 ## Interactive Usage
-
-
+This section is trying to illustrate some Python's third party "Read-Eval-Print-Loop"(REPL)
+tool. According to the author, "Reproducibilly and peer review are important for DevOps"(35) 
+and "The faster the feedback cycle, the faster we can deploy..."(38). As a result, from DevOps prospective, taking a close look of the interactive console is necessary. And indeed, the author 
+does a detailed introduction to the Jupyter Lab structure and usage. However, the DevOps perspective isn't very clear at first before the introduction of Jupyter Lab. It appears to be more like a tutorial to prepare new python user and seemingly redundant. 
 
 ## OS Automation
 
@@ -68,6 +70,12 @@ emphasis on testing the code "used for automating systems." As Zadka notes,
 such code often suffers from a lack of proper testing compared to the
 application code itself. This is unfortunate, because "testing is one of the
 best ways to increase code quality" (51).
+
+In the section 'Testing Files' and the section 'Testing Process', the author gave some 
+great examples of how to test file system without creating too many file directory layers, 
+testing material occupying resources, and jeopardizing root permission. Mocking is also very 
+common in file system test, so it would be even nicer to have couple example for that instead 
+of a brief intro in the previous section. 
 
 
 ## Text Manipulation

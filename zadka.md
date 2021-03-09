@@ -21,7 +21,7 @@ reader has fundemental shell and git knowledge.
 
 ## Packaging
 
-Even this book's topic is DevOps in Python, it's packaging chapters are worth
+although this book's topic is DevOps in Python, it's packaging chapters are worth
 reading even for people don't have special interest in DevOps. It is very helpful
 for setting up a valid, standard python envirenment for projects. It gives a
 systemetic view and explanation on a lot of useful features like virtural
@@ -31,10 +31,54 @@ better understanding of a lot of packages we have been using.
 
 
 ## Interactive Usage
-This section is trying to illustrate some Python's third party "Read-Eval-Print-Loop"(REPL)
-tool. According to the author, "Reproducibilly and peer review are important for DevOps"(35) 
-and "The faster the feedback cycle, the faster we can deploy..."(38). As a result, from DevOps prospective, taking a close look of the interactive console is necessary. And indeed, the author 
-does a detailed introduction to the Jupyter Lab structure and usage. However, the DevOps perspective isn't very clear at first before the introduction of Jupyter Lab. It appears to be more like a tutorial to prepare new python user and seemingly redundant. 
+
+This section discusses the use of "Read-Eval-Print-Loop" (REPL) programming in
+Python. This is interactive programming where a shell Reads some typed in code,
+Evaluates that code, Prints the result of the evaluation, and Loops back to
+read another piece of code.
+
+According to the author, "Reproducibilly
+and peer review are important for DevOps" (35) and "The faster the feedback
+cycle, the faster we can deploy..."(38). Thus, from a DevOps prospective,
+taking a look at interactive consoles is important.
+
+
+As the author notes, invoking Python from the
+command line, without any arguments, puts the user into an REPL. The author
+writes that "Using the Python native console without `readline` is unpleasant"
+(30). We would add that it is also unpleasant to read a sentence without having
+had any introduction to what it is talking about: there is no mention of this
+`readline` anywhere in the book before this sentence [YUJIA: PLEASE
+DOUBLE-CHECK!], and so the reader has no clue as to what this thing that ought
+to be introduced is or why the Python native console is "unpleasant" without
+it.
+
+In any case, there are other ways of interacting with Python in an REPL. Zadka
+has a section on writing one's own REPL systems using the `code` module, but we
+think this section is of very limited use, considering the better REPL systems
+available, such as `ptpython` or `iPython`. Zadka's brief description of
+`ptpython` makes it clear why we might prefer it to the native Python REPL, but
+offers no indication as to why we would not just use `iPython`, the major
+alternative to Python's built-in REPL.
+
+Zadka next introduces Jupyter Lab, and the use of Jupyter notebooks.
+When he writes, "notebooks are *not* an auditability tool" (35), we wish he had
+told us previously what an "auditability tool" *is*, so we could understand why
+notebooks are not one of these things. He writes, "If working on an environment
+that is 'too interesting' (for example, the default web browser is not
+configured properly) the standard output will contain a preauthorized URL to
+access the server" (35). We must admit to being completely baffled by this
+passage: why is an improperly configured browser "too interesting," rather than
+simply a bad configuration? And what does it mean to say that, if our browser
+configuration is improper, then we receive a "preauthorized URL"? If we just
+configure our browser improperly, then we can gain access to the server without
+any access validation? That *can't* be what the author means (we hope!), but
+then what does he mean?
+
+Whatever our wrries about the details of this chapter, Zadka's concluding
+sentence is certainly correct: "The faster the feedback cycle, the faster we
+can deploy new, tested solutions. Using Python interactively allows getting the
+quickest possible feedback: immediate" (38).
 
 ## OS Automation
 

@@ -85,5 +85,15 @@ transubstantiation. Although absolution requires only 'a certain form of words,
 along with a certain intention, [it] changes entirely the nature of an external
 object, and even of a human creature.'" (101)
 
+Schabas and Wennerlind briefly mention Hume's take on the infamous enclosures,
+noting, "He blamed the English peasantry for their poor work habits and lack of
+initiative. With hindsight, you argued, it was clear that they benefited from
+the enclosures by being forced to become more industrious and frugal" (109).
+The authors let this pass without comment, but it does seriously call into
+question how sincere Hume was in his defense of property rights. The peasants
+had generations-old rights to the commons that were being stolen from them, but
+apparently Hume thought this was fine, so long as it made them work harder! One
+wonders what he would of thought of a proposal to take all of *his* property
+from him, since then he would *really* start producing.
 
 ### References

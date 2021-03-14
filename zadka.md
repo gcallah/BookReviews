@@ -148,7 +148,7 @@ he doesn't discuss making the server not store applicaiton state.
 ## Paramiko
 
 In discussing SSH, Zadka writes, "Client private and public keys are kept in
-fiules that are next to each other." However, no file system we have ever
+files that are next to each other." However, no file system we have ever
 worked on uses the concept of two files being "next to each other," so it is
 hard to know what he means.
 
@@ -158,18 +158,29 @@ make self-ducmenting SSH sessions: but Z shell and Bash are both have Jupyter
 kernels. It may be that Paramiko indeed offers advantages here; we just weren't
 sure what they were.
 
-## Salt Stack
-
-The author writes, "whenever a YAML file is used, `salt` will allow a Python file
-that defines a dictionary." Does the author mean "whenever a YAML file is
+Salt Stack and Ansible are "infrastructure-as-code" tools. They are included in
+this book because Salt can be scripted in Python, while Ansible is
+scriptable (for inventories) and extensible in Python. As happens a little too
+often in this book, the writing is sometimes unclear. When
+the author writes, "whenever a YAML file is used, `salt` will allow a Python file
+that defines a dictionary," does he mean "whenever a YAML file is
 *called for*, one may alternately use a Python file"? Perhaps... but then that
-is what he ought to have written.
+is what he ought to have written. Or, when discussing Ansible inventory
+scripts, we find "Ansible will use... the same Python used to run it in order
+to run the inventory script" (140). Wel, Ansible is a program itself... what
+does "the same Python used to run it" mean? We have no idea, and no further
+eexplanation is offered.
 
-## Ansible
 
 
 ## Docker
 
+In his chapter on Docker, Zadka introduces DockerPy, a library for interfacing
+with Docker through Python. Although we have been working with Docker for
+several years, we did not know about this facility, so this chapter was a great
+find for us. When trying to automate the creation and deployment of Docker
+containers, it seems likely -- we haven't gotten a chance to try it yet! --
+that DockerPy will be a major advance over the Docker CLI and shell scripts.
 
 ## Amazon Web Services
 

@@ -87,7 +87,7 @@ object, and even of a human creature.'" (101)
 
 Schabas and Wennerlind briefly mention Hume's take on the infamous enclosures,
 noting, "He blamed the English peasantry for their poor work habits and lack of
-initiative. With hindsight, you argued, it was clear that they benefited from
+initiative. With hindsight, Hume argued, it was clear that they benefited from
 the enclosures by being forced to become more industrious and frugal" (109).
 The authors let this pass without comment, but it does seriously call into
 question how sincere Hume was in his defense of property rights. The peasants

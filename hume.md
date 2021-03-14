@@ -93,7 +93,7 @@ The authors let this pass without comment, but it does seriously call into
 question how sincere Hume was in his defense of property rights. The peasants
 had generations-old rights to the commons that were being stolen from them, but
 apparently Hume thought this was fine, so long as it made them work harder! One
-wonders what he would of thought of a proposal to take all of *his* property
+wonders what he would have thought of a proposal to take all of *his* property
 from him, since then he would *really* start producing.
 
 ### References

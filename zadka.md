@@ -38,8 +38,8 @@ Evaluates that code, Prints the result of the evaluation, and Loops back to
 read another piece of code.
 
 According to the author, "Reproducibilly
-and peer review are important for DevOps" (35) and "The faster the feedback
-cycle, the faster we can deploy..."(38). Thus, from a DevOps prospective,
+and peer review are important for DevOps work" (35) and "The faster the feedback
+cycle, the faster we can deploy new tested solution"(38). Thus, from a DevOps prospective,
 taking a look at interactive consoles is important.
 
 
@@ -48,10 +48,9 @@ command line, without any arguments, puts the user into an REPL. The author
 writes that "Using the Python native console without `readline` is unpleasant"
 (30). We would add that it is also unpleasant to read a sentence without having
 had any introduction to what it is talking about: there is no mention of this
-`readline` anywhere in the book before this sentence [YUJIA: PLEASE
-DOUBLE-CHECK!], and so the reader has no clue as to what this thing that ought
-to be introduced is or why the Python native console is "unpleasant" without
-it.
+`readline` anywhere in the book before this sentence, and so the reader has no
+clue as to what this thing that oughtto be introduced is or why the Python native
+console is "unpleasant" without it.
 
 In any case, there are other ways of interacting with Python in an REPL. Zadka
 has a section on writing one's own REPL systems using the `code` module, but we
@@ -91,7 +90,7 @@ dictionaries, you should certainly write it in Python.
 The author notes that Python is not as good as shell languages at connecting
 multiple, existing tools together in pipelines, but goes on to make the odd
 remark, "those long pipelines of text transformers turn out to
-be an artifact of shell limitations.” But these pipelines are not an "artifact"
+be an artifact of shell limitations.”(50) But these pipelines are not an "artifact"
 of anything: no, they were a quite deliberate design decision on the part of
 the early UNIX pioneers at Bell Labs, as described in a book like *Software
 Tools*. And they are often the right tool for the job. For instance, if we want
@@ -103,14 +102,14 @@ pipeline, it took us literally about 10 *seconds* to write:
 
 It would be silly for us to call the 10 minutes we would take writing the
 Python program "an artifact of Python limitations": a good software engineer
-has a *toolkit*, not a single tool, because she knows that different tools are
+has a *toolkit*, not a single tool, because he knows that different tools are
 appropriate for different jobs.
 
 
 ## Testing
 
 In this section, the author discusses testing strategies, with particular
-emphasis on testing the code "used for automating systems." As Zadka notes,
+emphasis on testing the code "used for automating systems."(51) As Zadka notes,
 such code often suffers from a lack of proper testing compared to the
 application code itself. This is unfortunate, because "testing is one of the
 best ways to increase code quality" (51).
@@ -148,7 +147,7 @@ he doesn't discuss making the server not store applicaiton state.
 ## Paramiko
 
 In discussing SSH, Zadka writes, "Client private and public keys are kept in
-files that are next to each other." However, no file system we have ever
+files that are next to each other."(112) However, no file system we have ever
 worked on uses the concept of two files being "next to each other," so it is
 hard to know what he means.
 
@@ -158,20 +157,21 @@ make self-ducmenting SSH sessions: but Z shell and Bash are both have Jupyter
 kernels. It may be that Paramiko indeed offers advantages here; we just weren't
 sure what they were.
 
+
+## Salt Stack and Ansible
+
 Salt Stack and Ansible are "infrastructure-as-code" tools. They are included in
 this book because Salt can be scripted in Python, while Ansible is
 scriptable (for inventories) and extensible in Python. As happens a little too
 often in this book, the writing is sometimes unclear. When
 the author writes, "whenever a YAML file is used, `salt` will allow a Python file
-that defines a dictionary," does he mean "whenever a YAML file is
+that defines a dictionary,"(121) does he mean "whenever a YAML file is
 *called for*, one may alternately use a Python file"? Perhaps... but then that
 is what he ought to have written. Or, when discussing Ansible inventory
 scripts, we find "Ansible will use... the same Python used to run it in order
 to run the inventory script" (140). Wel, Ansible is a program itself... what
 does "the same Python used to run it" mean? We have no idea, and no further
 eexplanation is offered.
-
-
 
 ## Docker
 

@@ -153,7 +153,7 @@ hard to know what he means.
 
 The author doesn't make it completely clear why one would use Paramiko to SSH
 rather than a OS shell. He mentions how nice it is to use Jupyter notebooks to
-make self-ducmenting SSH sessions: but Z shell and Bash are both have Jupyter
+make self-ducmenting SSH sessions: but Z shell and Bash both have Jupyter
 kernels. It may be that Paramiko indeed offers advantages here; we just weren't
 sure what they were.
 

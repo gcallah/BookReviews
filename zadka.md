@@ -4,7 +4,6 @@
 Zadka, Moshe  
 Apress, Belmont, CA, 
 
-
 CSS Terms: DevOps, Python
 
 DevOps is a hot topic in software engineering these days, and Python one of the
@@ -15,18 +14,18 @@ open-source contributor, has given us.
 The first chapter of this book deals with installing Python.
 It is a very detailed tutorial about different ways to install python in different
 operating systems. It describes the benefits and limitations of
-each type of installation. The author also offers detailed instrucitons for
+each type of installation. The author also offers detailed instrucitions for
 installing pyenv using shell commands.
 This book is friendly to the new Python user, but the author does assume the
-reader has fundemental shell and git knowledge. 
+reader has fundamental shell and git knowledge. 
 We also wonder if this section really has a place in the book: is someone who
 doesn't have Python installed going to pick up a book called *DevOps in
 Python*?
 
 This book's packaging chapter is worth
 reading even for people don't have special interest in DevOps. It is very helpful
-for setting up a valid, standard python envirenment for projects. It gives a
-systemetic view and explanation on a lot of useful features like virtural
+for setting up a valid, standard python environment for projects. It gives a
+systematic view and explanation on a lot of useful features like virtrual
 environments and Tox. As developers who have relied upon
 web sites for much of our information, we think this book gave us a
 better understanding of a lot of packages we have been using.
@@ -67,8 +66,8 @@ is nothing specifically "DevOpsy" about it.
 The requests chapter deals with creating API servers and handling calls to them.
 There is a section on REST services, but it is not clear the author really
 understands what distinguishes a RESTful service from one that is not REST, as
-he doesn't discuss making the server not store applicaiton state.
-(Instead he talks about idempotency, which is a different concept.)
+he doesn't discuss making the server not store application state.
+(Instead he talks about idempotence, which is a different concept.)
 
 We were not aware of Paramiko package for dealing with SSH through Python, so
 including it was a nice discovery for us. But the author doesn't make it
@@ -90,6 +89,3 @@ Services, which also appears to be worth mastering.
 There is a lot of useful information in this small book. The text could have
 been cleaned up a bit more, but if you are a Python user looking to get into
 DevOps, this book should prove very useful to you.
-
-
-

@@ -96,4 +96,13 @@ apparently Hume thought this was fine, so long as it made them work harder! One
 wonders what he would have thought of a proposal to take all of *his* property
 from him, since then he would *really* start producing.
 
+
+“Hume makes plain that, while prices fluctuate because of supply and demand,
+the core or long-standing price is governed by the costs of production...”
+(148)
+
+
+
+
+
 ### References

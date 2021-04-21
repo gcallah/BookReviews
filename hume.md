@@ -24,11 +24,9 @@ humanity" (1), or declaring that "His philosophical tenets continue to spread
 like the roots and branches of a majestic tree" (3). (And about that
 metaphor: What is the distinction between those tenets that spread like roots
 and those that spread like branches? If the branches are his successors, do the
-roots represent his ideas spreading to his *predeccessors*?)
-
-
-
-The authors see Hume prefiguring both Karl Marx and Max Weber. 
+roots represent his ideas spreading to his *predeccessors*?) To this reviewer,
+such praise seems to be more suited to a hagiography than an intellectual
+biography.
 
 In making the case for Hume’s support for European minorities, the authors write:
 
@@ -49,13 +47,13 @@ besieging it. But to find this incident so inaccurately described in a book of
 have consulted an online list of the monarchs of England, to see if John
 actually reigned when they claimed he did?
 
-The authors contend that the topics Hume's status as an economist is bolstered
+The authors contend that Hume's status as an economist is bolstered
 by noting that the topics he addressed... "Population, Industry, Coin..
 Circulation, Banks, Exchange, Public Credit, and Taxes..." still constitute the
 core of economics, and that that there is a "dearth of genuinely novel
-phenomena" (53) taken up since Hume. This evaluation essentially wipes the
+phenomena"(53) taken up since Hume. This evaluation essentially wipes the
 marginalist revolution and the emergence of economics as the study of choice in
-general under conditions of scarcity (see Robbins) out of the history of the
+general under conditions of scarcity (see Robbins 2007) out of the history of the
 subject.
 
 The authors also mention, in order to cement Hume's status as a precursor to
@@ -74,15 +72,17 @@ century after Hume's death, have to do with Hume's status as an economist? And
 if, as the authors arguably contend, the binomial theorem is actually important
 to modern economics, how is it relevant to our evaluation of Hume's status as an
 economist that *someone else* had developed it before he wrote about economics?
+The authors generally make a good case for Hume's importance in the history of
+economics, so what is the point of introducing irrelevancies like these into
+the discussion?
 
 
-Hume's own take on the status of natural laws: that we have no real knowledge
+Hume's own take on the status of natural laws -- that we have no real knowledge
 of causes, and no reason to think natural laws always have and always will
-hold, clearly undermines his argument against accepting evidence for miracles
-(they violate natural laws, so we should never believe in them). But Hume's
-prejudice against religion was clearly more important to him than was
-consistency. Since they discuss both of these aspects of Hume's thought, they
-ought to have noted this discrepancy.
+hold -- clearly undermines his argument against accepting evidence for miracles
+(they violate natural laws, so we should never believe in them).
+Since the authors discuss both of these aspects of Hume's thought, they
+ought to have noted this inconsistency.
 
 
 The authors do not seem to realize that Holy Eucharist and Reconciliation are
@@ -93,7 +93,8 @@ transubstantiation. Although absolution requires only 'a certain form of words,
 along with a certain intention, [it] changes entirely the nature of an external
 object, and even of a human creature.'" (101)
 
-Schabas and Wennerlind briefly mention Hume's take on the infamous enclosures,
+Schabas and Wennerlind briefly mention Hume's take on the infamous enclosures
+that took place in Britain ,
 noting, "He blamed the English peasantry for their poor work habits and lack of
 initiative. With hindsight, Hume argued, it was clear that they benefited from
 the enclosures by being forced to become more industrious and frugal" (109).
@@ -139,3 +140,7 @@ highly recommend it to both Hume scholars and historians of economic thought.
 
 
 ### References
+
+Robbins, L. (2007).
+An essay on the nature and significance of economic science.
+Auburn, Ala: Mises Inst.

@@ -124,6 +124,12 @@ mechanisms" are themselves the result of humans acting. Specie does not make
 its own way out of a country experiencing inflation: it leaves because human
 agents are employing it to buy cheaper goods from abroad.
 
+The penultimate chapter highlights Hume's general support for free trade. It
+demostrates that Hume had an inkling of Ricardo's "comparative advantage" case
+for free trade, as well as anticipating "infant industry" arguments for
+restricting trade in special cases. Besides the economic benefits Hume saw
+accruing from free trade, he also argued that nations tied by trade would be
+less likely to go to war with each other.
 
 In conclusion, while I have quibbles with various particulars in this book, it
 is nevertheless an interesting survey of Hume's economic thought, which makes a

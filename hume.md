@@ -132,6 +132,29 @@ restricting trade in special cases. Besides the economic benefits Hume saw
 accruing from free trade, he also argued that nations tied by trade would be
 less likely to go to war with each other.
 
+
+Hume the racist
+
+Hume contra gov. debt (196)
+
+“their property is the most precarious of any” (197)
+
+Hume on bondholders:
+“sink into the lethargy of a stupid in pampered luxury, without spirit, ambition, or enjoyment” (199)
+
+“animate them with a spirit of avarice and industry, art and luxury” (205)
+
+
+The last chapter sums up the case for Hume as a significant figure in the
+history of economic thought.
+
+“Hume is without equal among philosopher economists; to grasp the full compass
+of his economic analysis demands a careful reading of his entire oeuvre and a
+concerted effort to situate his economics within his philosophical tenets”
+(209)
+
+
+
 In conclusion, while I have quibbles with various particulars in this book, it
 is nevertheless an interesting survey of Hume's economic thought, which makes a
 convincing case that his importance as an economist has been underestimated. I

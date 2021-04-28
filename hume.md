@@ -41,7 +41,7 @@ England until 1199, a decade after which he was supposedly persecuting Jews.
 What’s more, every source I can find gives a number of about 150 Jews... who
 actually burned themselves, by lighting fire to the tower where they had sought
 the crown’s refuge from an angry mob. This was certainly an awful incident, as
-the Jews in the tower only lit it on fire due to their fear of the mob
+the Jews only burned the tower due to their fear of the mob
 besieging it. But to find this incident so inaccurately described in a book of
 "historical scholarship" is troubling. At the very least, could the authors not
 have consulted an online list of the monarchs of England, to see if John
@@ -73,16 +73,16 @@ if, as the authors arguably contend, the binomial theorem is actually important
 to modern economics, how is it relevant to our evaluation of Hume's status as an
 economist that *someone else* had developed it before he wrote about economics?
 The authors generally make a good case for Hume's importance in the history of
-economics, so what is the point of introducing irrelevancies like these into
+economics, so why introduce irrelevancies like these into
 the discussion?
 
-
+Although the focus of this work is not on Hume's metaphysics, I note that
 Hume's own take on the status of natural laws -- that we have no real knowledge
 of causes, and no reason to think natural laws always have and always will
 hold -- clearly undermines his argument against accepting evidence for miracles
 (they violate natural laws, so we should never believe in them).
-Since the authors discuss both of these aspects of Hume's thought, they
-ought to have noted this inconsistency.
+Since the authors discuss both of these aspects of Hume's thought, it
+might have been useful to point out this inconsistency.
 
 
 The authors do not seem to realize that Holy Eucharist and Reconciliation are
@@ -94,7 +94,7 @@ along with a certain intention, [it] changes entirely the nature of an external
 object, and even of a human creature.'" (101)
 
 Schabas and Wennerlind briefly mention Hume's take on the infamous enclosures
-that took place in Britain ,
+that took place in Britain,
 noting, "He blamed the English peasantry for their poor work habits and lack of
 initiative. With hindsight, Hume argued, it was clear that they benefited from
 the enclosures by being forced to become more industrious and frugal" (109).
@@ -103,12 +103,12 @@ question how sincere Hume was in his defense of property rights. The peasants
 had generations-old rights to the commons that were being stolen from them, but
 apparently Hume thought this was fine, so long as it made them work harder! One
 wonders what he would have thought of a proposal to take all of *his* property
-from him, since then he would *really* start producing.
+from him, since then he would *really* get busy writing.
 
-
-“Hume makes plain that, while prices fluctuate because of supply and demand,
-the core or long-standing price is governed by the costs of production...”
-(148) Here, it is hard to know if the authors are just *mentioning* Hume's
+A little later, the authors write:
+"Hume makes plain that, while prices fluctuate because of supply and demand,
+the core or long-standing price is governed by the costs of production..."
+(148) Here, it is hard to know if they are just *mentioning* Hume's
 mistake, since their "makes plain" seems to indicate they actually believe it.
 If the latter is true, that is puzzling: that Hume did not anticipate the
 Marginalist Revolution by a century is not surprising, but it is now 150 years
@@ -117,10 +117,14 @@ in our past, and anyone writing today ought to realize that there *are* no
 labor to produce nails *is* the demand for my labor in its most valuable
 alternative employment.
 
-
+In many accounts of the history of economic thought, Hume's monetary theory
+is seen as his most important contribution. Naturally, this work addresses this
+aspect of his thought, devoting an entire chapter to it. Most of the chapter is
+an excellent exposition of Hume's ideas about money. But one passage here
+struck me as odd:
 "Inasmuch as Hume identified the significance of a variety of self-correcting
 mechanisms, money had achieved a considerable degree of autonomy from human
-agency" (176). This is a very strange contention: all of the "self-correcting
+agency" (176). All of the "self-correcting
 mechanisms" are themselves the result of humans acting. Specie does not make
 its own way out of a country experiencing inflation: it leaves because human
 agents are employing it to buy cheaper goods from abroad.
@@ -132,27 +136,26 @@ restricting trade in special cases. Besides the economic benefits Hume saw
 accruing from free trade, he also argued that nations tied by trade would be
 less likely to go to war with each other.
 
-
-Hume the racist
-
-Hume contra gov. debt (196)
-
-“their property is the most precarious of any” (197)
-
-Hume on bondholders:
-“sink into the lethargy of a stupid in pampered luxury, without spirit, ambition, or enjoyment” (199)
-
-“animate them with a spirit of avarice and industry, art and luxury” (205)
-
+In this chapter, the authors note Hume's racist views about sub-Saharan
+Africans, adding that such views were common among Enlightenment intellectuals.
+They also document his strong opposition to government debt. Interestingly,
+Hume thought the property of government bondholders is "is the most precarious
+of any" (197), quite contrary to the typical contemporary view that the return
+on them represents the "risk-free" rate of interest. He also held a negative
+view of such investors, writing that they "sink into the lethargy of a stupid
+and pampered luxury, without spirit, ambition, or enjoyment" (199).
 
 The last chapter sums up the case for Hume as a significant figure in the
-history of economic thought.
+history of economic thought. The authors document at length his influence on
+Adam Smith (with whom Hume became a close friend), as well as on such modern
+figures as F.A. Hayek, James Buchanan, ... [MORE!!!]
 
-“Hume is without equal among philosopher economists; to grasp the full compass
+They sum up their case for the importance of economics to Hume and Hume to
+economics by claiming:
+"Hume is without equal among philosopher economists; to grasp the full compass
 of his economic analysis demands a careful reading of his entire oeuvre and a
-concerted effort to situate his economics within his philosophical tenets”
+concerted effort to situate his economics within his philosophical tenets"
 (209)
-
 
 
 In conclusion, while I have quibbles with various particulars in this book, it

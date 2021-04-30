@@ -134,7 +134,8 @@ They also document his strong opposition to government debt. Interestingly,
 Hume thought the property of government bondholders is "is the most precarious
 of any" (197), quite contrary to the typical contemporary view that the return
 on such assets represents the "risk-free" rate of interest. Hume also held a
-negative view of such investors, writing that they "sink into the lethargy of a
+negative view of investors in government bonds,
+writing that they "sink into the lethargy of a
 stupid and pampered luxury, without spirit, ambition, or enjoyment" (199).
 
 The last chapter sums up the case for Hume as a significant figure in the

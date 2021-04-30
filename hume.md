@@ -85,7 +85,7 @@ hold -- clearly undermines his argument against accepting evidence for miracles
 Since the authors discuss both of these aspects of Hume's thought, it
 might have been useful to point out this inconsistency.
 
-Schabas and Wennerlind briefly mention Hume's take on the infamous enclosures
+Schabas and Wennerlind briefly discuss Hume's take on the infamous enclosures
 that took place in Britain,
 noting, "He blamed the English peasantry for their poor work habits and lack of
 initiative. With hindsight, Hume argued, it was clear that they benefited from

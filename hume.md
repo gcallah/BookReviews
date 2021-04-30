@@ -58,7 +58,7 @@ subject. (To be fair, the authors later *do* recognize the existence of the
 marginalist revolution... but why not here?)
 
 The authors also mention, in order to cement Hume's status as a precursor to
-much of modern economics that:
+much of modern economics, that:
 
 "Many of the formal principles and methods the became de rigueur in
 twentieth-century economics — game theory, decision theory, and the binomial

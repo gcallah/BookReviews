@@ -52,8 +52,8 @@ by noting that the topics he addressed: "Population, Industry, Coin..
 Circulation, Banks, Exchange, Public Credit, and Taxes": still constitute the
 core of economics, and that that there is a "dearth of genuinely novel
 phenomena"(53) taken up since Hume. This evaluation essentially wipes the
-marginalist revolution and the emergence of economics as the study of choice in
-general under conditions of scarcity (see Robbins 2007) out of the history of the
+marginalist revolution and the emergence of economics as the study of choice
+under conditions of scarcity (see Robbins 2007) out of the history of the
 subject. (To be fair, the authors later *do* recognize the existence of the
 marginalist revolution... but why not here?)
 

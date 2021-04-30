@@ -9,14 +9,14 @@ Chicago: The University of Chicago Press, 2020. 316 pages.
 
 ---
 
-Schabas and Wennerlid have written this book with two apparent aims:
-
-1. To survey the breadth of Hume's economic thought; and
-1. To convince the reader that, rather than being a philosopher who
-occasionally commented on economics, "Hume was engaged in thinking and writing
-about economics for his entire adult life and... his contributions are
-extensive and significant" (5) and that "Hume's life and writings form an
-integral whole centered on economics" (6).
+David Hume is primarily known as a philosopher, and his contributions to
+economics are typically thought of as secondary to his philosophical concerns.
+Schabas and Wennerlid aim to correct this impression, contending that, once we
+survey the breadth of Hume's economic thought, we will realize that, rather
+than being a philosopher who occasionally commented on economics, "Hume was
+engaged in thinking and writing about economics for his entire adult life
+and... his contributions are extensive and significant" (5) and that "Hume's
+life and writings form an integral whole centered on economics" (6).
 
 In their introduction, the authors sometimes wax rhapsodic about Hume's
 accomplishments, writing, for instance, of "his vision for the future of
@@ -28,7 +28,9 @@ roots represent his ideas spreading to his *predeccessors*?) To this reviewer,
 such praise seems to be more suited to a hagiography than an intellectual
 biography.
 
-In making the case for Hume’s support for European minorities, the authors write:
+And the authors' desire to endorse Hume sometimes seems to lead them to sloppy
+scholarship. For instance, in making the case for Hume’s support for European
+minorities, the authors write:
 
 "Hume had written sympathetically about the Jewish money lenders in York, who
 in 1189-90 were severely persecuted under King John. About 500 of them were
@@ -43,18 +45,17 @@ actually burned themselves, by lighting fire to the tower where they had sought
 the crown’s refuge from an angry mob. This was certainly an awful incident, as
 the Jews only burned the tower due to their fear of the mob
 besieging it. But to find this incident so inaccurately described in a book of
-"historical scholarship" is troubling. At the very least, could the authors not
-have consulted an online list of the monarchs of England, to see if John
-actually reigned when they claimed he did?
+historical scholarship is troubling.
 
-The authors contend that Hume's status as an economist is bolstered
-by noting that the topics he addressed... "Population, Industry, Coin..
-Circulation, Banks, Exchange, Public Credit, and Taxes..." still constitute the
+Similarly, the authors contend that Hume's status as an economist is bolstered
+by noting that the topics he addressed: "Population, Industry, Coin..
+Circulation, Banks, Exchange, Public Credit, and Taxes": still constitute the
 core of economics, and that that there is a "dearth of genuinely novel
 phenomena"(53) taken up since Hume. This evaluation essentially wipes the
 marginalist revolution and the emergence of economics as the study of choice in
 general under conditions of scarcity (see Robbins 2007) out of the history of the
-subject.
+subject. (To be fair, the authors later *do* recognize the existence of the
+marginalist revolution... but why not here?)
 
 The authors also mention, in order to cement Hume's status as a precursor to
 much of modern economics that:
@@ -66,7 +67,7 @@ calculus that was adopted in economics by the end of the nineteenth century had
 been cemented by the mid-eighteenth century by, for example, Jean d’Alembert,
 whom Hume had befriended." (53)
 
-OK, very well, but what in the world does the fact that Hume had befriended an
+OK, very well, but what does the fact that Hume had befriended an
 important figure in calculus, which came to be extensively used in economics a
 century after Hume's death, have to do with Hume's status as an economist? And
 if, as the authors arguably contend, the binomial theorem is actually important
@@ -85,10 +86,10 @@ Since the authors discuss both of these aspects of Hume's thought, it
 might have been useful to point out this inconsistency.
 
 
-The authors do not seem to realize that Holy Eucharist and Reconciliation are
-two different Catholic sacraments, as they confuse "transubstantiaiton" with
-"absolution": "Hume pointed out that market exchange is
-analogous to the metamorphosis that Roman Catholics invoke with the ritual of
+The authors also do not seem to realize that Holy Eucharist and Reconciliation
+are two different Catholic sacraments, as they confuse "transubstantiaiton"
+with "absolution": "Hume pointed out that market exchange is analogous to the
+metamorphosis that Roman Catholics invoke with the ritual of
 transubstantiation. Although absolution requires only 'a certain form of words,
 along with a certain intention, [it] changes entirely the nature of an external
 object, and even of a human creature.'" (101)
@@ -105,7 +106,7 @@ apparently Hume thought this was fine, so long as it made them work harder! One
 wonders what he would have thought of a proposal to take all of *his* property
 from him, since then he would *really* get busy writing.
 
-A little later, the authors write:
+In discussing Hume's ideas on price formation, the authors write:
 "Hume makes plain that, while prices fluctuate because of supply and demand,
 the core or long-standing price is governed by the costs of production..."
 (148) Here, it is hard to know if they are just *mentioning* Hume's
@@ -124,7 +125,7 @@ an excellent exposition of Hume's ideas about money. But one passage here
 struck me as odd:
 "Inasmuch as Hume identified the significance of a variety of self-correcting
 mechanisms, money had achieved a considerable degree of autonomy from human
-agency" (176). All of the "self-correcting
+agency" (176). But all of the "self-correcting
 mechanisms" are themselves the result of humans acting. Specie does not make
 its own way out of a country experiencing inflation: it leaves because human
 agents are employing it to buy cheaper goods from abroad.
@@ -141,27 +142,28 @@ Africans, adding that such views were common among Enlightenment intellectuals.
 They also document his strong opposition to government debt. Interestingly,
 Hume thought the property of government bondholders is "is the most precarious
 of any" (197), quite contrary to the typical contemporary view that the return
-on them represents the "risk-free" rate of interest. He also held a negative
+on such assets represents the "risk-free" rate of interest. He also held a negative
 view of such investors, writing that they "sink into the lethargy of a stupid
 and pampered luxury, without spirit, ambition, or enjoyment" (199).
 
 The last chapter sums up the case for Hume as a significant figure in the
 history of economic thought. The authors document at length his influence on
 Adam Smith (with whom Hume became a close friend), as well as on such modern
-figures as F.A. Hayek, James Buchanan, ... [MORE!!!]
+figures as F.A. Hayek, James Buchanan, John Maynard Keynes, Paul Samuelson,
+Amartya Sen, and Paul Krugman.
 
-They sum up their case for the importance of economics to Hume and Hume to
+The authors conclude their case for the importance of economics to Hume and Hume to
 economics by claiming:
 "Hume is without equal among philosopher economists; to grasp the full compass
 of his economic analysis demands a careful reading of his entire oeuvre and a
 concerted effort to situate his economics within his philosophical tenets"
 (209)
 
-
-In conclusion, while I have quibbles with various particulars in this book, it
-is nevertheless an interesting survey of Hume's economic thought, which makes a
-convincing case that his importance as an economist has been underestimated. I
-highly recommend it to both Hume scholars and historians of economic thought.
+And I conclude my review by claiming that, while I have quibbles with various
+particulars in this book, it is nevertheless an interesting survey of Hume's
+economic thought, which makes a convincing case that his importance as an
+economist has been underestimated. I highly recommend it to both Hume scholars
+and historians of economic thought.
 
 
 

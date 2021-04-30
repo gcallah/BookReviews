@@ -62,7 +62,7 @@ much of modern economics that:
 
 "Many of the formal principles and methods the became de rigueur in
 twentieth-century economics — game theory, decision theory, and the binomial
-theorem — were formulated before Hume... Much of the differential and integral
+theorem — were formulated before Hume... Much of the...
 calculus that was adopted in economics by the end of the nineteenth century had
 been cemented by the mid-eighteenth century by, for example, Jean d’Alembert,
 whom Hume had befriended." (53)
@@ -70,9 +70,9 @@ whom Hume had befriended." (53)
 OK, very well, but what does the fact that Hume had befriended an
 important figure in calculus, which came to be extensively used in economics a
 century after Hume's death, have to do with Hume's status as an economist? And
-if, as the authors arguably contend, the binomial theorem is actually important
+if, as the authors contend, the binomial theorem is actually important
 to modern economics, how is it relevant to our evaluation of Hume's status as an
-economist that *someone else* had developed it before he wrote about economics?
+economist that *someone else* had developed it before him?
 The authors generally make a good case for Hume's importance in the history of
 economics, so why introduce irrelevancies like these into
 the discussion?
@@ -84,15 +84,6 @@ hold -- clearly undermines his argument against accepting evidence for miracles
 (they violate natural laws, so we should never believe in them).
 Since the authors discuss both of these aspects of Hume's thought, it
 might have been useful to point out this inconsistency.
-
-
-The authors also do not seem to realize that Holy Eucharist and Reconciliation
-are two different Catholic sacraments, as they confuse "transubstantiaiton"
-with "absolution": "Hume pointed out that market exchange is analogous to the
-metamorphosis that Roman Catholics invoke with the ritual of
-transubstantiation. Although absolution requires only 'a certain form of words,
-along with a certain intention, [it] changes entirely the nature of an external
-object, and even of a human creature.'" (101)
 
 Schabas and Wennerlind briefly mention Hume's take on the infamous enclosures
 that took place in Britain,
@@ -121,8 +112,8 @@ alternative employment.
 In many accounts of the history of economic thought, Hume's monetary theory
 is seen as his most important contribution. Naturally, this work addresses this
 aspect of his thought, devoting an entire chapter to it. Most of the chapter is
-an excellent exposition of Hume's ideas about money. But one passage here
-struck me as odd:
+an excellent exposition of Hume's ideas about money: Hume was, indeed, a
+pioneer in this field. But one passage here struck me as odd:
 "Inasmuch as Hume identified the significance of a variety of self-correcting
 mechanisms, money had achieved a considerable degree of autonomy from human
 agency" (176). But all of the "self-correcting
@@ -132,9 +123,9 @@ agents are employing it to buy cheaper goods from abroad.
 
 The penultimate chapter highlights Hume's general support for free trade. It
 demostrates that Hume had an inkling of Ricardo's "comparative advantage" case
-for free trade, as well as anticipating "infant industry" arguments for
-restricting trade in special cases. Besides the economic benefits Hume saw
-accruing from free trade, he also argued that nations tied by trade would be
+for doing away with trade barriers. He also anticipated "infant industry" arguments for
+restricting trade in special cases. And besides the economic benefits Hume saw
+accruing from free trade, he argued that nations tied by trade would be
 less likely to go to war with each other.
 
 In this chapter, the authors note Hume's racist views about sub-Saharan
@@ -142,9 +133,9 @@ Africans, adding that such views were common among Enlightenment intellectuals.
 They also document his strong opposition to government debt. Interestingly,
 Hume thought the property of government bondholders is "is the most precarious
 of any" (197), quite contrary to the typical contemporary view that the return
-on such assets represents the "risk-free" rate of interest. He also held a negative
-view of such investors, writing that they "sink into the lethargy of a stupid
-and pampered luxury, without spirit, ambition, or enjoyment" (199).
+on such assets represents the "risk-free" rate of interest. Hume also held a
+negative view of such investors, writing that they "sink into the lethargy of a
+stupid and pampered luxury, without spirit, ambition, or enjoyment" (199).
 
 The last chapter sums up the case for Hume as a significant figure in the
 history of economic thought. The authors document at length his influence on

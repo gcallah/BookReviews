@@ -142,7 +142,7 @@ The last chapter sums up the case for Hume as a significant figure in the
 history of economic thought. The authors document at length his influence on
 Adam Smith (with whom Hume became a close friend), as well as on such modern
 figures as F.A. Hayek, James Buchanan, John Maynard Keynes, Paul Samuelson,
-Amartya Sen, and Paul Krugman.
+Amartya Sen, Vernon Smith, and Paul Krugman.
 
 The authors conclude their case for the importance of economics to Hume and Hume to
 economics by claiming:
@@ -152,7 +152,7 @@ concerted effort to situate his economics within his philosophical tenets"
 (209)
 
 And I conclude my review by claiming that, while I have quibbles with various
-particulars in this book, it is nevertheless an interesting survey of Hume's
+particulars in this book, it is nevertheless an important survey of Hume's
 economic thought, which makes a convincing case that his importance as an
 economist has been underestimated. I highly recommend it to both Hume scholars
 and historians of economic thought.

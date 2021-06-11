@@ -9,6 +9,14 @@ Oxford: Wiley Blackwell, 2020. 220 pages.
 
 ---
 
+Margaret Atherton has written a wonderful introduction to the 
+work of George Berkeley, in which she systematically walks the reader through
+the various stages in his argument for immaterialism. By carefully examining
+what Berkeley meant in some of his most disputed passages, reading them in the
+context of his other writings as well as of the philosophical milieu in which
+he moved, Atherton succeeds in dispelling much of the shroud of absurdity
+in which his ideas have too often been cloaked.
+
 ## Life and work
 
 

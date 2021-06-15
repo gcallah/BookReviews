@@ -23,6 +23,10 @@ in which his ideas have too often been cloaked.
 
 ## NTV
 
+Atherton begins addressing Berkeley's writings by examining *An Essay Towards a
+New Theory of Vision*, a lesser known work of his, and asks whether this work,
+which appeared before his two major philosophical works, was some sort of
+diversion, or a coherent preliminary to them.
 
 
 ## Principles: Intro
@@ -33,7 +37,9 @@ in which his ideas have too often been cloaked.
 
 ## Principles objections
 
-One objection to *The Principles* was "whether Berkeley is entitled to endorse
+Atherton then proceeds to examine the "Objections" section of the *Principles*.
+
+One important objection to *The Principles* was "whether Berkeley is entitled to endorse
 the Copernican theory, to which he has made reference in recent replies, if no
 one has actually perceived the motion of the earth" -- p. 77
 
@@ -76,6 +82,25 @@ Earth rotates around its own axis then?'"
 
 ## Conclusion
 
+At the end of the book, I was left with a few questions that I wished it had taken up:
+
+Atherton makes it very clear that Berkeley is largely addressing contemporary
+or near-contemporary philosophers such as Descartes, Locke, and Malebranche. I
+wondered if he would have the same objections to hylomorphic theories of matter
+as he did to those of the Cartesians. (An especially relevant question given
+the recent popularity of neo-Aristotelianism.)
+
+I also wondered what Berkeley made of animals: given that they appear to have
+sensations much like ours, would he have granted them the status of spirits? If
+so, how would that move fit in with his mostly orthodox Christianity?
+
+
+Lastly, it was less than clear to me how Berkeley differentiated ideas from
+relations, which, on their surface, might appear to be a special type of idea.
+
+But no book can be everything to everybody, and in the space she had, Atherton
+has done a remarkable job introducing readers to the work of this very
+important philosopher.
 
 
 ### References

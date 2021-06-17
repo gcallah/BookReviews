@@ -63,15 +63,34 @@ Earth.' 'Good,' he said, 'but how would it have been if it had seemed as if the
 Earth rotates around its own axis then?'"
 -- Anscombe, 1959, p. 151
 
+In other words, our perceptions, in fact, support the idea of a moving Earth
+every bit as much as they support the idea of a motionless one, just as, when
+sitting in a train car, and seeing the train on the next track "moving," our
+perception supports the proposition "our train is moving past a stationary
+train" every bit as much as it supports "our train is stationary and we are
+perceiving another train moving past it."
 
 ## Principles consequences
 
 
 ## Three dialogues: preface
 
+Having completed her analysis of the *Principles*,
+Atherton then turns her attention to *Three Dialogues Between Hylas and
+Philonous*. She notes that they are stylistically quite different: the
+*Principles* is a "fairly conventional philosophical treatise" (114), while
+*Three Dialogues* is "an exchange of ideas between two characters" (114).
+
+Atherton then lays out some questions that exemplify her straightforward
+approach to expounding on Berkeley; she states what questions the rest of her
+examination of *Three Dialogues* will address:
+
+"But is this stylistic difference the only difference between the two books?
+Does Berkeley intend *Three Dialogues* to supplement the *Principles*? To
+replace it? Or, is *Three Dialogues* nothing more than the *Principles*
+rewritten in a more attractive style?" (114)
 
 ## Three dialogues: 1st D.
-
 
 ## Three dialogues: 2nd D.
 

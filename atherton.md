@@ -92,6 +92,11 @@ rewritten in a more attractive style?" (114)
 
 ## Three dialogues: 1st D.
 
+Atherton puts her mastery of Berkeley's entire oeuvre to exemplary use, for
+example, when she uses ideas from *The New Theory of Vision* to explain an
+otherwise puzzling passage in *Three Dialogues* (p. 120).
+
+
 ## Three dialogues: 2nd D.
 
 

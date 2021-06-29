@@ -35,6 +35,13 @@ Knowledge* and *Three Dialogues Between Hylas and Philonous*.
 
 ## Principles: Intro
 
+Turning her attention to the *Principles of Human Knowledge*, Atherton is quick
+to point out, as she does several times in her work, that Berkeley was *not*
+addressing his arguments to “ordinary persons of common sense” but to “others,”
+who “question their senses,” so that at last they “sit down in a forlorn
+scepticism.”
+
+
 
 ## Principles summary
 

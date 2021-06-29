@@ -26,7 +26,11 @@ in which his ideas have too often been cloaked.
 Atherton begins addressing Berkeley's writings by examining *An Essay Towards a
 New Theory of Vision*, a lesser known work of his, and asks whether this work,
 which appeared before his two major philosophical works, was some sort of
-diversion, or a coherent preliminary to them.
+diversion, or a coherent preliminary to them. Atherton succeeds in
+tying discussions in this book to themes taken up in *Principles of Human
+Knowledge* and *Three Dialogues Between Hylas and Philonous*.
+
+
 
 
 ## Principles: Intro

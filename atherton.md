@@ -97,6 +97,16 @@ example, when she uses ideas from *The New Theory of Vision* to explain an
 otherwise puzzling passage in *Three Dialogues* (p. 120).
 
 
+Some commentators have suggested that Berkeley wrote the Three Dialogues
+because he recognized that his arguments in the Principles were inadequate.
+Atherton convincingly argues otherwise:
+
+“By the time Berkeley wrote Three Dialogues, he may have thought that he had
+overestimated the sophistication of his readers. But both his target and his
+strategy in PHK 1-8 and in the First Dialogue is the same… I see no reason to
+conclude that he regarded his earlier position as in error or in need of
+correction” (p. 145).
+
 ## Three dialogues: 2nd D.
 
 

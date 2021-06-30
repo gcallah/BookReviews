@@ -17,13 +17,8 @@ context of his other writings as well as of the philosophical milieu in which
 he moved, Atherton succeeds in dispelling much of the shroud of absurdity
 in which his ideas have too often been cloaked.
 
-## Life and work
-
-
-
-## NTV
-
-Atherton begins addressing Berkeley's writings by examining *An Essay Towards a
+After a short biographical sketch of Berkeley's life,
+Atherton begins addressing his writings by examining *An Essay Towards a
 New Theory of Vision*, a lesser known work of his, and asks whether this work,
 which appeared before his two major philosophical works, was some sort of
 diversion, or a coherent preliminary to them. Atherton succeeds in

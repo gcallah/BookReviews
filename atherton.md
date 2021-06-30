@@ -127,6 +127,13 @@ correction” (p. 145).
 
 ## Conclusion
 
+This book could be characterized as a 200-page argument that "Berkeley was
+consistent." His philosophy only appears to change as he adapts his arguments
+to his audience. As Atherton puts it, "The nature of his theory doesn't change, but
+his target does, and hence different issues necessary to support his own theory
+against his rival become salient" (p. 200).
+
+
 At the end of the book, I was left with a few questions that I wished it had taken up:
 
 Atherton makes it very clear that Berkeley is largely addressing contemporary
@@ -139,8 +146,7 @@ I also wondered what Berkeley made of animals: given that they appear to have
 sensations much like ours, would he have granted them the status of spirits? If
 so, how would that move fit in with his mostly orthodox Christianity?
 
-
-Lastly, it was less than clear to me how Berkeley differentiated ideas from
+Lastly, it was not obvious to me how Berkeley differentiated ideas from
 relations, which, on their surface, might appear to be a special type of idea.
 
 But no book can be everything to everybody, and in the space she had, Atherton

@@ -118,6 +118,15 @@ correction” (p. 145).
 
 ## Three dialogues: 3rd D.
 
+Atherton opens her discussion of the Third Dialogue with a quote from
+Berkeley. I find it very interesting, 
+given how evolution-oriented philosophers often believe they are
+putting forward a novel idea when they contend that our minds evolved for
+survival, not truth-seeking:
+
+"It is said that the faculties we have are few, and those designed by nature
+for the support and comfort of life, and not to penetrate into the inward
+essence... of things" (p. 157).
 
 
 ## Conclusion

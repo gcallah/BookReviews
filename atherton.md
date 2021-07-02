@@ -9,7 +9,7 @@ Oxford: Wiley Blackwell, 2020. 220 pages.
 
 ---
 
-Margaret Atherton has written a wonderful introduction to the 
+Margaret Atherton has written an excellent introduction to the 
 work of George Berkeley, in which she systematically walks the reader through
 the various stages in his argument for immaterialism. By carefully examining
 what Berkeley meant in some of his most disputed passages, reading them in the
@@ -19,11 +19,12 @@ in which his ideas have too often been cloaked.
 
 After a short biographical sketch of Berkeley's life,
 Atherton begins addressing his writings by examining *An Essay Towards a
-New Theory of Vision*, a lesser known work of his, and asks whether this work,
-which appeared before his two major philosophical works, was some sort of
-diversion, or a coherent preliminary to them. Atherton succeeds in
-tying discussions in this book to themes taken up in *Principles of Human
-Knowledge* and *Three Dialogues Between Hylas and Philonous*.
+New Theory of Vision*, a lesser known work of his. She asks whether this work,
+which appeared shortly before his two major philosophical works, was some sort of
+diversion, or a coherent preliminary to them. Atherton later justifies her
+choice to address this work by tying discussions in it to themes taken
+up in *Principles of Human Knowledge* and *Three Dialogues Between Hylas and
+Philonous*, and showing how the former can help clarify the latter.
 
 
 
@@ -32,9 +33,12 @@ Knowledge* and *Three Dialogues Between Hylas and Philonous*.
 
 Turning her attention to the *Principles of Human Knowledge*, Atherton is quick
 to point out, as she does several times in her work, that Berkeley was *not*
-addressing his arguments to “ordinary persons of common sense” but to “others,”
-who “question their senses,” so that at last they “sit down in a forlorn
-scepticism.”
+addressing his arguments to "ordinary persons of common sense" but to "others,"
+who "question their senses," so that at last they "sit down in a forlorn
+scepticism." This is an aspect of Berkeley's work too often neglected by his
+critics: he was attacking a particular philosophical theory of matter, embraced
+by Descartes, Locke, and Malebranche, among others, rather than the commonsense
+notion of "physical reality."
 
 
 
@@ -51,7 +55,7 @@ one has actually perceived the motion of the earth" -- p. 77
 
 "Berkeley's reference to "what we should perceive" is not an account of possible
 motions waiting to exist if we should relocate to the heavens, but merely a
-reminder that the process by which we ultimately describe motion to an
+reminder that the process by which we ultimately ascribe motion to an
 unobservable earth still retains the idea of motion as observed, because it is
 a consequence of the laws of motion, themselves generalized from observed
 motion." -- Pg. 78
@@ -87,8 +91,8 @@ Philonous*. She notes that they are stylistically quite different: the
 *Principles* is a "fairly conventional philosophical treatise" (114), while
 *Three Dialogues* is "an exchange of ideas between two characters" (114).
 
-Atherton then lays out some questions that exemplify her straightforward
-approach to expounding on Berkeley; she states what questions the rest of her
+Atherton, exemplifying her straightforward
+approach in this book, explicitly states what questions the rest of her
 examination of *Three Dialogues* will address:
 
 "But is this stylistic difference the only difference between the two books?
@@ -102,19 +106,22 @@ Atherton puts her mastery of Berkeley's entire oeuvre to exemplary use, for
 example, when she uses ideas from *The New Theory of Vision* to explain an
 otherwise puzzling passage in *Three Dialogues* (p. 120).
 
+[MORE]
 
-Some commentators have suggested that Berkeley wrote the Three Dialogues
-because he recognized that his arguments in the Principles were inadequate.
+
+Some commentators have suggested that Berkeley wrote the *Three Dialogues*
+because he recognized that his arguments in the *Principles* were inadequate.
 Atherton convincingly argues otherwise:
 
-“By the time Berkeley wrote Three Dialogues, he may have thought that he had
+"By the time Berkeley wrote *Three Dialogues*, he may have thought that he had
 overestimated the sophistication of his readers. But both his target and his
-strategy in PHK 1-8 and in the First Dialogue is the same… I see no reason to
+strategy in PHK 1-8 and in the First Dialogue is the same... I see no reason to
 conclude that he regarded his earlier position as in error or in need of
-correction” (p. 145).
+correction" (p. 145).
 
 ## Three dialogues: 2nd D.
 
+[MORE]
 
 ## Three dialogues: 3rd D.
 
@@ -126,10 +133,10 @@ for the support and comfort of life, and not to penetrate into the inward
 essence... of things" (p. 157).
 
 I find it very interesting, 
-given how evolution-oriented philosophers often believe they are
+given how naturalist philosophers often believe they are
 putting forward a novel idea when they contend that our minds evolved for
 survival, not truth-seeking, that Berkeley recognized this position in 1713,
-and felt he was able to dismiss it.
+and show that it was based upon false premises.
 
 
 ## Conclusion

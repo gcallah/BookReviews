@@ -18,14 +18,16 @@ engaged in thinking and writing about economics for his entire adult life
 and... his contributions are extensive and significant" (5) and that "Hume's
 life and writings form an integral whole centered on economics" (6).
 
+This book is an important contribution to Hume scholarship, and makes a good
+case for its novel thesis. If this review focuses on its flaws, it is only
+because flaws are even more salient against when raised from a quality
+background.
+
 In their introduction, the authors sometimes wax rhapsodic about Hume's
 accomplishments, writing, for instance, of "his vision for the future of
 humanity" (1), or declaring that "His philosophical tenets continue to spread
-like the roots and branches of a majestic tree" (3). (And about that
-metaphor: What is the distinction between those tenets that spread like roots
-and those that spread like branches? If the branches are his successors, do the
-roots represent his ideas spreading to his *predeccessors*?) To this reviewer,
-such praise seems to be more suited to a hagiography than an intellectual
+like the roots and branches of a majestic tree" (3).
+Such praise seems to be more suited to a hagiography than an intellectual
 biography.
 
 And the authors' desire to endorse Hume sometimes seems to lead them to sloppy
@@ -48,7 +50,7 @@ besieging it. But to find this incident so inaccurately described in a book of
 historical scholarship is troubling.
 
 Similarly, the authors contend that Hume's status as an economist is bolstered
-by noting that the topics he addressed: "Population, Industry, Coin..
+by noting that the topics he addressed: "Population, Industry, Coin...
 Circulation, Banks, Exchange, Public Credit, and Taxes": still constitute the
 core of economics, and that that there is a "dearth of genuinely novel
 phenomena"(53) taken up since Hume. This evaluation essentially wipes the

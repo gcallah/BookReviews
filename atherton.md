@@ -27,10 +27,6 @@ up in *Principles of Human Knowledge* and *Three Dialogues Between Hylas and
 Philonous*, and showing how the former can help clarify the latter.
 
 
-
-
-## Principles: Intro
-
 Turning her attention to the *Principles of Human Knowledge*, Atherton is quick
 to point out, as she does several times in her work, that Berkeley was *not*
 addressing his arguments to "ordinary persons of common sense" but to "others,"
@@ -39,7 +35,6 @@ scepticism." This is an aspect of Berkeley's work too often neglected by his
 critics: he was attacking a particular philosophical theory of matter, embraced
 by Descartes, Locke, and Malebranche, among others, rather than the commonsense
 notion of "physical reality."
-
 
 
 Atherton contends that Berkeley sums up his philosophical stance in the first
@@ -98,8 +93,6 @@ bountiful gift of God...  Because the ideas that come to us can be found to
 exhibit systematic connections, where are able to understand these ideas, to
 make predictions, and to act on these predictions." (p. 111)
 
-## Three dialogues: preface
-
 Having completed her analysis of the *Principles*,
 Atherton then turns her attention to *Three Dialogues Between Hylas and
 Philonous*. She notes that they are stylistically quite different: the
@@ -115,14 +108,10 @@ Does Berkeley intend *Three Dialogues* to supplement the *Principles*? To
 replace it? Or, is *Three Dialogues* nothing more than the *Principles*
 rewritten in a more attractive style?" (114)
 
-## Three dialogues: 1st D.
-
-Atherton puts her mastery of Berkeley's entire oeuvre to exemplary use, for
-example, when she uses ideas from *The New Theory of Vision* to explain an
-otherwise puzzling passage in *Three Dialogues* (p. 120).
-
-[MORE]
-
+Early in this chapter, Atherton puts her mastery of Berkeley's entire oeuvre to
+exemplary use, for example, when she uses the distiction between things
+"immediately" perceived and those perceived only "mediately" from *New Theory*
+to explain an otherwise puzzling passage in *Three Dialogues* (p. 120).
 
 Some commentators have suggested that Berkeley wrote the *Three Dialogues*
 because he recognized that his arguments in the *Principles* were inadequate.
@@ -134,14 +123,15 @@ strategy in PHK 1-8 and in the First Dialogue is the same... I see no reason to
 conclude that he regarded his earlier position as in error or in need of
 correction" (p. 145).
 
-## Three dialogues: 2nd D.
-
-[MORE]
-
-## Three dialogues: 3rd D.
+Turning to the Second Dialogue, Atherton argues that, although it seems on the
+surface to be "quite disparate," if we look closer, we will see "a thread
+running through" it (p. 147). This thread might be characterized by a question
+Atherton poses: "Why would anyone say that the reality of a glove they can see
+and feel is grounded or guaranteed by the existence of an unknown matter?" (p.
+154-155)
 
 Towards the beginning of her discussion of the Third Dialogue,
-Atherton includes the following quote from Berkeley:
+Atherton quotes Berkeley, characterizing a view he will refute:
 
 "It is said that the faculties we have are few, and those designed by nature
 for the support and comfort of life, and not to penetrate into the inward
@@ -151,10 +141,8 @@ I find it very interesting,
 given how naturalist philosophers often believe they are
 putting forward a novel idea when they contend that our minds evolved for
 survival, not truth-seeking, that Berkeley recognized this position in 1713,
-and show that it was based upon false premises.
+and showed that it was based upon false premises.
 
-
-## Conclusion
 
 This book could be characterized as a 200-page argument that "Berkeley was
 consistent." His philosophy only appears to change as he adapts his arguments
@@ -166,7 +154,7 @@ against his rival become salient" (p. 200).
 At the end of the book, I was left with a few questions that I wished it had taken up:
 
 Atherton makes it very clear that Berkeley is largely addressing contemporary
-or near-contemporary philosophers such as Descartes, Locke, and Malebranche. I
+or near-contemporary philosophers, such as those mentioned above. I
 wondered if he would have the same objections to hylomorphic theories of matter
 as he did to those of the Cartesians. (An especially relevant question given
 the recent popularity of neo-Aristotelianism.)

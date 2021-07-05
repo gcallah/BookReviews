@@ -45,18 +45,18 @@ for which he is arguing" (p. 46). She suggests that while "immaterialism" has
 its advantages, it might suggest an entirely negative program on Berkeley's
 part. "'Idealism' is also a less than fully helpful label" (p. 47) because of
 the many meanings attached to the term. In exploring what Berkeley *is* after,
-Atherton, along the way, dismisses a common misinterpretation of Berkeley as a
-"denying the existence of the real world": "It is pretty clear that Berkeley
-[believes] that our ideas stand for real things, albeit mind-dependent real
-things" (p. 61). Atherton concludes that, in both *New Theory* and
+Atherton, along the way, dismisses a common misinterpretation of Berkeley as
+one "denying the existence of the real world": "It is pretty clear that
+Berkeley [believes] that our ideas stand for real things, albeit mind-dependent
+real things" (p. 61). Atherton concludes that, in both *New Theory* and
 *Principles*, Berkeley's ultimate aim is to demonstrate that the regularity of
 our visual experience, in particular, and more generally all of our experience,
-should lead us to recognize God as the benevolent author of these ideas.
+should lead us to recognize God as the benevolent author of our ideas.
 
 Atherton then proceeds to examine the "Objections" section of the *Principles*.
 One important objection to *The Principles* was "whether Berkeley is entitled to endorse
 the Copernican theory, to which he has made reference in recent replies, if no
-one has actually perceived the motion of the earth" (p. 77).
+one has actually perceived the motion of the earth" (p. 77). She writes:
 
 "Berkeley's reference to "what we should perceive" is not an account of possible
 motions waiting to exist if we should relocate to the heavens, but merely a
@@ -65,7 +65,7 @@ unobservable earth still retains the idea of motion as observed, because it is
 a consequence of the laws of motion, themselves generalized from observed
 motion." (p. 78)
 
-But I think Berkeley could have made an even strong point here: we *do*
+But I think Berkeley could have made an even stronger point here: we *do*
 see the motion of the earth, and in exactly the same way that we see the motion
 of a ship that we are sailing on: we see that motion by seeing other things
 moving relative to our "vehicle" (the ship or the earth). Here it may be
@@ -144,7 +144,7 @@ survival, not truth-seeking, that Berkeley recognized this position in 1713,
 and showed that it was based upon false premises.
 
 
-This book could be characterized as a 200-page argument that "Berkeley was
+Overall, this book could be characterized as a 200-page argument that "Berkeley was
 consistent." His philosophy only appears to change as he adapts his arguments
 to his audience. As Atherton puts it, "The nature of his theory doesn't change, but
 his target does, and hence different issues necessary to support his own theory

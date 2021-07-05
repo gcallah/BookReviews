@@ -96,8 +96,8 @@ make predictions, and to act on these predictions." (p. 111)
 Having completed her analysis of the *Principles*,
 Atherton then turns her attention to *Three Dialogues Between Hylas and
 Philonous*. She notes that they are stylistically quite different: the
-*Principles* is a "fairly conventional philosophical treatise" (114), while
-*Three Dialogues* is "an exchange of ideas between two characters" (114).
+*Principles* is a "fairly conventional philosophical treatise" (p. 114), while
+*Three Dialogues* is "an exchange of ideas between two characters" (p. 114).
 
 Atherton, exemplifying her straightforward
 approach in this book, explicitly states what questions the rest of her
@@ -106,7 +106,7 @@ examination of *Three Dialogues* will address:
 "But is this stylistic difference the only difference between the two books?
 Does Berkeley intend *Three Dialogues* to supplement the *Principles*? To
 replace it? Or, is *Three Dialogues* nothing more than the *Principles*
-rewritten in a more attractive style?" (114)
+rewritten in a more attractive style?" (p. 114)
 
 Early in this chapter, Atherton puts her mastery of Berkeley's entire oeuvre to
 exemplary use, for example, when she uses the distiction between things

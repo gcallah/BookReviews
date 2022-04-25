@@ -23,3 +23,18 @@ particular version of the gold standard to dismiss all of the multifarious
 version?
 
 
+Morrison discusses how Burke thought that governance should proceed “‘upon the
+principle of reference to antiquity.’”
+
+He then goes on to say “this was ‘the Whig[s’] interpretation of history,” and
+cites Butterfield. But this is pretty much the opposite of what Butterfield men
+by “the Whig interpretation of history,” which saw History as steady progress
+forward from a benighted antiquity.
+
+
+Morrison makes the point that attitudes towards monetary policy resembled
+religious beliefs. Then he makes it again. And again. And again. Words like
+“dogma,“ “creed,“ and “heresy“ are littered liberally throughout the text. This
+reader cannot help but feel that Morrison took an interesting contention and
+belabored it so much that he was tempted to reject it simply because it was
+being pushed on him so often. 

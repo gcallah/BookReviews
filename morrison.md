@@ -56,4 +56,10 @@ a part of the natural order. And it relies upon the long discredited view of
 religion as merely an early and very bad attempt at doing science.
 
 
+Morrison goes on to spend several pages listing all of the issues over which
+British monetary experts disagreed in the post-WWI period. Their debates sound
+very much like a group of people engaged in a debate over the best course of
+practical action, and hardly like a cult adhering to some dogma. But this
+doesn't stop Morrison from referring to them as "apostles" (45).
+
 

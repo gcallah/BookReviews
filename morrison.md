@@ -46,6 +46,14 @@ perhaps the committee members were *wrong* on this point, it certainly looks as
 if they thought they had perfectly rational reasons to want to return to the
 gold standard!
 
+A few pages later, Morrison himself provides this interesting fact: "[In 1914]
+the banks smallest denomination banknote was 5 pounds. Equivalent to
+roughly 550 pounds in 2020 pounds..." So, the previous century saw the value of
+the pound *drop 100-fold**. It cetainly seems as though the committee's worry
+that going off gold would cause "a general rise in all prices" was not only a
+rational concern, but a fully justified one!
+
+
 "Just as the earliest people conjure the supernatural as the superintendents of
 the seasons, so to have modern people created economic religions to describe
 some meaning, purpose, and direction to the forces that govern our lives." (7)

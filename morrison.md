@@ -71,3 +71,13 @@ practical action, and hardly like a cult adhering to some dogma. But this
 doesn't stop Morrison from referring to them as "apostles" (45).
 
 
+This is really two books in one. Its core is an excellent history of Britain’s
+return to the gold standard after World War I. Morrison is a skilled and
+diligent researcher, and has unearthed a very interesting tale.
+
+Unfortunately, like a live oak draped in Spanish moss, the central story is
+carrying an enormous amount of parasitic growth: all of the talk of religion,
+orthodoxy, heresy, apostles, Mount Sinai, and so on. Morrison would have done
+better to have produced the excellent work of history of which he was clearly
+capable, and cleaned his tree clear of all the epiphytes.
+

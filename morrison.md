@@ -71,6 +71,17 @@ practical action, and hardly like a cult adhering to some dogma. But this
 doesn't stop Morrison from referring to them as "apostles" (45).
 
 
+While Morrison stretches his religious analogies to the breaking point, when it
+comes to Brexit, he kicks things off already beyond the breaking point. He
+clearly doesn’t like the gold standard, and clearly doesn’t like Brexit, so why
+not contend that they are, in some sense, the same sort of thing? Well, because
+in one case Britain returned to an international institutional arrangement at
+the behest of all most all its elite opinion makers, well in the other case
+Britain left an international institutional arrangement against the advice of
+almost all its elite opinion makers. Maybe both decisions were bad, but if so,
+they were bad for opposite reasons.
+
+
 This is really two books in one. Its core is an excellent history of Britain’s
 return to the gold standard after World War I. Morrison is a skilled and
 diligent researcher, and has unearthed a very interesting tale.

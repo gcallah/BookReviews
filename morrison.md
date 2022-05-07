@@ -39,7 +39,7 @@ who have argued that religion does not "defy logic and rationality”?
 
 And what about the members of the Cunliffe Committee themselves? They justified
 to return to gold based on the fact that “the adoption of a currency not
-convertible at will into gold… Is likely in practice to lead to over-issue and
+convertible at will into gold... Is likely in practice to lead to over-issue and
 to destroy the measure of exchangeable value and cause a general rise in all
 prices and an adverse movement in the foreign exchanges” (quoted on 42). While
 perhaps the committee members were *wrong* on this point, it certainly looks as
@@ -69,6 +69,19 @@ British monetary experts disagreed in the post-WWI period. Their debates sound
 very much like a group of people engaged in a debate over the best course of
 practical action, and hardly like a cult adhering to some dogma. But this
 doesn't stop Morrison from referring to them as "apostles" (45).
+
+In his chapter in titled “Judgment,“ Morrison Rights, the final “return to
+gold“ plan actually implemented, “Norman‘s regime overturned centuries of
+practice and scuttled several of the old regime‘s most salient features... so far
+from being driven by nostalgia, Churchhill ‘returned’ to a reformed, modernized
+gold standard...” (269)
+
+He concludes “the return to gold was the wrong choice... But at the time, it was
+the best choice given the theory and the evidence available” (270). Morrison‘s
+problem here is that he is too good of a historian to really believe all his
+verbiage about “dogma“ and “orthodoxy“ and so on: when he looks at the actual
+evidence, he has to admit that the actors were actually trying new things that
+lined up with the best evidence available to them.
 
 
 While Morrison stretches his religious analogies to the breaking point, when it

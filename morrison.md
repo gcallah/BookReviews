@@ -14,34 +14,34 @@ particular version of the gold standard to dismiss all of the multifarious
 version?
 
 
-Morrison discusses how Burke thought that governance should proceed “‘upon the
-principle of reference to antiquity.’”
+Morrison discusses how Burke thought that governance should proceed "'upon the
+principle of reference to antiquity.'"
 
-He then goes on to say “this was ‘the Whig[s’] interpretation of history,” and
+He then goes on to say "this was 'the Whig[s'] interpretation of history," and
 cites Butterfield. But this is pretty much the opposite of what Butterfield men
-by “the Whig interpretation of history,” which saw History as steady progress
+by "the Whig interpretation of history," which saw History as steady progress
 forward from a benighted antiquity.
 
 
 Morrison makes the point that attitudes towards monetary policy resembled
 religious beliefs. Then he makes it again. And again. And again. Words like
-“dogma,“ “creed,“ and “heresy“ are littered liberally throughout the text. This
+"dogma," "creed," and "heresy" are littered liberally throughout the text. This
 reader cannot help but feel that Morrison took an interesting contention and
 belabored it so much that he was tempted to reject it simply because it was
 being pushed on him so often. 
 
 For someone so enamored of this religious metaphor, Morrison appears to be
-remarkably ignorant of religion itself. For instance, he writes, “Because the
+remarkably ignorant of religion itself. For instance, he writes, "Because the
 gold standard was a matter of religious faith, all expected that adherence to
-it would defy logic and rationality” (37). Does Morrison know nothing of the
+it would defy logic and rationality" (37). Does Morrison know nothing of the
 numerous Jewish, Christian, Muslim, Buddhist, Taoist, and Hindu philosophers
-who have argued that religion does not "defy logic and rationality”?
+who have argued that religion does not "defy logic and rationality"?
 
 And what about the members of the Cunliffe Committee themselves? They justified
-to return to gold based on the fact that “the adoption of a currency not
+to return to gold based on the fact that "the adoption of a currency not
 convertible at will into gold... Is likely in practice to lead to over-issue and
 to destroy the measure of exchangeable value and cause a general rise in all
-prices and an adverse movement in the foreign exchanges” (quoted on 42). While
+prices and an adverse movement in the foreign exchanges" (quoted on 42). While
 perhaps the committee members were *wrong* on this point, it certainly looks as
 if they thought they had perfectly rational reasons to want to return to the
 gold standard!
@@ -59,7 +59,7 @@ the seasons, so to have modern people created economic religions to describe
 some meaning, purpose, and direction to the forces that govern our lives." (7)
 
 This is historically inaccurate, as deities like the Greek pantheon were not
-super natural, but were what Eric Voegelin calls “intra-cosmic gods,“ very much
+super natural, but were what Eric Voegelin calls "intra-cosmic gods," very much
 a part of the natural order. And it relies upon the long discredited view of
 religion as merely an early and very bad attempt at doing science.
 
@@ -70,23 +70,55 @@ very much like a group of people engaged in a debate over the best course of
 practical action, and hardly like a cult adhering to some dogma. But this
 doesn't stop Morrison from referring to them as "apostles" (45).
 
-In his chapter in titled “Judgment,“ Morrison Rights, the final “return to
-gold“ plan actually implemented, “Norman‘s regime overturned centuries of
-practice and scuttled several of the old regime‘s most salient features... so far
-from being driven by nostalgia, Churchhill ‘returned’ to a reformed, modernized
-gold standard...” (269)
+In his chapter in titled "Judgment," Morrison Rights, the final "return to
+gold" plan actually implemented, "Norman's regime overturned centuries of
+practice and scuttled several of the old regime's most salient features... so far
+from being driven by nostalgia, Churchhill 'returned' to a reformed, modernized
+gold standard..." (269)
 
-He concludes “the return to gold was the wrong choice... But at the time, it was
-the best choice given the theory and the evidence available” (270). Morrison‘s
+He concludes "the return to gold was the wrong choice... But at the time, it was
+the best choice given the theory and the evidence available" (270). Morrison's
 problem here is that he is too good of a historian to really believe all his
-verbiage about “dogma“ and “orthodoxy“ and so on: when he looks at the actual
+verbiage about "dogma" and "orthodoxy" and so on: when he looks at the actual
 evidence, he has to admit that the actors were actually trying new things that
 lined up with the best evidence available to them.
 
 
+In discussing the plan finally adopted for "returning to gold," Morrison notes
+that Churchill, like Norman,  "did not buy... the orthodoxy's bogeyman concerns
+about the need to shackle the 'wicked chancellor.'" So the failure of a plan
+that rejected orthodox gold standard thinking is supposed to show... the
+shortcomings of orthodox gold standard thinking?
+
+Britain departed from "the" gold standard during World War I, then, as Morrison
+shows us, returned to a vastly modified gold standard after the war. The return
+was a disaster. But there are at least three possible conclusions to draw from
+this:
+
+1. Returning to gold *at all* was a mistake;
+2. Returning to gold the way it was done was a mistake.
+3. *Leaving* the gold standard was a mistake.
+
+Morrison handles 2. by giving indications as to why he thinks returning to
+the pre-war practices would not have worked. But he never considers 3. at all.
+But it is not in the least obvious that the war could not have been financed
+differently, and the pain of withdrawing from fiat inflation might have been 
+avoided by not having it in the first place. And Morrison does not help his
+case for being a sober judge of the right course by his repeated referral to
+those who would argue for 3. as "gold bugs."
+
+Any discipline we attempt to put on government financing will depend upon the
+government adhering to that discipline. Fiat regime is not subject to the same
+sort of problems that a commodity standard is. But it is certainly subject to
+problems, such as the fact that it can be used to generate a continual transfer
+of wealth from the working class to the investing class, and can leave to
+catastrophic hyper inflations, like we have seen in Germany, Hungary, Zimbabwe,
+and other countries.
+
+
 While Morrison stretches his religious analogies to the breaking point, when it
 comes to Brexit, he kicks things off already beyond the breaking point. He
-clearly doesn’t like the gold standard, and clearly doesn’t like Brexit, so why
+clearly doesn't like the gold standard, and clearly doesn't like Brexit, so why
 not contend that they are, in some sense, the same sort of thing? Well, because
 in one case Britain returned to an international institutional arrangement at
 the behest of all most all its elite opinion makers, well in the other case
@@ -95,7 +127,7 @@ almost all its elite opinion makers. Maybe both decisions were bad, but if so,
 they were bad for opposite reasons.
 
 
-This is really two books in one. Its core is an excellent history of Britain’s
+This is really two books in one. Its core is an excellent history of Britain's
 return to the gold standard after World War I. Morrison is a skilled and
 diligent researcher, and has unearthed a very interesting tale.
 

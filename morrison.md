@@ -1,4 +1,4 @@
-# Keynes, Churchill, and the Governance of Economic Beliefs
+# England's Cross of Gold: Keynes, Churchill, and the Governance of Economic Beliefs
 
 James Ashley Morrison
 
@@ -69,6 +69,13 @@ British monetary experts disagreed in the post-WWI period. Their debates sound
 very much like a group of people engaged in a debate over the best course of
 practical action, and hardly like a cult adhering to some dogma. But this
 doesn't stop Morrison from referring to them as "apostles" (45).
+
+The attack in the gold standard through ridicule continues throughout the book.
+For instance, Morrison writes, "For those who clung to the version of the gold
+standard professed in the Cunliffe Committee’s reports..." (180). Not only is
+this unnecessarily loaded language, it is misleading: Morrison has already
+admitted that the gold standard proposed by the Cunliffe Committee was novel.
+How does it make sense to describe people "clinging" to something brand new?
 
 In his chapter in titled "Judgment," Morrison Rights, the final "return to
 gold" plan actually implemented, "Norman's regime overturned centuries of

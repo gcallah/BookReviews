@@ -6,6 +6,19 @@ Cornell: Cornell University Press
 
 2021
 
+Prior to World War I, Great Britain was the clear leader of the international
+gold standard. But Britain went "off gold" to help pay for its war efforts by
+printing currency. While this may have helped to defeat Germany, it left open
+the question of what to do when the war ended. Should the new fiat currency
+regime be made permanent? (It seems this option was barely considered.) Should
+Britain return to the gold standard as it had operated before the war? Or
+should the opportunity be seized to develop a new version of the standard?
+
+The latter course was chosen, with the final decision resting with Winston
+Churchill. The result, as James Ashley Morrison describes in his book, "was a
+disaster" (4). The UK lost gold reserves, exports plunged, and unemployment
+soared. So how did this disaster come about? And could something have been done
+differrently to avoid it?
 
 Morrison makes a great deal of the fact that "the" gold standard meant very
 different things in different times and places. No doubt he is right about
@@ -18,20 +31,20 @@ Morrison discusses how Burke thought that governance should proceed "'upon the
 principle of reference to antiquity.'"
 
 He then goes on to say "this was 'the Whig[s'] interpretation of history," and
-cites Butterfield. But this is pretty much the opposite of what Butterfield men
-by "the Whig interpretation of history," which saw History as steady progress
-forward from a benighted antiquity.
+cites Butterfield. But this is pretty much the opposite of what Butterfield
+meant by "the Whig interpretation of history," which saw history as steady
+progress forward from a benighted antiquity.
 
 
 Morrison makes the point that attitudes towards monetary policy resembled
 religious beliefs. Then he makes it again. And again. And again. Words like
 "dogma," "creed," and "heresy" are littered liberally throughout the text. This
-reader cannot help but feel that Morrison took an interesting contention and
+reader found that Morrison took an interesting contention and
 belabored it so much that he was tempted to reject it simply because it was
 being pushed on him so often. 
 
 For someone so enamored of this religious metaphor, Morrison appears to be
-remarkably ignorant of religion itself. For instance, he writes, "Because the
+somewhat ignorant of religion itself. For instance, he writes, "Because the
 gold standard was a matter of religious faith, all expected that adherence to
 it would defy logic and rationality" (37). Does Morrison know nothing of the
 numerous Jewish, Christian, Muslim, Buddhist, Taoist, and Hindu philosophers
@@ -39,34 +52,23 @@ who have argued that religion does not "defy logic and rationality"?
 
 And what about the members of the Cunliffe Committee themselves? They justified
 to return to gold based on the fact that "the adoption of a currency not
-convertible at will into gold... Is likely in practice to lead to over-issue and
+convertible at will into gold... is likely in practice to lead to over-issue and
 to destroy the measure of exchangeable value and cause a general rise in all
 prices and an adverse movement in the foreign exchanges" (quoted on 42). While
 perhaps the committee members were *wrong* on this point, it certainly looks as
 if they thought they had perfectly rational reasons to want to return to the
-gold standard!
+gold standard, rather than being adherents of some ancient cult.
 
 A few pages later, Morrison himself provides this interesting fact: "[In 1914]
 the banks smallest denomination banknote was 5 pounds. Equivalent to
 roughly 550 pounds in 2020 pounds..." So, the previous century saw the value of
-the pound *drop 100-fold**. It cetainly seems as though the committee's worry
+the pound *drop 100-fold*. It cetainly seems as though the committee's worry
 that going off gold would cause "a general rise in all prices" was not only a
 rational concern, but a fully justified one!
 
-
-"Just as the earliest people conjure the supernatural as the superintendents of
-the seasons, so to have modern people created economic religions to describe
-some meaning, purpose, and direction to the forces that govern our lives." (7)
-
-This is historically inaccurate, as deities like the Greek pantheon were not
-super natural, but were what Eric Voegelin calls "intra-cosmic gods," very much
-a part of the natural order. And it relies upon the long discredited view of
-religion as merely an early and very bad attempt at doing science.
-
-
 Morrison goes on to spend several pages listing all of the issues over which
 British monetary experts disagreed in the post-WWI period. Their debates sound
-very much like a group of people engaged in a debate over the best course of
+very much like a group of people engaged in a discussion over the best course of
 practical action, and hardly like a cult adhering to some dogma. But this
 doesn't stop Morrison from referring to them as "apostles" (45).
 
@@ -77,7 +79,7 @@ this unnecessarily loaded language, it is misleading: Morrison has already
 admitted that the gold standard proposed by the Cunliffe Committee was novel.
 How does it make sense to describe people "clinging" to something brand new?
 
-In his chapter in titled "Judgment," Morrison Rights, the final "return to
+In his chapter in titled "Judgment," Morrison writes, the final "return to
 gold" plan actually implemented, "Norman's regime overturned centuries of
 practice and scuttled several of the old regime's most salient features... so far
 from being driven by nostalgia, Churchhill 'returned' to a reformed, modernized
@@ -115,10 +117,10 @@ case for being a sober judge of the right course by his repeated referral to
 those who would argue for 3. as "gold bugs."
 
 Any discipline we attempt to put on government financing will depend upon the
-government adhering to that discipline. Fiat regime is not subject to the same
+government adhering to that discipline. A fiat regime is not subject to the same
 sort of problems that a commodity standard is. But it is certainly subject to
 problems, such as the fact that it can be used to generate a continual transfer
-of wealth from the working class to the investing class, and can leave to
+of wealth from the working class to the investing class, and can lead to
 catastrophic hyper inflations, like we have seen in Germany, Hungary, Zimbabwe,
 and other countries.
 
@@ -127,9 +129,9 @@ While Morrison stretches his religious analogies to the breaking point, when it
 comes to Brexit, he kicks things off already beyond the breaking point. He
 clearly doesn't like the gold standard, and clearly doesn't like Brexit, so why
 not contend that they are, in some sense, the same sort of thing? Well, because
-in one case Britain returned to an international institutional arrangement at
-the behest of all most all its elite opinion makers, well in the other case
-Britain left an international institutional arrangement against the advice of
+in one case Britain *returned* to an international institutional arrangement at
+the behest of all most all its elite opinion makers, while in the other case
+Britain *left* an international institutional arrangement against the advice of
 almost all its elite opinion makers. Maybe both decisions were bad, but if so,
 they were bad for opposite reasons.
 

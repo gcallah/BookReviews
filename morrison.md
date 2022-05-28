@@ -6,6 +6,10 @@ Cornell: Cornell University Press
 
 2021
 
+388 pages
+
+By Gene Callahan
+
 Prior to World War I, Great Britain was the clear leader of the international
 gold standard. But Britain went "off gold" to help pay for its war efforts by
 printing currency. While this may have helped to defeat Germany, it left open
@@ -18,22 +22,25 @@ The latter course was chosen, with the final decision resting with Winston
 Churchill. The result, as James Ashley Morrison describes in his book, "was a
 disaster" (4). The UK lost gold reserves, exports plunged, and unemployment
 soared. So how did this disaster come about? And could something have been done
-differrently to avoid it?
+differently to avoid it?
 
-Morrison makes a great deal of the fact that "the" gold standard meant very
+Morrison is not a fan of the gold standard, and he uses this work to argue
+against suggestions to re-instate it.
+He makes a great deal of the fact that "the" gold standard meant very
 different things in different times and places. No doubt he is right about
 that: but given it is so, how can one use this specific incident involving this
 particular version of the gold standard to dismiss all of the multifarious
 version?
 
 
-Morrison discusses how Burke thought that governance should proceed "'upon the
-principle of reference to antiquity.'"
-
-He then goes on to say "this was 'the Whig[s'] interpretation of history," and
-cites Butterfield. But this is pretty much the opposite of what Butterfield
-meant by "the Whig interpretation of history," which saw history as steady
-progress forward from a benighted antiquity.
+Morrison contends that the impetus to return to gold after WWI was largely
+due to a belief that past ways must be the best ways. He
+notes how Burke thought that governance should proceed "'upon the
+principle of reference to antiquity.'" He then goes on to say "this was 'the
+Whig[s'] interpretation of history," and cites Butterfield. But this is pretty
+much the opposite of what Butterfield meant by "the Whig interpretation of
+history," which saw history as steady progress forward from a benighted
+antiquity.
 
 
 Morrison makes the point that attitudes towards monetary policy resembled
@@ -51,7 +58,7 @@ numerous Jewish, Christian, Muslim, Buddhist, Taoist, and Hindu philosophers
 who have argued that religion does not "defy logic and rationality"?
 
 And what about the members of the Cunliffe Committee themselves? They justified
-to return to gold based on the fact that "the adoption of a currency not
+a return to gold based on the fact that "the adoption of a currency not
 convertible at will into gold... is likely in practice to lead to over-issue and
 to destroy the measure of exchangeable value and cause a general rise in all
 prices and an adverse movement in the foreign exchanges" (quoted on 42). While
@@ -62,7 +69,7 @@ gold standard, rather than being adherents of some ancient cult.
 A few pages later, Morrison himself provides this interesting fact: "[In 1914]
 the banks smallest denomination banknote was 5 pounds. Equivalent to
 roughly 550 pounds in 2020 pounds..." So, the previous century saw the value of
-the pound *drop 100-fold*. It cetainly seems as though the committee's worry
+the pound *drop 100-fold*. It certainly seems as though the committee's worry
 that going off gold would cause "a general rise in all prices" was not only a
 rational concern, but a fully justified one!
 
@@ -82,7 +89,7 @@ How does it make sense to describe people "clinging" to something brand new?
 In his chapter in titled "Judgment," Morrison writes, the final "return to
 gold" plan actually implemented, "Norman's regime overturned centuries of
 practice and scuttled several of the old regime's most salient features... so far
-from being driven by nostalgia, Churchhill 'returned' to a reformed, modernized
+from being driven by nostalgia, Churchill 'returned' to a reformed, modernized
 gold standard..." (269)
 
 He concludes "the return to gold was the wrong choice... But at the time, it was
@@ -108,17 +115,17 @@ this:
 2. Returning to gold the way it was done was a mistake.
 3. *Leaving* the gold standard was a mistake.
 
-Morrison handles 2. by giving indications as to why he thinks returning to
-the pre-war practices would not have worked. But he never considers 3. at all.
+Morrison handles point two by giving indications as to why he thinks returning to
+the pre-war practices would not have worked. But he never considers point three at all.
 But it is not in the least obvious that the war could not have been financed
 differently, and the pain of withdrawing from fiat inflation might have been 
 avoided by not having it in the first place. And Morrison does not help his
 case for being a sober judge of the right course by his repeated referral to
-those who would argue for 3. as "gold bugs."
+those who would argue for point three as "gold bugs."
 
 Any discipline we attempt to put on government financing will depend upon the
 government adhering to that discipline. A fiat regime is not subject to the same
-sort of problems that a commodity standard is. But it is certainly subject to
+sort of problems as is a commodity standard. But it is certainly subject to
 problems, such as the fact that it can be used to generate a continual transfer
 of wealth from the working class to the investing class, and can lead to
 catastrophic hyper inflations, like we have seen in Germany, Hungary, Zimbabwe,
@@ -144,5 +151,5 @@ Unfortunately, like a live oak draped in Spanish moss, the central story is
 carrying an enormous amount of parasitic growth: all of the talk of religion,
 orthodoxy, heresy, apostles, Mount Sinai, and so on. Morrison would have done
 better to have produced the excellent work of history of which he was clearly
-capable, and cleaned his tree clear of all the epiphytes.
+capable, and cleared his tree clear of all the epiphytes.
 

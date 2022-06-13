@@ -37,6 +37,17 @@ then put into a common representation. Similarity measurements are then
 performed on this process data, hopefully resulting in the discovery of
 interesting motifs.
 
+And what are our choices in terms of motif-discovery algorithms? It turns out
+we have many ways of approaching the problem:
+
+"Motif discovery algorithms differ in the way they tackle problems. These
+approaches can be analysed with regard to different aspects. As an example,
+motif discovery methods can be tailored to find exact or approximate motifs or
+detect motifs with fixed or various lengths. They are able to handle
+multivariate or univariate time series and execute in on- or off-line mode.
+Moreover, they can be examined based on representation or mapping methods,
+similarity measures, their robustness to noise, their ability to be invariant
+under affine transformations, or the number of required perimeters." (29)
 
 
 This is a difficult and dense book. For those well-versed in the mathematics of

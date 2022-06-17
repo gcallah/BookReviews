@@ -31,6 +31,17 @@ It is true that we know what the author meant. But a fundamental principle of
 sound writing is to say what you meant, not say something else and hope the
 reader can suss out what you meant.
 
+In order to overcome the current limits on motif discovery, Deppe has developed
+a new method she refers to as KITE, which stands for "ill-Known motIf discovery
+in Time sEries data." The relationship of this acronym to the full name makes
+this reader glad that Deppe is not specializing in acronym creation algorithms.
+
+Deppe claims that KITE advances the state of the art of motif discovery in a
+number of ways: it applies to diverse domains, it can discover variable-length
+motives without iteration, it can filter out noise, it can detect motifs
+altered by uniform scaling, translations, stretching, and squeezing. It also
+employs that cutting-edge work on wavelets to further enhance motif discovery.
+
 The chapter titled "General Principles of Time Series Motif Discovery" offers a
 useful sketch of how Sutch discovery proceeds: the data is first pre-processed,
 then put into a common representation. Similarity measurements are then

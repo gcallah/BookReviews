@@ -7,6 +7,12 @@ Springer Vieweg, Lemgo, Germany, 2022
 CSS Terms: ???
 
 
+Today we are drowning in data, desperately in need of bits of dry land, where
+we can climb out of the information ocean and gain useful perspective. The work
+under review here provides one such vantage point, and anyone who is work
+involves finding patterns in large amounts of data would do well to pay it
+heed.
+
 This is a Deppe's PhD dissertation, apparently unaltered (the text occasionally
 mentions things like "time series constitute this dissertations main scope"
 (9). As such, it is a dense work, but the main outlines should be clear to

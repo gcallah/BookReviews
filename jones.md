@@ -26,3 +26,26 @@ read a biography of Jones? If Jones's contention is true, it would seem that
 every intellectual work ought to be accompanied by a biography of the person
 who wrote it. 
 
+"Being an agent cannot be like unto, or represented by, any idea whatsoever..."
+(9)
+
+
+"But it is perhaps surprising the Berkeley’s immaterialism, his insistence
+that there is only one substance — spirit — and that ideas are merely passive
+effects of spirits to exist in willing some conceived and quite possibly
+indistinct good, lends its support to a biographical approach to his
+philosophy." (12-13)
+
+" another tendency in Berkeley‘s thought that has not previously been
+elaborated... Is the tendency to present thinking and acting as participating in...
+Divinity" (13)
+
+"Perhaps not everyone feels that Berkeley’s God is an embarrassment..." (15)
+
+Jones's understanding of the physics and mathematics he discusses is not always
+adequate to the task. For instance, at one point he calls fluxions "the forces
+that cause changes in motion" (55): but this is nonsense. "Fluxion" was
+Newton's term for an instantaneous rate of change, and had nothing to do with
+what force might be causing that change.
+
+

@@ -22,6 +22,17 @@ an opinion poll, and if people think future governments will be both democratic
 and socialist, well, that is what they think.
 
 
+Mitchell spends a good amount of the book discussing the history of attitudes
+towards private property beginning with the Bible, continuing with Plato,
+Aristotle, Aquinas, Locke, the American founders, Tocqueville, Marx, Ropke, and
+more. He makes it clear that many people have supported the idea of private
+property, for many reasons. This material is interesting, but I can't help
+feeling that Mitchell would have been better off writing two books: one a pure
+history of the idea of property, and the other his argument for the widespread
+ownership of productive property, which would use historical material only to
+buttress his case.
+
+
 
 Mitchell quotes Mises: "if workers... 'changed their locations and occupations
 according to the requirements of the labor market, they could eventually find

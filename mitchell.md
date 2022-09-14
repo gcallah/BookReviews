@@ -11,6 +11,11 @@ Eugene, OR: Front Porch Republic Books, 2022. 165 pages.
 
 ---
 
+Mark Mitchell has written a brief and interesting book arguing that the
+widespread ownership of productive property is an essential support for
+political liberty.
+
+
 
 In the introduction, Mitchell makes a curious distinction as to whether people
 believe the most common future form of government would be "democratic" or

@@ -17,8 +17,11 @@ political liberty.
 As he puts it: "The thesis of this book is simple: democracy without private
 property is fundamentally unstable and will not survive." (14)
 On this point, I wish Mitchell had addressed Plato's case that democracy, even
-with private property, is fundamentally unstable. Perhaps he has a good answer
-to Plato here, but if so, it is missing from this work.
+with private property, is fundamentally unstable.
+(Or, to cite a more recent political theorist, the Nigerian musician and
+activist, Fela Kuti, called democracy a "demonstration of crazy.")
+Perhaps he has a good answer
+to Plato and Kuti here, but if so, it is missing from this work.
 
 
 

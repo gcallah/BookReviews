@@ -14,6 +14,13 @@ Eugene, OR: Front Porch Republic Books, 2022. 165 pages.
 Mark Mitchell has written a brief and interesting book arguing that the
 widespread ownership of productive property is an essential support for
 political liberty.
+As he puts it: "The thesis of this book is simple: democracy without private
+property is fundamentally unstable and will not survive." (14)
+On this point, I wish Mitchell had addressed Plato's case that democracy, even
+with private property, is fundamentally unstable. Perhaps he has a good answer
+to Plato here, but if so, it is missing from this work.
+
+
 
 
 

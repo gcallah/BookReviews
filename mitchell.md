@@ -47,6 +47,16 @@ history of the idea of property, and the other his argument for the widespread
 ownership of productive property, which would use historical material only to
 buttress his case.
 
+That Mitchell is not a free market ideologue is made clear in his approvingly
+citing the limits on private property existing in Mosaic law:
+
+"The Mosaic law explicitly limits the use of property. For instance, harvesters
+are commanded not to reap to the very edge of their fields, and owners of
+voneyards not to go over the vineyards a second time or pick up the fruits that
+have fallen to the ground. These are to be left behind for the poor and the
+alien. In short, ownership of property includes responsibility to the
+community, which entails limits on the use of one's own property." (21)
+
 
 
 Mitchell quotes Mises: "if workers... 'changed their locations and occupations

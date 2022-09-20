@@ -45,7 +45,8 @@ property, for many reasons. This material is interesting, but I can't help
 feeling that Mitchell would have been better off writing two books: one a pure
 history of the idea of property, and the other his argument for the widespread
 ownership of productive property, which would use historical material only to
-buttress his case.
+buttress his case. By combining the two, the history section feels a little rushed, and
+not entirely connected to his main argument.
 
 That Mitchell is not a free market ideologue is made clear in his approvingly
 citing the limits on private property existing in Mosaic law:
@@ -57,6 +58,9 @@ have fallen to the ground. These are to be left behind for the poor and the
 alien. In short, ownership of property includes responsibility to the
 community, which entails limits on the use of one's own property." (21)
 
+But neither is he a socialist, any quotes with apprehension the World Economic
+Forum's prediction that by 2030, “You’ll own nothing. And you’ll be happy.”
+(30)
 
 
 Mitchell quotes Mises: "if workers... 'changed their locations and occupations

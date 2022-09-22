@@ -62,6 +62,12 @@ But neither is he a socialist, any quotes with apprehension the World Economic
 Forum's prediction that by 2030, “You’ll own nothing. And you’ll be happy.”
 (30)
 
+In a rare outright slip up, Mitchell writes:
+"The pilgrims found themselves on the edge of an unexplored continent" (34).
+Well, no: there had been people on the continent for thousands and thousands of
+years, and they had explored it pretty thoroughly. One need not give woeness a
+full embrace to realize the problem with statements like this one.
+
 
 Mitchell quotes Mises: "if workers... 'changed their locations and occupations
 according to the requirements of the labor market, they could eventually find

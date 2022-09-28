@@ -69,6 +69,26 @@ years, and they had explored it pretty thoroughly. One need not give woeness a
 full embrace to realize the problem with statements like this one.
 
 
+
+Mitchell also misinterprets a contention of Madison’s. He first notes that
+"Madison continues by suggesting that unstable laws create an advantage for the
+'moneyed few' over the 'industrious and uninformed mass of the people.'" Madison
+goes on to explain that this is because those with money and financial savvy
+can pay close attention to how the laws will affect relative prices and thus
+gain by speculation, a pastime not available to, say, a farmer preoccupied with
+his crops and herds. Mitchell then sums up Madison’s argument: “In other words,
+laws that create an advantage for the wealthy and disadvantage the poor are
+unjust and are a sign of public instability” (50). Mitchell's contention that
+laws which deliberately favor the rich are unjust and will create instability
+is certainly true, but it is **not** what Madison was saying. Rather, Madison
+was pointing out that rapidly fluctuating laws, whatever their supposed
+intention, in fact will favor the wealthy, since the rich have the time and
+resources to carefully track those changes in the law. (Think of how large
+corporations today favor complex and ever-changing regulations and tax codes,
+which their smaller competitors find difficult to navigate.)
+
+
+
 Mitchell quotes Mises: "if workers... 'changed their locations and occupations
 according to the requirements of the labor market, they could eventually find
 work.'" (86)

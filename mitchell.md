@@ -87,6 +87,18 @@ resources to carefully track those changes in the law. (Think of how large
 corporations today favor complex and ever-changing regulations and tax codes,
 which their smaller competitors find difficult to navigate.)
 
+Mitchell makes a very persuasive case that the American founders were quite
+concerned with the issue of how property was distributed in their new republic.
+None of them are good for complete equality and property ownership,
+understanding that such a condition would be almost impossible to create, and
+once created, would be highly unstable. But they also were greatly concerned
+about "too great" a degree of inequality in property ownership. For example, he
+quotes Madison advocating laws that, "without violating the rights of property,
+reduce extreme wealth toward a state of mediocrity, and raise extreme indigence
+towards a state of comfort" (58). Of course, the devil is in the details here:
+how much wealth is "extreme"? How much indigence is "extreme"? And how exactly
+can laws eliminate these extremes "without violating the rights of property"?
+
 
 
 Mitchell quotes Mises: "if workers... 'changed their locations and occupations

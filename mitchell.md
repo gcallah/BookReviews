@@ -100,6 +100,22 @@ how much wealth is "extreme"? How much indigence is "extreme"? And how exactly
 can laws eliminate these extremes "without violating the rights of property"?
 
 
+"history has clearly shown that the dictatorship of the working class never
+materializes. The revolution is invariably hijacked by a plutocratic minority
+intent on securing power and wealth” (69)
+
+
+Tocqueville:
+"What should one expect from a man who has spent 20 years of his life in making pinheads?" (71)
+Ultimately, "the man in him is degraded as the worker in him is perfected."
+A society of perfect workers and degraded man is not one conducive to freedom. (72)
+
+
+Distributism Schumacher
+"Is work a blessing or a curse?" (75)
+
+
+
 
 Mitchell quotes Mises: "if workers... 'changed their locations and occupations
 according to the requirements of the labor market, they could eventually find

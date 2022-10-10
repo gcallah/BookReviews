@@ -112,15 +112,23 @@ A society of perfect workers and degraded man is not one conducive to freedom. (
 
 
 Distributism Schumacher
-"Is work a blessing or a curse?" (75)
+
+Mitchell then turns his attention to the distributists and ordo-liberals.
+Distributism What is a intellectual movement founded by Hilaire Belloc and GK
+Chesterton, based on Catholic social teaching. The ordo-liberals were mainly
+German, market-oriented economists who nevertheless rejected laissez-faire,
+believing that the market needed regulation to produce good social outcomes.
 
 
+They shared a concern that "too little consideration is given to human scale in
+our economic arrangements." (84)
 
-"too little consideration is given to human scale in our economic arrangements" (84)
-
+The increasing dominance of giant private firms and giant government
+bureaucracies over social life meant that workers Became alienated from their
+product, and no longer found fulfillment in their work. As Röpke put it:
 "Work instead of being a satisfaction and fulfillment of life becomes a mere
 means and the hours spent at work a mere liability, whereas normally these
-ought to represent an asset in the balance sheet of life." Röpke (85)
+ought to represent an asset in the balance sheet of life." (85)
 
 "The proletariat is bereft of productive property and therefore his options are
 constricted, for all his decisions must be made in terms of exchange." (86)

@@ -59,7 +59,7 @@ alien. In short, ownership of property includes responsibility to the
 community, which entails limits on the use of one's own property." (21)
 
 But neither is he a socialist, any quotes with apprehension the World Economic
-Forum's prediction that by 2030, “You’ll own nothing. And you’ll be happy.”
+Forum's prediction that by 2030, "You’ll own nothing. And you’ll be happy."
 (30)
 
 In a rare outright slip up, Mitchell writes:
@@ -76,9 +76,9 @@ Mitchell also misinterprets a contention of Madison’s. He first notes that
 goes on to explain that this is because those with money and financial savvy
 can pay close attention to how the laws will affect relative prices and thus
 gain by speculation, a pastime not available to, say, a farmer preoccupied with
-his crops and herds. Mitchell then sums up Madison’s argument: “In other words,
+his crops and herds. Mitchell then sums up Madison’s argument: "In other words,
 laws that create an advantage for the wealthy and disadvantage the poor are
-unjust and are a sign of public instability” (50). Mitchell's contention that
+unjust and are a sign of public instability" (50). Mitchell's contention that
 laws which deliberately favor the rich are unjust and will create instability
 is certainly true, but it is **not** what Madison was saying. Rather, Madison
 was pointing out that rapidly fluctuating laws, whatever their supposed
@@ -102,7 +102,7 @@ can laws eliminate these extremes "without violating the rights of property"?
 
 "history has clearly shown that the dictatorship of the working class never
 materializes. The revolution is invariably hijacked by a plutocratic minority
-intent on securing power and wealth” (69)
+intent on securing power and wealth" (69)
 
 
 Tocqueville:
@@ -113,6 +113,18 @@ A society of perfect workers and degraded man is not one conducive to freedom. (
 
 Distributism Schumacher
 "Is work a blessing or a curse?" (75)
+
+
+
+"too little consideration is given to human scale in our economic arrangements" (84)
+
+"Work instead of being a satisfaction and fulfillment of life becomes a mere
+means and the hours spent at work a mere liability, whereas normally these
+ought to represent an asset in the balance sheet of life." Röpke (85)
+
+"The proletariat is bereft of productive property and therefore his options are
+constricted, for all his decisions must be made in terms of exchange." (86)
+
 
 
 

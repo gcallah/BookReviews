@@ -137,6 +137,8 @@ constricted, for all his decisions must be made in terms of exchange." (86)
 
 
 
+"the sort of unattached worker championed by many libertarians" (86)
+
 Mitchell quotes Mises: "if workers... 'changed their locations and occupations
 according to the requirements of the labor market, they could eventually find
 work.'" (86)
@@ -148,6 +150,17 @@ The fact that this person might have family, friends, a church, and a community
 in a place that they feel affection for are, in this view, all simply barriers
 to higher productivity. All of those things can be replaced by a bigger
 flatscreen TV and a nice new leather recliner.
+
+
+Mitchell describes two very different alternatives presented to us by globalist
+liberalism and what we might call localism: in localism, people are expected to
+work and be productive members of their community. But the community also
+recognizes those truly in need, and helps them out of the spirit of
+neighborliness. On the other hand, in globalist liberalism, "The generous and
+creative spirit of neighborliness is replaced by the cold bureaucratic
+functionary whose responsibility to distribute aid to the poor lacks the creative
+and personal element that neighborliness affords." (89)
+
 
 One problem with this book is that I find myself agreeing with many of
 Mitchell's suggestions, but simultaneously thinking "this does not have a

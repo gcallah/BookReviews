@@ -162,8 +162,18 @@ functionary whose responsibility to distribute aid to the poor lacks the creativ
 and personal element that neighborliness affords." (89)
 
 
-One problem with this book is that I find myself agreeing with many of
-Mitchell's suggestions, but simultaneously thinking "this does not have a
+
+"We witness a steady decline: from productive property to income for the
+sake of purchasing consumables to, finally, the elimination of the necessity of
+work and the replacement of any notion of property ownership with the
+reallocation of publicly funded and publicly administered services." (101)
+
+
+In his conclusion Mitchell makes a number of suggestions for how to move
+towards a situation in which productive property is widely owned.
+Here, I find myself agreeing with many of Mitchell's suggestions,
+in that I think they are good ideas,
+but simultaneously thinking "this does not have a
 snowball's chance in hell of going anywhere." For example, consider his
 suggestion that, to encourage entrepreneurship, "Excessive regulations that
 create barriers to entry should be eliminated" (137). Yes, they should be, but
@@ -182,6 +192,17 @@ catastrophe should a disease strike either crop, and the benefits accrue
 mostly to wealthier farmers. But there is no significant movement to get rid of
 them. How much less chance would a much more easily attacked bill like one
 dropping business regulations have?
+
+I think Mitchell's fundamental thesis is correct: we would have a healthier
+polity if productive property were much more widely distributed. In fact, that
+thesis is so important that Mitchell, or someone, should follow up with three
+books. One of them would show how our thoughts about property have evolved,
+which would help us understand how we got where we are. The second one would
+lay out the distributist case for broad ownership of productive property.
+And the final one, rather than simply offering some high-level suggestions as
+to how to get there, would tackle the concrete difficulties we face in getting
+any such reforms past, and suggest what we might do about those barriers.
+
 
 
 

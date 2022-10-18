@@ -25,8 +25,6 @@ to Plato and Kuti here, but if so, it is missing from this work.
 
 
 
-
-
 In the introduction, Mitchell makes a curious distinction as to whether people
 believe the most common future form of government would be "democratic" or
 "socialist." (p. 1) This ignores the fact that there is almost certainly a
@@ -42,18 +40,18 @@ towards private property beginning with the Bible, continuing with Plato,
 Aristotle, Aquinas, Locke, the American founders, Tocqueville, Marx, Ropke, and
 more. He makes it clear that many people have supported the idea of private
 property, for many reasons. This material is interesting, but I can't help
-feeling that Mitchell would have been better off writing two books: one a pure
-history of the idea of property, and the other his argument for the widespread
-ownership of productive property, which would use historical material only to
-buttress his case. By combining the two, the history section feels a little rushed, and
+feeling that Mitchell would have been better off writing another book
+on the history of the idea of property. (More on this later.)
+As it is, the history section feels a little rushed, and
 not entirely connected to his main argument.
 
-That Mitchell is not a free market ideologue is made clear in his approvingly
+Mitchell's emphasis on private property might prompt a suspicion that he is a
+free market ideologue. That this is not the case is made clear in his approvingly
 citing the limits on private property existing in Mosaic law:
 
 "The Mosaic law explicitly limits the use of property. For instance, harvesters
 are commanded not to reap to the very edge of their fields, and owners of
-voneyards not to go over the vineyards a second time or pick up the fruits that
+vineyards not to go over the vineyards a second time or pick up the fruits that
 have fallen to the ground. These are to be left behind for the poor and the
 alien. In short, ownership of property includes responsibility to the
 community, which entails limits on the use of one's own property." (21)
@@ -62,16 +60,16 @@ But neither is he a socialist, any quotes with apprehension the World Economic
 Forum's prediction that by 2030, "You’ll own nothing. And you’ll be happy."
 (30)
 
-In a rare outright slip up, Mitchell writes:
+Proceeding in his historical survey, Mitchell makes a rare slip when he writes:
+
 "The pilgrims found themselves on the edge of an unexplored continent" (34).
 Well, no: there had been people on the continent for thousands and thousands of
-years, and they had explored it pretty thoroughly. One need not give woeness a
+years, and they had explored it pretty thoroughly. One need not give wokeness a
 full embrace to realize the problem with statements like this one.
 
 
-
 Mitchell also misinterprets a contention of Madison’s. He first notes that
-"Madison continues by suggesting that unstable laws create an advantage for the
+"Madison [suggests] that unstable laws create an advantage for the
 'moneyed few' over the 'industrious and uninformed mass of the people.'" Madison
 goes on to explain that this is because those with money and financial savvy
 can pay close attention to how the laws will affect relative prices and thus
@@ -89,7 +87,7 @@ which their smaller competitors find difficult to navigate.)
 
 Mitchell makes a very persuasive case that the American founders were quite
 concerned with the issue of how property was distributed in their new republic.
-None of them are good for complete equality and property ownership,
+None of them are for complete equality in property ownership,
 understanding that such a condition would be almost impossible to create, and
 once created, would be highly unstable. But they also were greatly concerned
 about "too great" a degree of inequality in property ownership. For example, he
@@ -111,21 +109,19 @@ Ultimately, "the man in him is degraded as the worker in him is perfected."
 A society of perfect workers and degraded man is not one conducive to freedom. (72)
 
 
-Distributism Schumacher
-
-Mitchell then turns his attention to the distributists and ordo-liberals.
-Distributism What is a intellectual movement founded by Hilaire Belloc and GK
+Arriving in the twentieth century,
+Mitchell turns his attention to the distributists and ordo-liberals.
+Distributism is an intellectual movement founded by Hilaire Belloc and GK
 Chesterton, based on Catholic social teaching. The ordo-liberals were mainly
 German, market-oriented economists who nevertheless rejected laissez-faire,
 believing that the market needed regulation to produce good social outcomes.
-
-
 They shared a concern that "too little consideration is given to human scale in
 our economic arrangements." (84)
 
 The increasing dominance of giant private firms and giant government
-bureaucracies over social life meant that workers Became alienated from their
-product, and no longer found fulfillment in their work. As Röpke put it:
+bureaucracies over social life meant that workers become alienated from their
+product, and no longer find fulfillment in their work. As ordoliberal
+economist Wilhelm Röpke put it:
 "Work instead of being a satisfaction and fulfillment of life becomes a mere
 means and the hours spent at work a mere liability, whereas normally these
 ought to represent an asset in the balance sheet of life." (85)
@@ -133,13 +129,10 @@ ought to represent an asset in the balance sheet of life." (85)
 "The proletariat is bereft of productive property and therefore his options are
 constricted, for all his decisions must be made in terms of exchange." (86)
 
-
-
-
-
-"the sort of unattached worker championed by many libertarians" (86)
-
-Mitchell quotes Mises: "if workers... 'changed their locations and occupations
+In contract to Röpke's concern about the satisfaction found in work,
+we find "the sort of unattached worker championed by many libertarians" (86).
+Here Mitchell quotes Austrian economist Ludwig von Mises:
+"if workers... 'changed their locations and occupations
 according to the requirements of the labor market, they could eventually find
 work.'" (86)
 
@@ -161,7 +154,7 @@ creative spirit of neighborliness is replaced by the cold bureaucratic
 functionary whose responsibility to distribute aid to the poor lacks the creative
 and personal element that neighborliness affords." (89)
 
-
+As we move from neighborliness to bureaucratic "care":
 
 "We witness a steady decline: from productive property to income for the
 sake of purchasing consumables to, finally, the elimination of the necessity of
@@ -169,13 +162,13 @@ work and the replacement of any notion of property ownership with the
 reallocation of publicly funded and publicly administered services." (101)
 
 
-In his conclusion Mitchell makes a number of suggestions for how to move
+In his conclusion Mitchell makes a number of recommendations for how to move
 towards a situation in which productive property is widely owned.
 Here, I find myself agreeing with many of Mitchell's suggestions,
 in that I think they are good ideas,
 but simultaneously thinking "this does not have a
 snowball's chance in hell of going anywhere." For example, consider his
-suggestion that, to encourage entrepreneurship, "Excessive regulations that
+proposal that, to encourage entrepreneurship, "Excessive regulations that
 create barriers to entry should be eliminated" (137). Yes, they should be, but
 under the current regime, they are not going to be. Should some law maker
 propose a measure that would truly lower barriers to entry, The proposal would

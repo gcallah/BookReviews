@@ -16,16 +16,16 @@ widespread ownership of productive property is an essential support for
 political liberty.
 As he puts it: "The thesis of this book is simple: democracy without private
 property is fundamentally unstable and will not survive." (14)
-On this point, I wish Mitchell had addressed Plato's case that democracy, even
+(On this point, I wish Mitchell had addressed Plato's case that democracy, even
 with private property, is fundamentally unstable.
-(Or, to cite a more recent political theorist, the Nigerian musician and
-activist, Fela Kuti, called democracy a "demonstration of crazy.")
+Or, to cite a more recent political theorist, the Nigerian musician and
+activist, Fela Kuti, called democracy a "demonstration of crazy."
 Perhaps he has a good answer
-to Plato and Kuti here, but if so, it is missing from this work.
+to Plato and Kuti here, but if so, it is missing from this work.)
 
 
-
-In the introduction, Mitchell makes a curious distinction as to whether people
+In the introduction, Mitchell, citing a poll,
+makes a curious distinction as to whether people
 believe the most common future form of government would be "democratic" or
 "socialist." (p. 1) This ignores the fact that there is almost certainly a
 great overlap between the two beliefs. Now perhaps Mitchell holds with Hayek
@@ -37,7 +37,8 @@ and socialist, well, that is what they think.
 
 Mitchell spends a good amount of the book discussing the history of attitudes
 towards private property beginning with the Bible, continuing with Plato,
-Aristotle, Aquinas, Locke, the American founders, Tocqueville, Marx, Ropke, and
+Aristotle, Aquinas, Locke, the American founders, Tocqueville, Marx,
+Chesterton, Röpke, and
 more. He makes it clear that many people have supported the idea of private
 property, for many reasons. This material is interesting, but I can't help
 feeling that Mitchell would have been better off writing another book
@@ -56,7 +57,7 @@ have fallen to the ground. These are to be left behind for the poor and the
 alien. In short, ownership of property includes responsibility to the
 community, which entails limits on the use of one's own property." (21)
 
-But neither is he a socialist, any quotes with apprehension the World Economic
+But neither is he a socialist, and he quotes with apprehension the World Economic
 Forum's prediction that by 2030, "You’ll own nothing. And you’ll be happy."
 (30)
 
@@ -87,9 +88,9 @@ which their smaller competitors find difficult to navigate.)
 
 Mitchell makes a very persuasive case that the American founders were quite
 concerned with the issue of how property was distributed in their new republic.
-None of them are for complete equality in property ownership,
+None of them were for complete equality in property ownership,
 understanding that such a condition would be almost impossible to create, and
-once created, would be highly unstable. But they also were greatly concerned
+once created, would be highly unstable. But they also were very concerned
 about "too great" a degree of inequality in property ownership. For example, he
 quotes Madison advocating laws that, "without violating the rights of property,
 reduce extreme wealth toward a state of mediocrity, and raise extreme indigence
@@ -97,16 +98,16 @@ towards a state of comfort" (58). Of course, the devil is in the details here:
 how much wealth is "extreme"? How much indigence is "extreme"? And how exactly
 can laws eliminate these extremes "without violating the rights of property"?
 
-
+Refuting Marx, Mitchell writes,
 "history has clearly shown that the dictatorship of the working class never
 materializes. The revolution is invariably hijacked by a plutocratic minority
-intent on securing power and wealth" (69)
-
-
-Tocqueville:
-"What should one expect from a man who has spent 20 years of his life in making pinheads?" (71)
-Ultimately, "the man in him is degraded as the worker in him is perfected."
-A society of perfect workers and degraded man is not one conducive to freedom. (72)
+intent on securing power and wealth" (69). But he recognizes the truth and
+Marx's theory of alienation, and quotes Tocqueville to illustrate this:
+"'What should one expect from a man who has spent 20 years of his life in
+making pinheads?'
+Ultimately, 'the man in him is degraded as the worker in him is perfected.'
+A society of perfect workers and degraded man is not one conducive to freedom."
+(71-72)
 
 
 Arriving in the twentieth century,
@@ -126,10 +127,7 @@ economist Wilhelm Röpke put it:
 means and the hours spent at work a mere liability, whereas normally these
 ought to represent an asset in the balance sheet of life." (85)
 
-"The proletariat is bereft of productive property and therefore his options are
-constricted, for all his decisions must be made in terms of exchange." (86)
-
-In contract to Röpke's concern about the satisfaction found in work,
+In contrast to Röpke's concern about the satisfaction found in work,
 we find "the sort of unattached worker championed by many libertarians" (86).
 Here Mitchell quotes Austrian economist Ludwig von Mises:
 "if workers... 'changed their locations and occupations
@@ -171,7 +169,7 @@ snowball's chance in hell of going anywhere." For example, consider his
 proposal that, to encourage entrepreneurship, "Excessive regulations that
 create barriers to entry should be eliminated" (137). Yes, they should be, but
 under the current regime, they are not going to be. Should some law maker
-propose a measure that would truly lower barriers to entry, The proposal would
+propose a measure that would truly lower barriers to entry, the proposal would
 be denounced as allowing businesses to trash the environment, evade taxes, and
 exploit workers. The mere fact that Mitchell's suggestion is a good idea will
 not protect it the storm of propaganda that attempting to implement it would
@@ -179,7 +177,7 @@ invoke.
 
 Consider something as obviously harmful as our nation's subsidizing huge
 mono-crop fields of corn and soybeans: the environmental destruction of the
-soil and the water (from chemical runoff from the fields) is vast, it makes
+soil and the water (from chemical runoff from the fields) is immense, it makes
 our farm economy vastly less diverse, it increases the risk of economic
 catastrophe should a disease strike either crop, and the benefits accrue
 mostly to wealthier farmers. But there is no significant movement to get rid of
@@ -194,7 +192,7 @@ which would help us understand how we got where we are. The second one would
 lay out the distributist case for broad ownership of productive property.
 And the final one, rather than simply offering some high-level suggestions as
 to how to get there, would tackle the concrete difficulties we face in getting
-any such reforms past, and suggest what we might do about those barriers.
+any such reforms passed, and suggest what we might do about those barriers.
 
 
 

@@ -12,8 +12,8 @@ Eugene, OR: Front Porch Republic Books, 2022. 165 pages.
 ---
 
 Mark Mitchell has written a brief and interesting book arguing that the
-widespread ownership of productive property is an essential support for
-political liberty.
+widespread ownership of productive property (what economists would call
+"capital goods") is an essential support for political liberty.
 As he puts it: "The thesis of this book is simple: democracy without private
 property is fundamentally unstable and will not survive." (14)
 (On this point, I wish Mitchell had addressed Plato's case that democracy, even
@@ -62,11 +62,12 @@ Forum's prediction that by 2030, "You’ll own nothing. And you’ll be happy."
 (30)
 
 Proceeding in his historical survey, Mitchell makes a rare slip when he writes:
-
 "The pilgrims found themselves on the edge of an unexplored continent" (34).
 Well, no: there had been people on the continent for thousands and thousands of
-years, and they had explored it pretty thoroughly. One need not give wokeness a
-full embrace to realize the problem with statements like this one.
+years, and they had explored it pretty thoroughly. Yes, we all know he meant,
+"a continent unexplored by Europeans"... but then write that!
+One need not embrace wokeness to see that there is a
+problem with statements like the above.
 
 
 Mitchell also misinterprets a contention of Madison’s. He first notes that
@@ -101,7 +102,7 @@ can laws eliminate these extremes "without violating the rights of property"?
 Refuting Marx, Mitchell writes,
 "history has clearly shown that the dictatorship of the working class never
 materializes. The revolution is invariably hijacked by a plutocratic minority
-intent on securing power and wealth" (69). But he recognizes the truth and
+intent on securing power and wealth" (69). But he recognizes the truth in
 Marx's theory of alienation, and quotes Tocqueville to illustrate this:
 "'What should one expect from a man who has spent 20 years of his life in
 making pinheads?'
@@ -112,10 +113,10 @@ A society of perfect workers and degraded man is not one conducive to freedom."
 
 Arriving in the twentieth century,
 Mitchell turns his attention to the distributists and ordo-liberals.
-Distributism is an intellectual movement founded by Hilaire Belloc and GK
+Distributism is an intellectual movement founded by Hilaire Belloc and G.K.
 Chesterton, based on Catholic social teaching. The ordo-liberals were mainly
 German, market-oriented economists who nevertheless rejected laissez-faire,
-believing that the market needed regulation to produce good social outcomes.
+believing that markets need regulation to produce good social outcomes.
 They shared a concern that "too little consideration is given to human scale in
 our economic arrangements." (84)
 
@@ -163,7 +164,7 @@ reallocation of publicly funded and publicly administered services." (101)
 In his conclusion Mitchell makes a number of recommendations for how to move
 towards a situation in which productive property is widely owned.
 Here, I find myself agreeing with many of Mitchell's suggestions,
-in that I think they are good ideas,
+in that I believe they are good ideas,
 but simultaneously thinking "this does not have a
 snowball's chance in hell of going anywhere." For example, consider his
 proposal that, to encourage entrepreneurship, "Excessive regulations that
@@ -175,14 +176,14 @@ exploit workers. The mere fact that Mitchell's suggestion is a good idea will
 not protect it the storm of propaganda that attempting to implement it would
 invoke.
 
-Consider something as obviously harmful as our nation's subsidizing huge
+Or contemplate something as obviously harmful as our nation's subsidizing huge
 mono-crop fields of corn and soybeans: the environmental destruction of the
 soil and the water (from chemical runoff from the fields) is immense, it makes
 our farm economy vastly less diverse, it increases the risk of economic
 catastrophe should a disease strike either crop, and the benefits accrue
 mostly to wealthier farmers. But there is no significant movement to get rid of
-them. How much less chance would a much more easily attacked bill like one
-dropping business regulations have?
+the subsidies. How much less chance would a much more easily attacked bill like
+one dropping business regulations have?
 
 I think Mitchell's fundamental thesis is correct: we would have a healthier
 polity if productive property were much more widely distributed. In fact, that

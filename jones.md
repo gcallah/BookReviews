@@ -49,3 +49,22 @@ Newton's term for an instantaneous rate of change, and had nothing to do with
 what force might be causing that change.
 
 
+Jones mentions that by the time he left Dublin, many of Barclays "enduring and
+idiosyncratic  tendencies" (141) had already become apparent. Among these is
+contention that the world "is a world of ideas" (141): This illustrates a
+degree of continuity amongst the British idealists that is often denied, for
+refined Michael Oakeshott making the exact same contention in 1933.
+
+Jones then goes on to say, "For all that the world may appear to have
+physical being, tangible or visible extension, its real existence is as ideas"
+(141). This is a mistake made by many interpreters of Berkeley: he is **not**
+claiming that there is no physical world, or tangible or visible extension. He
+is claiming that the world's physicality is **itself** an idea, as is
+extension. These things are not illusions that must be dispelled by Berkeley's
+philosophy: they are realities whose basis is explained by it.
+
+
+## Bibliography
+
+- Oakeshott, Michael (1933) *Experience and Its Modes*, Cambridge: Cambridge
+University Press.

@@ -63,6 +63,17 @@ is claiming that the world's physicality is **itself** an idea, as is
 extension. These things are not illusions that must be dispelled by Berkeley's
 philosophy: they are realities whose basis is explained by it.
 
+"Here, as in so many other locations in seventeenth-
+and eighteenth-century social thought,
+the possibility that rank produces, or is otherwise complicit in, the
+adumbration of natural rights to justice and equity is mysteriously invisible"
+(192).
+
+Jones should remember the parochialism is not limited to earlier ages: It is
+quite possible that a social thinker from the 1700s would note how mysterious it
+is that 21st-century social thinkers believe that rank is in conflict with
+natural rights to justice and equity.
+
 
 ## Bibliography
 

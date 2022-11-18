@@ -75,6 +75,13 @@ is that 21st-century social thinkers believe that rank is in conflict with
 natural rights to justice and equity.
 
 
+In discussing Berkeley's travels in England, Italy, and America, Jones
+highlights how prominent thoughts on social improvement were in B's life. Even
+his most famous "metaphysical" works partook of this tendency, as they were
+foremost intended as a means of defeating skepticism and atheism, which B saw
+as serious threats to social order.
+
+
 ## Bibliography
 
 - Oakeshott, Michael (1933) *Experience and Its Modes*, Cambridge: Cambridge

@@ -81,6 +81,14 @@ his most famous "metaphysical" works partook of this tendency, as they were
 foremost intended as a means of defeating skepticism and atheism, which B saw
 as serious threats to social order.
 
+B's wife is quoted as saying, "He has taken from them the ground they stand on,
+& had he built as he has pulled down he had been down a master builder indeed
+but Unto every Man his Work some must remove rubbish, & others lay
+Foundations..." Jones's Questionable reading of this quote is that "Berkeley's
+wife taught him more destructive than productive as a philosopher" (304). But
+Mrs. Berkeley said that what he was pulling down was "rubbish," and surely
+removing rubbish is a constructive, not a destructive, activity.
+
 
 ## Bibliography
 

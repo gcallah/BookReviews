@@ -89,6 +89,33 @@ wife taught him more destructive than productive as a philosopher" (304). But
 Mrs. Berkeley said that what he was pulling down was "rubbish," and surely
 removing rubbish is a constructive, not a destructive, activity.
 
+B's project of founding a university in Bermuda is a strange episode in his
+career, although Jones makes a good case that it should be understood as a
+facet of his larger project of Anglican education.
+
+While discussing this topic, Jones makes a curious claim: "But his Bermuda
+project was obliquely complicit in the modern, import-oriented economy he
+despised and the full range of human cruelty is it required -- bondage, and
+forced movement of populations, and eradication of indigenous peoples and their
+ways of life and habitats" (348). Even though Berkeley plan to raise funds for
+his project through selling small land holdings on St. Christopher (St.
+Kitts), nevertheless this would "obliquely but ultimately require the dystopia
+of plantation colonialism and slavery" (348).
+
+First of all, it is not at all clear what Jones means by "require" here: We
+found universities today, even on remote islands, without "requiring"
+plantation colonialism and slavery. It is true that what wound up happening on
+St. Christopher was that the land was dominated by large, slave-worked
+plantations. But this happened without Berkeley being involved in the land
+sales, and without his college ever being built. One can never prove historical
+counterfactuals, but perhaps if his scheme has gone
+through, the outcome on St. Christopher would have been different.
+
+But even odder Is this notion of "oblique" responsibility: Once we adopt such a
+flimsy standard for placing blame, it seems we have to condemn everyone alive
+at the moment some unsavory event was occurring: Weren't even the Native
+Americans and the slaves "obliquely" responsible for the what happened?
+
 
 ## Bibliography
 

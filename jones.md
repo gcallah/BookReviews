@@ -116,6 +116,31 @@ flimsy standard for placing blame, it seems we have to condemn everyone alive
 at the moment some unsavory event was occurring: Weren't even the Native
 Americans and the slaves "obliquely" responsible for the what happened?
 
+In discussing Berkeley's work *Alciphron*, Jones seems overly anxious to assure
+the reader that Berkeley's "right thinkers" Are just as subject to prejudice as
+are his "free thinkers." For instance, Jones quotes Berkeley as writing,
+
+"[W]ho would choose for his Guide in the Search of Truth, a Man...
+whose Education hath been behind a Counter, or in an Office?
+Or whose Speculations have been employed on the Forms of Business,
+who are only well read in the ways and commerce of Mankind, in
+Stock-jobbing, Purloining, Supplanting, Bribing?"
+
+Jones comments:
+
+"In the choice of what kind of human character we wish to be
+led by... What's her personally take to have clear and extensive use, credo is
+set against anyone working in business and finance. This prejudice seems as
+unfounded as the freethinking prejudiced for nobility of rank..."
+
+However, Jones is left out important part of the quote from *Alciphron*; Crito
+also recommends against taking as a guide "a Man whose Thoughts and Time are
+taken up with Dress, Visits, and Diversions" (*Alciphron*, Second Dialogue,
+section XIX). Once we combine that with his "*only* well read", it is clear
+that Crito is claiming that a mind *consumed* by thoughts of fashion and
+socializing, or by thoughts of financial gain, will not make a good
+philosopher. That hardly seems to be a prejudice.
+
 
 ## Bibliography
 

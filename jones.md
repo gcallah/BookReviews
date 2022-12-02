@@ -145,8 +145,15 @@ philosopher. That hardly seems to be a prejudice.
 In a chapter called "The True End of Speech," Jones turns his attention to Berkeley
 as a philosopher of language and semiotician. This is an aspect of Berkeley's
 thought that has garnered a great deal of attention lately. (See, for instance
-Kenneth Pearce's *Language and the Structure of Berkeley's World*.) Jones notes
-that:
+Kenneth Pearce's *Language and the Structure of Berkeley's World*.) Jones opens
+the chapter with a quote from Berkeley that shows that the bishop himself
+would have welcomed this emphasis:
+
+"The Doctrine of Signs is a Point of great Importance, and general Extent, which,
+if duly considered, would cast no small Light upon Things..." (*Alciphron*
+VII.6, quoted on 379).
+
+Jones notes that:
 
 "The arguments Berkeley deploys in this account of language have a 20th century
 field: his introduction of rules of conduct and changes of behavior as tests of

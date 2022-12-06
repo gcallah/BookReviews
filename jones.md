@@ -36,11 +36,18 @@ effects of spirits to exist in willing some conceived and quite possibly
 indistinct good, lends its support to a biographical approach to his
 philosophy." (12-13)
 
-" another tendency in Berkeley‘s thought that has not previously been
+"another tendency in Berkeley‘s thought that has not previously been
 elaborated... Is the tendency to present thinking and acting as participating in...
 Divinity" (13)
 
-"Perhaps not everyone feels that Berkeley’s God is an embarrassment..." (15)
+An unfortunate recurrence throughout the book is a certain temporal
+parochialism, A conviction that the current ideas are the best ideas (so far,
+at least), And that when they disagreed with past ideas, clearly the past ideas
+are to blame. This shows up early on when Jones writes, "Perhaps not everyone
+feels that Berkeley’s God is an embarrassment..." (15). Countless thinkers in
+the past would have found today's presumption of materialism an
+embarrassment. And many of them were very bright people.
+
 
 Jones's understanding of the physics and mathematics he discusses is not always
 adequate to the task. For instance, at one point he calls fluxions "the forces
@@ -161,6 +168,21 @@ whether a term is meaningful are revolutionary. He has been thought a precursor
 of Wittgenstein, Grice, and Austin." (384)
 
 
+In both the chapter "Passive Obedience, and in "Discipline," Jones
+highlights an important conundrum that neither he nor I believe Berkleley
+successfully resolved: As an advocate of passive obedience to the current
+secular rulers, would not B have to condemn the fact that they themselves
+gained power by overthrowing the Stuart dynasty? And in recommending that
+Christians accept the doctrines of the current (Anglican) established church
+and not engage in "free thinking," How could he avoid the conclusion that the
+founders of the Anglican church were wrong and not accepting the doctrines of
+the Catholic Church and asserting their own right to "free thinking" at its
+expense? In fact, is embrace of passive obedience cost him preferment on some
+occasions, as critics rightly saw that it could be used to challenge the
+legitimacy of the house of Hanover. And, as Jones notes, his position on church
+authority was condemned by contemporaries as a "threat to the liberty from
+overbearing ecclesiastical authority that the Protestant movement itself
+represented" (421).
 
 
 

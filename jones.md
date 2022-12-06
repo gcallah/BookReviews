@@ -186,6 +186,15 @@ represented" (421).
 
 
 
+Certainly we should not hush up or try to disguise the fact that B owned slaves,
+and held unduly prejudiced views about Native Americans, Africans, and the
+Irish. But although there were exceptions, such views were common place at that
+time. Who is to say if Jones, or myself, would not have held similar views if
+we had been alive then? And given that condemnation of slavery is hardly a bold
+or unpopular opinion today, what purpose is served by going on about how bad B
+was to support it?
+
+
 
 ## Bibliography
 

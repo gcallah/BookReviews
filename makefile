@@ -1,6 +1,6 @@
 %.docx: %.md
 	pandoc -o $@ -f markdown -t docx $*.md
 
-prod:
+github:
 	-git commit -a
 	git push origin master

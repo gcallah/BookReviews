@@ -9,6 +9,8 @@ Princeton and Oxford: Princeton University Press, 2021. 622 pages.
 
 ---
 
+Jones opens this work with a very strong claim:
+
 "Berkeley's documented life and participation in various institutions and
 practices, such as those of the exclusive educational institutions of a
 Protestant elite, is inseparable from his treatment of major philosophical and
@@ -162,7 +164,7 @@ VII.6, quoted on 379).
 
 Jones notes that:
 
-"The arguments Berkeley deploys in this account of language have a 20th century
+"The arguments Berkeley deploys in this account of language have a 20th-century
 field: his introduction of rules of conduct and changes of behavior as tests of
 whether a term is meaningful are revolutionary. He has been thought a precursor
 of Wittgenstein, Grice, and Austin." (384)
@@ -194,6 +196,28 @@ we had been alive then? And given that condemnation of slavery is hardly a bold
 or unpopular opinion today, what purpose is served by going on about how bad B
 was to support it?
 
+This is an excellent addition to the literature on B, one that gives the reader
+a rich feel not just for B's own life, but for the context in which that life
+and those works were contained. It is true that understanding B's life better
+does cast new light on his works. But as far as 
+the claim Jones makes, that B's life and his philosophy are "inseparable," 
+this juror must bring in a verdict of "Unproven." For instance, B certainly
+was inspired to debunk the newly fashionable theory of matter put forth by
+figures such as Descartes and Locke based on the fact that he felt it promoted
+skepticism. But B's arguments as to why matter, as his targets understood it, was
+an untenable concept, do not depend upon his motivation in making them. They
+either succeed or not on their own merits. It is very interesting to learn
+about B's Intimate involvement with elite Protestant education, his desire to
+defend and promote Anglicanism, And his efforts to gain better positions within
+the church. But numerous people at the time were educated in elite Protestant
+institutions, promoted Anglicanism, and sought better jobs. But only one of
+them wrote books arguing for immaterialism.
+
+As noted at the beginning of this review, if we cannot consider a thinker's
+arguments apart from that thinker's life history, then Jones's book itself is
+radically incomplete: every copy ought to be shipped with a biography of Jones.
+And unless that is an autobiography, that biography should come with a
+biography of the person who wrote *it*. And so on, ad infinitum.
 
 
 ## Bibliography

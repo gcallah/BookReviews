@@ -16,10 +16,11 @@ practices, such as those of the exclusive educational institutions of a
 Protestant elite, is inseparable from his treatment of major philosophical and
 social issues" (3).
 
-This is an extremely strong contention: Jones does not contend that on
+Jones does not contend that on
 occasion, we might get insight into a thinker's philosophical position by
-examining that thinker's biography. No, he claims that someone's philosophical
-ideas are "Inseparable" from their biography. Should we except or reject
+examining that thinker's biography. No, he claims that B's (and I assume not
+just B's: more on this below) philosophical
+ideas are "inseparable" from his biography. Should we accept or reject
 immaterialism based on what we think of how Berkeley led his life? Many people
 have read Berkeleys argument for immaterialism and discussed it without knowing
 anything about his biography. Were they all mistaken to do so? And how about
@@ -28,50 +29,46 @@ read a biography of Jones? If Jones's contention is true, it would seem that
 every intellectual work ought to be accompanied by a biography of the person
 who wrote it. 
 
-"Being an agent cannot be like unto, or represented by, any idea whatsoever..."
-(9)
+
+Henceforth in this review, I am assuming Jones would make a similar contention
+vis-à-vis any philosopher’s work. And my justified in this assumption? A
+subsequent quote might be used to argue that I am not: “ I want to suggest that
+the consideration of the central topics in B’s immaterialism offers a
+justification of a biographical approach to his philosophical career…” So
+perhaps there is some thing about B’s philosophy that especially demands a
+biographical approach to understand it? But the passage continues: “but one
+that might first require us to rethink our ideas of what people are and how
+they know one another” (4). Therefore, this biographical approach, given it is
+based upon a certain understanding of “what people are”, or to apply to
+philosophers in general. And as we read on in Joneses work, what we will
+discover is not that he suggests that B’s philosophy particularly *demands* a
+biographical approach, but that his philosophy *supports* one. Let’s take a
+look at this passage:
 
 
-"But it is perhaps surprising the Berkeley’s immaterialism, his insistence
+"But it is perhaps surprising that Berkeley’s immaterialism, his insistence
 that there is only one substance — spirit — and that ideas are merely passive
 effects of spirits to exist in willing some conceived and quite possibly
 indistinct good, lends its support to a biographical approach to his
 philosophy." (12-13)
 
-"another tendency in Berkeley‘s thought that has not previously been
-elaborated... Is the tendency to present thinking and acting as participating in...
-Divinity" (13)
+Jones’s contention above is imprecise: if B’s arguments for immaterialism are
+wrong, they do not lend support to *anything*: they are simply mistakes. If we
+except a false proposition as a  premise in an argument, then “from falsehood
+anything follows.” But if B’s arguments *are* correct, then they lend support
+to analyzing the work of *any* philosopher biographically. And thus I will
+treat them.
+
 
 An unfortunate recurrence throughout the book is a certain temporal
-parochialism, A conviction that the current ideas are the best ideas (so far,
-at least), And that when they disagreed with past ideas, clearly the past ideas
+parochialism, a conviction that the current ideas are the best ideas (so far,
+at least), and that when they disagreed with past ideas, clearly the past ideas
 are to blame. This shows up early on when Jones writes, "Perhaps not everyone
 feels that Berkeley’s God is an embarrassment..." (15). Countless thinkers in
 the past would have found today's presumption of materialism an
 embarrassment. And many of them were very bright people.
 
-
-Jones's understanding of the physics and mathematics he discusses is not always
-adequate to the task. For instance, at one point he calls fluxions "the forces
-that cause changes in motion" (55): but this is nonsense. "Fluxion" was
-Newton's term for an instantaneous rate of change, and had nothing to do with
-what force might be causing that change.
-
-
-Jones mentions that by the time he left Dublin, many of Barclays "enduring and
-idiosyncratic  tendencies" (141) had already become apparent. Among these is
-contention that the world "is a world of ideas" (141): This illustrates a
-degree of continuity amongst the British idealists that is often denied, for
-refined Michael Oakeshott making the exact same contention in 1933.
-
-Jones then goes on to say, "For all that the world may appear to have
-physical being, tangible or visible extension, its real existence is as ideas"
-(141). This is a mistake made by many interpreters of Berkeley: he is **not**
-claiming that there is no physical world, or tangible or visible extension. He
-is claiming that the world's physicality is **itself** an idea, as is
-extension. These things are not illusions that must be dispelled by Berkeley's
-philosophy: they are realities whose basis is explained by it.
-
+Another example of this temporal bias is Jones's puzzle here:
 "Here, as in so many other locations in seventeenth-
 and eighteenth-century social thought,
 the possibility that rank produces, or is otherwise complicit in, the
@@ -84,6 +81,28 @@ is that 21st-century social thinkers believe that rank is in conflict with
 natural rights to justice and equity.
 
 
+Jones's understanding of the physics and mathematics he discusses is not always
+adequate to the task. For instance, at one point he calls fluxions "the forces
+that cause changes in motion" (55): but this is nonsense. "Fluxion" was
+Newton's term for an instantaneous rate of change, and had nothing to do with
+what force might be causing that change.
+
+
+Jones mentions that by the time he left Dublin, many of B's "enduring and
+idiosyncratic  tendencies" (141) had already become apparent. Among these is
+contention that the world "is a world of ideas" (141): This illustrates a
+degree of continuity amongst the British idealists that is often denied, for
+refined Michael Oakeshott making the exact same contention in 1933.
+
+Jones then goes on to say, "For all that the world may appear to have
+physical being, tangible or visible extension, its real existence is as ideas"
+(141). This is a mistake made by many interpreters of Berkeley: he is **not**
+claiming that there is no physical world, or tangible or visible extension. He
+is claiming that the world's physicality is **itself** an idea, as is
+extension. These things are not illusions that must be dispelled by Berkeley's
+philosophy: they are realities whose basis it attempts to explain.
+
+
 In discussing Berkeley's travels in England, Italy, and America, Jones
 highlights how prominent thoughts on social improvement were in B's life. Even
 his most famous "metaphysical" works partook of this tendency, as they were
@@ -93,7 +112,7 @@ as serious threats to social order.
 B's wife is quoted as saying, "He has taken from them the ground they stand on,
 & had he built as he has pulled down he had been down a master builder indeed
 but Unto every Man his Work some must remove rubbish, & others lay
-Foundations..." Jones's Questionable reading of this quote is that "Berkeley's
+Foundations..." Jones's questionable reading of this quote is that "Berkeley's
 wife taught him more destructive than productive as a philosopher" (304). But
 Mrs. Berkeley said that what he was pulling down was "rubbish," and surely
 removing rubbish is a constructive, not a destructive, activity.
@@ -126,7 +145,7 @@ at the moment some unsavory event was occurring: Weren't even the Native
 Americans and the slaves "obliquely" responsible for the what happened?
 
 In discussing Berkeley's work *Alciphron*, Jones seems overly anxious to assure
-the reader that Berkeley's "right thinkers" Are just as subject to prejudice as
+the reader that Berkeley's "right thinkers" are just as subject to prejudice as
 are his "free thinkers." For instance, Jones quotes Berkeley as writing,
 
 "[W]ho would choose for his Guide in the Search of Truth, a Man...
@@ -138,9 +157,9 @@ Stock-jobbing, Purloining, Supplanting, Bribing?"
 Jones comments:
 
 "In the choice of what kind of human character we wish to be
-led by... What's her personally take to have clear and extensive use, credo is
-set against anyone working in business and finance. This prejudice seems as
-unfounded as the freethinking prejudiced for nobility of rank..."
+led by... what sort of person we take to have clear and extensive views, Crito
+is set against anyone working in business and finance. This prejudice seems as
+unfounded as the freethinking prejudiced for nobility of rank..." (373)
 
 However, Jones is left out important part of the quote from *Alciphron*; Crito
 also recommends against taking as a guide "a Man whose Thoughts and Time are
@@ -176,8 +195,8 @@ successfully resolved: As an advocate of passive obedience to the current
 secular rulers, would not B have to condemn the fact that they themselves
 gained power by overthrowing the Stuart dynasty? And in recommending that
 Christians accept the doctrines of the current (Anglican) established church
-and not engage in "free thinking," How could he avoid the conclusion that the
-founders of the Anglican church were wrong and not accepting the doctrines of
+and not engage in "free thinking," how could he avoid the conclusion that the
+founders of the Anglican church were wrong in not accepting the doctrines of
 the Catholic Church and asserting their own right to "free thinking" at its
 expense? In fact, is embrace of passive obedience cost him preferment on some
 occasions, as critics rightly saw that it could be used to challenge the
@@ -185,7 +204,6 @@ legitimacy of the house of Hanover. And, as Jones notes, his position on church
 authority was condemned by contemporaries as a "threat to the liberty from
 overbearing ecclesiastical authority that the Protestant movement itself
 represented" (421).
-
 
 
 Certainly we should not hush up or try to disguise the fact that B owned slaves,
@@ -196,7 +214,7 @@ we had been alive then? And given that condemnation of slavery is hardly a bold
 or unpopular opinion today, what purpose is served by going on about how bad B
 was to support it?
 
-This is an excellent addition to the literature on B, one that gives the reader
+This book is an excellent addition to the literature on B, one that gives the reader
 a rich feel not just for B's own life, but for the context in which that life
 and those works were contained. It is true that understanding B's life better
 does cast new light on his works. But as far as 
@@ -207,13 +225,13 @@ figures such as Descartes and Locke based on the fact that he felt it promoted
 skepticism. But B's arguments as to why matter, as his targets understood it, was
 an untenable concept, do not depend upon his motivation in making them. They
 either succeed or not on their own merits. It is very interesting to learn
-about B's Intimate involvement with elite Protestant education, his desire to
-defend and promote Anglicanism, And his efforts to gain better positions within
+about B's intimate involvement with elite Protestant education, his desire to
+defend and promote Anglicanism, and his efforts to gain better positions within
 the church. But numerous people at the time were educated in elite Protestant
 institutions, promoted Anglicanism, and sought better jobs. But only one of
 them wrote books arguing for immaterialism.
 
-As noted at the beginning of this review, if we cannot consider a thinker's
+As argued at the beginning of this review, if we cannot consider a thinker's
 arguments apart from that thinker's life history, then Jones's book itself is
 radically incomplete: every copy ought to be shipped with a biography of Jones.
 And unless that is an autobiography, that biography should come with a

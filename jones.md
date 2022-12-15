@@ -31,7 +31,7 @@ who wrote it.
 
 
 Henceforth in this review, I am assuming Jones would make a similar contention
-vis-à-vis any philosopher’s work. And my justified in this assumption? A
+vis-à-vis any philosopher’s work. Am I justified in this assumption? A
 subsequent quote might be used to argue that I am not: “ I want to suggest that
 the consideration of the central topics in B’s immaterialism offers a
 justification of a biographical approach to his philosophical career…” So
@@ -92,7 +92,7 @@ Jones mentions that by the time he left Dublin, many of B's "enduring and
 idiosyncratic  tendencies" (141) had already become apparent. Among these is
 contention that the world "is a world of ideas" (141): This illustrates a
 degree of continuity amongst the British idealists that is often denied, for
-refined Michael Oakeshott making the exact same contention in 1933.
+we find Michael Oakeshott making the exact same contention in 1933.
 
 Jones then goes on to say, "For all that the world may appear to have
 physical being, tangible or visible extension, its real existence is as ideas"
@@ -161,7 +161,7 @@ led by... what sort of person we take to have clear and extensive views, Crito
 is set against anyone working in business and finance. This prejudice seems as
 unfounded as the freethinking prejudiced for nobility of rank..." (373)
 
-However, Jones is left out important part of the quote from *Alciphron*; Crito
+However, Jones has left out important part of the quote from *Alciphron*; Crito
 also recommends against taking as a guide "a Man whose Thoughts and Time are
 taken up with Dress, Visits, and Diversions" (*Alciphron*, Second Dialogue,
 section XIX). Once we combine that with his "*only* well read", it is clear
@@ -198,7 +198,7 @@ Christians accept the doctrines of the current (Anglican) established church
 and not engage in "free thinking," how could he avoid the conclusion that the
 founders of the Anglican church were wrong in not accepting the doctrines of
 the Catholic Church and asserting their own right to "free thinking" at its
-expense? In fact, is embrace of passive obedience cost him preferment on some
+expense? In fact, his embrace of passive obedience cost him preferment on some
 occasions, as critics rightly saw that it could be used to challenge the
 legitimacy of the house of Hanover. And, as Jones notes, his position on church
 authority was condemned by contemporaries as a "threat to the liberty from

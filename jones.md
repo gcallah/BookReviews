@@ -33,15 +33,15 @@ anything about his biography. Were they all mistaken to do so?
 Henceforth in this review, I am assuming Jones would make a similar contention
 vis-à-vis any philosopher’s work. And my justified in this assumption? A
 subsequent quote might be used to argue that I am not: "I want to suggest that
-the consideration of the central topics in B’s immaterialism offers a
+the consideration of the central topics in Berkeley's immaterialism offers a
 justification of a biographical approach to his philosophical career... So
-perhaps there is some thing about B’s philosophy that especially demands a
-biographical approach to understand it? But the passage continues: “but one
+perhaps there is some thing about Berkeley's philosophy that especially demands a
+biographical approach to understand it? But the passage continues: "but one
 that might first require us to rethink our ideas of what people are and how
-they know one another” (4). Therefore, this biographical approach, given it is
-based upon a certain understanding of “what people are”, ought to apply to
+they know one another" (4). Therefore, this biographical approach, given it is
+based upon a certain understanding of "what people are", ought to apply to
 philosophers in general. And as we read on in Joneses work, what we will
-discover is not that he suggests that B’s philosophy particularly *demands* a
+discover is not that he suggests that Berkeley's philosophy particularly *demands* a
 biographical approach, but that his philosophy *supports* one. Let’s take a
 look at this passage:
 
@@ -52,10 +52,10 @@ effects of spirits to exist in willing some conceived and quite possibly
 indistinct good, lends its support to a biographical approach to his
 philosophy." (12-13)
 
-Jones’s contention above is imprecise: if B’s arguments for immaterialism are
+Jones’s contention above is imprecise: if Berkeley's arguments for immaterialism are
 wrong, they do not lend support to *anything*: they are simply mistakes. If we
-except a false proposition as a  premise in an argument, then “from falsehood
-anything follows.” But if B’s arguments *are* correct, then they lend support
+except a false proposition as a  premise in an argument, then "from falsehood
+anything follows." But if Berkeley's arguments *are* correct, then they lend support
 to analyzing the work of *any* philosopher biographically. And thus I will
 treat them, which raises the question: 
 How about

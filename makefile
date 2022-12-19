@@ -1,3 +1,5 @@
+# prod: %.docx github
+
 %.docx: %.md
 	pandoc -o $@ -f markdown -t docx $*.md
 

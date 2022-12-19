@@ -32,9 +32,9 @@ who wrote it.
 
 Henceforth in this review, I am assuming Jones would make a similar contention
 vis-à-vis any philosopher’s work. And my justified in this assumption? A
-subsequent quote might be used to argue that I am not: “ I want to suggest that
+subsequent quote might be used to argue that I am not: "I want to suggest that
 the consideration of the central topics in B’s immaterialism offers a
-justification of a biographical approach to his philosophical career…” So
+justification of a biographical approach to his philosophical career... So
 perhaps there is some thing about B’s philosophy that especially demands a
 biographical approach to understand it? But the passage continues: “but one
 that might first require us to rethink our ideas of what people are and how

@@ -34,8 +34,8 @@ Henceforth in this review, I am assuming Jones would make a similar contention
 vis-à-vis any philosopher’s work. And my justified in this assumption? A
 subsequent quote might be used to argue that I am not: "I want to suggest that
 the consideration of the central topics in Berkeley's immaterialism offers a
-justification of a biographical approach to his philosophical career... So
-perhaps there is some thing about Berkeley's philosophy that especially demands a
+justification of a biographical approach to his philosophical career..." So
+perhaps there is something about Berkeley's philosophy that especially demands a
 biographical approach to understand it? But the passage continues: "but one
 that might first require us to rethink our ideas of what people are and how
 they know one another" (4). Therefore, this biographical approach, given it is
@@ -66,7 +66,7 @@ who wrote it.
 
 An unfortunate recurrence throughout the book is a certain temporal
 parochialism, an apparent conviction that the current ideas are the best ideas
-(so far, at least), and that when they disagreed with past ideas, clearly the
+(so far, at least), and that when they disagree with past ideas, clearly the
 past ideas are to blame. This shows up early on when Jones writes, "Perhaps not
 everyone feels that Berkeley’s God is an embarrassment..." (15). Countless
 thinkers in the past would have found today's presumption of materialism an
@@ -114,7 +114,7 @@ Berkeley's wife is quoted as saying, "He has taken from them the ground they sta
 & had he built as he has pulled down he had been down a master builder indeed
 but Unto every Man his Work some must remove rubbish, & others lay
 Foundations..." Jones's questionable reading of this quote is that "Berkeley's
-wife taught him more destructive than productive as a philosopher" (304). But
+wife thought him more destructive than productive as a philosopher" (304). But
 Mrs. Berkeley said that what he was pulling down was "rubbish," and surely
 removing rubbish is a constructive, not a destructive, activity.
 
@@ -140,9 +140,9 @@ sales, and without his college ever being built. One can never prove historical
 counterfactuals, but perhaps if his scheme has gone
 through, the outcome on St. Christopher would have been different.
 
-But even odder Is this notion of "oblique" responsibility: Once we adopt such a
+But even odder is this notion of "oblique" responsibility: Once we adopt such a
 flimsy standard for placing blame, it seems we have to condemn everyone alive
-at the moment some unsavory event was occurring: Weren't even the Native
+at the moment some unpleasant event was occurring: Weren't even the Native
 Americans and the slaves "obliquely" responsible for the what happened?
 
 In discussing Berkeley's work *Alciphron*, Jones seems overly anxious to assure
@@ -196,15 +196,15 @@ gained power by overthrowing the Stuart dynasty? And in recommending that
 Christians accept the doctrines of the current (Anglican) established church
 and not engage in "free thinking," how could he avoid the conclusion that the
 founders of the Anglican church were wrong in not accepting the doctrines of
-the Catholic Church and asserting their own right to "free thinking" at its
-expense? In fact, his embrace of passive obedience cost him preferment on some
+the Catholic Church and asserting their own right to "free thinking"?
+In fact, his embrace of passive obedience cost him preferment on some
 occasions, as critics rightly saw that it could be used to challenge the
-legitimacy of the house of Hanover. And, as Jones notes, his position on church
+legitimacy of the House of Hanover. And, as Jones notes, his position on church
 authority was condemned by contemporaries as a "threat to the liberty from
 overbearing ecclesiastical authority that the Protestant movement itself
 represented" (421).
 
-This book is an excellent addition to the literature on B, one that gives the reader
+This book is an excellent addition to the literature on Berkeley, one that gives the reader
 a rich feel not just for Berkeley's own life, but for the context in which that life
 and those works were contained. It is true that understanding Berkeley's life better
 does cast new light on his works. But as far as 

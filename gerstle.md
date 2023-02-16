@@ -6,7 +6,11 @@ Gary Gerstle
 Oxford University Press: New York, 2022, 406 pages, $27.95
 
 
-"Steve Fraser and I introduced the concept of political order in a 1989 book that we co-edited..." (3)
+"Steve Fraser and I introduced the concept of political order in a 1989 book
+that we co-edited..." (3) Unfortunately for this claim, Eric Voegelin wrote a
+five-volume series, *Order and History*, from 1956 through 1987, devoted to the
+topic of political orders.
+
 
 
 "The ethnonationalist leaders, Trump included... wanted the planet to be

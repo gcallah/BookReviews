@@ -25,8 +25,9 @@ responsibility as the enforcer of liberal and neoliberal rules of global
 order."
 
 In other words, the world Gerstle liked *was* being ruled by force: US force
-attacking countries that did not conform to rules of global order, created by
-the US and its allies. And when he complains that Trump wanted a global order
+attacking countries that did not conform to rules of the global order created by
+the US and its allies. (See, for instance, Iraq, 2003.)
+And when he complains that Trump wanted a global order
 ruled by force, what he really means is that Trump was threatening to stop
 ruling the globe by force!
 

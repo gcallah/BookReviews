@@ -48,3 +48,12 @@ Buchanan: "And there were the brave people of Koreatown..."
 
 
 
+Gerstle In discussing the second, George Bush, contrast, the "hateful
+ethnonationalist populism [of] Donald Trump" with the kind words of Bush, such
+as his calling "On Americans, to respect the legitimacy of Islam and the law,
+abiding Muslims, who practiced it" (208-209). Gerstle Provides no evidence as
+to what the hateful things Trump did consist of. But here it might be
+worthwhile to note that whatever mean things Trump said, Bush's policies
+actually resulted in the death of a couple million Muslims. One Might think
+that would outweigh some kind, Gerstle's eyes, but apparently not.
+

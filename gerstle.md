@@ -48,7 +48,7 @@ Buchanan: "And there were the brave people of Koreatown..."
 
 
 
-Gerstle In discussing the second, George Bush, contrast, the "hateful
+Gerstle, in discussing the second, George Bush, contrasts the "hateful
 ethnonationalist populism [of] Donald Trump" with the kind words of Bush, such
 as his calling "On Americans, to respect the legitimacy of Islam and the law,
 abiding Muslims, who practiced it" (208-209). Gerstle Provides no evidence as
@@ -57,3 +57,26 @@ worthwhile to note that whatever mean things Trump said, Bush's policies
 actually resulted in the death of a couple million Muslims. One might think
 that would outweigh some kind words in Gerstle's eyes, but apparently not.
 
+
+
+In discussing Trump's embrace of Obama "birtherism,"
+
+
+Gerstle writes that "The Trump mob had gone berserk... smashing the heads of
+policemen with fire extinguishers" (289). Gerstle presents no evidence at all
+for this claim. Doing the research that perhaps Gerstle ought to have done, I
+discover two sources for it:
+
+1. A video shows that someone in the mob
+tossed a fire extinguisher at a crowd of police. It
+bounced off of an officer's helmet, leaving him apparently unfazed.
+2. It was at first widely reported that policeman Brian Sicknick, who died the
+day after the riot, was killed by protesters who had beaten him with a fire
+extinguisher. But these reports turned out to have no factual basis, and it was
+determined that Sicknick died of natural causes.
+
+Gerstle also describes the riot as a "coup attempt" (289), again without citing
+any evidence that this terribly disorganized mob actually had a scheme in place
+to overthrow the U.S. government. The riot was an ugly event in which many
+crimes were committed, but that is no reason to exaggerate about what took
+place.

@@ -32,7 +32,7 @@ ruled by force, what he really means is that Trump was threatening to stop
 ruling the globe by force!
 
 
-"Suddenly, and for the first moment in the nations, petroleum age, Americans
+"Suddenly, and for the first moment in the nation's petroleum age, Americans
 could not get enough gasoline."  (60)
 
 This is economic nonsense: there is no amount of some commodity that is
@@ -42,6 +42,31 @@ one. If the price of gasoline had been allowed to rise to reflect the OPEC
 restrictions, Americans would’ve had just as much gasoline as they wished to
 use at that cost.
 
+
+Gerstle gives credit (or places the blame?) for birthing neoliberalism to
+Ludwig von Mises and Friedrich Hayek. Certainly he is correct in citing those
+two men as key figures in the revival of "classical liberalism." But then he
+writes "This new liberalism is what they began to call neoliberalism..." (73).
+I have read a fair amount of both Mises and Hayek, and I could not recall seeing
+either of them every using that term. But I have not read everything either of
+them wrote, so I asked a number of scholars specializing in their work if
+they knew of any instances of either of them using that term. None of them did.
+And Gerstle offers no evidence that they actually did use it. And this is a
+flaw that appears frequently throughout this work: Despite almost 100 pages
+of endnotes, the author repeatedly introduces dubious or partisan claims, but
+offers absolutely no evidence to back them.
+
+He then goes on to say that "Hayek [and] von Mises... wanted to be seen as the
+creators of a disciplined 'thought collective'" (73). And he does provide a
+endnote here: but the endnote only shows that in 2009, someone called
+what they were doing a "thought collective." That is hardly evidence that these
+two committed individualists wanted to be seen as part of a collective!
+
+
+Gerstle describes economist Murray Rothbard's "chief aim" as being "to shrink to
+Liliputian size the American Leviathan that had made possible the New Deal
+order" (103). But Rothbard was an anarchist: his chief aim was to *eliminate*
+the State, including the American instance, not to "shrink" it.
 
 
 Buchanan: "And there were the brave people of Koreatown..."

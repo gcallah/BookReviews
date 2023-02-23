@@ -83,8 +83,17 @@ actually resulted in the death of a couple million Muslims. One might think
 that would outweigh some kind words in Gerstle's eyes, but apparently not.
 
 
+Gerstle asserts that one of Donald Trump's "three beliefs" is "that America
+should privilege its people of European descent" (248). Once again, there is
+not a scrap of evidence presented to back this damning assertion. I recall
+Trump saying many inflammatory things on the campaign trail. But I also recall
+him repeatedly boasting that he would be the greatest president ever for black
+Americans. Maybe he didn't really mean that, and maybe he really did think the
+only Americans of European dissent were "real" Americans. But the burden of
+proof is on Gerstle here, and he completely evades it.
 
-In discussing Trump's embrace of Obama "birtherism,"
+
+In discussing Trump's embrace of Obama "birtherism," Gerstle writes 
 
 
 Gerstle writes that "The Trump mob had gone berserk... smashing the heads of

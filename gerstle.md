@@ -114,3 +114,13 @@ any evidence that this terribly disorganized mob actually had a scheme in place
 to overthrow the U.S. government. The riot was an ugly event in which many
 crimes were committed, but that is no reason to exaggerate about what took
 place.
+
+
+This is a somewhat infuriating book to review, because on the one hand, I
+believe that Gerstle's central thesis is correct, and that he has done an
+excellent job of showing that it is: there was, indeed, a New Deal political
+order; it collapsed under pressure from multiple source, and was replaced by a
+Neoliberal political order; and that latter order is now collapsing itself.
+Unfortunately, Gerstle has intermingled, amidst the evidence for this salutary
+historical thesis, a large number of partisan political points, which he
+generally fails to defend at all.

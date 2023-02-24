@@ -69,14 +69,36 @@ order" (103). But Rothbard was an anarchist: his chief aim was to *eliminate*
 the State, including the American instance, not to "shrink" it.
 
 
-Buchanan: "And there were the brave people of Koreatown..."
+Gerstle clearly despises Patrick Buchanan: for example he notes that Buchanan
+worried that NAFTA meant "tough hearty [white] men" (151) would lose their
+jobs. Now clearly Buchanan did not say or write the "white" part, or Gerstle
+would not have had to insert it in brackets. But is he justified in doing so?
+He cites three works by Buchanan. The first is his speech to the Republican
+national convention in 1992. The only reference to race in that speech is when
+Buchanan praises "the brave people of Koreatown," whom I am pretty sure are not
+white. The other two are pointers
+to entire books: *The Death of the West* and *State of Emergency*. In the
+former I found the sentence: "And any man, woman, or child, from any country or
+continent, can be a good American. We know that from our history" (128). That
+hardly sounds like a person who thinks that only white people can be real
+Americans.
+
+Gerstle claims that "Buchanan despised Mexicans both for their willingness to
+work for low wages and for their allegedly inferior racial character" (152).
+But when I search the sources Gerstle cites, I find statements like "There are
+still millions of these hard-working, family-oriented, patriotic Americans of
+Mexican heritage" (*The Death of the West*, p. 127). Now perhaps somewhere in
+all that Buchanan wrote in his long career there *is* evidence to back
+Gerstle's charges, but one would think, in making such incendiary claims, that
+it is the responsibility of the claimant to point us to precise passages that
+back up such claims, which Gerstle certainly fails to do.
 
 
 
 Gerstle, in discussing the second, George Bush, contrasts the "hateful
 ethnonationalist populism [of] Donald Trump" with the kind words of Bush, such
-as his calling "On Americans, to respect the legitimacy of Islam and the law,
-abiding Muslims, who practiced it" (208-209). Gerstle Provides no evidence as
+as his calling "On Americans, to respect the legitimacy of Islam and the law-
+abiding Muslims who practiced it" (208-209). Gerstle Provides no evidence as
 to what the hateful things Trump did consist of. But here it might be
 worthwhile to note that whatever mean things Trump said, Bush's policies
 actually resulted in the death of a couple million Muslims. One might think

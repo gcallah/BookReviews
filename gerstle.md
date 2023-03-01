@@ -5,12 +5,28 @@ Gary Gerstle
 
 Oxford University Press: New York, 2022, 406 pages, $27.95
 
+Gary Gerstle has written an infuriating book: infuriating because its core is
+an excellent and enlightening narrative of the rise and fall of what he terms
+"the Neoliberal Order," so that I want to sing its praises; but, unfortunately,
+Gerstle's ideological commitments have repeatedly intruded themselves into the
+narrative, so that what would have been an exemplary history is marred by
+numerous factual errors and provocative claims for which he provides no
+backing.
 
+The basic thesis of this book is that there exist political orders, by
+which the author means to designate "A constellation of ideologies, policies,
+and constituencies..." (2). Gerstle contends that, in the US,
+there have been two such orders in living memory: the New Deal Order, and the
+Neoliberal Order. And I think his claim here is on sound ground.
+
+Unfortunately, he then makes his first factual misstep, when he writes: 
 "Steve Fraser and I introduced the concept of political order in a 1989 book
 that we co-edited..." (3) Unfortunately for this claim, Eric Voegelin wrote a
 five-volume series, *Order and History*, from 1956 through 1987, devoted to the
-topic of political orders.
-
+topic of political orders. I grant that Voegelin did not conceive of such
+orders in precisely the same way as Fraser and Gerstle, nevertheless, his
+formulation is similar enough to theirs that he ought to be granted "first
+discoverer" status.
 
 
 "The ethnonationalist leaders, Trump included... wanted the planet to be

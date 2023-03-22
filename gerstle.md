@@ -28,11 +28,6 @@ orders in precisely the same way as Fraser and Gerstle, nevertheless, his
 formulation is similar enough to theirs that he ought to be granted "first
 discoverer" status.
 
-
-"The ethnonationalist leaders, Trump included... wanted the planet to be
-governed by force rather than by international law and multinational
-nongovernmental organizations..." (277)
-
 OK, by what possible "international law" could multinational, non-governmental
 organizations "govern the planet"? But it gets even worse: Gerstle goes on to
 say that Trump was making real a vision of a future in which the US would
@@ -84,8 +79,9 @@ Liliputian size the American Leviathan that had made possible the New Deal
 order" (103). But Rothbard was an anarchist: his chief aim was to *eliminate*
 the State, including the American instance, not to "shrink" it.
 
-
-Gerstle clearly despises Patrick Buchanan: for example he notes that Buchanan
+In chapter X, Gerstle begins to discuss the dissidents from neo-liberalism, and
+he clearly expresses a preference for some of them as opposed to others. For
+example, Gerstle despises Patrick Buchanan: for example he notes that Buchanan
 worried that NAFTA meant "tough hearty [white] men" (151) would lose their
 jobs. Now clearly Buchanan did not say or write the "white" part, or Gerstle
 would not have had to insert it in brackets. But is he justified in doing so?
@@ -134,6 +130,11 @@ proof is on Gerstle here, and he completely evades it.
 In discussing Trump's embrace of Obama "birtherism," Gerstle writes 
 
 
+
+"The ethnonationalist leaders, Trump included... wanted the planet to be
+governed by force rather than by international law and multinational
+nongovernmental organizations..." (277)
+
 Gerstle writes that "The Trump mob had gone berserk... smashing the heads of
 policemen with fire extinguishers" (289). Gerstle presents no evidence at all
 for this claim. Doing the research that perhaps Gerstle ought to have done, I
@@ -154,7 +155,7 @@ crimes were committed, but that is no reason to exaggerate about what took
 place.
 
 
-This is a somewhat infuriating book to review, because on the one hand, I
+As noted above, this is a infuriating book to review, because on the one hand, I
 believe that Gerstle's central thesis is correct, and that he has done an
 excellent job of showing that it is: there was, indeed, a New Deal political
 order; it collapsed under pressure from multiple source, and was replaced by a

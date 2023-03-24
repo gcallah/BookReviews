@@ -1,5 +1,4 @@
-# The Rise and Fall of the Neoliberal Order: America and the World in the Free
-Market Era
+# The Rise and Fall of the Neoliberal Order: America and the World in the Free Market Era
 
 Gary Gerstle
 
@@ -27,20 +26,6 @@ topic of political orders. I grant that Voegelin did not conceive of such
 orders in precisely the same way as Fraser and Gerstle, nevertheless, his
 formulation is similar enough to theirs that he ought to be granted "first
 discoverer" status.
-
-OK, by what possible "international law" could multinational, non-governmental
-organizations "govern the planet"? But it gets even worse: Gerstle goes on to
-say that Trump was making real a vision of a future in which the US would
-withdraw from its "role its role as the world’s global policeman, and from its
-responsibility as the enforcer of liberal and neoliberal rules of global
-order."
-
-In other words, the world Gerstle liked *was* being ruled by force: US force
-attacking countries that did not conform to rules of the global order created by
-the US and its allies. (See, for instance, Iraq, 2003.)
-And when he complains that Trump wanted a global order
-ruled by force, what he really means is that Trump was threatening to stop
-ruling the globe by force!
 
 
 "Suddenly, and for the first moment in the nation's petroleum age, Americans
@@ -73,14 +58,18 @@ endnote here: but the endnote only shows that in 2009, someone called
 what they were doing a "thought collective." That is hardly evidence that these
 two committed individualists wanted to be seen as part of a collective!
 
-
-Gerstle describes economist Murray Rothbard's "chief aim" as being "to shrink to
+Gerstle offers examples of how both the "New Left" and the "New Right" promoted
+different aspects of the neoliberal order. He discusses how Ayn Rand's radical
+individualism, especially in regard to sexual mores, appealed to some on the
+left. He also notes Murray Rothbard's journal, *Left and Right* as a point of
+intersection for the two groups. However,
+Gerstle describes economist Rothbard's "chief aim" as being "to shrink to
 Liliputian size the American Leviathan that had made possible the New Deal
 order" (103). But Rothbard was an anarchist: his chief aim was to *eliminate*
 the State, including the American instance, not to "shrink" it.
 
-In chapter X, Gerstle begins to discuss the dissidents from neo-liberalism, and
-he clearly expresses a preference for some of them as opposed to others. For
+In discussing the dissidents from neo-liberalism, Gerstle 
+clearly has preferences among them. For
 example, Gerstle despises Patrick Buchanan: for example he notes that Buchanan
 worried that NAFTA meant "tough hearty [white] men" (151) would lose their
 jobs. Now clearly Buchanan did not say or write the "white" part, or Gerstle
@@ -105,9 +94,10 @@ Gerstle's charges, but one would think, in making such incendiary claims, that
 it is the responsibility of the claimant to point us to precise passages that
 back up such claims, which Gerstle certainly fails to do.
 
+Gerstle likes Bernie Sanders a lot more.
 
 
-Gerstle, in discussing the second, George Bush, contrasts the "hateful
+In discussing the second George Bush, our author contrasts the "hateful
 ethnonationalist populism [of] Donald Trump" with the kind words of Bush, such
 as his calling "On Americans, to respect the legitimacy of Islam and the law-
 abiding Muslims who practiced it" (208-209). Gerstle Provides no evidence as
@@ -135,6 +125,21 @@ In discussing Trump's embrace of Obama "birtherism," Gerstle writes
 governed by force rather than by international law and multinational
 nongovernmental organizations..." (277)
 
+OK, by what possible "international law" could multinational, non-governmental
+organizations "govern the planet"? But it gets even worse: Gerstle goes on to
+say that Trump was making real a vision of a future in which the US would
+withdraw from its "role its role as the world’s global policeman, and from its
+responsibility as the enforcer of liberal and neoliberal rules of global
+order."
+
+In other words, the world Gerstle liked *was* being ruled by force: US force
+attacking countries that did not conform to rules of the global order created by
+the US and its allies. (See, for instance, Serbia: 1995 or Iraq: 2003.)
+And when he complains that Trump wanted a global order
+ruled by force, what he really means is that Trump was threatening to stop
+ruling the globe by force!
+
+In discussing the riot that took place in Washington, DC, on January 6, 2021,
 Gerstle writes that "The Trump mob had gone berserk... smashing the heads of
 policemen with fire extinguishers" (289). Gerstle presents no evidence at all
 for this claim. Doing the research that perhaps Gerstle ought to have done, I

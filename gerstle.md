@@ -27,7 +27,22 @@ orders in precisely the same way as Fraser and Gerstle, nevertheless, his
 formulation is similar enough to theirs that he ought to be granted "first
 discoverer" status.
 
+Gerstle makes a strong case that their existed, for several decades, a "New
+Deal order." This did not happen as soon as the New Deal took place, since many
+Republicans continue to object to many of its components. But when the
+Eisenhower, a Republican president, accepted most of those aspects as a fait
+accompli, the order was in place: there were, at that point, a large agreement
+across party lines about social safety nets, and Keynesian macroeconomic
+management. This agreement was succinctly expressed when Nixon, a Republican
+president, said he was "now a Keynesian in economics." Both parties had
+accepted the New Deal order, and only disagreed about details, like marginal
+tax rates.
 
+So how did this political order breakdown? In the 1970s, the orders promise of
+being able to carefully balance inflation against unemployment blew up, as both
+rose simultaneously. The rise in petroleum prices surely played a part in this;
+on that topic, Gerstle writes:
+</i>
 "Suddenly, and for the first moment in the nation's petroleum age, Americans
 could not get enough gasoline."  (60)
 
@@ -38,7 +53,12 @@ one. If the price of gasoline had been allowed to rise to reflect the OPEC
 restrictions, Americans would’ve had just as much gasoline as they wished to
 use at that cost.
 
+Misery index!
 
+The problems apparent in the New Deal order opened the door for some other
+paradigm to take its place, and the one that eventually did was
+"Neoliberalism." (While I think this term is historically accurate, it should
+be noted that many thinkers characterized as "neoliberals" object to it.)
 Gerstle gives credit (or places the blame?) for birthing neoliberalism to
 Ludwig von Mises and Friedrich Hayek. Certainly he is correct in citing those
 two men as key figures in the revival of "classical liberalism." But then he

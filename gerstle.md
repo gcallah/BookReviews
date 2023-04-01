@@ -53,7 +53,15 @@ one. If the price of gasoline had been allowed to rise to reflect the OPEC
 restrictions, Americans would’ve had just as much gasoline as they wished to
 use at that cost.
 
-Misery index!
+Gerstle also gets the "misery index" That was widely used in the late 1970s
+wrong. It combined the inflation, level with unemployment, producing a number
+that was supposed to show the degree to which economic conditions were
+miserable. But Gerstle believes that if it measured 20%, it was supposed to
+show that "more than a fifth of the economy was malfunctioning" (64). But no
+such claim was being made about some portion of the economy that wasn't
+working!
+
+
 
 The problems apparent in the New Deal order opened the door for some other
 paradigm to take its place, and the one that eventually did was

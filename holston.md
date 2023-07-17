@@ -28,4 +28,20 @@ subjects, Hobbes would certainly not claim that that makes it right.
 
 
 
+"where the ancients had once seen the laws formalism is simultaneously an advantage, and a disadvantage in the
+resolution of moral and political questions, Kant saw only the former…" 57
+
+Holston writes "Over the course of the last several decades, the autonomy tradition of Rousseau and Kant has enjoyed
+somewhat of a renaissance in contemporary democratic theory" (63)
+
+This has been due to dissatisfaction with the previously ascendant view that the virtue of democracy lies in its
+promoting the individual preferences of as many people as possible, since this may permit a majority to run roughshod
+over the rights of a minority. Holston cites Jurgen Habermas, from the continental philosophical tradition, and John
+Rawls, from the analytic tradition, as being the two key founders of this renaissance. 
+
+
+Essentially, Rawls is taking a decision procedure that might once have worked in a faculty meeting at Harvard, and
+suggesting it could also work in a society of over a quarter of a billion people. 
+
+
 

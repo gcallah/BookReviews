@@ -9,7 +9,7 @@ an excellent and enlightening narrative of the rise and fall of what he terms
 "the Neoliberal Order," so that I want to sing its praises; but, unfortunately,
 Gerstle's ideological commitments have repeatedly intruded themselves into the
 narrative, so that what would have been an exemplary history is marred by
-numerous factual errors and provocative claims for which he provides no
+numerous factual errors as well as provocative claims for which he provides no
 backing.
 
 The basic thesis of this book is that there exist political orders, by
@@ -30,15 +30,15 @@ discoverer" status.
 Gerstle makes a strong case that their existed, for several decades, a "New
 Deal order." This did not happen as soon as the New Deal took place, since many
 Republicans continue to object to many of its components. But when the
-Eisenhower, a Republican president, accepted most of those aspects as a fait
-accompli, the order was in place: there were, at that point, a large agreement
+Eisenhower, a Republican president, accepted most of those aspects as a *fait
+accompli*, the order was in place: there were, at that point, a large agreement
 across party lines about social safety nets, and Keynesian macroeconomic
 management. This agreement was succinctly expressed when Nixon, a Republican
 president, said he was "now a Keynesian in economics." Both parties had
 accepted the New Deal order, and only disagreed about details, like marginal
 tax rates.
 
-So how did this political order breakdown? In the 1970s, the orders promise of
+So how did this political order breakdown? In the 1970s, the order's promise of
 being able to carefully balance inflation against unemployment blew up, as both
 rose simultaneously. The rise in petroleum prices surely played a part in this;
 on that topic, Gerstle writes:
@@ -51,10 +51,11 @@ This is economic nonsense: there is no amount of some commodity that is
 greater quantity of a product, and at higher prices, they will demand a smaller
 one. If the price of gasoline had been allowed to rise to reflect the OPEC
 restrictions, Americans would’ve had just as much gasoline as they wished to
-use at that cost.
+use at that price.
 
-Gerstle also gets the "misery index" That was widely used in the late 1970s
-wrong. It combined the inflation, level with unemployment, producing a number
+Gerstle also gets the "misery index,"
+an economic indicator that was widely used in the late 1970s,
+wrong. It combined the inflation rate with unemployment, producing a number
 that was supposed to show the degree to which economic conditions were
 miserable. But Gerstle believes that if it measured 20%, it was supposed to
 show that "more than a fifth of the economy was malfunctioning" (64). But no
@@ -91,7 +92,7 @@ different aspects of the neoliberal order. He discusses how Ayn Rand's radical
 individualism, especially in regard to sexual mores, appealed to some on the
 left. He also notes Murray Rothbard's journal, *Left and Right* as a point of
 intersection for the two groups. However,
-Gerstle describes economist Rothbard's "chief aim" as being "to shrink to
+Gerstle describes Rothbard's "chief aim" as being "to shrink to
 Liliputian size the American Leviathan that had made possible the New Deal
 order" (103). But Rothbard was an anarchist: his chief aim was to *eliminate*
 the State, including the American instance, not to "shrink" it.
@@ -100,7 +101,7 @@ In discussing the dissidents from neo-liberalism, Gerstle
 clearly has preferences among them. For
 example, Gerstle despises Patrick Buchanan: for example he notes that Buchanan
 worried that NAFTA meant "tough hearty [white] men" (151) would lose their
-jobs. Now clearly Buchanan did not say or write the "white" part, or Gerstle
+jobs. Now clearly Buchanan did not write the "white" part, or Gerstle
 would not have had to insert it in brackets. But is he justified in doing so?
 He cites three works by Buchanan. The first is his speech to the Republican
 national convention in 1992. The only reference to race in that speech is when
@@ -120,16 +121,20 @@ Mexican heritage" (*The Death of the West*, p. 127). Now perhaps somewhere in
 all that Buchanan wrote in his long career there *is* evidence to back
 Gerstle's charges, but one would think, in making such incendiary claims, that
 it is the responsibility of the claimant to point us to precise passages that
-back up such claims, which Gerstle certainly fails to do.
+back thenm up, which Gerstle certainly fails to do.
 
-Gerstle likes Bernie Sanders a lot more.
+Gerstle likes another dissident from neoliberlism, Bernie Sanders, a lot more
+than he does Buchanan. While acknowledging the similarity of some of Sanders'
+economic positions to Donald Trump's, he praises Sanders for having "no desire
+to privilege Americans of European descent over those whose roots lay in Latin
+America, East and South Asia, and Africa" (259).
 
 
 In discussing the second George Bush, our author contrasts the "hateful
 ethnonationalist populism [of] Donald Trump" with the kind words of Bush, such
 as his calling "On Americans, to respect the legitimacy of Islam and the law-
-abiding Muslims who practiced it" (208-209). Gerstle Provides no evidence as
-to what the hateful things Trump did consist of. But here it might be
+abiding Muslims who practiced it" (208-209). Gerstle provides no evidence as
+to what the hateful things Trump did exactly were. But here it might be
 worthwhile to note that whatever mean things Trump said, Bush's policies
 actually resulted in the death of a couple million Muslims. One might think
 that would outweigh some kind words in Gerstle's eyes, but apparently not.
@@ -145,9 +150,7 @@ only Americans of European dissent were "real" Americans. But the burden of
 proof is on Gerstle here, and he completely evades it.
 
 
-In discussing Trump's embrace of Obama "birtherism," Gerstle writes 
-
-
+Continuing his attack on Trump, Gerstle writes:
 
 "The ethnonationalist leaders, Trump included... wanted the planet to be
 governed by force rather than by international law and multinational
@@ -187,6 +190,10 @@ to overthrow the U.S. government. The riot was an ugly event in which many
 crimes were committed, but that is no reason to exaggerate about what took
 place.
 
+Finally, the book's conclusion: "What comes next is the most important question
+the United States, and the world, now face" (293). No doubt true, but also
+rather trite, since almost every policy book ever written could have ended with
+that exact sentence.
 
 As noted above, this is a infuriating book to review, because on the one hand, I
 believe that Gerstle's central thesis is correct, and that he has done an

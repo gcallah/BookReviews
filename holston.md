@@ -44,4 +44,16 @@ Essentially, Rawls is taking a decision procedure that might once have worked in
 suggesting it could also work in a society of over a quarter of a billion people. 
 
 
+Holston is neither a dogmatist nor a nostalgic reactionary. He fully recognizes that the conditions faced by a
+continent-spanning, multi-ethnic republic, like the United States, are very different from those
+of a Greek polis, or a medieval kingdom. That the United States could be well governed
+simply by importing the political practice of such polities. But he does argue, and successfully, in my view,
+that The balance in modern politics has tilted entirely too far toward the cosmopolitan and the universal,
+and has ignored the local and particular. The result is that our politics is directed largely by a global elite that
+lays claim to having a properly cosmopolitan and universal point of view, leaving the average citizen voiceless.
+
+It is only at a local level that true political deliberation among citizens can take place. Holston's central message is
+that, if deliberative democrats are serious about their enterprise, they ought to be working to devolve decision making
+to the local level as far as possible.
+
 

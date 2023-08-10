@@ -1,4 +1,4 @@
-# Tradition and the deliberative turn : a critique of contemporary democratic theory
+# Tradition and the deliberative turn: a critique of contemporary democratic theory
 
 Ryan R. Holston
 
@@ -6,16 +6,28 @@ State University of New York Press, Albany, 2023
 
 ISBN: 9781438492100
 
+In recent years, there has been, amongst academic political theorists, a great amount of attention devoted to justifying
+political actions based on theories of "public reason" or "deliberative democracy." The impetus for this focus has been
+the realization that defending democratic decisions simply upon a "most people agreed to this, therefore it is OK"
+basis is clearly flawed: simply because most people in some polity agree that redheads are bad and should be eliminated
+does not render a law to execute all of them just.
+
+To roughly characterize the "deliberative" turn, these theorists have argued that a law or policy is only valid if it
+can be "reasonably" defended to all those who will be subject to its dictates. But this approach faces the problem of
+exactly what objections to a policy should be regarded as "reasonable": for instance, is a devout Muslim "unreasonable"
+in objecting to a law that permits non-halal slaughter of animals?
+
 Holston's approach to studying the social world (following that of his mentor, Claes Ryn) is interesting and important
 in that it occupies a middle ground between two extremes: On the one hand, many of the followers of Leo Strauss hold
 that any "historicism," such as taking into account historical circumstances when considering how some polity ought to
-be governed simply leads to surrendering virtue to the seductive song of moral relativism. On the other hand, there are
-historicists, such as Oswald Spengler, for whom historicism does indeed imply moral relativism. But Holston, like Ryn,
+be governed, simply leads to surrendering virtue to the seductive song of moral relativism. On the other hand, there are
+historicists, such as Oswald Spengler or Richard Rorty,
+for whom historicism does indeed imply moral relativism. But Holston, like Ryn,
 argues that, while transcendent moral truths exist, we only can move towards realizing them through concrete historical
 mores, practices, and cultures.
 
-Holston declares that his approach is historical into senses, firstly, "in views this discussion regarding deliberation
-itself as taking place over time" (2). Secondly, his approach is historical quote in the sense that it aims to bring to
+Holston declares that his approach is historical in two senses, firstly, "it views this discussion regarding deliberation
+itself as taking place over time" (2). Secondly, his approach is historical "in the sense that it aims to bring to
 bear on this conversation a sensitivity to the historical nature of deliberation in any society" (3).
 
 Holston argues that Rousseau set himself in opposition to the materialism of Thomas Hobbes, and in particular, "the

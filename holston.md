@@ -7,17 +7,17 @@ State University of New York Press, Albany, 2023
 ISBN: 9781438492100
 
 In recent years, there has been, amongst academic political theorists, a great amount of attention devoted to justifying
-political actions based on theories of "public reason" or "deliberative democracy." The impetus for this focus has been
-the realization that defending democratic decisions simply upon a "most people agreed to this, therefore it is OK"
-basis is clearly flawed: simply because most people in some polity agree that redheads are bad and should be eliminated
-does not render a law to execute all of them just.
+political decisions based on theories of "public reason" or "deliberative democracy." The impetus for this focus has been
+the realization that defending choices simply upon a "most people agreed to this, therefore it is OK"
+basis is clearly flawed: e.g., simply because the majority in some polity agree that
+redheads are bad and should be eliminated does not render a law to execute all of them just.
 
 To roughly characterize the "deliberative" turn, these theorists have argued that a law or policy is only valid if it
 can be "reasonably" defended to all those who will be subject to its dictates. But this approach faces the problem of
 exactly what objections to a policy should be regarded as "reasonable": for instance, is a devout Muslim "unreasonable"
 in objecting to a law that permits non-halal slaughter of animals?
 
-Holston's approach to studying the social world (following that of his mentor, Claes Ryn) is interesting and important
+Holston's approach to addressing such issues (following that of his mentor, Claes Ryn) is interesting and important
 in that it occupies a middle ground between two extremes: On the one hand, many of the followers of Leo Strauss hold
 that any "historicism," such as taking into account historical circumstances when considering how some polity ought to
 be governed, simply leads to surrendering virtue to the seductive song of moral relativism. On the other hand, there are
@@ -30,23 +30,28 @@ Holston declares that his approach is historical in two senses, firstly, "it vie
 itself as taking place over time" (2). Secondly, his approach is historical "in the sense that it aims to bring to
 bear on this conversation a sensitivity to the historical nature of deliberation in any society" (3).
 
+Hoston then sets about tracing the genesis of consensus-based democratic theory. He singles out Rousseau as his starting
+point (while acknowledging ealier roots); specifically, Rousseau's concept of the "general will" is clearly a precursor
+to modern public reason theories. Along the way,
 Holston argues that Rousseau set himself in opposition to the materialism of Thomas Hobbes, and in particular, "the
 sanction of the political doctrine that might makes right." (19)
 
-Did Hobbes really hold that "might makes right"?  That seems a rather crude interpretation of what he was up to. Of
+But did Hobbes really hold that "might makes right"?  That seems a rather crude interpretation of what he was up to. Of
 course the sovereign possesses might, but that is not what makes it right to obey him: it is rather that this might
 enables him to call a truce in the war of all against all. If he used his might to, for instance, wipe out his own
 subjects, Hobbes would certainly not claim that that makes it right.
 
-
+The next "founder" of modern deliberative democratic theory, per Holston, was Immanuel Kant. Kant emphasized the role of
+abstract ... [?]
 
 "where the ancients had once seen the laws formalism is simultaneously an advantage, and a disadvantage in the
-resolution of moral and political questions, Kant saw only the former…" 57
+resolution of moral and political questions, Kant saw only the former... 57
 
 Holston writes "Over the course of the last several decades, the autonomy tradition of Rousseau and Kant has enjoyed
 somewhat of a renaissance in contemporary democratic theory" (63)
 
-This has been due to dissatisfaction with the previously ascendant view that the virtue of democracy lies in its
+As mentioned above, 
+this has been due to dissatisfaction with the previously ascendant view that the virtue of democracy lies in its
 promoting the individual preferences of as many people as possible, since this may permit a majority to run roughshod
 over the rights of a minority. Holston cites Jurgen Habermas, from the continental philosophical tradition, and John
 Rawls, from the analytic tradition, as being the two key founders of this renaissance. 
@@ -55,14 +60,26 @@ Rawls, from the analytic tradition, as being the two key founders of this renais
 Essentially, Rawls is taking a decision procedure that might once have worked in a faculty meeting at Harvard, and
 suggesting it could also work in a society of over a quarter of a billion people. 
 
+Holston rests his case for the utopian nature of public reason theories largely on the work of the German philosopher
+Hans-Georg Gadamer. Gadamer's theory of "hermeneutics" emphasized the importance of customary practices and mores as the
+basis for genuine deliberation. If Gadamer is correct, then we can not expect public deliberation to reach any sort of
+consensus over large populations with fundamentally divergent "comprehensive doctrines."
+
+The historical inevitability of pluralism?
+
+the collapse of a civilizational consensus into pluralism happened before, when the Greco-Roman pagan worldview fell
+apart and we had the huge proliferation of cults around the Roman empire. But pluralism *was* reversed, and the outcome
+was Christendom!
+
 
 Holston is neither a dogmatist nor a nostalgic reactionary. He fully recognizes that the conditions faced by a
 continent-spanning, multi-ethnic republic, like the United States, are very different from those
-of a Greek polis, or a medieval kingdom. That the United States could be well governed
+of a Greek polis, or a medieval kingdom; thus, the United States could not be well governed
 simply by importing the political practice of such polities. But he does argue, and successfully, in my view,
-that The balance in modern politics has tilted entirely too far toward the cosmopolitan and the universal,
+that the balance in modern politics has tilted entirely too far toward the cosmopolitan and the universal,
 and has ignored the local and particular. The result is that our politics is directed largely by a global elite that
-lays claim to having a properly cosmopolitan and universal point of view, leaving the average citizen voiceless.
+lays claim to having a properly cosmopolitan and universal point of view, leaving the average citizen largely
+voiceless.
 
 It is only at a local level that true political deliberation among citizens can take place. Holston's central message is
 that, if deliberative democrats are serious about their enterprise, they ought to be working to devolve decision making

@@ -42,15 +42,13 @@ enables him to call a truce in the war of all against all. If he used his might 
 subjects, Hobbes would certainly not claim that that makes it right.
 
 The next "founder" of modern deliberative democratic theory, per Holston, was Immanuel Kant. Kant emphasized the role of
-abstract ... [?]
-
-"where the ancients had once seen the laws formalism is simultaneously an advantage, and a disadvantage in the
-resolution of moral and political questions, Kant saw only the former... 57
+universal, abstract reason freed from any bondage to custom in making moral choices. This is most famously expressed in
+his "categorical imperative," which holds that one should always act as if one's action were an example of
+a universal law. Holston notes that "where the ancients had once seen the laws formalism is simultaneously an advantage,
+and a disadvantage in the resolution of moral and political questions, Kant saw only the former..." (57)
 
 Holston writes "Over the course of the last several decades, the autonomy tradition of Rousseau and Kant has enjoyed
-somewhat of a renaissance in contemporary democratic theory" (63)
-
-As mentioned above, 
+somewhat of a renaissance in contemporary democratic theory" (63). As mentioned above, 
 this has been due to dissatisfaction with the previously ascendant view that the virtue of democracy lies in its
 promoting the individual preferences of as many people as possible, since this may permit a majority to run roughshod
 over the rights of a minority. Holston cites Jurgen Habermas, from the continental philosophical tradition, and John
@@ -65,11 +63,13 @@ Hans-Georg Gadamer. Gadamer's theory of "hermeneutics" emphasized the importance
 basis for genuine deliberation. If Gadamer is correct, then we can not expect public deliberation to reach any sort of
 consensus over large populations with fundamentally divergent "comprehensive doctrines."
 
-The historical inevitability of pluralism?
-
-the collapse of a civilizational consensus into pluralism happened before, when the Greco-Roman pagan worldview fell
-apart and we had the huge proliferation of cults around the Roman empire. But pluralism *was* reversed, and the outcome
-was Christendom!
+A curious phenomenon noted by Holston is the tendency of writers in the deliberative tradtion to
+regard the current moral pluralism exhibited in a country such as the US (where, for instance, some people consider
+abortion to be murder, while others consider it simply healthcare) is a result of an irreversible jump into "modernity."
+For instance, Habermas claims "Modernity sees itself cast back upon itself without any possibility of escape" (quoted on
+165). What is strange about these claims is that the collapse of a civilizational consensus into pluralism happened
+before, when the Greco-Roman pagan worldview fell apart and we had the huge proliferation of cults around the Roman
+empire. But the increase of pluralism *was* reversed, and the outcome was Christendom.
 
 
 Holston is neither a dogmatist nor a nostalgic reactionary. He fully recognizes that the conditions faced by a

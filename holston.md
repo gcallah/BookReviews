@@ -6,23 +6,26 @@ State University of New York Press, Albany, 2023
 
 ISBN: 9781438492100
 
-In recent years, there has been, amongst academic political theorists, a great amount of attention devoted to justifying
+Political theorists have recently devoted
+a great amount of attention to justifying
 political decisions based on theories of "public reason" or "deliberative democracy." The impetus for this focus has been
 the realization that defending choices simply upon a "most people agreed to this, therefore it is OK"
 basis is clearly flawed: e.g., simply because the majority in some polity agree that
-redheads are bad and should be eliminated does not render a law to execute all of them just.
+redheads are bad and should be avoided does not render a law to exile all of them just.
 
 To roughly characterize the "deliberative" turn, these theorists have argued that a law or policy is only valid if it
-can be "reasonably" defended to all those who will be subject to its dictates. But this approach faces the problem of
-exactly what objections to a policy should be regarded as "reasonable": for instance, is a devout Muslim "unreasonable"
-in objecting to a law that permits non-halal slaughter of animals?
+can be "reasonably" defended to all those who will be subject to its dictates. This justification cannot call upon
+traditional dictates for judging such decisions, since the point of the exercise is to reach consensus among people from
+widely different traditions. Holston sets out to demonstrate that, in fact, there
+are no reasonable criteria for barring certain opinions as unreasonable, apart from the very traditions that are
+supposedly ruled out. Liberalism itself is a tradition, with its own traditional answers to such questions.
 
-Holston's approach to addressing such issues (following that of his mentor, Claes Ryn) is interesting and important
+Holston's approach to his topic is interesting and important
 in that it occupies a middle ground between two extremes: On the one hand, many of the followers of Leo Strauss hold
 that any "historicism," such as taking into account historical circumstances when considering how some polity ought to
 be governed, simply leads to surrendering virtue to the seductive song of moral relativism. On the other hand, there are
 historicists, such as Oswald Spengler or Richard Rorty,
-for whom historicism does indeed imply moral relativism. But Holston, like Ryn,
+for whom historicism does indeed imply moral relativism. But Holston, like his mentor Claes Ryn,
 argues that, while transcendent moral truths exist, we only can move towards realizing them through concrete historical
 mores, practices, and cultures.
 
@@ -30,8 +33,8 @@ Holston declares that his approach is historical in two senses, firstly, "it vie
 itself as taking place over time" (2). Secondly, his approach is historical "in the sense that it aims to bring to
 bear on this conversation a sensitivity to the historical nature of deliberation in any society" (3).
 
-Hoston then sets about tracing the genesis of consensus-based democratic theory. He singles out Rousseau as his starting
-point (while acknowledging ealier roots); specifically, Rousseau's concept of the "general will" is clearly a precursor
+Hoston then traces the genesis of consensus-based democratic theory. He takes Rousseau as his starting
+point (while acknowledging ealier roots exist); specifically, Rousseau's concept of the "general will" is clearly a precursor
 to modern public reason theories. Along the way,
 Holston argues that Rousseau set himself in opposition to the materialism of Thomas Hobbes, and in particular, "the
 sanction of the political doctrine that might makes right." (19)
@@ -41,11 +44,11 @@ course the sovereign possesses might, but that is not what makes it right to obe
 enables him to call a truce in the war of all against all. If he used his might to, for instance, wipe out his own
 subjects, Hobbes would certainly not claim that that makes it right.
 
-The next "founder" of modern deliberative democratic theory, per Holston, was Immanuel Kant. Kant emphasized the role of
+Another salient precursor to modern deliberative democratic theory, per Holston, is Immanuel Kant. Kant emphasized the role of
 universal, abstract reason freed from any bondage to custom in making moral choices. This is most famously expressed in
 his "categorical imperative," which holds that one should always act as if one's action were an example of
 a universal law. Holston notes that "where the ancients had once seen the laws formalism is simultaneously an advantage,
-and a disadvantage in the resolution of moral and political questions, Kant saw only the former..." (57)
+and a disadvantage in the resolution of moral and political questions, Kant saw only the former..." (57) The 
 
 Holston writes "Over the course of the last several decades, the autonomy tradition of Rousseau and Kant has enjoyed
 somewhat of a renaissance in contemporary democratic theory" (63). As mentioned above, 
@@ -65,7 +68,7 @@ consensus over large populations with fundamentally divergent "comprehensive doc
 
 A curious phenomenon noted by Holston is the tendency of writers in the deliberative tradtion to
 regard the current moral pluralism exhibited in a country such as the US (where, for instance, some people consider
-abortion to be murder, while others consider it simply healthcare) is a result of an irreversible jump into "modernity."
+abortion to be murder, while others consider it simply healthcare) as a result of an irreversible jump into "modernity."
 For instance, Habermas claims "Modernity sees itself cast back upon itself without any possibility of escape" (quoted on
 165). What is strange about these claims is that the collapse of a civilizational consensus into pluralism happened
 before, when the Greco-Roman pagan worldview fell apart and we had the huge proliferation of cults around the Roman

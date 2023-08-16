@@ -9,8 +9,8 @@ ISBN: 9781438492100
 Political theorists have recently devoted
 a great amount of attention to justifying
 political decisions based on theories of "public reason" or "deliberative democracy." The impetus for this focus has been
-the realization that defending choices simply upon a "most people agreed to this, therefore it is OK"
-basis is clearly flawed: e.g., simply because the majority in some polity agree that
+the realization that defending choices simply the basis that "most people agreed to this, therefore it is OK"
+is clearly flawed: e.g., simply because the majority in some polity agree that
 redheads are bad and should be avoided does not render a law to exile all of them just.
 
 To roughly characterize the "deliberative" turn, these theorists have argued that a law or policy is only valid if it
@@ -42,7 +42,7 @@ sanction of the political doctrine that might makes right." (19)
 But did Hobbes really hold that "might makes right"?  That seems a rather crude interpretation of what he was up to. Of
 course the sovereign possesses might, but that is not what makes it right to obey him: it is rather that this might
 enables him to call a truce in the war of all against all. If he used his might to, for instance, wipe out his own
-subjects, Hobbes would certainly not claim that that makes it right.
+subjects, Hobbes would certainly not claim that this makes it right.
 
 Another salient precursor to modern deliberative democratic theory, per Holston, is Immanuel Kant. Kant emphasized the role of
 universal, abstract reason freed from any bondage to custom in making moral choices. This is most famously expressed in
@@ -50,7 +50,7 @@ his "categorical imperative," which holds that one should always act as if one's
 a universal law. Holston notes that "where the ancients had once seen the laws formalism is simultaneously an advantage,
 and a disadvantage in the resolution of moral and political questions, Kant saw only the former..." (57) The 
 
-Holston writes "Over the course of the last several decades, the autonomy tradition of Rousseau and Kant has enjoyed
+Holston continues: "Over the course of the last several decades, the autonomy tradition of Rousseau and Kant has enjoyed
 somewhat of a renaissance in contemporary democratic theory" (63). As mentioned above, 
 this has been due to dissatisfaction with the previously ascendant view that the virtue of democracy lies in its
 promoting the individual preferences of as many people as possible, since this may permit a majority to run roughshod
@@ -67,8 +67,8 @@ Rawls, on the other hand, is more of a child of Kant, as he is more concerned wi
 deliberation per se. One's political choices must be defensible *in principle* to any "reasonable" citizen: it is not as
 important, as it is to Habermas, that they have *actually* been so defended. Rawls aim is to arrive at political
 principles that can be agreed-upon by all participants, whatever "comprehensive doctrine" they embrace. (Comprehensive
-doctrines are worldviews like Christianity, Buddhism, secular humanism, and so on.) The result is abstractions, vague
-enough that different interpreters can use them to justify almost any policies they already preferred, so that there are
+doctrines are worldviews like Christianity, Buddhism, secular humanism, and so on.) The result is abstractions vague
+enough that different interpreters can use them to justify almost any policies they preferred anyway, so that there are
 both socialists and libertarians who consider themselves to be applying Rawls' principles.
 
 Holston rests his case for the utopian nature of public reason theories largely on the work of the German philosopher

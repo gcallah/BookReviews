@@ -57,9 +57,19 @@ promoting the individual preferences of as many people as possible, since this m
 over the rights of a minority. Holston cites Jurgen Habermas, from the continental philosophical tradition, and John
 Rawls, from the analytic tradition, as being the two key founders of this renaissance. 
 
+Habermas leans towards the deliberation aspect of political justification. He stresses the use of unrestricted
+deliberation to reach universal agreement, which is clearly akin to Rousseau's general will. In this process of
+deliberation, the discussants must "distance themselves temporarily from the mormative specctrum of all existing life"
+(quoted on 82). In other words, they must lift themselves completely out of their own cultural background and
+historical circumstances, and achieve a "view from nowhere."
 
-Essentially, Rawls is taking a decision procedure that might once have worked in a faculty meeting at Harvard, and
-suggesting it could also work in a society of over a quarter of a billion people. 
+Rawls, on the other hand, is more of a child of Kant, as he is more concerned with the justice of outcomes than in
+deliberation per se. One's political choices must be defensible *in principle* to any "reasonable" citizen: it is not as
+important, as it is to Habermas, that they have *actually* been so defended. Rawls aim is to arrive at political
+principles that can be agreed-upon by all participants, whatever "comprehensive doctrine" they embrace. (Comprehensive
+doctrines are worldviews like Christianity, Buddhism, secular humanism, and so on.) The result is abstractions, vague
+enough that different interpreters can use them to justify almost any policies they already preferred, so that there are
+both socialists and libertarians who consider themselves to be applying Rawls' principles.
 
 Holston rests his case for the utopian nature of public reason theories largely on the work of the German philosopher
 Hans-Georg Gadamer. Gadamer's theory of "hermeneutics" emphasized the importance of customary practices and mores as the
@@ -73,7 +83,6 @@ For instance, Habermas claims "Modernity sees itself cast back upon itself witho
 165). What is strange about these claims is that the collapse of a civilizational consensus into pluralism happened
 before, when the Greco-Roman pagan worldview fell apart and we had the huge proliferation of cults around the Roman
 empire. But the increase of pluralism *was* reversed, and the outcome was Christendom.
-
 
 Holston is neither a dogmatist nor a nostalgic reactionary. He fully recognizes that the conditions faced by a
 continent-spanning, multi-ethnic republic, like the United States, are very different from those

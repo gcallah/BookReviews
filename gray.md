@@ -28,7 +28,7 @@ to us as chance is actually the workings of an infinite mind.") So the fact that
 hardly shows that it has no purpose. And in another passage, Gray notes that "
 
 
-Mass immigration:
+Mass immigration...  Gray quotes Ryszard Kapuscinski:
 
 "One of the goals of these operations is to create the uprooted man, wrenched from his culture, from his surroundings
 and landscape, and therefore more defenseless and obedient vis-à-vis the dictates of the regime." (34)

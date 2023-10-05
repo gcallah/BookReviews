@@ -37,7 +37,7 @@ and landscape, and therefore more defenseless and obedient vis-à-vis the dictat
 "Verkhovensky represents a type of intellectual familiar the world over. Recycling the fashionable detritus that
 millions like him unthinkingly believe, he is convinced of his independence of mind." — John Gray
 
-" Lenin and Stalin aimed to remake human beings on a new model. The Leviathan they created bred an elite of Hobbesian
+"Lenin and Stalin aimed to remake human beings on a new model. The Leviathan they created bred an elite of Hobbesian
 survivors, then killed them." (83)
 
 "The psychology of the political believer is not confined interwar communists and fellow travelers. The same mixture of
@@ -46,7 +46,18 @@ the faith that has given meaning to their lives." (102)
 
 "sex workers" (105)
 
-"populism… has no clear meaning, but it is used by liberals to refer to political blowback against the social disruption
+
+Gray begins a chapter called "Mortal gods" by noting:
+
+"Liberalism was a creation of Western monotheism and liberal freedoms part of the civilization that monotheism
+engendered. Twenty-first-century liberals reject this civilization, while continuing to assert the universal authority of a
+hollowed-out version of its values. In this hyper-liberal vision all societies are destined to undergo the
+deconstruction that is underway in the West." (109)
+
+Passages like this show Gray at his best, as a sharp critic of contemporary, thoughtlessly assumed verities.
+
+
+"populism... has no clear meaning, but it is used by liberals to refer to political blowback against the social disruption
 produced by their own policies." (133)
 
 

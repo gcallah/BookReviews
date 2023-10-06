@@ -57,6 +57,29 @@ deconstruction that is underway in the West." (109)
 Passages like this show Gray at his best, as a sharp critic of contemporary, thoughtlessly assumed verities.
 
 
+"Human beings can never be wholly self-defined." (109)
+
+
+
+## Woke-ism
+
+"The origins of what has come to be called the woke movement are in the decay of liberalism." (110)
+
+It is a "vehicle through with surplus elites struggle to secure a position of power in society." (110)
+
+"Country to its right wing critics, woke thinking is not a variety of Marxism. No woke ideologue comes anywhere close to
+Karl Marx in rigour, breadth and depth of thought." (111)
+
+"Once questions of identity become central in politics, conflicts of economic interest can be disregarded. Idle
+chatter of micro-aggression screens out class hierarchy and the abandonment of large sections of society to idleness
+and destitution." (111)
+
+"In their economic aspects, woke movements are a revolt of the professional bourgeoisie." (111)
+
+
+
+## Populism
+
 "populism... has no clear meaning, but it is used by liberals to refer to political blowback against the social disruption
 produced by their own policies." (133)
 

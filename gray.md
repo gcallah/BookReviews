@@ -7,12 +7,28 @@ Farrar, Straus and Giroux, New York, 2023
 
 ISBN: 978-0-374-60973-3
 
-Reviewing one of John Gray's recent books is an adventurous undertaking. 
+Reviewing one of John Gray's recent books is an adventurous undertaking. Rather than straightforward histories, or
+philosophical or political arguments, or personal reminiscences, Gray seems to have adopted the approach to his
+non-fiction work that Milan Kundera took to his novels: they are meditations on a topic, approaching it through a
+variety of vantage points: some anecdotes, some historical episodes briefly narrated, a few interesting (and sometimes
+horrifying) statistics, a witty or trenchant aperçu here, a brief argument there. It worked (wonderfully, I'd claim) for
+Kundera's novels, and it also works for Gray's books. But it does not confront the humble reviewer with a simple
+undertaking.
 
+His newest book highlights the nature of the work right in the sub-title: "Thoughts after Liberalism." This is not an
+argument that liberalism has failed (such as Patrick Deneen's *Why Liberalism Failed* -- Gray takes its failure largely
+as a given), or a program for what should come after liberalism (like the recent work of Curtis Yarvin), or a
+philosophical critique of liberalism (which Gray himself has offered in ealier works). Instead, it is as though the
+reader has been invited to eavesdrop on Gray's inner dialogues as he mulls over a post-liberal world.
 
+While it might be possible to review this work in the same style in which it was written, well, that might be like
+putting hot sauce on a dish of chili peppers: a bit much. Instead, I will organize this review round several of the
+themes that recur throughout it, and offer a sample of what Gray has to say about each one.
 
-As someone who has read Michael Oakeshott, one would think that Gray would be more careful to distinguish the
-presuppositions of a theory from the discoveries made using it. to the contrary, he writes:
+## Rationalism
+
+As someone who has read Michael Oakeshott, one would think that Gray careful to distinguish the
+presuppositions of a theory from any discoveries made using it. Nevertheless, he writes:
 
 "Here Fukuyama departs from the most important discovery in modern science. As understood by Charles Darwin, evolution
 has no destination." (20)
@@ -38,17 +54,19 @@ and landscape, and therefore more defenseless and obedient vis-à-vis the dictat
 
 
 "Verkhovensky represents a type of intellectual familiar the world over. Recycling the fashionable detritus that
-millions like him unthinkingly believe, he is convinced of his independence of mind." — John Gray
+millions like him unthinkingly believe, he is convinced of his independence of mind."
 
 "Lenin and Stalin aimed to remake human beings on a new model. The Leviathan they created bred an elite of Hobbesian
 survivors, then killed them." (83)
 
+
+
+## Liberalism
+
+
 "The psychology of the political believer is not confined interwar communists and fellow travelers. The same mixture of
 self deception and adamant certainty can be observed in post-Cold War liberals. They, too, cannot admit the demise of
 the faith that has given meaning to their lives." (102)
-
-"sex workers" (105)
-
 
 Gray begins a chapter called "Mortal gods" by noting:
 
@@ -91,6 +109,9 @@ produced by their own policies." (133)
 (147). Is Gray really unaware of the tradition of _Memento Mori_ practiced in Christianity, or the countless skulls
 found in Indian and Tibetan art?
 
+
+
+## The Meaning(lessness) of Life
 
 Given the style of the work, it is often hard to say when Gray is presenting "something interesting to think about" and
 when he is presenting "here's what I think."

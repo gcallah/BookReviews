@@ -7,6 +7,9 @@ Farrar, Straus and Giroux, New York, 2023
 
 ISBN: 978-0-374-60973-3
 
+Reviewing one of John Gray's recent books is an adventurous undertaking. 
+
+
 
 As someone who has read Michael Oakeshott, one would think that Gray would be more careful to distinguish the
 presuppositions of a theory from the discoveries made using it. to the contrary, he writes:

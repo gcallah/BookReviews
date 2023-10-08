@@ -1,4 +1,3 @@
-
 # The New Leviathan: Thoughts after Liberalism
 
 John Gray
@@ -84,18 +83,36 @@ Passages like this show Gray at his best, as a sharp critic of contemporary, tho
 
 ## Woke-ism
 
-"The origins of what has come to be called the woke movement are in the decay of liberalism." (110)
+Gray is not pleased with "what has come to be called the woke movement," declaring that its
+"origins... are in the decay of liberalism." (110)
 
-It is a "vehicle through with surplus elites struggle to secure a position of power in society." (110)
+He notes that 
+"If Western capitalism creates an expanding underclass without any productive function, it also produces a lumpen
+intelligentsia that is economically superfluous." (111)
 
-"Country to its right wing critics, woke thinking is not a variety of Marxism. No woke ideologue comes anywhere close to
+In other words, in societies that are in serious need of more auto mechanics and carpenters and plumbers, we are instead
+producing far more doctors of gender studies and queer theory and even of English literature than are actually demanded:
+so what can these "superfluous" individuals do to make a living? Well, they fight for jobs based on who is "most woke,"
+which is a "vehicle through with surplus elites struggle to secure a position of power in society." (110)
+Or, as Gray also puts it, "In their economic aspects, woke movements are a revolt of the professional bourgeoisie." (111)
+
+Gray quite correctly debunks the claim that the woke movement is accurately described as "cultural Marxism":
+"Contrary to its right wing critics, woke thinking is not a variety of Marxism. No woke ideologue comes anywhere close to
 Karl Marx in rigour, breadth and depth of thought." (111)
-
+In fact, 
 "Once questions of identity become central in politics, conflicts of economic interest can be disregarded. Idle
 chatter of micro-aggression screens out class hierarchy and the abandonment of large sections of society to idleness
-and destitution." (111)
+and destitution." (111) In other words, identity politics, far from being "Marxist," are actually a way to divert
+attention *away* from class issues towards relative trivialities.
 
-"In their economic aspects, woke movements are a revolt of the professional bourgeoisie." (111)
+This reminded me of a recent episode in my own professional field of software engineering: the popular developer site
+GitHub decided to stop calling the principal code branch of a project the "master" branch, and instead call it "main":
+because "master" might remind some programmer somewhere of slavery. I am sure the people who organized this change felt
+very virtuous for their "social awareness," but I wondered just how impressed a poor child growing up in a crime-plagued
+housing project would be at their "effort." And can we really console this child for the fact that society has no place
+for him to make a contribution by pointing out that we now spell "Black" with a capital "B"? These are not "steps in
+the right direction": they are steps by which the privileged hope to conceal the fact they are not actually doing
+anything substantive at all for the underprivileged.
 
 
 
@@ -120,3 +137,4 @@ when he is presenting "here's what I think."
 Gray's works, in spite of his own views, show the importance of faith. He is an intelligent and perceptive observer of
 "the world of the flesh," and is honest enough that he cannot hide from its ultimate meaninglessness (without
 illumination by the world of the spirit). The result, as Gray so ably shows, is bleak.
+

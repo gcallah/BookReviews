@@ -20,11 +20,98 @@ as a given), or a program for what should come after liberalism (like the recent
 philosophical critique of liberalism (which Gray himself has offered in ealier works). Instead, it is as though the
 reader has been invited to eavesdrop on Gray's inner dialogues as he mulls over a post-liberal world.
 
-While it might be possible to review this work in the same style in which it was written, well, that might be like
+While it might be possible to review this work in the same style in which it was written, well, that would be like
 putting hot sauce on a dish of chili peppers: a bit much. Instead, I will organize this review round several of the
-themes that recur throughout it, and offer a sample of what Gray has to say about each one.
+themes that recur throughout the book, and offer a sample of what Gray has to say about each one.
 
-## Rationalism
+
+## Hobbes
+
+In a book the title of which contains the word "Leviathan," we naturally would expect Thomas Hobbes to be a key figure.
+And indeed he is: Throughout his meditations, Gray brings up Hobbes again and again.
+
+Almost at the start, Gray writes: "Hobbes was a liberal --  the only one, perhaps, still worth reading." (4) In defense
+of this claim, he presents the four characteristics of liberalism provided in his own book, *Liberalism*, to wit,
+liberalism is:
+
+1. individualist
+2. egalitarian
+3. universalist
+4. meliorist
+
+And he goes on to argue that Hobbes displays all four of these characteristics, and is thus perhaps the prototypical
+liberal. That claim may disconcert some who have interpreted Hobbes as a totalitarian; but here Gray makes a crucial,
+often over-looked, point about Hobbes:
+
+"Hobbes's was a state whose powers were unchecked, but its goals were strictly limited. Beyond security its subjects
+against one another and external enemies, it had no remit." (2)
+
+Or, as Michael Oakeshott (whom Gray refers to as one of Hobbes's "best interpreters")
+put it, "Hobbes is not an absolutist precisely because he is an authoritarian..." In other words, Hobbes's state existed
+to keep its citizens from going to war with each other, but not to stop them from smoking, or encourage them to save
+more for retirement, or make them more understanding of homosexuals, or prompt them to read more elevating literature or
+better appreciate art.
+
+The above key liberal ideas are present in Hobbes in that: "Society is made up of individuals... equal in being exposed to
+death at each other's hands... Human nature is universal in its needs... With the application of reason, government can
+be improved..." (5)
+
+However, as Gray explains, "Each of these [liberal] ideas is a half-truth,": people do not desire mere
+self-preservation, they "regularly give up peace and security in order to defend a form of life...",
+"The most basic human goods may be universal but they are often sacrificed... Society and government can be improved,
+but what is gained can always be lost... There is no complete or final exit from the state of nature." (5)
+
+Gray has much more to say about Hobbes, as we will see in the following sections.
+
+
+## Liberalism
+
+The previous section outlined Gray's key characteristics of liberalism.
+
+"The psychology of the political believer is not confined interwar communists and fellow travelers. The same mixture of
+self deception and adamant certainty can be observed in post-Cold War liberals. They, too, cannot admit the demise of
+the faith that has given meaning to their lives." (102)
+
+Gray begins a chapter called "Mortal gods" by noting:
+
+"Liberalism was a creation of Western monotheism and liberal freedoms part of the civilization that monotheism
+engendered. Twenty-first-century liberals reject this civilization, while continuing to assert the universal authority of a
+hollowed-out version of its values. In this hyper-liberal vision all societies are destined to undergo the
+deconstruction that is underway in the West." (109)
+
+Passages like this show Gray at his best, as a sharp critic of contemporary, thoughtlessly assumed verities.
+
+Mass immigration...  Gray quotes Ryszard Kapuscinski:
+
+"One of the goals of these operations is to create the uprooted man, wrenched from his culture, from his surroundings
+and landscape, and therefore more defenseless and obedient vis-à-vis the dictates of the regime." (34)
+
+
+"Verkhovensky represents a type of intellectual familiar the world over. Recycling the fashionable detritus that
+millions like him unthinkingly believe, he is convinced of his independence of mind."
+
+"Lenin and Stalin aimed to remake human beings on a new model. The Leviathan they created bred an elite of Hobbesian
+survivors, then killed them." (83)
+
+
+
+## Rationalism and Science
+
+"The social contract of which Hobbes writes is a rationalist myth." (12)
+
+"Hobbes's pessism is only seeming. When he asserts that self-preservation is the path to peace, he writes not as a
+realist but as a utopian visionary."
+
+"Hobbes believed humankind could escpae the spell of language by constructing clear definitions of words. Here he
+was misled by rationalism." (15)
+
+
+"The Soviet Union, Nazi Germany and Maoist China killed in order to perfect humanity, or the part of it they judged to
+survive." (17)
+
+
+
+### Evolution
 
 As someone who has read Michael Oakeshott, one would think that Gray careful to distinguish the
 presuppositions of a theory from any discoveries made using it. Nevertheless, he writes:
@@ -44,40 +131,6 @@ book. At one point, he admits that "The accidental origins of Christianity, of c
 chance is the work of providence." (124) (Of course, this would be better stated as, "For the believer, what may appear
 to us as chance is actually the workings of an infinite mind.") So the fact that John Gray sees no purpose to evolution
 hardly shows that it has no purpose. And in another passage, Gray notes that "
-
-
-Mass immigration...  Gray quotes Ryszard Kapuscinski:
-
-"One of the goals of these operations is to create the uprooted man, wrenched from his culture, from his surroundings
-and landscape, and therefore more defenseless and obedient vis-à-vis the dictates of the regime." (34)
-
-
-"Verkhovensky represents a type of intellectual familiar the world over. Recycling the fashionable detritus that
-millions like him unthinkingly believe, he is convinced of his independence of mind."
-
-"Lenin and Stalin aimed to remake human beings on a new model. The Leviathan they created bred an elite of Hobbesian
-survivors, then killed them." (83)
-
-
-
-## Liberalism
-
-
-"The psychology of the political believer is not confined interwar communists and fellow travelers. The same mixture of
-self deception and adamant certainty can be observed in post-Cold War liberals. They, too, cannot admit the demise of
-the faith that has given meaning to their lives." (102)
-
-Gray begins a chapter called "Mortal gods" by noting:
-
-"Liberalism was a creation of Western monotheism and liberal freedoms part of the civilization that monotheism
-engendered. Twenty-first-century liberals reject this civilization, while continuing to assert the universal authority of a
-hollowed-out version of its values. In this hyper-liberal vision all societies are destined to undergo the
-deconstruction that is underway in the West." (109)
-
-Passages like this show Gray at his best, as a sharp critic of contemporary, thoughtlessly assumed verities.
-
-
-"Human beings can never be wholly self-defined." (109)
 
 
 
@@ -114,6 +167,9 @@ for him to make a contribution by pointing out that we now spell "Black" with a 
 the right direction": they are steps by which the privileged hope to conceal the fact they are not actually doing
 anything substantive at all for the underprivileged.
 
+
+
+"Human beings can never be wholly self-defined." (109)
 
 
 ## Populism

@@ -8,6 +8,7 @@ ISBN: 978-1-78816-783-3
 
 
 
+Gray: "For Hobbes humans are like machines, in that their behavior is covered by the laws of nature." (10)
 
 
 In his chapter on Arendt, Runciman comments upon her claim, "All that the giant computers proves that the modern age was

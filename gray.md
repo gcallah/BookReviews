@@ -94,6 +94,23 @@ millions like him unthinkingly believe, he is convinced of his independence of m
 survivors, then killed them." (83)
 
 
+## History
+
+Fukuyama
+
+"In reality, no such history [in which one idea succeeds another in a rational progression] ever transpired. History
+With a capital letter is like Humanity, an iridescent operation. (18)
+
+"All the evidence suggests that we are moving back into an epoch that is classically historical, and not forward into
+the empty, hallucinatory post-historial era projected in Fukuyama's article." (19)
+
+"The grotesque notion that history was coming to an end in a universal convergence on American-style democracy was
+faded as realism."
+
+
+"Fukuyama joined a Hegelian philosophy of history with Hayekian ideology of social evolution. The result was a
+farrago of errors and fallacies, along with occasional insights." 
+
 
 ## Rationalism and Science
 

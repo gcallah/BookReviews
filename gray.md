@@ -96,20 +96,23 @@ survivors, then killed them." (83)
 
 ## History
 
-Fukuyama
+Gray is not kind to Francis Fukuyama's book, *The End of History and the Last Man*. He notes that Fukuyama's
+declaration of what history held in store for humanity is remarkably similar to Sidney and Beatrice Webb's announcement
+that Stalin's USSR was the "end of history," and our "New Civilization" would be built on Stalin's totalitarian model.
 
-"In reality, no such history [in which one idea succeeds another in a rational progression] ever transpired. History
-With a capital letter is like Humanity, an iridescent operation. (18)
+Gray examines the Hegelian roots of Fukuyama's work, "in which history showed one idea following another in dialectical
+succession." (17) But, he contends, "In reality, no such history ever transpired. History with a capital letter is like
+Humanity, an iridescent operation." (18) (I'm not sure why 'iridescent' is the word he chose here.)
 
 "All the evidence suggests that we are moving back into an epoch that is classically historical, and not forward into
 the empty, hallucinatory post-historial era projected in Fukuyama's article." (19)
 
 "The grotesque notion that history was coming to an end in a universal convergence on American-style democracy was
-faded as realism."
+feted as realism." (19)
 
 
 "Fukuyama joined a Hegelian philosophy of history with Hayekian ideology of social evolution. The result was a
-farrago of errors and fallacies, along with occasional insights." 
+farrago of errors and fallacies, along with occasional insights."  (19)
 
 
 ## Rationalism and Science

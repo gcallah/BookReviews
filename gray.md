@@ -96,7 +96,9 @@ survivors, then killed them." (83)
 
 ## History
 
-Gray is not kind to Francis Fukuyama's book, *The End of History and the Last Man*. He notes that Fukuyama's
+The nature of history is another theme that runs throughout this book.
+Given that Gray regards history is an essentially undirected process, it is unsurpising that
+he is not kind to Francis Fukuyama's book, *The End of History and the Last Man*. He notes that Fukuyama's
 declaration of what history held in store for humanity is remarkably similar to Sidney and Beatrice Webb's announcement
 that Stalin's USSR was the "end of history," and our "New Civilization" would be built on Stalin's totalitarian model.
 
@@ -104,16 +106,15 @@ Gray examines the Hegelian roots of Fukuyama's work, "in which history showed on
 succession." (17) But, he contends, "In reality, no such history ever transpired. History with a capital letter is like
 Humanity, an iridescent operation." (18) (I'm not sure why 'iridescent' is the word he chose here.)
 
+He argues that events since Fukuyama's book was published argue against his thesis:
+
 "All the evidence suggests that we are moving back into an epoch that is classically historical, and not forward into
-the empty, hallucinatory post-historial era projected in Fukuyama's article." (19)
+the empty, hallucinatory post-historial era projected in Fukuyama's article... The grotesque notion that history was
+coming to an end in a universal convergence on American-style democracy was feted as realism." (19)
 
-"The grotesque notion that history was coming to an end in a universal convergence on American-style democracy was
-feted as realism." (19)
-
-
-"Fukuyama joined a Hegelian philosophy of history with Hayekian ideology of social evolution. The result was a
-farrago of errors and fallacies, along with occasional insights."  (19)
-
+Gray claims that "While history is not the unfolding of reason, there can be logic in particular situations." (22) But
+he does not provide any argument for believing that a process that is non-rational should present us with "particular
+situations" that are amenable to logical analysis: how could such situations arise? How can we identify them?
 
 ## Rationalism and Science
 

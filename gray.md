@@ -116,6 +116,16 @@ Gray claims that "While history is not the unfolding of reason, there can be log
 he does not provide any argument for believing that a process that is non-rational should present us with "particular
 situations" that are amenable to logical analysis: how could such situations arise? How can we identify them?
 
+Gray also offers interesting insight on the difference between the Russian tsarist regime and the Soviet Union:
+
+"Whereas the Romanov empire was a traditional despotism, the Soviet state was a new Leviathan... Aiming to fashion a
+new humanity." (25) The difference was made manifest in the execution rate: "In the 50 years from 1867 to 1917, they were
+around 25,000 deaths from executions and progroms. In the first five years of the Soviet states existence, there were
+around 200,000 executions..." (26) And this ignores deaths in camps: so the Soviet Union was killing its citizens at at
+least 100 times the rate of the Czars. And the difference is that the Czars just wanted to hold oonto power, while the
+Soviet leaders were fanatically pursuing an ideological vision.
+
+
 ## Rationalism and Science
 
 "The social contract of which Hobbes writes is a rationalist myth." (12)

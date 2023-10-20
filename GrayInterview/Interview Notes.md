@@ -3,6 +3,12 @@ Neither Jesus nor Buddha "put together a coherent argument." And often neither d
 
 I thought maybe I'd just meditate on your book and throw out my thoughts: but probably not a publishable review!
 
+
+So how do you discover these fascinating but somewhat obscure episodes you offer in your recent works? (Examples)
+
+
+Was the lack of teleology in evolution a discovery of modern science?
+
 Newtonian physics did not *discover* that an object in motion tends to stay in motion: it presupposed this.
 
 As an Oakeshottian, I understand every "special science" makes presuppositions: so no objection to Darwin's!

@@ -10,7 +10,7 @@ Reviewing one of John Gray's recent books is an adventurous undertaking. Rather 
 philosophical or political arguments, or personal reminiscences, Gray seems to have adopted the approach to his
 non-fiction work that Milan Kundera took to his novels: they are meditations on a topic, approaching it through a
 variety of vantage points: some anecdotes, some historical episodes briefly narrated, a few interesting (and sometimes
-horrifying) statistics, a witty or trenchant aperçu here, a brief argument there. It worked (wonderfully, I'd claim) for
+horrifying) statistics, a witty or trenchant aperçu here, a brief argument there. It worked for
 Kundera's novels, and it also works for Gray's books. But it does not confront the humble reviewer with a simple
 undertaking.
 
@@ -21,20 +21,20 @@ philosophical critique of liberalism (which Gray himself has offered in ealier w
 reader has been invited to eavesdrop on Gray's inner dialogues as he mulls over a post-liberal world.
 
 While it might be possible to review this work in the same style in which it was written, well, that would be like
-putting hot sauce on a dish of chili peppers: a bit much. Instead, I will organize this review round several of the
+putting hot sauce on a dish of chili peppers: a bit much. Instead, I will organize this review around several of the
 themes that are important in the book, and offer a sample of what Gray has to say about each one.
 
 
 ## Hobbes
 
-In a book the title of which contains the word "Leviathan," we naturally would expect Thomas Hobbes to be a key figure.
-And indeed he is: Throughout his meditations, Gray brings up Hobbes again and again. In fact, if one were to be so bold
-as to offer a "central message" of the book, it would be that the circumstances that prompted Hobbes to write
-*Leviathan* have again become salient in our time, as the liberal world order that prevailed for some years after the
-fall of the Soviet Union collapses around us.
+In a book the title of which contains the word "Leviathan," we naturally would expect Thomas Hobbes to play an important
+role.  And indeed he does: Throughout his meditations, Gray brings up Hobbes again and again. In fact, if one were to be
+so bold and foolish as to offer a "central message" of the book, it might be that the circumstances that prompted Hobbes
+to write *Leviathan* have again become salient in our time, as the liberal world order that prevailed for some years
+after the fall of the Soviet Union collapses around us.
 
-Very early on, Gray writes: "Hobbes was a liberal -- the only one, perhaps, still worth reading." (4) In defense
-of the first half of this claim, he presents the four characteristics of liberalism provided in his own book,
+Gray first addresses Hobbes by noting that: "Hobbes was a liberal -- the only one, perhaps, still worth reading." (4) In
+defense of the first half of this claim, he presents the four characteristics of liberalism provided in his own book,
 *Liberalism*, to wit, liberalism is:
 
 1. individualist
@@ -45,15 +45,15 @@ of the first half of this claim, he presents the four characteristics of liberal
 And he goes on to argue that the above key liberal ideas are present in Hobbes in that, for him:
 
 1. "Society is made up of individuals..."
-2. "equal in being exposed to death at each other's hands..."
+2. "[each] equal in being exposed to death at each other's hands..."
 3. "Human nature is universal in its needs..."
 4. "With the application of reason, government can be improved..." (5)
 
-This Hobbes is "the" proto-liberal. 
-However, as Gray explains, "Each of these [liberal] ideas is a half-truth,":
+Thus Hobbes is "the" proto-liberal. 
+However, as Gray explains, "Each of these [liberal] ideas is a half-truth":
 
-1. Individuals *are* the basis of society, but "self-preservation, is only one of their needs: bare life is not enough."
-2. Human beings "regularly give up peace and security in order to defend a form of life...",
+1. Individuals *are* the basis of society, but "self-preservation is only one of their needs: bare life is not enough."
+2. Human beings "regularly give up peace and security in order to defend a form of life..."
 2. "The most basic human goods may be universal but they are often sacrificed..."
 3. "Society and government can be improved, but what is gained can always be lost... There is no complete or final exit
    from the state of nature." (5)
@@ -61,45 +61,51 @@ However, as Gray explains, "Each of these [liberal] ideas is a half-truth,":
 Gray's claim that Hobbes was a liberal may disconcert some who have interpreted Hobbes as a totalitarian; but
 here Gray makes a crucial, often over-looked, point about Hobbes:
 
-"Hobbes's was a state whose powers were unchecked, but its goals were strictly limited. Beyond security its subjects
+"Hobbes's was a state whose powers were unchecked, but its goals were strictly limited. Beyond securing its subjects
 against one another and external enemies, it had no remit." (2)
 
 Or, as Michael Oakeshott (whom Gray refers to as one of Hobbes's "best interpreters")
 put it, "Hobbes is not an absolutist precisely because he is an authoritarian..." In other words, Hobbes's state existed
 to keep its citizens from going to war with each other, and had whatever power it needed to meet that task.
-But its remit did not include stopping them from smoking, or encouraging them to save
-more for retirement, or making them more understanding of homosexuals, or prompting them to read more elevating
+But its area of authority did not include stopping them from smoking, or encouraging them to save
+prudently for retirement, or making them more understanding of homosexuals, or prompting them to read elevating
 literature or better appreciate art.
 
-Hobbes appears again and again in this book, including epigraphs from *Leviathan* (or occasionally another work of his)
-that head each chapter and sub-chapter.
+While Gray appreciates Hobbes, he is discerning in his appreciation, for instance, pointing out:
+
+* "The social contract of which Hobbes writes is a rationalist myth." (12)
+* "Hobbes's pessism is only seeming. When he asserts that self-preservation is the path to peace, he writes not as a
+realist but as a utopian visionary."
+* "Hobbes believed humankind could escpae the spell of language by constructing clear definitions of words. Here he
+was misled by rationalism." (15)
+
+In addition to the above, Hobbes appears again and again in this book, including epigraphs from *Leviathan* (or
+occasionally another work of his) that head each chapter and sub-chapter.
 
 
 ## Liberalism
 
-The previous section outlined Gray's key aspects of liberalism, and offered a brief synopsis of why he argues each is
-only a half-truth. But he has much more to say about liberalism than that. For example, he notes a similarity between
-contemporary liberals and the "ideologues" they set themselves in opposition to:
+The previous section described Gray's list of the key aspects of liberalism, and offered a brief synopsis of why he
+argues each is only a half-truth. But he has much more to say about liberalism than that. For example, he notes a
+similarity between contemporary liberals and other recent ideologies:
 
 "The psychology of the political believer is not confined interwar communists and fellow travelers. The same mixture of
 self deception and adamant certainty can be observed in post-Cold War liberals. They, too, cannot admit the demise of
 the faith that has given meaning to their lives." (102)
 
-Gray understands that the whole liberal project is based upon a metaphysics that modern liberals at best ignore, or, at
-worst, completely reject:
+Gray understands that the whole liberal project is based upon a metaphysics that modern liberals either ignore or
+completely reject:
 
 "Liberalism was a creation of Western monotheism and liberal freedoms part of the civilization that monotheism
 engendered. Twenty-first-century liberals reject this civilization, while continuing to assert the universal authority of a
 hollowed-out version of its values. In this hyper-liberal vision all societies are destined to undergo the
 deconstruction that is underway in the West." (109)
 
-Passages like this show Gray at his best, as a sharp critic of contemporary, thoughtlessly assumed verities.
-
 Many contemporary liberals are advocates of (almost?) unlimited immigration into liberal societies. Gray notes that, for
 the leaders of the Soviet Union, "The emergence of a new human type required the systematic severing of human beings from
 their cultural roots" (33). This principle appears to be exactly what is behind the liberal infatuation with promoting
 the maximum possible relocating of contemporary humans: once they are severed from their cultural roots, the hope is
-that they will have no alternative but to embrace liberalism.
+that they will have no alternative but to become "factors of production" in the neoliberal dream world.
 
 "Populism" is a current bogeyman of contemporary liberals. But, as Gray points out, "populism... has no clear meaning,
 but it is used by liberals to refer to political blowback against the social disruption produced by their own policies."
@@ -111,52 +117,37 @@ The nature of history is another theme that runs throughout this book.
 Given that Gray regards history as an essentially undirected process, it is unsurpising that
 he is not kind to Francis Fukuyama's book, *The End of History and the Last Man*. He notes that Fukuyama's
 declaration of what history held in store for humanity is remarkably similar to Sidney and Beatrice Webb's announcement
-that Stalin's USSR was the "end of history," and our "New Civilization" would be built on Stalin's totalitarian model.
+in 1936 that Stalin's USSR was the "end of history," and a "New Civilization" would be built on Stalin's totalitarian model.
 
 Gray examines the Hegelian roots of Fukuyama's work, "in which history showed one idea following another in dialectical
 succession." (17) But, he contends, "In reality, no such history ever transpired. History with a capital letter is like
-Humanity, an iridescent operation." (18) (I'm not sure why 'iridescent' is the word he chose here.)
+Humanity, an iridescent operation." (18)
 
-He argues that events since Fukuyama's book was published argue against his thesis:
+He argues that world history since Fukuyama's book was published argue against his thesis:
 
 "All the evidence suggests that we are moving back into an epoch that is classically historical, and not forward into
 the empty, hallucinatory post-historial era projected in Fukuyama's article... The grotesque notion that history was
 coming to an end in a universal convergence on American-style democracy was feted as realism." (19)
 
-Howevewr, Gray claims that "While history is not the unfolding of reason, there can be logic in particular situations." (22) But
+However, Gray claims that "While history is not the unfolding of reason, there can be logic in particular situations." (22) But
 he does not provide any argument for believing that a process that is irrational should present us with "particular
-situations" that are amenable to logical analysis: how could such situations arise? How can we identify them? He is
-silent on these crucial questions.
+situations" that are amenable to logical analysis: How could such situations arise? How can we identify them?
+The repeated rolling of dice is not "the unfolding of reason," but we would never suspect that certain sub-sequences
+would exhibit "logic."
 
-Gray also offers interesting insight on the difference between the Russian tsarist regime and the Soviet Union:
+Gray also offers an interesting insight on the difference between the Russian tsarist regime and the Soviet Union:
 
-"Whereas the Romanov empire was a traditional despotism, the Soviet state was a new Leviathan... Aiming to fashion a
-new humanity." (25) The difference was made manifest in the execution rate: "In the 50 years from 1867 to 1917, they were
+"Whereas the Romanov empire was a traditional despotism, the Soviet state was a new Leviathan... aiming to fashion a
+new humanity." (25) The difference was made manifest in the regime's execution rate: "In the 50 years from 1867 to 1917, they were
 around 25,000 deaths from executions and progroms. In the first five years of the Soviet states existence, there were
 around 200,000 executions..." (26) And this ignores deaths in camps: so the Soviet Union was killing its citizens at at
-least 100 times the rate of the Czars. And the difference is that the Czars just wanted to hold oonto power, while the
+least 100 times the rate of the Czars. The difference is that the Czars just wanted to hold onto power, while the
 Soviet leaders were fanatically pursuing an ideological vision.
 
 
-## Rationalism and Science
+## Evolution
 
-"The social contract of which Hobbes writes is a rationalist myth." (12)
-
-"Hobbes's pessism is only seeming. When he asserts that self-preservation is the path to peace, he writes not as a
-realist but as a utopian visionary."
-
-"Hobbes believed humankind could escpae the spell of language by constructing clear definitions of words. Here he
-was misled by rationalism." (15)
-
-
-"The Soviet Union, Nazi Germany and Maoist China killed in order to perfect humanity, or the part of it they judged to
-survive." (17)
-
-
-
-### Evolution
-
-As someone who has read Michael Oakeshott, one would think that Gray careful to distinguish the
+As someone who has read Michael Oakeshott, one would think that Gray would be careful to distinguish the
 presuppositions of a theory from any discoveries made using it. Nevertheless, he writes:
 
 "Here Fukuyama departs from the most important discovery in modern science. As understood by Charles Darwin, evolution
@@ -169,20 +160,17 @@ fact that his theory does not contain a telos for evolution is hardly surprising
 in order to formulate the theory.
 
 Gray follows this up by claiming, "Natural selection of genes is a purposeless process that is going nowhere." (20)
-His statement of this, as a Balde fact is particularly surprising, given two later statements he makes in this same
+His statement of this, as a bald fact is particularly surprising, given two later statements he makes in this same
 book. At one point, he admits that "The accidental origins of Christianity, of course, prove nothing. For a believer,
 chance is the work of providence." (124) (Of course, this would be better stated as, "For the believer, what may appear
 to us as chance is actually the workings of an infinite mind.") So the fact that John Gray sees no purpose to evolution
-hardly shows that it has no purpose. And in another passage, Gray notes that "
-
+hardly shows that it has no purpose. And in another passage, Gray notes that " ???
 
 
 ## Woke-ism
 
 Gray is not pleased with "what has come to be called the woke movement," declaring that its
-"origins... are in the decay of liberalism." (110)
-
-He notes that 
+"origins... are in the decay of liberalism." (110) He notes that 
 "If Western capitalism creates an expanding underclass without any productive function, it also produces a lumpen
 intelligentsia that is economically superfluous." (111)
 
@@ -209,19 +197,6 @@ housing project would be at their "effort." And can we really console this child
 for him to make a contribution by pointing out that we now spell "Black" with a capital "B"? These are not "steps in
 the right direction": they are steps by which the privileged hope to conceal the fact they are not actually doing
 anything substantive at all for the underprivileged.
-
-
-
-"Human beings can never be wholly self-defined." (109)
-
-
-
-
-"Human beings repress their awareness of death by identifying themselves with a supposedly timeless idea or belief..."
-(147). Is Gray really unaware of the tradition of _Memento Mori_ practiced in Christianity, or the countless skulls
-found in Indian and Tibetan art?
-
-
 
 
 ## Conclusion: The Meaning(lessness) of Life

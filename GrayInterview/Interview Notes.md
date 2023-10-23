@@ -13,6 +13,18 @@ Newtonian physics did not *discover* that an object in motion tends to stay in m
 
 As an Oakeshottian, I understand every "special science" makes presuppositions: so no objection to Darwin's!
 
+
+There was no tube of white paint in the dead artist's bag at the riverbank.
+
+"The accidental origins of Christianity, of course, prove nothing. For a believer,
+159 chance is the work of providence." (124) (This would be better stated as, "For the believer, what may appear
+160 to us as chance is actually the workings of an infinite mind.")
+
+
+"Chance" is a matter of knowledge: Lottery balls tumbling around.
+
+LaPlace's demon
+
 "Evolution is natural selection among random mutations."
 
 Are the different regimes that emerge in history really "random mutations"?

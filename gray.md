@@ -68,7 +68,7 @@ Or, as Michael Oakeshott (whom Gray refers to as one of Hobbes's "best interpret
 put it, "Hobbes is not an absolutist precisely because he is an authoritarian..." In other words, Hobbes's state existed
 to keep its citizens from going to war with each other, and had whatever power it needed to meet that task.
 But its area of authority did not include stopping them from smoking, or encouraging them to save
-prudently for retirement, or making them more understanding of homosexuals, or prompting them to read elevating
+prudently for retirement, or making them approving of homosexuality, or prompting them to read elevating
 literature or better appreciate art.
 
 While Gray appreciates Hobbes, he is discerning in his appreciation, for instance, pointing out:
@@ -79,14 +79,13 @@ realist but as a utopian visionary."
 * "Hobbes believed humankind could escpae the spell of language by constructing clear definitions of words. Here he
 was misled by rationalism." (15)
 
-In addition to the above, Hobbes appears again and again in this book, including epigraphs from *Leviathan* (or
-occasionally another work of his) that head each chapter and sub-chapter.
+Beyond these points, Hobbes makes many more appearances, including epigraphs from *Leviathan* (or
+occasionally another work) that head each chapter and sub-chapter.
 
 
 ## Liberalism
 
-The previous section described Gray's list of the key aspects of liberalism, and offered a brief synopsis of why he
-argues each is only a half-truth. But he has much more to say about liberalism than that. For example, he notes a
+Gray has much more to say about liberalism than what is mentioned above. For example, he notes a
 similarity between contemporary liberals and other recent ideologies:
 
 "The psychology of the political believer is not confined interwar communists and fellow travelers. The same mixture of
@@ -101,23 +100,19 @@ engendered. Twenty-first-century liberals reject this civilization, while contin
 hollowed-out version of its values. In this hyper-liberal vision all societies are destined to undergo the
 deconstruction that is underway in the West." (109)
 
-Many contemporary liberals are advocates of (almost?) unlimited immigration into liberal societies. Gray notes that, for
-the leaders of the Soviet Union, "The emergence of a new human type required the systematic severing of human beings from
-their cultural roots" (33). This principle appears to be exactly what is behind the liberal infatuation with promoting
-the maximum possible relocating of contemporary humans: once they are severed from their cultural roots, the hope is
-that they will have no alternative but to become "factors of production" in the neoliberal dream world.
-
 "Populism" is a current bogeyman of contemporary liberals. But, as Gray points out, "populism... has no clear meaning,
 but it is used by liberals to refer to political blowback against the social disruption produced by their own policies."
 (133)
+
+In the end, Gray contends, "If liberalism has a future, it will be as therapy against fear of the dark." (108)
 
 ## History
 
 The nature of history is another theme that runs throughout this book.
 Given that Gray regards history as an essentially undirected process, it is unsurpising that
-he is not kind to Francis Fukuyama's book, *The End of History and the Last Man*. He notes that Fukuyama's
-declaration of what history held in store for humanity is remarkably similar to Sidney and Beatrice Webb's announcement
-in 1936 that Stalin's USSR was the "end of history," and a "New Civilization" would be built on Stalin's totalitarian model.
+he is not kind to Francis Fukuyama's thesis that we have reached "The End of History". He notes that Fukuyama's
+announcement of "game over" for history is remarkably similar to Sidney and Beatrice Webb's 1936 claim
+that Stalin's USSR was the "end of history," and a "New Civilization" would be built on Stalin's totalitarian model.
 
 Gray examines the Hegelian roots of Fukuyama's work, "in which history showed one idea following another in dialectical
 succession." (17) But, he contends, "In reality, no such history ever transpired. History with a capital letter is like
@@ -138,16 +133,15 @@ would exhibit "logic."
 Gray also offers an interesting insight on the difference between the Russian tsarist regime and the Soviet Union:
 
 "Whereas the Romanov empire was a traditional despotism, the Soviet state was a new Leviathan... aiming to fashion a
-new humanity." (25) The difference was made manifest in the regime's execution rate: "In the 50 years from 1867 to 1917, they were
-around 25,000 deaths from executions and progroms. In the first five years of the Soviet states existence, there were
-around 200,000 executions..." (26) And this ignores deaths in camps: so the Soviet Union was killing its citizens at at
-least 100 times the rate of the Czars. The difference is that the Czars just wanted to hold onto power, while the
-Soviet leaders were fanatically pursuing an ideological vision.
+new humanity... In the fifty years from 1867 to 1917, there were
+around 25,000 deaths from executions and progroms. In the first five years of the Soviet state's existence, there were
+around 200,000 executions..." (25-26) And this ignores deaths in camps: so the Soviet Union was killing its citizens at
+roughly 100 times the rate of the Czars.
 
 
 ## Evolution
 
-As someone who has read Michael Oakeshott, one would think that Gray would be careful to distinguish the
+As someone who appreciates Michael Oakeshott, one would think that Gray would be careful to distinguish the
 presuppositions of a theory from any discoveries made using it. Nevertheless, he writes:
 
 "Here Fukuyama departs from the most important discovery in modern science. As understood by Charles Darwin, evolution
@@ -156,13 +150,13 @@ has no destination." (20)
 But this is not something Darwin "discovered": how could it be? We would need a perspective looking backward from the
 end of time to "discover" whether evolution has a destination. What Darwin did was pre-suppose that evolution proceeds
 via random mutations, and then tried to see if he could explain the origin of species using that presupposition. The
-fact that his theory does not contain a telos for evolution is hardly surprising, since that was an assumption fed in
+fact that his theory does not contain a telos for evolution is hardly surprising, since that was the assumption made
 in order to formulate the theory.
 
 Gray follows this up by claiming, "Natural selection of genes is a purposeless process that is going nowhere." (20)
-His statement of this, as a bald fact is particularly surprising, given two later statements he makes in this same
-book. At one point, he admits that "The accidental origins of Christianity, of course, prove nothing. For a believer,
-chance is the work of providence." (124) (Of course, this would be better stated as, "For the believer, what may appear
+His forwarding of this as a bald fact is particularly surprising, given two later statements he makes.
+In the first, he admits that "The accidental origins of Christianity, of course, prove nothing. For a believer,
+chance is the work of providence." (124) (This would be better stated as, "For the believer, what may appear
 to us as chance is actually the workings of an infinite mind.") So the fact that John Gray sees no purpose to evolution
 hardly shows that it has no purpose. And in another passage, Gray notes that " ???
 
@@ -186,17 +180,8 @@ Karl Marx in rigour, breadth and depth of thought." (111)
 In fact, 
 "Once questions of identity become central in politics, conflicts of economic interest can be disregarded. Idle
 chatter of micro-aggression screens out class hierarchy and the abandonment of large sections of society to idleness
-and destitution." (111) In other words, identity politics, far from being "Marxist," are actually a way to divert
+and destitution." (111) In other words, identity politics, far from being "Marxist," is actually a way to divert
 attention *away* from class issues towards relative trivialities.
-
-This reminded me of a recent episode in my own professional field of software engineering: the popular developer site
-GitHub decided to stop calling the principal code branch of a project the "master" branch, and instead call it "main":
-because "master" might remind some programmer somewhere of slavery. I am sure the people who organized this change felt
-very virtuous for their "social awareness," but I wondered just how impressed a poor child growing up in a crime-plagued
-housing project would be at their "effort." And can we really console this child for the fact that society has no place
-for him to make a contribution by pointing out that we now spell "Black" with a capital "B"? These are not "steps in
-the right direction": they are steps by which the privileged hope to conceal the fact they are not actually doing
-anything substantive at all for the underprivileged.
 
 
 ## Conclusion: The Meaning(lessness) of Life

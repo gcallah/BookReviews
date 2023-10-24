@@ -58,7 +58,7 @@ However, as Gray explains, "Each of these [liberal] ideas is a half-truth":
 3. "Society and government can be improved, but what is gained can always be lost... There is no complete or final exit
    from the state of nature." (5)
 
-Gray's claim that Hobbes was a liberal may disconcert some who have interpreted Hobbes as a totalitarian; but
+Gray's claim that Hobbes was a liberal may disconcert some who have interpreted him as a totalitarian; but
 here Gray makes a crucial, often over-looked, point about Hobbes:
 
 "Hobbes's was a state whose powers were unchecked, but its goals were strictly limited. Beyond securing its subjects
@@ -68,14 +68,14 @@ Or, as Michael Oakeshott (whom Gray refers to as one of Hobbes's "best interpret
 put it, "Hobbes is not an absolutist precisely because he is an authoritarian..." In other words, Hobbes's state existed
 to keep its citizens from going to war with each other, and had whatever power it needed to meet that task.
 But its area of authority did not include stopping them from smoking, or encouraging them to save
-prudently for retirement, or making them approving of homosexuality, or prompting them to read elevating
-literature or better appreciate art.
+prudently for retirement, or urging them to approve of homosexuality, or prompting them to
+better appreciate high culture.
 
-While Gray appreciates Hobbes, he is discerning in his appreciation, for instance, pointing out:
+While Gray appreciates Hobbes, the appreciation is not unadulterated; he notes:
 
 * "The social contract of which Hobbes writes is a rationalist myth." (12)
 * "Hobbes's pessism is only seeming. When he asserts that self-preservation is the path to peace, he writes not as a
-realist but as a utopian visionary."
+realist but as a utopian visionary." (15)
 * "Hobbes believed humankind could escpae the spell of language by constructing clear definitions of words. Here he
 was misled by rationalism." (15)
 
@@ -124,32 +124,31 @@ He argues that world history since Fukuyama's book was published argue against h
 the empty, hallucinatory post-historial era projected in Fukuyama's article... The grotesque notion that history was
 coming to an end in a universal convergence on American-style democracy was feted as realism." (19)
 
-However, Gray claims that "While history is not the unfolding of reason, there can be logic in particular situations." (22) But
+Gray claims that "While history is not the unfolding of reason, there can be logic in particular situations." (22) But
 he does not provide any argument for believing that a process that is irrational should present us with "particular
 situations" that are amenable to logical analysis: How could such situations arise? How can we identify them?
-The repeated rolling of dice is not "the unfolding of reason," but we would never suspect that certain sub-sequences
-would exhibit "logic."
+The repeated rolling of dice is certainly not "the unfolding of reason," but we would never suspect that certain sub-sequences
+of rolls would exhibit "logic."
 
-Gray also offers an interesting insight on the difference between the Russian tsarist regime and the Soviet Union:
+Gray also offers an importanrt insight on the difference between the Russian tsarist regime and the Soviet Union:
 
 "Whereas the Romanov empire was a traditional despotism, the Soviet state was a new Leviathan... aiming to fashion a
 new humanity... In the fifty years from 1867 to 1917, there were
-around 25,000 deaths from executions and progroms. In the first five years of the Soviet state's existence, there were
+around 25,000 deaths from executions and pogroms. In the first five years of the Soviet state's existence, there were
 around 200,000 executions..." (25-26) And this ignores deaths in camps: so the Soviet Union was killing its citizens at
-roughly 100 times the rate of the Czars.
+roughly 100 times the rate of the tsars.
 
 
 ## Evolution
 
-As someone who appreciates Michael Oakeshott, one would think that Gray would be careful to distinguish the
-presuppositions of a theory from any discoveries made using it. Nevertheless, he writes:
+Gray writes:
 
-"Here Fukuyama departs from the most important discovery in modern science. As understood by Charles Darwin, evolution
+"Fukuyama departs from the most important discovery in modern science. As understood by Charles Darwin, evolution
 has no destination." (20)
 
 But this is not something Darwin "discovered": how could it be? We would need a perspective looking backward from the
 end of time to "discover" whether evolution has a destination. What Darwin did was pre-suppose that evolution proceeds
-via random mutations, and then tried to see if he could explain the origin of species using that presupposition. The
+via random mutations, and then tried to explain the origin of species employing that presupposition. The
 fact that his theory does not contain a telos for evolution is hardly surprising, since that was the assumption made
 in order to formulate the theory.
 
@@ -157,19 +156,20 @@ Gray follows this up by claiming, "Natural selection of genes is a purposeless p
 His forwarding of this as a bald fact is particularly surprising, given two later statements he makes.
 In the first, he admits that "The accidental origins of Christianity, of course, prove nothing. For a believer,
 chance is the work of providence." (124) (This would be better stated as, "For the believer, what may appear
-to us as chance is actually the workings of an infinite mind.") So the fact that John Gray sees no purpose to evolution
-hardly shows that it has no purpose. And in another passage, Gray notes that " ???
+to us as chance is actually the workings of an infinite mind.") So the fact that John Gray *sees* no purpose to evolution
+hardly shows that it *has* no purpose. And in another passage, Gray notes that "the physical sciences may contain myths of
+their own." (149)
 
 
 ## Woke-ism
 
 Gray is not pleased with "what has come to be called the woke movement," declaring that its
-"origins... are in the decay of liberalism." (110) He notes that 
+"origins... are in the decay of liberalism." (110) He writes:
 "If Western capitalism creates an expanding underclass without any productive function, it also produces a lumpen
 intelligentsia that is economically superfluous." (111)
 
 In other words, in societies that are in serious need of more auto mechanics and carpenters and plumbers, we are instead
-producing far more doctors of gender studies and queer theory and even of English literature than are actually demanded:
+producing far more doctors of gender studies and queer theory and post-colonialism than are actually demanded:
 so what can these "superfluous" individuals do to make a living? Well, they fight for jobs based on who is "most woke,"
 which is a "vehicle through with surplus elites struggle to secure a position of power in society." (110)
 Or, as Gray also puts it, "In their economic aspects, woke movements are a revolt of the professional bourgeoisie." (111)
@@ -190,10 +190,10 @@ This book is a fascinating exploration of Gray's thoughts on a post-liberal worl
 often hard to say when Gray is presenting "something interesting to think about" and when he is presenting "here's what
 I think." So often it is not clear whether to critique some notion as Gray's own or not.
 
-Nevertheless, there is a clear thread running throughout the work, one asserting that human life is a random emergence from
-the inherently meaningless movements of matter in a universe lacking any purpose. As such, Gray, in spite of his own
-views, shows the importance of faith. He is an intelligent and perceptive observer and critic of "the world of the
-flesh," and is honest enough that he cannot hide from its ultimate meaninglessness (without illumination by the world of
-the spirit). The result, as Gray so ably demonstrates, is bleak, but the bleakness only arises from his rejection of the
+Nevertheless, there is a clear thread running throughout the work, one asserting that human life is a chance emergence from
+the random movements of matter in a universe lacking any purpose. As such, Gray, in spite of his own
+views, shows the importance of faith. He is an intelligent and perceptive observer of "the world of the
+flesh," and is honest enough that he cannot hide from the fact that, on its own grounds, it is meaninglessness.
+The result, as Gray so ably demonstrates, is bleak, but the bleakness only arises from his rejection of the
 world of the spirit.
 

@@ -40,6 +40,7 @@ Why wouldn't the (more?) consistent critic of Hegel say you just haven't gone fa
 
 Wokeness:
 
-Changing the name of the central branch of a get her repository from "master" to "main": boy, some kid in the project sure will appreciate that change!
+Changing the name of the central branch of a GitHub repository from "master" to "main": boy, some kid in the project sure will appreciate that change!
+"A step in the right direction."
 It is actually a way to **distract** from the fact that one is doing nothing about our most serious problems.
 

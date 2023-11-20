@@ -54,5 +54,22 @@ the authors introduce a control-flow-graph representation of the bytecode.
 Well, no, they are not: if they were, then the authors could not do anything with them. What they are is **difficult**
 to read binary files.
 
+The authors take some time describing their experimental set up, in which they compare their model again several other
+natural language processing models to see how similar the comments they generate are to the original source code
+comments. They find their model performs significantly better than the state-of-the-art baselines.
+
+When the comments generated were rated by human programmers, the BCGen model also outperformed its rivals.
+
+Nevertheless, the scores for both similarity of the generated comments to the original comments, and the scores assigned by
+the humans, were not top marks.
+
+So this brings us back to question to from above: is the activity of automated comment generation actually more helpful
+than harmful? Unfortunately, the authors do not address this point. Furthermore, for the activities in which by code
+analysis is used, such as detecting malware, they do not show that interspersing the bytecode with comments is actually
+helpful.
+
+In summary, this is a very interesting project that has improved the state of the art in automated comment generation.
+But whether it will have practical benefits remains to be seen.
+
 
 

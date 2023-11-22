@@ -1,5 +1,14 @@
 # The Political Economy of Distributorism
 
+Alexander Salter has written an important book, examining how the political program of distributism can inform
+contemporary debates about political economy. The fact that Salter is a trained economist with a PhD is significant,
+Since it indicates that taking distributism Seriously best night simply an indication of a lack of knowledge of
+"scientific" economics.
+
+Despite Salter's sympathy with distributist thought, he never gives the architects of distributism (chiefly G.K.
+Chesterton and Hilaire Belloc) a free pass: he continually tests whether their ideas appear plausible given commonly
+accepted economic theory.
+
 
 
 

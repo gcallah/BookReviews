@@ -1,8 +1,17 @@
 # The Political Economy of Distributorism
 
+## Property, Libery, and the Common Good
+
+Alexander William Salter
+
+The Catholic University of America Press, Washington, D.C.
+2023
+238 pages
+ISBN: 978-0-8132-3681-0
+
 Alexander Salter has written an important book, examining how the political program of distributism can inform
 contemporary debates about political economy. The fact that Salter is a trained economist with a PhD is significant,
-Since it indicates that taking distributism Seriously best night simply an indication of a lack of knowledge of
+since it indicates that taking distributism seriously might be simply a symptom of ignorance of
 "scientific" economics.
 
 Despite Salter's sympathy with distributist thought, he never gives the architects of distributism (chiefly G.K.
@@ -10,6 +19,32 @@ Chesterton and Hilaire Belloc) a free pass: he continually tests whether their i
 accepted economic theory.
 
 
+"Man needs not just a shelter but a *home*, and socialism cannot distinguish between the two." (92)
+
+
+Chesterton sees the battle between Tories and socialists as little more than a pantomime, disguising the awful
+possibility that they are "secretly in partnership; the quarrel they keep up in public is very much of a put-up job; and
+that the way in which they perpetually play into each other's hands is not an everlasting coincidence (92-93)
+
+"It never seems to strike these people, that the lesson of lice in the slums of the wrongness of slums, not the
+wrongness of hair." (93)
+
+
+Salter spend some time discussing Mary Hirschfeld's work *Aquinas and the Market*. Her spell notes that well economics
+discusses efficiency, in terms of what means unemployed to achieve any ends whatsoever, Aquinas holes that "human choice
+is not about efficiently getting what we want so much as it is about learning how to want what is genuinely good" (144,
+Salter quoting Hirshfeld). There is no virtue in being very efficient about achieving evil ends. Salter contends that
+while Hirshfeld's work points us towards a humane *economics*, Belloc and Chesterton's program is about creating a
+humane *economy*. Thus, Salter concludes, these are two complementary research programs that should be united.
+
+
+As someone who has repeatedly committed the venial sin of reviewing academic books, I find too many academic writers
+seem to believe that the best way of showing one's intelligence is to write obscurely. Salter does not suffer from that
+illusion: his writing is always pellucid. A minor quibble: Salter does employ the contemporary, nearly instinctual habit
+of announcing in advance or retrospectively repeating one's main argument. At one point he writes, "It will be helpful
+to summarize the arguments thus far" (127). My reaction was, "Not really: I have been following along." I cannot recall
+a single classic work of philosophy, social theory, or history that follows this method: I think it is a journalistic
+trick appropriate for casual readers of newspapers that has unfortunately leaked into academic writing.
 
 
 ## Generated

@@ -56,6 +56,12 @@ this is an *imaginary* construction. So even setting aside, political interventi
 room for Chesterton's‘s argument to have validity. 
 
 
+A key figure for Salter is the German economist Wilhelm Röpke, who married Belloc and Chesterton's concerns about
+proletariazation and the inhuman scale of modern life with a rigorous knowledge of economic price theory. Salter devotes
+two chapters to Röpke, the first to show that his social concerns are remarkably similar to those of Bellow and
+Chesterton (both of whom Röpke cites), and the second to demonstrate his grasp of economic theory and its importance to
+his recommendations for reform.
+
 
 
 
@@ -68,4 +74,9 @@ a single classic work of philosophy, social theory, or history that follows this
 trick appropriate for casual readers of newspapers that has unfortunately leaked into academic writing.
 
 
+If I might be so bold as to try to capture the "main message" of Salters book, it might be that:
 
+1. Those who attempt social reform without understanding price theory are likely to make foolish mistakes that result in
+   the opposite effect of what they wished to achieve.
+2. Those who rely only on price theory in devising, social policy, are likely to make in human mistakes that ignore all
+   the things about people and their common life that cannot be captured in a supply-and-demand diagram.

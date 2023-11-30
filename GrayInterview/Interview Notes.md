@@ -1,4 +1,13 @@
 
+I have reviewed you a number of times.
+
+The reason is that while I often have disagreed with you, I have never felt the things you said, I disagreed with were simply dumb or ignorant: instead, they were the logical conclusion of a presupposition with which I disagreed.
+
+Short, every time I have read, or read and reviewed one of your books, I have never felt short changed, whatever I might reject of what you said. I'm so, when I saw you had published another book, which you do with alarming frequency, I would lineup to review you again.
+
+
+
+
 Neither Jesus nor Buddha "put together a coherent argument." And often neither did Plato! (Gadamer)
 
 I thought maybe I'd just meditate on your book and throw out my thoughts: but probably not a publishable review!

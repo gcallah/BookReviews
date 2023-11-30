@@ -5,18 +5,48 @@
 Alexander William Salter
 
 The Catholic University of America Press, Washington, D.C.
+
 2023
+
 238 pages
+
 ISBN: 978-0-8132-3681-0
 
 Alexander Salter has written an important book, examining how the political program of distributism can inform
 contemporary debates about political economy. The fact that Salter is a trained economist with a PhD is significant,
-since it indicates that taking distributism seriously might be simply a symptom of ignorance of
+since it contradicts the idea that taking distributism seriously might be simply a symptom of ignorance of
 "scientific" economics.
 
 Despite Salter's sympathy with distributist thought, he never gives the architects of distributism (chiefly G.K.
 Chesterton and Hilaire Belloc) a free pass: he continually tests whether their ideas appear plausible given commonly
-accepted economic theory.
+accepted economic theory. Spoiler: in many cases they do appear so, but in several others Salter judges them to come up
+short.
+
+Salter sets the scene for the core of his book with two chapters, the first on "common-good capitalism." That was the
+theme of a speech by Senator Marco Rubio, in which he claimed that, despite "years of robust economic growth, we still
+have millions of people unable to find dignified work, and feeling forgotten, ignored, and left behind" (Rubio, quoted
+in Salter, pg. 1). After rejecting socialism as an answer to our problems, Rubio argued that the right response "is not
+to abolish free enterprise but to moralize it" (2). And Salter points out that Rubio has hardly been alone among figures
+broadly "on the right" who recently have been questioning laissez-faire ideology, noting a manifesto published in
+*First Things* signed by "more than a dozen high-profile academics and public intellectuals" (3). Salter goes on to
+discuss Notre Dame political theorist Patrick Deneen and Harvard law professor Adrian Vermeule as prominent examples of
+intellectuals promoting a revived concern for the common good as necessary to cure what ails us, and notes that each of
+them grounds their critiques of the current order in Catholic social teaching. To close out the chapter, Salter points
+out that "common-good capitalism" is not an example of a "third-way" economic system halfway between socialism and
+capitalism. The common "third way" is the regulatory-redistrbutivist state, which, given its focus on "material comfort
+and social pacification," is focused on "second-order problems," and thus ignores the first-order problem of "respecting
+human dignity" (7). In particular, third way solutions, such as social democracy, relying on distributing either
+consumer goods directly (such as food stamps or housing vouchers) or indirectly via cash transfers, to those less well
+off, as if upping their level of consumption alone could make their lives satisfying. Distributism, on the other hand,
+focuses on individual ownership of *productive* property, the ownership of which enables each individual to have the
+dignity of directing their own life as they see fit.
+
+In the next chapter, Salter offers a brief out line of Catholic social thought.
+
+
+
+Salter begins his foray into the particulars of distributist thought with two chapters on the English writer Hilaire
+Belloc, the first addressing his work, *The Servile State*.
 
 
 "Man needs not just a shelter but a *home*, and socialism cannot distinguish between the two." (92)
@@ -26,7 +56,7 @@ Chesterton sees the battle between Tories and socialists as little more than a p
 possibility that they are "secretly in partnership; the quarrel they keep up in public is very much of a put-up job; and
 that the way in which they perpetually play into each other's hands is not an everlasting coincidence (92-93)
 
-"It never seems to strike these people, that the lesson of lice in the slums of the wrongness of slums, not the
+"It never seems to strike these people, that the lesson of lice in the slums is the wrongness of slums, not the
 wrongness of hair." (93)
 
 

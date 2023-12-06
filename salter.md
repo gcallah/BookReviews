@@ -13,11 +13,13 @@ The Catholic University of America Press, Washington, D.C.
 ISBN: 978-0-8132-3681-0
 
 Alexander Salter has written an important book, examining how the political program of distributism can inform
-contemporary debates about political economy. The fact that Salter is a trained economist with a PhD is significant,
+contemporary debates about political economy.
+(I should note here that Salter and I co-wrote a paper on distributism, which is, in fact, cited in the book under review.)
+The fact that Salter is a trained economist with a PhD is significant,
 since it contradicts the idea that taking distributism seriously might be simply a symptom of ignorance of
-"scientific" economics. (Disclosure: Salter and I co-wrote a paper on distributism, which is, in fact, cited in
-the book under review.) Despite Salter's sympathy with distributist thought, he never gives the architects of
-distributism (chiefly G.K.  Chesterton and Hilaire Belloc) a free pass: he continually tests whether their ideas appear
+"scientific" economics.
+Despite Salter's sympathy with distributist thought, he never gives the architects of
+distributism (chiefly G. K. Chesterton and Hilaire Belloc) a free pass: he continually tests whether their ideas appear
 plausible given commonly accepted economic theory. Spoiler: in many cases they do appear so, but in several others
 Salter judges them to come up short.
 
@@ -57,14 +59,32 @@ In any case, the various pronouncements of the Catholic Church during this perio
 private property is vital to human flourishing, but, contra economic liberals, property rights are not absolute: "The
 state must regulate ownership and its attendant privileges in the interests of the common good" (18). Pope Pius added
 the vital concept of *subsidiarity* to Leo's work: "higher-order communities [such as nations]...[must not] interfere
-with the operation of lower-order communities [such as a village} without just cause" (18).
-
-
+with the operation of lower-order communities [such as a village} without just cause" (18). In other words, local
+communities should not interfere with intra-family affairs, except in cases of clear abuse. Counties should not interfere
+in local communities' governance, except in clear cases of injustice, such as the mayor giving all town contracts to his
+relatives. And so on.
 
 Salter begins his foray into the particulars of distributist thought with two chapters on the English writer Hilaire
-Belloc, the first addressing his work, *The Servile State*.
+Belloc, the first addressing his work, *The Servile State*. Belloc's work was influential enough that even a classical
+liberal like F. A. Hayek quotes, in *The Road to Serfdom*, to wit: "The control of the production of wealth is the
+control of human life itself" (quoted in Salter, page 30). Belloc's concern is that the property arrangements of
+industrial capitalism, where the ownership of *productive* property is concentrated in fewer and fewer hands, will
+eventually lead to the re-establishment of a servile state such as was common in the ancient world, where most work was
+done by largely unfree labor for the benefit of a ruling elite. Belloc would not be impressed by neo-liberal defenses of
+current arrangements based upon noting that contemporary workers can own very large SUVs and plasma-screen TVs: it is
+ownership of the means of production that makes a person free to direct his own days.
+
+The next chapter takes up Belloc's work *An Essay on the Restoration of Property*. Here, Belloc admits that sometimes
+giant economic conglomerates may sometimes be more efficient and even more innovative than small concerns. But he does
+not believe that these possible benefits are worth the cost in human freedom and dignity that such bigness entails.
+For Belloc, policies designed to lift workers' wages while ignoring who owns the means of production
+miss the crucial fact that "A wage employee does not possess
+economic freedom, regardless of how high his wage is. Freedom requires ownership..." (Belloc quoted in Salter 50).
+Better to pursue policies that favor "small retailers and craftsmen," who own their own productive property, than to try
+to make the servile condition of a wage laborer slighlty more palatable.
 
 
+Critiquing programs housing the poor in state-provided "council flats" or "housing projects," Chesterton writes:
 "Man needs not just a shelter but a *home*, and socialism cannot distinguish between the two." (92)
 
 
@@ -72,6 +92,8 @@ Chesterton sees the battle between Tories and socialists as little more than a p
 possibility that they are "secretly in partnership; the quarrel they keep up in public is very much of a put-up job; and
 that the way in which they perpetually play into each other's hands is not an everlasting coincidence (92-93)
 
+In response to a "progressive" proposal that all of the children of the poor should be mandated to have short hair, to
+prevent outbreaks of louse infestation, Chesterton noted that
 "It never seems to strike these people, that the lesson of lice in the slums is the wrongness of slums, not the
 wrongness of hair." (93)
 

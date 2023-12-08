@@ -137,12 +137,8 @@ Röpke exemplifies why
 being able to "think like an economist" is important for anyone who truly wishes to improve society. A failure to do so
 is likely to result in policies that not only fail to acheive their goal, but even may achieve the opposite. For
 instance, many people concerned about the well-being of low-wage workers advocate setting a high minimum wage.
-But where can the minimum wage be set so that it is "correct' for a parent supporting several children,
-for one member of a couple going back to work part time while the other is working full-time,
-for a single person living on their own,
-for a teenager living at home with their parents,
-and for someone with some other means of support who is trying to get going in some highly
-desirable line of work. Belloc, Chesterton, and Röpke would all
+But that can lead to unemployment for many low-wage workers.
+Belloc, Chesterton, and Röpke would all
 agree that, better than trying to artificially prop up the wage of a proletarian worker, let's de-proletarianize him.
 (And, by the way, so would Marx and Engels, who disdained reforms like minimum wage legislation.)
 

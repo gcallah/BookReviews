@@ -42,17 +42,20 @@ off, as if upping their level of consumption alone could make their lives satisf
 focuses on individual ownership of *productive* property, which enables each individual to have the
 dignity of greater direction of their own life.
 
-In the next chapter, Salter offers a brief out line of Catholic social thought. The Church had always been engaged with
+In the next chapter, Salter offers a brief outline of Catholic social thought. The Church had always been engaged with
 social issues, but the impetus for articulating a specifically Catholic approach to social issues was "the economic and
 political upheavals in the West following the Industrial Revolution" (15). The foundational documents in this effort
 were Pope Leo XIII's *Rerum Novarum* of 1891 and Pope Pius XI's *Quadragesimo Anno* of 1931.
 
 In this chapter, Salter claims that "Industrialization greatly increased living standards..." (17). But recent research has shown that
 in the nineteenth century the physical health of the rural populations of Scotland and Ireland was much better than that
-of industrialized England. Unfortunately, Salter does not consider the impact of forced enclosures of common land,
+of industrialized England.
+Salter claims that, during the Industrial Revolution,
+"Many voluntarily left the countryside in pursuit of wage employment in cities..." (17).
+Unfortunately, he does not consider the impact of forced enclosures of common land,
 cutting peasants off from an important source of their livelihood, on the mass movement of peasants into factory work.
-He claims that "Many voluntarily left the countryside in pursuit of wage employment in cities..." (17), but this is
-somewhat like saying that "I voluntarily moved into a homeless shelter, after my house was demolished by legislative
+Once taken into account, his claim is somewhat like saying that
+"I voluntarily moved into a homeless shelter... after my house was demolished by legislative
 act."
 
 In any case, the various pronouncements of the Catholic Church during this period asserted that, contra socialists,
@@ -103,11 +106,6 @@ Chesterton sees the battle between Tories and socialists as little more than a p
 possibility that they are "secretly in partnership; the quarrel they keep up in public is very much of a put-up job; and
 that the way in which they perpetually play into each other's hands is not an everlasting coincidence (92-93)
 
-In response to a "progressive" proposal that all of the children of the poor should be mandated to have short hair, to
-prevent outbreaks of louse infestation, Chesterton noted that
-"It never seems to strike these people that the lesson of lice in the slums is the wrongness of slums, not the
-wrongness of hair." (93)
-
 The second book of Chesterton's that Salter looks at is *The Outline of Sanity*, which is "as much about politics as
 economics" (99). Here Chesterton attacks bigness and monopoly in both the public and the private sphere, the purpose of
 which is "social control, the modern phrase for the age-old institution of Slavery" (quoted on Salter 99). Chesterton
@@ -116,8 +114,9 @@ through time... All democrats object to men being disqualified by the accident o
 being disqualified by the accident of death" (quoted on Salter 101).
 
 Salter spends some time criticizing Chesterton's contention that large firms are inefficient, but here it is Salter who
-does not seem to have "kept step," as he ignores the Toyota revolution in manufacturing, and the proven superiority of
-small teams in rapidly producing quality software.
+does not seem to have "kept step," as he ignores developments such as
+the Toyota revolution moving us towards small batch manufacturing,
+and the proven superiority of small teams in rapidly producing quality software.
 
 
 Salter goes on to discuss Mary Hirschfeld's work *Aquinas and the Market*. Hirschfeld notes that while economics
@@ -129,7 +128,7 @@ humane *economy*. Thus, Salter concludes, these are two complementary research p
 
 Another key figure for Salter is the German economist Wilhelm Röpke, who married Belloc and Chesterton's concerns about
 proletarianization and the inhuman scale of modern life with a rigorous knowledge of economic price theory. Salter devotes
-two chapters to Röpke, the first to show that his social concerns are remarkably similar to those of Bellow and
+two chapters to Röpke, the first to show that his social concerns are remarkably similar to those of Belloc and
 Chesterton (both of whom Röpke cites), and the second to demonstrate his grasp of economic theory and its importance to
 his recommendations for reform.
 
@@ -144,7 +143,7 @@ agree that, better than trying to artificially prop up the wage of a proletarian
 
 As someone who has repeatedly committed the venial sin of reviewing academic books, I find too many academic writers
 seem to believe that the best way of showing one's intelligence is to write obscurely. Salter does not suffer from that
-illusion: his writing is always pellucid. A minor quibble: Salter does employ the contemporary, nearly instinctual habit
+delusion: his writing is always pellucid. A minor quibble: Salter does employ the contemporary, nearly instinctual habit
 of announcing in advance and retrospectively repeating one's main argument. At one point he writes, "It will be helpful
 to summarize the arguments thus far" (127). My reaction was, "Not really: I have been following along." I cannot recall
 a single classic work of philosophy, social theory, or history that follows this method: I think it is a journalistic
@@ -155,8 +154,8 @@ If I might be so bold as to try to capture the "main message" of Salters book, i
 
 1. Those who attempt social reform without understanding price theory are likely to make foolish mistakes that result in
    the opposite effect of what they wished to achieve.
-2. Those who rely only on price theory in devising, social policy, are likely to make in human mistakes that ignore all
+2. Those who rely only on price theory in devising social policy are likely to make anti-human mistakes that ignore all
    the things about people and their common life that cannot be captured in a supply-and-demand diagram.
 
-My minor quibbles aside, this is an excellent book, Which should serve as an important introduction to distributism
+My minor quibbles aside, this is an excellent book, which should serve as an important introduction to distributism
 for both economists and non-economists.

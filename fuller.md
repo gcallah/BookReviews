@@ -1,8 +1,6 @@
 # Michael Oakeshott on the Human Condition
 ## Essays by Timothy Fuller
 
-Timothy Fuller
-
 
 Modes: 
 
@@ -51,5 +49,56 @@ disguise the truth about ourselves, but also to lead us into ill-considered proj
 
 But to embark upon "ill-considered projects for transforming the human race" would seem to me to be the very paradigm of
 being "not conservative."
+
+
+
+
+Fuller writes, of MO's concept of civil association:
+
+"The civil association requires someone to occupy an office of authority that is acknowledged as the source of
+authoritative pronouncements... the occupant of an office like this is not privileged with special insight or knowledge..."
+106
+
+This is MO's and Fuller's answer to the rather fatuous libertarian argument that claims that any justification for the
+existence of government relies on the idea that government officials are infallible, or at least much better than the
+rest of us, when it comes to making practical decisions about social matters. The justification for having an umpire in
+a baseball game is not that the umpire understands baseball better than the players, or that he is infallible or even
+better than the players at determining what is a ball and what is a strike, but merely that it is desirable to have
+someone whose pronouncements on the matter are authoritative and final. Both the pitcher and the batter may, in general,
+be better judges of what is a ball and what is a strike than the umpire. But clearly, given that they are not
+disinterested parties about the distinction, they will often disagree. And then there must be someone possessed of an
+office with the authority to decide "ball or strike," or the game cannot proceed. (Oakeshott notes that the laws of
+civil association "are not the rules of a game," but that does not mean they do not bear many similarities to the rules
+of a game.)
+
+Furthermore, there must be a way to decide where the strike zone is, is there such a thing as an "infield fly rule," and
+when does it apply? Such decisions quite obviously cannot occur without an entity authorized to make them.
+
+
+Speaking of the world of practice, Fuller writes "So far, no 'what is' has ever ended challenges from further thoughts
+of what ought to be" 141. Well, that is true, it seems off from MO's main point, which is that such a happening would
+dissolve the practical mode, since it's primary presupposition is that the existing world is in some sense
+unsatisfactory, and requires practical action to render it more satisfactory. (On this point, MO is remarkably like
+Ludwig von Mises, who noted that action requires "felt unease.") so long as there is a world of practice, it is not
+merely that "not yet" have we ever found our current situation completely satisfactory, but with certainty we never
+will. And Fuller follows up his statement with a quote from MO that makes exactly this point.
+
+
+
+
+
+"So long as the future is an essential element in practical appraisal, coherence has to elude us" 162
+
+Here, the "so long as" is again puzzling: it is not as if the future could cease to be an essential element in practical
+appraisal. Appraisal without an eye to the future is not something that might crop in future practical activity:
+instead, it would mean we had left the world of practice behind.
+
+
+An unfortunate aspect of these essays is that many of them are intended as introductions to the thought of Oakeshott,
+and thus there is a high degree of repetitiveness in them. For instance, the story of the Chinese wheelwright skeptical
+of book learning is told no fewer than three times. To repeat the story in essays published years apart in different
+outlets is understandable, but a little judicious editing might have relieved some of the repetition
+once these essays were collected together.
+
 
 

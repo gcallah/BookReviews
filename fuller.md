@@ -1,4 +1,5 @@
 # Michael Oakeshott on the Human Condition
+
 ## Essays by Timothy Fuller
 
 
@@ -100,5 +101,8 @@ of book learning is told no fewer than three times. To repeat the story in essay
 outlets is understandable, but a little judicious editing might have relieved some of the repetition
 once these essays were collected together.
 
+Despite this flaw, This collection of essays is an Excellent introduction to Oakeshott start for the newcomer. Those
+more familiar with MO should still find a pact with insights into the thinker that will make reading the volume
+worthwhile.
 
 

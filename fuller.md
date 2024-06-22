@@ -2,19 +2,36 @@
 
 ## Essays by Timothy Fuller
 
+Timothy Fuller of Colorado State College is one of the worlds foremost scholars on the work of British philosopher
+Michael Oakshott. In addtition, Fuller was a personal friend of MO's for the last 16 years of his life, for a time
+shared an office with him, and later took frequent
+trips to England to converse with him. As such, this collection of Fuller's essays on Oakeshott is a welcome addition to
+the ever increasing amount of secondary literature on the thinker.
 
-Modes: 
+In fact, this volume opens up with a charming reminiscence of Fuller's various encounters with Oakeshott, beginning
+when, as a student in 1959, he first read him. He recalls MO "smoking continously" as he repeatedly revised his papers
+for the History of Political Thought seminar, after which they would go out to eat at Luigi's or [Mon
+Plaisir](https://www.monplaisir.co.uk/about). When Fuller would visit MO ay his Dorset cottage he was able to experience
+him driving his 1958 MG-B "at excessive speed through the hedgerows."
 
-Fuller writes that, "for the philosopher such a proclamation of self-satisfaction must be treated with skepticism." (4)
+The first essay in the book is the first one Fuller wrote on MO, and is previously unpublished. In it, Fuller takes up
+MO's concept of "modes" of experience, as described in MO's first book, *Experience and Its Modes*. In brief, a mode is
+the whole of experience viewed from a partial, abstract perspective. For instance, science is the mode that views
+experience through the lens of measurable quantity. Fuller writes that, "for the philosopher such a proclamation of
+self-satisfaction [on the part of a mode] must be treated with skepticism." (4)
 
-Treating them with "skepticism" implies that such a view might be correct. But it seems to me that Oakeshott views them
-as demonstrably mistaken: since the modes construct from the whole of experience " a restricted world of abstract ideas"
-(EAIM 70), they are necessarily partial and defective. No, Fuller understands this quite well, as shown by the next few
+But treating a mode's claim to represent the whole of experience
+with "skepticism" implies that such a view might be correct. But it seems to me that Oakeshott views them
+as demonstrably mistaken: since the modes construct from the whole of experience "a restricted world of abstract ideas"
+(EM 70), they are *necessarily* partial and defective. And Fuller seems to understand this quite well, as shown by the next few
 pages of his essay. But that makes the choice of "skeptical" more puzzling, not less.
 
 
+In an essay entitled "Authority in the Individual in Civil Association: MO, Flathman, Yves Simon," Fuller compares the
+ideas of MO on the source of civil authority with those of Richard Flathman and Yves Simon.
+
 Fuller next takes up the work of John Hopkins political theorist Richard Flathman, looks at authority, using an
-"amalgamation of elements from different categories of understanding" 58
+"amalgamation of elements from different categories of understanding." 58
 
 Thus, like Locke, Flathman would have it two ways at once: the threat of the appeal to heaven will help keep the
 authorities skittish about the exercise of authority, and most people will perhaps find it to their advantage to be

@@ -28,18 +28,22 @@ pages of his essay. But that makes the choice of "skeptical" more puzzling, not 
 
 
 In an essay entitled "Authority in the Individual in Civil Association: MO, Flathman, Yves Simon," Fuller compares the
-ideas of MO on the source of civil authority with those of Richard Flathman and Yves Simon.
+ideas of MO on the source of civil authority with those of American political scientist Richard Flathman and the French philosopher
+Yves Simon. Fuller finds MO to occupy a
+middle ground on authority, flanked on one side by Flathman's "resolute irresolution" about using authority. Of Flathman, Fuller writes:
 
-Fuller next takes up the work of John Hopkins political theorist Richard Flathman, looks at authority, using an
-"amalgamation of elements from different categories of understanding." 58
-
-Thus, like Locke, Flathman would have it two ways at once: the threat of the appeal to heaven will help keep the
+"Thus, like Locke, Flathman would have it two ways at once: the threat of the appeal to heaven will help keep the
 authorities skittish about the exercise of authority, and most people will perhaps find it to their advantage to be
-governed by those who are skittish about governing" 64
+governed by those who are skittish about governing." 64
+
+On MO's other side we find Yves Simon, who, working in the Thomistic natural law tradition, finds authority to be tasked
+not merely with preserving civil order, but also with moving individuals towards their supreme good, as far as it is
+possible to do so. And so MO winds up between them, not "skittish" about authority like Flathman, but also not assigning
+any role beyond keeping the peace.
 
 
 The next essay is the text of the eulogy that Fuller delivered at the LSE memorial service following Oakeshott's
-passing. In it, we learn of Oakeshott's for the American West, and his non-utilitarian understanding of the purpose of
+passing. In it, we learn of Oakeshott's love for the American West, and his non-utilitarian understanding of the purpose of
 higher education. 
 
 
@@ -48,6 +52,8 @@ religious thought. This is an aspect of Oakeshott's interests that, after the ea
 but Fuller tells us that his study of theology was a lifelong pursuit. Fuller notes that "[Oakeshott] thought that St.
 Augustine enjoyed the greatest religious imagination within our tradition and after him Pascal" 83.
 
+
+BRIDGE
 
 Franco and Orr can't both be correct, and one wishes Fuller had tried to adjudicate their dispute a little more
 decisively. I suspect that he, like I, would come down on the side of Franco, and say that Orr simply misunderstood what
@@ -114,11 +120,12 @@ instead, it would mean we had left the world of practice behind.
 
 An unfortunate aspect of these essays is that many of them are intended as introductions to the thought of Oakeshott,
 and thus there is a high degree of repetitiveness in them. For instance, the story of the Chinese wheelwright skeptical
-of book learning is told no fewer than three times. To repeat the story in essays published years apart in different
+of book learning is told no fewer than three times, as is the notable MO quote on politics being the "pursuit of
+intimations." To repeat such items in essays published years apart in different
 outlets is understandable, but a little judicious editing might have relieved some of the repetition
 once these essays were collected together.
 
-Despite this flaw, This collection of essays is an Excellent introduction to Oakeshott start for the newcomer. Those
+Despite this flaw, this collection of essays is an excellent introduction to Oakeshott for the newcomer. Those
 more familiar with MO should still find a pact with insights into the thinker that will make reading the volume
 worthwhile.
 

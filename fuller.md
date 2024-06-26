@@ -3,19 +3,19 @@
 ## Essays by Timothy Fuller
 
 Timothy Fuller of Colorado State College is one of the worlds foremost scholars on the work of British philosopher
-Michael Oakshott. In addtition, Fuller was a personal friend of MO's for the last 16 years of his life, for a time
+Michael Oakshott. In addtition, Fuller was a personal friend of Oakeshott's for the last 16 years of his life, for a time
 shared an office with him, and later took frequent
 trips to England to converse with him. As such, this collection of Fuller's essays on Oakeshott is a welcome addition to
 the ever increasing amount of secondary literature on the thinker.
 
 In fact, this volume opens up with a charming reminiscence of Fuller's various encounters with Oakeshott, beginning
-when, as a student in 1959, he first read him. He recalls MO "smoking continously" as he repeatedly revised his papers
+when, as a student in 1959, he first read him. He recalls Oakeshott "smoking continously" as he repeatedly revised his papers
 for the History of Political Thought seminar, after which they would go out to eat at Luigi's or [Mon
-Plaisir](https://www.monplaisir.co.uk/about). When Fuller would visit MO ay his Dorset cottage he was able to experience
+Plaisir](https://www.monplaisir.co.uk/about). When Fuller would visit Oakeshott ay his Dorset cottage he was able to experience
 him driving his 1958 MG-B "at excessive speed through the hedgerows."
 
-The first essay in the book is the first one Fuller wrote on MO, and is previously unpublished. In it, Fuller takes up
-MO's concept of "modes" of experience, as described in MO's first book, *Experience and Its Modes*. In brief, a mode is
+The first essay in the book is the first one Fuller wrote on Oakeshott, and is previously unpublished. In it, Fuller takes up
+Oakeshott's concept of "modes" of experience, as described in Oakeshott's first book, *Experience and Its Modes*. In brief, a mode is
 the whole of experience viewed from a partial, abstract perspective. For instance, science is the mode that views
 experience through the lens of measurable quantity. Fuller writes that, "for the philosopher such a proclamation of
 self-satisfaction [on the part of a mode] must be treated with skepticism." (4)
@@ -27,18 +27,18 @@ as demonstrably mistaken: since the modes construct from the whole of experience
 pages of his essay. But that makes the choice of "skeptical" more puzzling, not less.
 
 
-In an essay entitled "Authority in the Individual in Civil Association: MO, Flathman, Yves Simon," Fuller compares the
-ideas of MO on the source of civil authority with those of American political scientist Richard Flathman and the French philosopher
-Yves Simon. Fuller finds MO to occupy a
+In an essay entitled "Authority in the Individual in Civil Association: Oakeshott, Flathman, Yves Simon," Fuller compares the
+ideas of Oakeshott on the source of civil authority with those of American political scientist Richard Flathman and the French philosopher
+Yves Simon. Fuller finds Oakeshott to occupy a
 middle ground on authority, flanked on one side by Flathman's "resolute irresolution" about using authority. Of Flathman, Fuller writes:
 
 "Thus, like Locke, Flathman would have it two ways at once: the threat of the appeal to heaven will help keep the
 authorities skittish about the exercise of authority, and most people will perhaps find it to their advantage to be
 governed by those who are skittish about governing." 64
 
-On MO's other side we find Yves Simon, who, working in the Thomistic natural law tradition, finds authority to be tasked
+On Oakeshott's other side we find Yves Simon, who, working in the Thomistic natural law tradition, finds authority to be tasked
 not merely with preserving civil order, but also with moving individuals towards their supreme good, as far as it is
-possible to do so. And so MO winds up between them, not "skittish" about authority like Flathman, but also not assigning
+possible to do so. And so Oakeshott winds up between them, not "skittish" about authority like Flathman, but also not assigning
 any role beyond keeping the peace.
 
 
@@ -61,13 +61,13 @@ Oakeshott was up to.
 
 Agents: 87
 
-MO explained right in the very book Orr objects to what he was up to: he was "dropping anchor" with a certain set of
+Oakeshott explained right in the very book Orr objects to what he was up to: he was "dropping anchor" with a certain set of
 theoretical nets to see what fish could be caught at that location.
 
 
 
 
-"MO was not urging us to be conservative – he was arguing that we could not help but be so. To deny this is not only to
+"Oakeshott was not urging us to be conservative – he was arguing that we could not help but be so. To deny this is not only to
 disguise the truth about ourselves, but also to lead us into ill-considered projects for transforming the human race"
 104
 
@@ -77,13 +77,13 @@ being "not conservative."
 
 
 
-Fuller writes, of MO's concept of civil association:
+Fuller writes, of Oakeshott's concept of civil association:
 
 "The civil association requires someone to occupy an office of authority that is acknowledged as the source of
 authoritative pronouncements... the occupant of an office like this is not privileged with special insight or knowledge..."
 106
 
-This is MO's and Fuller's answer to the rather fatuous libertarian argument that claims that any justification for the
+This is Oakeshott's and Fuller's answer to the rather fatuous libertarian argument that claims that any justification for the
 existence of government relies on the idea that government officials are infallible, or at least much better than the
 rest of us, when it comes to making practical decisions about social matters. The justification for having an umpire in
 a baseball game is not that the umpire understands baseball better than the players, or that he is infallible or even
@@ -100,12 +100,12 @@ when does it apply? Such decisions quite obviously cannot occur without an entit
 
 
 Speaking of the world of practice, Fuller writes "So far, no 'what is' has ever ended challenges from further thoughts
-of what ought to be" 141. Well, that is true, it seems off from MO's main point, which is that such a happening would
+of what ought to be" 141. Well, that is true, it seems off from Oakeshott's main point, which is that such a happening would
 dissolve the practical mode, since it's primary presupposition is that the existing world is in some sense
-unsatisfactory, and requires practical action to render it more satisfactory. (On this point, MO is remarkably like
+unsatisfactory, and requires practical action to render it more satisfactory. (On this point, Oakeshott is remarkably like
 Ludwig von Mises, who noted that action requires "felt unease.") so long as there is a world of practice, it is not
 merely that "not yet" have we ever found our current situation completely satisfactory, but with certainty we never
-will. And Fuller follows up his statement with a quote from MO that makes exactly this point.
+will. And Fuller follows up his statement with a quote from Oakeshott that makes exactly this point.
 
 
 
@@ -118,15 +118,47 @@ appraisal. Appraisal without an eye to the future is not something that might cr
 instead, it would mean we had left the world of practice behind.
 
 
+In another chapter, Fuller takes John Stuart Mill to be a representative specimen of Oakeshott's ideal type of the
+"politics of faith." Oakeshott, in contrast, recognizes the politics of faith as an enduring pole of modern European politics ,
+but is himself more inclined towards the "politics of skepticism." he finds no foundation for their claims of moral and
+political progress and improvement "apart from a strong commitment to them among the intellectual elite."
+
+
+In an essay on historicism, Fuller finds Oakeshott, along with Hans-Georg Gadamer, to occupy a middle ground between R.G.
+Collingwood's embrace of historicism and Leo Strauss's complete rejection of it.
+
+
+
+In "Taking  Natural Law Seriously," Fuller examines Ronald Dworkin's book, *Taking Rights Seriously*, and concludes that
+the eminent legal theorist "would appear... to be intent upon transforming the commitment to the rule of law into a
+commitment to social engineering." 251 
+
+For Oakeshott, in contrast, a judicial authority, under the rule of law, cannot "regard itself as the custodian of a public
+policy or interest in favor of which... to resolve this disputed obligation." 260
+
+Fuller contrasts both Dworkin and Oakeshott to natural law theorist John Finnis, who "seeks to pass between the normative
+speculations of... utilitarian theorists, and the stark procedure of the pure rule of law."
+
+Along the way, he provides this excellent quote from Finnis as to why utilitarians cannot do the calculations they pretend are behind their ethics:
+
+"the [utilitarian's] imaginary perspective, as a God-like figure surveying possible worlds and choosing the world that
+embodies greater good or lesser evil, is a perspective that is simply not open to human practical reason." — John
+Finnis, Fundamentals of Ethics
+
+
+
+
+
+
 An unfortunate aspect of these essays is that many of them are intended as introductions to the thought of Oakeshott,
 and thus there is a high degree of repetitiveness in them. For instance, the story of the Chinese wheelwright skeptical
-of book learning is told no fewer than three times, as is the notable MO quote on politics being the "pursuit of
+of book learning is told no fewer than three times, as is the notable Oakeshott quote on politics being the "pursuit of
 intimations." To repeat such items in essays published years apart in different
 outlets is understandable, but a little judicious editing might have relieved some of the repetition
 once these essays were collected together.
 
 Despite this flaw, this collection of essays is an excellent introduction to Oakeshott for the newcomer. Those
-more familiar with MO should still find a pact with insights into the thinker that will make reading the volume
+more familiar with Oakeshott should still find a pact with insights into the thinker that will make reading the volume
 worthwhile.
 
 

@@ -158,7 +158,7 @@ outlets is understandable, but a little judicious editing might have relieved so
 once these essays were collected together.
 
 Despite this flaw, this collection of essays is an excellent introduction to Oakeshott for the newcomer. Those
-more familiar with Oakeshott should still find a pact with insights into the thinker that will make reading the volume
+more familiar with Oakeshott should still find it packed with insights into the thinker that will make reading the volume
 worthwhile.
 
 

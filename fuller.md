@@ -4,8 +4,8 @@
 ## Essays by Timothy Fuller
 
 
-Timothy Fuller of Colorado State College is one of the worlds foremost scholars on the work of British philosopher
-Michael Oakshott. Fuller was also a personal friend of Oakeshott's for the last 16 years of the latter's life, for a time
+Timothy Fuller of Colorado State College is one of the world's foremost scholars on the work of British philosopher
+Michael Oakshott. Fuller was also a personal friend of Oakeshott's for the last sixteen years of the latter's life, for a time
 shared an office with him, and later took frequent trips to England to converse with him. As such, this collection of
 Fuller's essays (many previously published) on Oakeshott is a welcome addition to the ever increasing amount of
 secondary literature on the thinker.
@@ -23,33 +23,35 @@ The essay after the introduciton is the first thing Fuller wrote on Oakeshott, a
 Oakeshott's concept of "modes" of experience, as described in Oakeshott's first book, *Experience and Its Modes*. In brief, a mode is
 the whole of experience viewed from a partial, abstract perspective. For instance, science is the mode that views
 experience through the lens of measurable quantity; practice is the mode that understands experience as the continual attempt
-to replace what-is with what-ought-to-be.
+to replace what-is with what-ought-to-be, and history is the mode that views the present world as a repository of
+evidence for a world-gone-by.
 
 
 Now, every mode, but in particular science and practice, are prone to hubris, to assert that their partial take on the
 world of experience is complete and fully satisfactory.  Fuller writes that, "for the philosopher such a proclamation of
-self-satisfaction [on the part of a mode] must be treated with skepticism." (4)
+self-satisfaction [on the part of a mode] must be treated with skepticism."
 
 
 Treating a mode's claim to represent the whole of experience
-with "skepticism" implies that such an assertion might be correct. But it seems to me that Oakeshott views such claims
-as demonstrably mistaken: since the modes construct, from the whole of experience, "a restricted world of abstract ideas"
-(EM 70), they are *necessarily* partial and defective. And Fuller seems to understand this quite well, as shown by the next few
+with "skepticism" implies that such an assertion *might* be correct. But it seems to me that Oakeshott views such claims
+as *demonstrably* mistaken: since the modes construct, from the whole of experience, "a restricted world of abstract ideas,"
+they are *necessarily* partial and defective. And Fuller seems to understand this quite well, as shown by the next few
 pages of his essay. But that makes the choice of "skeptical" more puzzling, not less.
 
 Oakeshott devoted much of his work *On Human Conduct* to the concept of "civil association," by which he meant a group
-of humans associated not by pursuit of a common end (as in an "enterprise association") but by subscription to a common
-authority and body of law.  In an essay entitled "Authority in the Individual in Civil Association: Oakeshott, Flathman,
+of humans associated not by pursuit of a common end (as in an "enterprise association," such as Google, the NY Yankees,
+or the American Cancer Society) 
+but by subscription to a common body of law and recognition of an authority which is that body's custodian.
+In an essay entitled "Authority in the Individual in Civil Association: Oakeshott, Flathman,
 Yves Simon," Fuller compares the ideas of Oakeshott on the source of civil authority with those of American political
-scientist Richard Flathman and the French philosopher Yves Simon. Fuller finds Oakeshott to occupy a middle ground on
-authority. On one side, he is flanked by Flathman's "resolute irresolution" about using authority. Of Flathman, Fuller
-writes:
+scientist Richard Flathman and the French philosopher Yves Simon. Fuller finds Oakeshott to be flanked
+on one side by Flathman's "resolute irresolution" about using authority. Of Flathman, Fuller writes:
 
 
 "Thus, like Locke, Flathman would have it two ways at once: the threat of the appeal to heaven [an appeal open to
-anyone, who can reject the current authorities as "lacking the mandate of heaven"] will help keep the
+anyone, who can reject the current authorities as 'lacking the mandate of heaven'] will help keep the
 authorities skittish about the exercise of authority, and most people will perhaps find it to their advantage to be
-governed by those who are skittish about governing." 64
+governed by those who are skittish about governing."
 
 
 On Oakeshott's other side we find Yves Simon, who, working in the Thomistic natural law tradition, finds authority to be tasked
@@ -60,7 +62,7 @@ it any role beyond maintaining order.
 
 The next essay is the text of the eulogy that Fuller delivered at the LSE memorial service following Oakeshott's
 passing. In it, among other things, we learn of Oakeshott's love for the American West,
-his non-utilitarian understanding of the purpose of higher education, and his profound influence on his students,
+his non-utilitarian understanding of the purpose of higher education, and his profound influence on his students.
 On the latter point, Fuller writes, "I have not personally known anyone who could feel the beauty of youth more
 intensely, even at the end of his days, then Michael."
 
@@ -82,10 +84,9 @@ Fuller continues:
 authoritative pronouncements... the occupant of an office like this is not privileged with special insight or knowledge..."
 106
 
-
 This is Oakeshott's [and Fuller's, and my] answer to the anarchist argument that any justification for the
 existence of government relies on the assertion that government officials are qualitatively better than the
-rest of us when it comes to making practical decisions about social matters. But that is nonsense: The justification for
+rest of us when it comes to making practical decisions about social matters. That is nonsense: The justification for
 having an umpire in a baseball game is not that the umpire understands baseball better than the players, or that he is
 infallible or even better than the players at determining what is a ball and what is a strike, but merely that it is
 desirable to have someone whose pronouncements on the matter are authoritative and final. Both the pitcher and the
@@ -120,15 +121,11 @@ Appraisal without an eye to the future is not something that might unexpectedly 
 instead, it would mean we had left the world of practice behind.
 
 
-
-
 In another chapter, Fuller takes John Stuart Mill to be a representative specimen of Oakeshott's ideal type of the
 "politics of faith." Oakeshott, on the other hand, recognizes the politics of faith as an enduring pole of modern European politics,
-but is himself more inclined towards the "politics of skepticism." Oakeshott finds no foundation for the party of the
-politics of faith's claims that history exhibits regular moral and political progress "apart from a strong commitment to
+but is himself more inclined towards the "politics of skepticism." Oakeshott finds no foundation for the party of
+faith in politics claims that history exhibits regular moral and political progress "apart from a strong commitment to
 them among the intellectual elite."
-
-
 
 
 In an essay on historicism, Fuller finds Oakeshott, along with Hans-Georg Gadamer, to occupy a salutory middle ground
@@ -138,8 +135,6 @@ supra-historical truths, he is certainly not re-enacting Plato's claim to have a
 reality. On the other hand, the variety of historicism Strauss focuses his attacks upon, is, per Gadamer "naive
 historicism": we can accept the existence of transcendental truths, while at the same time recognizing that our
 necessarily limited understanding of such truths is historically conditioned.
-
-
 
 
 In "Taking  Natural Law Seriously," Fuller examines Ronald Dworkin's book, *Taking Rights Seriously*, and concludes that
@@ -175,32 +170,5 @@ once these essays were collected together.
 Despite this flaw, this collection of essays is an excellent introduction to Oakeshott for the newcomer. Those
 more familiar with Oakeshott should still find it packed with insights into the thinker that will make reading it
 worthwhile, as it certainly was for me.
-
-
-
-
-=============================
-For possible inclusion:
-
-
-
-
-
-
-BRIDGE
-
-
-Franco and Orr can't both be correct, and one wishes Fuller had tried to adjudicate their dispute a little more
-decisively. I suspect that he, like I, would come down on the side of Franco, and say that Orr simply misunderstood what
-Oakeshott was up to.
-
-
-Agents: 87
-
-
-Oakeshott explained right in the very book Orr objects to what he was up to: he was "dropping anchor" with a certain set of
-theoretical nets to see what fish could be caught at that location.
-
-
 
 

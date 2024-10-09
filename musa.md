@@ -153,6 +153,25 @@ AG points out that invocations of Americas "fundamentally racist" nature, a natu
 reform pointless, actually excuses those invoking it from doing anything at all about our current situation.
 
 
+How sincere are elites in their woke beliefs? Are they really "true believers"? I have no doubt that they have convinced
+themselves that they are, to a great extent so that they can hold onto their power and prestige with a clear conscience.
+But isn't this more a case, as Aquinas would have it, of a corruption of the intellect through sin? Isn't it more like a
+case of a Lothario who convinces himself that women really like being seduced and then emotionally rejected so that he
+can justify behaving that way?
+
+Let's say I tell you I have a "sincere" commitment to sobriety. But every single night, you find out in a bar. At some
+point, when you say that, however often I assert how sincere my commitment is, my actions show that it really isn't that
+sincere? We even have cliches to describe these situations: these people are not "putting their money where their mouth
+is."
+
+
+Sometimes AG seems to employ the very empty gestures that his book so ably criticizes. For instance, throughout the
+book, black is spelled with a capital B, when referring to black people. Imagine going into the Redhook projects in
+Brooklyn, and telling the residents that you had just significantly improved their lives. When they ask you how, you
+tell them "I now spell Black with a capital B!" Being laughed out of the project is the best result you could hope for.
+But perhaps here it's just the case that AG's publisher forced this convention on him..
+
+
 
 
 Sometimes AG seems to be saying that we could, and should, do away with social heirarchies all together.

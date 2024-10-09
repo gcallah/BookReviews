@@ -99,13 +99,74 @@ Why is it "white supremacy" rather than "elite supremacy"? (Sam Kriss)
 The Son Also Rises: Gregory Clark
 
 
-Quit these racial discrepancies between black and whites perhaps not be fully explained by the fact that 200 years ago,
+Could these racial discrepancies between black and whites perhaps not be fully explained by the fact that 200 years ago,
 100% of elite families in the US were white, and 0% were black. And since elite status tends to persist over many
 generations, it is no surprise that today, much larger proportion of the elite or white than are black.
 
 
 The current economic system needs an underclass, and the urban black poor fill that role well. But so do the rural white
 poor.
+
+
+271: Confessions of privilege almost never resort in actual surrender of privilege.
+Not one of the many universities putting up a sign saying: "This campus is built on stolen
+Native American land" has ever proposed actually giving it back.
+Here AG tells a great story of two robbers, neither of whom plan to give their stolen loot back, but one of whom keeps
+bemoaning how terrible it is that his victims have had all of their possessions stolen and crying out that someone
+should help them. Surely both thieves are immoral, but the second one is massively annoying on top of it.
+
+
+273: it is the most elite schools that have pushed critical race theory the hardest. And al-Gharbi notes that this is no
+accident: "these modes of talking and thinking are recognized *as a means of* elite signaling."
+
+
+274: "the ideas and frameworks associated with what opponents label. 'CRT' are demonstrably *not* the language of the
+disadvantaged and the dispossessed."
+
+277: "many of [white liberals] preferred approaches to 'anti-racism' are not just demonstrably ineffective, but outright
+counterproductive"
+
+
+278: "defenders of what has come to be referred to as 'cancel culture' often attempt to portray the phenomena as folks
+from less advantaged backgrounds holding the 'privileged' to account. In fact, the people engaged in these practices are
+typically themselves elites or aspiring elites...  while there are many cases of elites 'canceling' working class people,
+there are *not* many cases of non-elites successfully canceling elites"
+
+
+AG notes that, since lower class minorities are significantly more likely than elites to hold to traditional religious
+values, to make holding those values a punishable offense in the workplace seriously disadvantages lower class
+minorities compared to the elites who are supposedly doing this enforcement in the name of "diversity."
+
+A similar story applies to fashionable group terms like "Latinx." Elites use this to refer to people of Hispanic
+origin, as though they were somehow "honoring" them by doing so, but only 3% of Hispanics use the term and a vast
+majority of them outright reject it.
+
+How to handle the inconvenient fact that the vast bulk of the "BIPOCs" being championed by the woke have little interest
+in their agenda and theories, mostly finding them, in so far as they are even aware of them, fairly ridiculous?
+That's easy: minorities who dissent from elite opinions on what represents "racial justice" are dismissed as being not really
+minorities, as evidenced by Joe Biden's remark that any black person who would vote for Donald Trump "ain't really
+black." Elites are all in favor of empowering people from minority groups, but only so long as those people adhere to
+the elite party line. What woke elites really are always "centering" is themselves.
+
+
+AG points out that invocations of Americas "fundamentally racist" nature, a nature that supposedly makes incremental
+reform pointless, actually excuses those invoking it from doing anything at all about our current situation.
+
+
+
+
+Sometimes AG seems to be saying that we could, and should, do away with social heirarchies all together.
+But human nature is such that there will always be social hierarchies, and attempting to eliminate them only results in
+a vicious struggle for who will be at the top of the new hierarchy that will surely form. Here, I think AG could have
+benefited from the work of René Girard.
+
+
+
+
+
+*****************************************************
+
+Colloquium difference
 
 
 

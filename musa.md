@@ -49,44 +49,38 @@ and the poor by enrolling in college... began to fall through" 88
 And Richard Nixon correctly saw that ending the draft would starve the student protest movement of fuel.
 
 The third and the current "Great Awokenings" have followed similar patterns: when aspiring elites find their past to
-elite status threatened, they begin to rail against the current order. 
+elite status threatened, they begin to rail against the current order.  What each of the "Great Awokenings" having
+common is elite overproduction, a situation in which there are more people who feel entitled to elite positions then
+there are such positions available.
 
-What each of the "Great Awokenings" having common is elite overproduction. 
-
-
-
-
-
-I'm going to mention some of al-Gharbi's findings here without defending them, because he has defended them perfectly
+I'm going to mention here a few of al-Gharbi's empirical assertions without defending them, because he has defended them perfectly
 adequately in the 45 pages of citations at the end of his book. So if you want evidence for these facts, please buy his
 book.
 
-The first significant finding I want to mention, is that the most places in the country, the deep blue cities in blue
-states, also have the highest income inequality and the most segregation in the nation. I saw the ladder myself, when I
-moved from brownstone Brooklyn to Columbia, South Carolina, and immediately saw that Columbia was far more racially
-integrated than Brooklyn.
+The first of these facts I want to mention is that the most places in the country, the deep blue cities in blue
+states, The cities, in which symbolic capitalists are most concentrated,
+also have the highest income inequality and the most segregation in the nation. I saw the latter myself, when I
+moved from brownstone Brooklyn to Columbia, South Carolina, and immediately saw that Columbia is far more racially
+integrated than is Brooklyn.
 
-
-
-261: al Gharbi admits can he opens his book highlighting his African-American heritage to learn authority to the text
-and to deflect criticism that would've been directed at it if it had been written by a white person. 
-
-266: if a consecrated minority begins to question the beliefs of symbolic capitalists, the audience does not re-examine
+Another important fact is that while woke symbolic capitalists make a great fuss about "giving voice" to the downtrodden
+and excluded, the only minority voices they actually hear are "consecrated minorities" who are often symbolic
+capitalists themselves, and at the very least agree with symbolic capitalists' views on social issues. No attention is
+paid to what the modal black or Hispanic person thinks about "wokeness." Furthermore, 
+if a once "consecrated" minority begins to question the beliefs of symbolic capitalists, the audience does not re-examine
 their own beliefs to determine if perhaps they got the interests of a minority group wrong: instead, they find a new
 voice from that group who will tell them what they want to hear, and consecrate that person. This happened to, for
 instance, Dave Chappelle, when he started saying things that symbolic capitalists did not want to hear.
 
-
-269: Musa points out that it is the white who are most privileged, the symbolic capitalists, who are most anxious to
+AG also points out that it is the most privileged whites, the symbolic capitalists, who are most anxious to
 accuse others of not "checking their privilege," and to point the finger at the least privileged white people — the
-rural poor and working class whites — as being "the problem."
-
-Musa never really explains what he means by "racialized" inequalities. 
-
-Educating people about "white privilege" only leads privileged whites to hold poor whites in greater contempt. 
+rural poor and working class whites — as being "the problem." And educating people about "white privilege" only leads
+privileged whites to hold poor whites in greater contempt, and not to surrender their own, highly privileged, positions.
 
 
-Do poor rural whites actually have any "privilege" at all due to their race? Let's consider a poor railway person and
+AG never really explains what he means by "racialized" inequalities. 
+
+Do poor rural whites actually have any "privilege" at all due to their race? Let's consider a poor rural white person and
 poor black person from essentially identical family and economic backgrounds. 
 
 There is lots of sound class based in analysis in the book: does the constant introduction of race actually aid this
@@ -101,7 +95,7 @@ The Son Also Rises: Gregory Clark
 
 Could these racial discrepancies between black and whites perhaps not be fully explained by the fact that 200 years ago,
 100% of elite families in the US were white, and 0% were black. And since elite status tends to persist over many
-generations, it is no surprise that today, much larger proportion of the elite or white than are black.
+generations, it is no surprise that today, a much larger proportion of the elite are white than are black.
 
 
 The current economic system needs an underclass, and the urban black poor fill that role well. But so do the rural white
@@ -120,10 +114,10 @@ should help them. Surely both thieves are immoral, but the second one is massive
 accident: "these modes of talking and thinking are recognized *as a means of* elite signaling."
 
 
-274: "the ideas and frameworks associated with what opponents label. 'CRT' are demonstrably *not* the language of the
+274: "the ideas and frameworks associated with what opponents label 'CRT' are demonstrably *not* the language of the
 disadvantaged and the dispossessed."
 
-277: "many of [white liberals] preferred approaches to 'anti-racism' are not just demonstrably ineffective, but outright
+277: "many of [white liberals'] preferred approaches to 'anti-racism' are not just demonstrably ineffective, but outright
 counterproductive"
 
 
@@ -152,20 +146,20 @@ the elite party line. What woke elites really are always "centering" is themselv
 AG points out that invocations of Americas "fundamentally racist" nature, a nature that supposedly makes incremental
 reform pointless, actually excuses those invoking it from doing anything at all about our current situation.
 
+In his conclusion, AG is at pains to point out that he is not accusing symbolic capitalists of insincerity in their 
+advocacy for social justice. But is he justified in doing so? Are these poeple really "true believers"? I have no
+doubt that they have convinced themselves that they are, to a great extent so that they can hold onto their power and
+prestige with a clear conscience.  But isn't this more a case, as Aquinas would have it, of a corruption of the
+intellect through sin? Isn't it more like a case of a Lothario who convinces himself that women really like being
+seduced and then emotionally rejected so that he can justify behaving that way?
 
-How sincere are elites in their woke beliefs? Are they really "true believers"? I have no doubt that they have convinced
-themselves that they are, to a great extent so that they can hold onto their power and prestige with a clear conscience.
-But isn't this more a case, as Aquinas would have it, of a corruption of the intellect through sin? Isn't it more like a
-case of a Lothario who convinces himself that women really like being seduced and then emotionally rejected so that he
-can justify behaving that way?
-
-Let's say I tell you I have a "sincere" commitment to sobriety. But every single night, you find out in a bar. At some
-point, when you say that, however often I assert how sincere my commitment is, my actions show that it really isn't that
-sincere? We even have cliches to describe these situations: these people are not "putting their money where their mouth
+Let's say I tell you I have a "sincere" commitment to sobriety. But every single night you find me out in a bar. At some
+point, wouldn't you say that, however often I assert how sincere my commitment is, my actions show that it really isn't *that*
+sincere? We even have cliches to describe these situations: such people are not "putting their money where their mouth
 is."
 
-
-On occasion, AG seems to employ the very empty gestures that his book so ably criticizes. For instance, throughout the
+Another difficulty I have with the book is that,
+on occasion, AG seems to employ the very empty gestures that his book so ably criticizes. For instance, throughout the
 book, black is spelled with a capital B, when referring to black people. Imagine going into the Red Hook projects in
 Brooklyn, and telling the residents that you had just significantly improved their lives. When they ask you how, you
 tell them "I now spell Black with a capital B!" being laughed out of the project is the best result you could hope for.
@@ -185,14 +179,14 @@ deliberate choice on their part.
 My last complaint is that there is occasionally an air of utopianism lingering around the book.
 Sometimes AG seems to be saying that we could, and should, do away with social heirarchies all together.
 But human nature is such that there will always be social hierarchies, and attempting to eliminate them only results in
-a vicious struggle for who will be at the top of the new hierarchy that will surely form. Here, I think AG could have
-benefited from the work of René Girard.
+a vicious struggle for who will be at the top of the new hierarchy that will surely form. Here, as well in his
+discussion of scapegoating, I think AG could have benefited from the work of René Girard, whom he does not reference.
 
 While these are not minor complaints, they do not diminish the overall excellence of this book. AG has taken a thesis --
 that elites are embracing an ideology that helps them to feel virtuous in lieu of taking concrete actions that
 would actually improve conditions for the worst off -- that was already out there, fleshed it out, shown that the 
 current wave of this happening is only the latest in a series of similar events, and backed up his case with an
-absolutely impressive amount of evidence. I have little doubt that this is the most important non-fiction book of the
+dazzling amount of evidence. I have little doubt that this is the most important non-fiction book of the
 year, and maybe longer.
 
 
@@ -200,27 +194,6 @@ year, and maybe longer.
 
 *****************************************************
 
-
-
-
-
-
-some unfortunate manager asked a couple of black cooks to come up with a lunch for African-American history month. And
-what they served was something like fried chicken, collard greens, black-eyed peas, and Kool-Aid. Now I regularly play
-music in black churches in South Carolina, and except for the Kool-Aid (it would be sweet tea) this meal would be a big
-hit at any of them. In fact, it would be a big hit with most white people down here as well.
-
-And, in fact, it's a meal that would be eaten much more often by black Americans then what is served on St. Patrick's
-Day is eaten by Irish Americans: my family, a corn, beef and cabbage exactly once per year, on St. Patrick's Day. And we
-never drank green beer.
-
-But a black student at our school complained, and the university pressured the catering company to fire somebody. It
-wouldn't do to fire the black fellows who designed the menu, so they just went up the chain until they found a white
-person, and fired him.
-
-What is interesting to know here is that the person fired was a working class guy probably struggling to make ends meet
-doing food service, while the complainant, being a student at a prestigious, engineering school, is destined for high
-career earnings. 
 
 
 

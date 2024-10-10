@@ -165,28 +165,40 @@ sincere? We even have cliches to describe these situations: these people are not
 is."
 
 
-Sometimes AG seems to employ the very empty gestures that his book so ably criticizes. For instance, throughout the
-book, black is spelled with a capital B, when referring to black people. Imagine going into the Redhook projects in
+On occasion, AG seems to employ the very empty gestures that his book so ably criticizes. For instance, throughout the
+book, black is spelled with a capital B, when referring to black people. Imagine going into the Red Hook projects in
 Brooklyn, and telling the residents that you had just significantly improved their lives. When they ask you how, you
-tell them "I now spell Black with a capital B!" Being laughed out of the project is the best result you could hope for.
+tell them "I now spell Black with a capital B!" being laughed out of the project is the best result you could hope for.
 But perhaps here it's just the case that AG's publisher forced this convention on him..
 
 
+AG also periodically uses the slur terms "homophobe" and "transphobe." These are not serious terms of analysis, and do
+not belong in a book of this quality. We can find objections to homosexuality in the words of Buddha, Plato,
+St. Paul, Mohammed, Aquinas, and many other serious thinkers: it is absurd to chalk these cases up to a common
+phobia they all had. What's more, the people who use these terms do not actually treat their targets as having a phobia:
+We do not morally condemn claustrophobics, but the people who use homophobic and transphobic certainly do mean to
+condemn those they label. These terms are attempts to have one's cake and eat it: We do not need to seriously consider
+any of the aforementioned thinkers cases against homosexuality: no, they were suffering from a phobia. But at the same
+time we can still morally condemn them, because somehow this phobia is not a mental affliction they suffer from but a
+deliberate choice on their part.
 
-
+My last complaint is that there is occasionally an air of utopianism lingering around the book.
 Sometimes AG seems to be saying that we could, and should, do away with social heirarchies all together.
 But human nature is such that there will always be social hierarchies, and attempting to eliminate them only results in
 a vicious struggle for who will be at the top of the new hierarchy that will surely form. Here, I think AG could have
 benefited from the work of René Girard.
 
+While these are not minor complaints, they do not diminish the overall excellence of this book. AG has taken a thesis --
+that elites are embracing an ideology that helps them to feel virtuous in lieu of taking concrete actions that
+would actually improve conditions for the worst off -- that was already out there, fleshed it out, shown that the 
+current wave of this happening is only the latest in a series of similar events, and backed up his case with an
+absolutely impressive amount of evidence. I have little doubt that this is the most important non-fiction book of the
+year, and maybe longer.
 
 
 
 
 *****************************************************
-
-Colloquium difference
-
 
 
 

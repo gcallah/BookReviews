@@ -98,24 +98,20 @@ should help them. Surely both thieves are immoral, but the second one is massive
 Addressing Critical Race Theory (CRT), AG points out that 
 it is the most elite schools that have pushed it the hardest. And he argues that this is no
 accident: "these modes of talking and thinking are recognized *as a means of* elite signaling."
-I
+In other words, when Phillips Academy, Choate, Groton, or Hotchkiss teach CRT in their classrooms, they are not tearing
+down class privilege, but *re-inforcing it*. As he puts it, "the ideas and frameworks associated with what opponents
+label 'CRT' are demonstrably *not* the language of the disadvantaged and the dispossessed." And this is not because the
+people who *do* adopt these Ideas have a greater insight into the plight of "the disadvantaged and the dispossessed"
+than do those people themselves: "many of [white liberals'] preferred approaches to 'anti-racism' are not just
+demonstrably ineffective, but outright counterproductive."
 
-
-274: "the ideas and frameworks associated with what opponents label 'CRT' are demonstrably *not* the language of the
-disadvantaged and the dispossessed."
-
-277: "many of [white liberals'] preferred approaches to 'anti-racism' are not just demonstrably ineffective, but outright
-counterproductive"
-
-
-278: "defenders of what has come to be referred to as 'cancel culture' often attempt to portray the phenomena as folks
+AG next turns his attention to "cancel culture": 
+"defenders of what has come to be referred to as 'cancel culture' often attempt to portray the phenomena as folks
 from less advantaged backgrounds holding the 'privileged' to account. In fact, the people engaged in these practices are
-typically themselves elites or aspiring elites...  while there are many cases of elites 'canceling' working class people,
-there are *not* many cases of non-elites successfully canceling elites"
-
-
-AG notes that, since lower class minorities are significantly more likely than elites to hold to traditional religious
-values, to make holding those values a punishable offense in the workplace seriously disadvantages lower class
+typically themselves elites or aspiring elites... while there are many cases of elites 'canceling' working class people,
+there are *not* many cases of non-elites successfully canceling elites."
+For instance, since lower-class minorities are significantly more likely than elites to hold to traditional religious
+values, to make holding those values a punishable offense in the workplace seriously disadvantages lower-class
 minorities compared to the elites who are supposedly doing this enforcement in the name of "diversity."
 
 A similar story applies to fashionable group terms like "Latinx." Elites use this to refer to people of Hispanic
@@ -124,20 +120,20 @@ majority of them outright reject it.
 
 How to handle the inconvenient fact that the vast bulk of the "BIPOCs" being championed by the woke have little interest
 in their agenda and theories, mostly finding them, in so far as they are even aware of them, fairly ridiculous?
-That's easy: minorities who dissent from elite opinions on what represents "racial justice" are dismissed as being not really
-minorities, as evidenced by Joe Biden's remark that any black person who would vote for Donald Trump "ain't really
+That's easy: minorities who dissent from elite opinions on what represents "racial justice" are dismissed as being *not really*
+minorities at all, as evidenced by Joe Biden's remark that any black person who would vote for Donald Trump "ain't really
 black." Elites are all in favor of empowering people from minority groups, but only so long as those people adhere to
 the elite party line. What woke elites really are always "centering" is themselves.
 
-
+And some of the most cherished tropes of the woke elite turn out to be similarly self-serving. For instance,
 AG points out that invocations of Americas "fundamentally racist" nature, a nature that supposedly makes incremental
 reform pointless, actually excuses those invoking it from doing anything at all about our current situation.
 
 In his conclusion, AG is at pains to point out that he is not accusing symbolic capitalists of insincerity in their 
 advocacy for social justice. But is he justified in doing so? Are these poeple really "true believers"? I have no
 doubt that they have convinced themselves that they are, to a great extent so that they can hold onto their power and
-prestige with a clear conscience.  But isn't this more a case, as Aquinas would have it, of a corruption of the
-intellect through sin? Isn't it more like a case of a Lothario who convinces himself that women really like being
+prestige with a clear conscience. But isn't this more a case, as Aquinas would have it, of a corruption of the
+intellect through sin? Isn't it similar to a Lothario who convinces himself that women really like being
 seduced and then emotionally rejected so that he can justify behaving that way?
 
 Let's say I tell you I have a "sincere" commitment to sobriety. But every single night you find me out in a bar. At some
@@ -147,17 +143,15 @@ is."
 
 Another difficulty I have with the book is that,
 on occasion, AG seems to employ the very empty gestures that his book so ably criticizes. For instance, throughout the
-book, black is spelled with a capital B, when referring to black people.
-[CUT???]
-Imagine going into the Red Hook projects in
-Brooklyn, and telling the residents that you had just significantly improved their lives. When they ask you how, you
-tell them "I now spell Black with a capital B!" being laughed out of the project is the best result you could hope for.
+book, 'black' is spelled with a capital B when referring to black people. Isn't this as useless as changing "homeless" to
+"unhoused" as an "reform" to help the people in question?
 But perhaps here it's just the case that AG's publisher forced this convention on him..
 
-AG never really explains what he means by "racialized" inequalities. 
-Certainly, blacks have lower family wealth than whites in the US, are less likely to earn university degrees, and so on.
-But is this due to current racism, or is it perhaps the leftover effect of past racism? (Or is there yet a third cause
-involved?)
+I also wonder whether the emphasis on Race it pops up here and there throughout the book actually takes away from its
+excellent class analysis. AG occasionally invokes "racialized inequalities," but he never offers a rigorous definition
+of what he mans by this term.  Certainly, blacks have lower family wealth than whites in the US, are less likely to earn
+university degrees, and so on.  But is this due to current racism, or is it perhaps the leftover effect of past racism?
+(Or is there yet a third cause involved?)
 
 Gregory Clark's work *The Son Also Rises* demonstrates that, in every society he studied, elite status persists across
 many generations. For instance, the family of Sir Timothy Berners-Lee, creator of the World Wide Web,
@@ -165,21 +159,16 @@ apparently has been upper crust since the Domesday Book of 1086.
 So, could these racial discrepancies between black and whites perhaps not be fully explained by the fact that 200 years ago,
 100% of elite families in the US were white, and 0% were black. And since elite status tends to persist over many
 generations, it is no surprise that today, a much larger proportion of the elite are white than are black.
+Why call the discrepencies we see today "white supremacy," rather than "elite supremacy"?
 
-Why is it "white supremacy" rather than "elite supremacy"? (Sam Kriss)
-
-
-The current economic system needs an underclass, and the urban black poor fill that role well. But so do the rural white
-poor. And "the system" would be "happy" with any group that could fill that role.
-
-
-AG also periodically uses the slur terms "homophobe" and "transphobe." These are not serious terms of analysis, and do
+AG also periodically uses the slur terms "homophobe" and "transphobe." These are not serious elements of social
+analysis, and do
 not belong in a book of this quality. We can find objections to homosexuality in the words of Buddha, Plato,
 St. Paul, Mohammed, Aquinas, and many other serious thinkers: it is absurd to chalk these cases up to a common
 phobia they all had. What's more, the people who use these terms do not actually treat their targets as having a phobia:
-We do not morally condemn claustrophobics, but the people who use homophobic and transphobic certainly do mean to
-condemn those they label. These terms are attempts to have one's cake and eat it: We do not need to seriously consider
-any of the aforementioned thinkers cases against homosexuality: no, they were suffering from a phobia. But at the same
+We do not morally condemn claustrophobics, but the people who use 'homophobic' and 'transphobic' certainly do mean to
+condemn those they label. These terms are attempts to have one's cake and eat it too: We do not need to seriously consider
+any of the aforementioned thinkers opinions on homosexuality: no, they were suffering from a phobia. But at the same
 time we can still morally condemn them, because somehow this phobia is not a mental affliction they suffer from but a
 deliberate choice on their part.
 
@@ -187,9 +176,10 @@ My last complaint is that there is occasionally an air of utopianism lingering a
 Sometimes AG seems to be saying that we could, and should, do away with social heirarchies all together.
 But human nature is such that there will always be social hierarchies, and attempting to eliminate them only results in
 a vicious struggle for who will be at the top of the new hierarchy that will surely form. Here, as well in his
-discussion of scapegoating, I think AG could have benefited from the work of René Girard, whom he does not reference.
+discussion of scapegoating, I think AG could have benefited from familiarity with 
+the work of René Girard, whom he does not reference.
 
-While these are not minor complaints, they do not diminish the overall excellence of this book. AG has taken a thesis --
+While these are not minor complaints, they do not negate the overall excellence of this book. AG has taken a thesis --
 that elites are embracing an ideology that helps them to feel virtuous in lieu of taking concrete actions that
 would actually improve conditions for the worst off -- that was already out there, fleshed it out, shown that the 
 current wave of this happening is only the latest in a series of similar events, and backed up his case with an

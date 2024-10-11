@@ -3,35 +3,40 @@
 Musa al-Gharbi
 
 
-I would like to alert University Bookman readers to an excellent and important book that released this autumn: Musa
-al-Gharbi's *We have never been woke*.
+I would like to alert University Bookman readers to an excellent and important book that has just been published: Musa
+al-Gharbi's *We Have Never Been Woke*.
 
-The central thesis of the book is not original to al-Gharbi: Wokeness is much more about performance than about
-substance. For instance, John Gray and I both agreed on this point in my interview with him in *Modern Age*: our elites
-are happy to do things like change the name of the major code branch on GitHub to 'main' so as not to
-invoke the specter of slavery by calling it 'master,' and essentially costless gesture
-that does nothing to improve the lives of our fellow citizens who most need our help. Imagine heading into some rundown
-housing project where the sidewalks are littered with crack files, the walls are covered with graffiti, children walk to
-their third-rate school in fear, and announcing "I have just improved all your lives significantly, because I stopped
-referring to the master branch of my code!"
+The central thesis of the book is not original to al-Gharbi: The main ingredient of wokeness is performance, not 
+substance. (For instance, John Gray and I both agreed on this point in my interview with him in *Modern Age*.) Our elites
+are happy to do things like change the name of problematic situations rather than substantially addressing the problems.
+For instance, lately, it has become de rigueur to refer to "unhoused people" instead of "homeless people." I imagine
+going down to the cardboard boxes under the I-77 overpass near where I live
+in Columbia, SC, and announcing to the people living in them: "I
+feel your plight, and I have improved your lives: you are no longer 'homeless'!" They anxiously ask me where their new
+houses are, and I tell them: "No, no, you have misunderstood: you are no longer 'homeless,' you are now 'unhoused'!"
+If they beat me in response, who could blame them?
 
-The main excellence of al-Gharbi's book lies not in the originality of its central insight, but in the way the author
+The main excellence of al-Gharbi's book lies not in the originality of this central insight, but in the way the author
 has meticulously, systematically, and extensively documented its truth. And a secondary excellence is that he shows that
-"great awokenings" have occurred three times previously among American elites.
-
-
-Al-Gharbi documents how the current "awokening" is the fourth such episode, the first kicking off in the 1920s, the
-second in the 1960s, the third in the 1980s and the fourth being launched around 2011. (It would've been interesting if
-he had looked back into the 19th century's religious awakenings to see how they might've been similar to the last
-century's awokenings. But, of course, this book was already a massive undertaking, so it would be unfair to ask more
-of it.)
+a "Great Awokening," which is what he calls our present madness, has occurred three times previously among American elites.
+The first Great Awokening kicked off in the 1920s, the
+second in the 1960s, the third in the 1980s, and the fourth being launched around 2011. (It would've been interesting if
+he had looked back into the 19th century's religious awakenings to compare them to the great
+awokenings. But writing this book was already a massive undertaking, so it would be unfair to ask more
+of the author.)
 
 Al-Gharbi notes that the Great Awokening of the 1920s was "far more intense than any that followed." Nevertheless
-it was similar to those that followed in many ways, for instance, in being driven largely by well-to-do
-professionals, and by doing very little to actually improve the position of the truly disadvantaged. He quotes George
-Orwell from that time: "The typical Socialist[s]... while theoretically pining for a classless society, cling like glue to
+it was similar to its successors in many ways, for instance, in being driven largely by well-to-do
+professionals. Sometimes called the "managerial class," or "the laptop class,"
+AG refers to this group as "symbolic capitalists," as their work
+largely involves manipulating symbols and their capital itself is often symbolic: it is typically status they are most concerned
+about accumulating. (Not to say they don't want money, but they will spend a great deal of it to enhance their
+reputation.)
+In addition, none of the awokenings did very much to actually improve the position of the truly disadvantaged. He quotes George
+Orwell from the time of the first Great Awokening:
+"The typical Socialist[s]... while theoretically pining for a classless society, cling like glue to
 their miserable fragments of social prestige... to them, the whole Socialist movement is no more than a kind of exciting
-heresy-hunt..." looking for a "right-wing deviationist."
+heresy-hunt..." looking for "right-wing deviationist[s]."
 
 As with subsequent awokenings, the first one was sparked by anxiety among the greatly increased number of university
 students as to whether, while the Great Depression deepened, the elite position they thought they deserved would actually
@@ -40,82 +45,60 @@ more security for themselves. They came to support FDR because "contrary to thei
 relatively high status jobs and socioeconomically comfortable lives far more than they wanted to *actually* overthrow
 the existing order. And the Roosevelt administration provided what they wanted."
 
-The vast programs undertaken by the New Deal provided anxious students with large numbers of comfortable, well paid
-positions, leading them to become "the establishment" that the students of the 1960s revolted against. And that
-Awokening was also prompted by students anxiety about their future surging, due to a weakening economy and the threat of
-being drafted to fight in Vietnam in the latter half of 1960s. As al-Gharbi explains, it was only when the exemption
-from the draft for college graduates was eliminated that the student anti-war protest movement kicked off. The Vietnam
-War became far more morally objectionable to students once they were at risk of having to fight it. As al-Gharbi puts
-it, "middle-class students became 'radical' precisely when their plans to leave the fighting in Vietnam to minorities
+The vast programs undertaken by the New Deal provided anxious students with large numbers of comfortable, well-paid
+positions, leading them to become "the establishment" that the students of the 1960s revolted against. And that Great
+Awokening was also prompted by students' heightened anxiety about their future, due to a weakening economy and the threat of
+being drafted to fight in Vietnam in the latter half of the decade. As al-Gharbi notes, it was only when the exemption
+from the draft for college graduates was eliminated that the student anti-war protest movement gained steam. The Vietnam
+War became far more morally objectionable to students once they were at risk of having to fight it:
+"middle-class students became 'radical' precisely when their plans to leave the fighting in Vietnam to minorities
 and the poor by enrolling in college... began to fall through."
 And Richard Nixon correctly saw that ending the draft would starve the student protest movement of fuel.
 
-The third and the current "Great Awokenings" have followed similar patterns: when aspiring elites find their past to
+The third and the current "Great Awokenings" have followed similar patterns: when aspiring elites find their path to
 elite status threatened, they begin to rail against the current order. Each of the "Great Awokenings" thus have a
 common cause: elite overproduction, a situation in which there are more people who feel entitled to elite positions then
 there are such positions available.
 
-From this enlightening historical background, al-Gharbi goes on to explore the details of our current Awokening.
-I'm going to mention here a few of al-Gharbi's empirical assertions without defending them, because he has defended them perfectly
-adequately in the 45 pages of citations at the end of his book. So if you want evidence for these facts, please buy his
+From this enlightening historical narrative, al-Gharbi goes on to explore the details of our current Great Awokening.
+I'm going to mention here a few of his empirical assertions without defending them, because he has defended them quite
+adequately in the 45 pages of citations at the end of his book. So if you want evidence for these facts, please buy the
 book.
 
-The first of these facts I want to mention is that the most places in the country, the deep blue cities in blue
-states, The cities, in which symbolic capitalists are most concentrated,
+The first of these facts I want to mention is that the deep blue cities in blue
+states, the cities in which symbolic capitalists are most concentrated,
 also have the highest income inequality and the most segregation in the nation. I saw the latter myself, when I
-moved from brownstone Brooklyn to Columbia, South Carolina, and immediately saw that Columbia is far more racially
-integrated than is Brooklyn. So the very places that are the most "woke" also have the comparatively
-worst poverty, and are most divided by race.
+moved from brownstone Brooklyn to Columbia and immediately realized that Columbia is far more racially
+integrated than is Brooklyn. So the very places that are the most "woke" also have the
+worst relative poverty, and are most divided by race.
 
 Furthermore, while woke symbolic capitalists make a great fuss about "giving voice" to the downtrodden
 and excluded, the only minority voices they actually hear are "consecrated minorities" who are often symbolic
 capitalists themselves, and at the very least agree with symbolic capitalists' views on social issues. No attention is
 paid to what the modal black or Hispanic person thinks about "wokeness." Furthermore, 
-if a once "consecrated" minority begins to question the beliefs of symbolic capitalists, the audience does not re-examine
+if a once "consecrated" minority person begins to question the beliefs of symbolic capitalists, they do not re-examine
 their own beliefs to determine if perhaps they got the interests of a minority group wrong: instead, they find a new
 voice from that group who will tell them what they want to hear, and consecrate that person. This happened to, for
-instance, Dave Chappelle, when he started saying things that symbolic capitalists did not want to hear.
+instance, Dave Chappelle, when he started saying things that symbolic capitalists didn't like.
 
 AG also points out that it is the most privileged whites, the symbolic capitalists, who are most anxious to
 accuse others of not "checking their privilege," and to point the finger at the least privileged white people — the
-rural poor and working class whites — as being "the problem." And educating people about "white privilege" only leads
-privileged whites to hold poor whites in greater contempt, and not to surrender their own, highly privileged, positions.
+rural poor and working class whites — as being "the problem." What's more educating people about "white privilege" only leads
+privileged whites to hold poor whites in greater contempt, rather than leading them to
+surrender their own, highly privileged, positions.
 
-
-AG never really explains what he means by "racialized" inequalities. 
-
-Do poor rural whites actually have any "privilege" at all due to their race? Let's consider a poor rural white person and
-poor black person from essentially identical family and economic backgrounds. 
-
-There is lots of sound class based in analysis in the book: does the constant introduction of race actually aid this
-analysis, or only muddy the waters?
-
-
-Why is it "white supremacy" rather than "elite supremacy"? (Sam Kriss)
-
-
-The Son Also Rises: Gregory Clark
-
-
-Could these racial discrepancies between black and whites perhaps not be fully explained by the fact that 200 years ago,
-100% of elite families in the US were white, and 0% were black. And since elite status tends to persist over many
-generations, it is no surprise that today, a much larger proportion of the elite are white than are black.
-
-
-The current economic system needs an underclass, and the urban black poor fill that role well. But so do the rural white
-poor.
-
-
-271: Confessions of privilege almost never resort in actual surrender of privilege.
-Not one of the many universities putting up a sign saying: "This campus is built on stolen
-Native American land" has ever proposed actually giving it back.
-Here AG tells a great story of two robbers, neither of whom plan to give their stolen loot back, but one of whom keeps
-bemoaning how terrible it is that his victims have had all of their possessions stolen and crying out that someone
+Indeed, confessions of privilege almost never result in *actual surrender* of privilege.
+Consider all of the universities that have put a sign saying: "This campus is built on stolen
+Native American land." Has a single one of them ever proposed actually giving the "stolen land" back?
+On this point, AG tells a great story of two robbers,
+neither of whom plan to give their stolen loot back to their victims, but one of whom keeps
+bemoaning how terrible it is that his victims have lost all of their possessions and crying out that someone
 should help them. Surely both thieves are immoral, but the second one is massively annoying on top of it.
 
-
-273: it is the most elite schools that have pushed critical race theory the hardest. And al-Gharbi notes that this is no
+Addressing Critical Race Theory (CRT), AG points out that 
+it is the most elite schools that have pushed it the hardest. And he argues that this is no
 accident: "these modes of talking and thinking are recognized *as a means of* elite signaling."
+I
 
 
 274: "the ideas and frameworks associated with what opponents label 'CRT' are demonstrably *not* the language of the
@@ -170,6 +153,24 @@ Imagine going into the Red Hook projects in
 Brooklyn, and telling the residents that you had just significantly improved their lives. When they ask you how, you
 tell them "I now spell Black with a capital B!" being laughed out of the project is the best result you could hope for.
 But perhaps here it's just the case that AG's publisher forced this convention on him..
+
+AG never really explains what he means by "racialized" inequalities. 
+Certainly, blacks have lower family wealth than whites in the US, are less likely to earn university degrees, and so on.
+But is this due to current racism, or is it perhaps the leftover effect of past racism? (Or is there yet a third cause
+involved?)
+
+Gregory Clark's work *The Son Also Rises* demonstrates that, in every society he studied, elite status persists across
+many generations. For instance, the family of Sir Timothy Berners-Lee, creator of the World Wide Web,
+apparently has been upper crust since the Domesday Book of 1086.
+So, could these racial discrepancies between black and whites perhaps not be fully explained by the fact that 200 years ago,
+100% of elite families in the US were white, and 0% were black. And since elite status tends to persist over many
+generations, it is no surprise that today, a much larger proportion of the elite are white than are black.
+
+Why is it "white supremacy" rather than "elite supremacy"? (Sam Kriss)
+
+
+The current economic system needs an underclass, and the urban black poor fill that role well. But so do the rural white
+poor. And "the system" would be "happy" with any group that could fill that role.
 
 
 AG also periodically uses the slur terms "homophobe" and "transphobe." These are not serious terms of analysis, and do

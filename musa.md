@@ -139,7 +139,8 @@ seduced and then emotionally rejected so that he can justify behaving that way?
 Let's say I tell you I have a "sincere" commitment to sobriety. But every single night you find me out in a bar. At some
 point, wouldn't you say that, however often I assert how sincere my commitment is, my actions show that it really isn't *that*
 sincere? We even have cliches to describe these situations: such people are not "putting their money where their mouth
-is."
+is." To be fair, AG does say that while sincere about their belief in social justice, it is simply far less important to
+symbolic capitalists than is their own status. But I do wonder if this is a distinciton without a difference.
 
 Another difficulty I have with the book is that,
 on occasion, AG seems to employ the very empty gestures that his book so ably criticizes. For instance, throughout the
@@ -147,7 +148,7 @@ book, 'black' is spelled with a capital B when referring to black people. Isn't 
 "unhoused" as an "reform" to help the people in question?
 But perhaps here it's just the case that AG's publisher forced this convention on him..
 
-I also wonder whether the emphasis on Race it pops up here and there throughout the book actually takes away from its
+I also wonder whether the emphasis on race it pops up here and there throughout the book actually takes away from its
 excellent class analysis. AG occasionally invokes "racialized inequalities," but he never offers a rigorous definition
 of what he mans by this term.  Certainly, blacks have lower family wealth than whites in the US, are less likely to earn
 university degrees, and so on.  But is this due to current racism, or is it perhaps the leftover effect of past racism?

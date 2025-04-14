@@ -186,8 +186,8 @@ My last complaint is that there is occasionally an air of utopianism lingering a
 Sometimes al-Gharbi seems to imply that we could, and should, do away with social heirarchies all together.
 But human nature is such that there will always be social hierarchies, and attempting to eliminate them only results in
 a vicious struggle for who will be at the top of the new hierarchy that will surely form. Here, as well in his
-discussion of scapegoating, I think al-Gharbi could have benefited from familiarity with 
-the work of René Girard, whom he does not reference.
+discussion of scapegoating, I think al-Gharbi could have benefited from more familiarity with 
+the work of René Girard, whom he does reference once.
 
 While these are not minor complaints, they do not negate the overall
 excellence of this work. Al-Gharbi has taken an existing thesis --
@@ -197,10 +197,6 @@ current wave of its happening is only the latest in a series of similar events, 
 dazzling amount of evidence. I have little doubt that this is the most important non-fiction book of the
 year, and maybe longer.
 
-
-
-
-*****************************************************
 
 
 

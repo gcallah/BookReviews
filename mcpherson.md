@@ -6,13 +6,18 @@ Oxford University Press
 2022
 
 
-In an age which glorifies going beyond limits, McPherson highlights the importance of "recognizing proper limits in human life" 1.
+In an age which glorifies going beyond limits, McPherson highlights the importance of "recognizing proper limits in
+human life." He focuses on the "limiting virtues" of "humility, reverence, moderation, contentment, neighborliness, and
+loyalty." He discusses these virtues in relation to four kinds of limits: "(1) existential limits; (2) moral limits; (3)
+political limits; and (4) economic limits." (1) McP calls the approach to life that acknowledges such limits as the
+"accepting-appreciating stance," and that which seeks to oversome limits the "choosing-controlling stance." Throughout
+the book, he stresses that both stances are essential aspects of human life, but that the accepting-appreciating stance
+should be our default attitude. Making the choosing-controlling stance primary drains life of meaning, since the world
+is seen as a collection of problems to be solved, the solving of which, in the absence of acceptance and appreciation,
+soon enough appear pointless. As McP puts it, the dominance of the choosing-controlling stance leads to nihilism.
 
-He focuses on the "limiting virtues" of "humility, reverence, moderation, contentment, neighborliness, and loyalty " 1
-
-He discusses these virtues in relation to four kinds of limits: "(1) existential limits; (2) moral limits; (3) political limits; and (4) economic limits" 1
-
-He writes that the master limiting virtue is humility, because it reigns in our tendency to "play God," or what McP also
+McPherson begins his anaylsis of these virtues by arguing
+that the master limiting virtue is humility, because it reigns in our tendency to "play God," a tendency McP also
 calls "the Promethean spirit." As one prominent example of that spirit, McP cites Nietzsche and the murder of God, leaving
 us in a situation in which "We must play God," and transcend humanity by becoming "ubermensch." Nietzsche's epigones
 today call themselves "transhumanists," and hope to leave behind the human condition not, like Nietzsche, through the

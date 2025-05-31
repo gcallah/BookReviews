@@ -1,4 +1,4 @@
-The Virtues of Limits
+# The Virtues of Limits
 
 
 David McPherson 
@@ -12,21 +12,14 @@ He focuses on the "limiting virtues" of "humility, reverence, moderation, conten
 
 He discusses these virtues in relation to four kinds of limits: "(1) existential limits; (2) moral limits; (3) political limits; and (4) economic limits" 1
 
-He writes that the master limiting virtue is humility, because it reigns in our tendency to "play God."
+He writes that the master limiting virtue is humility, because it reigns in our tendency to "play God," or what McP also
+calls "the Promethean spirit." As one prominent example of that spirit, McP cites Nietzsche and the murder of God, leaving
+us in a situation in which "We must play God," and transcend humanity by becoming "ubermensch." Nietzsche's epigones
+today call themselves "transhumanists," and hope to leave behind the human condition not, like Nietzsche, through the
+will, but largely through medical and technological sorcery.
 
-
-The Promethean spirit
-
-Nietzsche and the murder of God
-
-"We must play God" 8
-
-Transhumanism
-
-
-Dworkin and genetic engineering 
-
-It treats children as a product to be manufactured.
+McP takes on notable legal theorist Ronald Dworkin's embrace of genetic engineering, in that it treats children as
+manufactured products from which all defects are to be removed, rather than as gifts to be accepted.
 
 
 

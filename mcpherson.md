@@ -16,6 +16,8 @@ should be our default attitude. Making the choosing-controlling stance primary d
 is seen as a collection of problems to be solved, the solving of which, in the absence of acceptance and appreciation,
 soon enough appear pointless. As McP puts it, the dominance of the choosing-controlling stance leads to nihilism.
 
+## Existential Limits
+
 McPherson begins his anaylsis of these virtues by arguing
 that the master limiting virtue is humility, because it reigns in our tendency to "play God," a tendency McP also
 calls "the Promethean spirit." As one prominent example of that spirit, McP cites Nietzsche and the murder of God, leaving
@@ -37,6 +39,7 @@ Chesterton: " there is no sense in not appreciating things; and there is no sens
 
 44: suicide and euthanasia
 
+## Moral Limits
 
 48: Interestingly, McPherson turns to the Confucian tradition when he wants to discuss reverence.
 
@@ -82,6 +85,7 @@ where a son turns in his father for stealing a sheep, and Confucius condemns the
 serious enough crime to justify overturning filial bonds, but what about rape, or murder? Surely one's father could do
 something so heinous that one would have no moral choice but to turn him in?
 
+## Political Limits
 
 89: contra Nussbaum, cosmopolitanism is a form of us versus them thinking, allowing the cosmopolitans to look down upon patriotic rubes.
 
@@ -108,7 +112,7 @@ McPherson notes that Ronald Dworkin has actually elevated envy, a vice, to a "st
 
 115: McPherson too readily accepts the common view of Plato's The Republic as being utopian.
 
-116: utopia are at war with reality
+116: utopians are at war with reality
 
 
 119: "It is better to focus on realizing the good that is possible, and one of the most important reasons for objecting to utopian thinking is that it is counterproductive to realizing this good."
@@ -117,38 +121,55 @@ McPherson notes that Ronald Dworkin has actually elevated envy, a vice, to a "st
 121: a strange list for moderation — Plato's "city of pigs"
 
 
-131: "endless economic growth... is senseless without knowing what it is *for*."
+## Economic Limits
 
-133: " however, liberalism is in fact, not really neutral, since it ends up endorsing a particular conception of the good life, namely, the life of the choosing, preference-satisfying self"
+Finally, McP turns to economic limits. Here, he parts ways with almost every political figure in either party, in
+rejecting the idea that limitless wealth for everyone is a sensible goal to strive for. In particular, he rejects the
+economism so prevalent in both U.S. political parties That holds the highest goal of government to deliver more and more
+things to the people, and we're the only disagreement is about the best way to do so.
+As McP puts it, "endless economic growth... is senseless without knowing what it is *for*." (131)
 
+Of course, both our right-liberal and left-liberal political pundits will tell us that liberalism certainly does *not*
+entail consumerism: under liberalism, they say, people are free to choose whatever sort of values they want, and if they
+prefer an Amish or monastic lifestyle, well, they can have it. But, as McP correctly notes, that very attitude,
+promoting *choice* as the ultimate value, is itself a comprehensive view: "however, liberalism is in fact, not really
+neutral, since it ends up endorsing a particular conception of the good life, namely, the life of the choosing,
+preference-satisfying self Which is not 'encumbered' by any strong social ties, and an objective conception of the good
+life." (133)
 
-136: McPherson does a good job debunking the libertarian case for unlimited wealth acquisition, which he finds exemplified in the work of Jason Brennan. Brennan cranes, the unlimited acquisition of wealth for enabling us to get what we want, well, ignoring the fact that living a good life is much more about learning to want the right things.
+McPherson does a good job debunking the libertarian case for unlimited wealth acquisition, which he finds exemplified in
+the work of Jason Brennan. Brennan cranes, the unlimited acquisition of wealth for enabling us to get what we want,
+well, ignoring the fact that living a good life is much more about learning to want the right things. (136)
 
+He counters Brennan with the wisodom of Jesus we find in the gospels, for instance, noting the tragedy of the man who
+could not surrender his attachment to his worldly goods in order to find true fulfillment. As McP notes:
 
-He counters Brennan with Jesus and the gospels.
-
-139: "Precisely because of how greater wealth enables us to get more of what we want... it gives more free rein to our
+"Precisely because of how greater wealth enables us to get more of what we want... it gives more free rein to our
 desires, and can encourage their multiplication in a way that is unconnected with living a good life, and thus it can
-lead ... to our being enslaved to our insatiable desires."
+lead ... to our being enslaved to our insatiable desires." (139
 
 143: unlike some critics of homo economicus, McPherson correctly, understands that the rational choice model of human
 behavior does not exclude ethical preferences. But, he argues, the irrational choice model "distorts the nature of
 ethical reasons which recognize normative standards... for what we ought to desire, and so should not be regarded as
-mere preferences among other preferences."
-
-145: was that really a lament on the part of Marx?
+mere preferences among other preferences." (143)
 
 147: Wendell Berry
 
-161: "even if one is not a theist, one can recognize the importance of the harmony that is sought here."
 
-But is that really true?
+McP closes his book with a meditation on the importance of "keeping the Sabbath," whether one is Jewish, Christian, or
+neither. The idea of a day where we refrain from working, and instead contemplate the life we have worked for and the
+world as given to us, is, for McP, a day devoted to the importance of the accepting-appreciating stance.
+
+He claims that "even if one is not a theist, one can recognize the importance of the harmony that is sought here."
+But is that really true? Granted, some views of the sacred typically regarded as "non-theistic," such as Buddhism and
+Taoism, can recognize the importance of this sought-for harmony. However, I doubt Sutch recognition is really available
+to today's hard-core atheistic materialist.
 
 
 
 One curious absence in the book is any discussion of transgenderism: rejection of ones given sex and the employment of
 unnecessary drugs and mutilating surgery in order to become more like the opposite sex is about a radical rejection of
-the "accepting-appreciating stance" as is possible, but McPherson never mentions it. And perhaps he was wise to avoid
+the "accepting-appreciating stance" as is possible, but McPherson never mentions it. But perhaps he was wise to avoid
 doing so, since touching on such a divisive topic might have distracted from his overall thesis.
 
 
@@ -162,7 +183,7 @@ I also think that McPherson's work could benefit from referencing the work of Ia
 between right-hemisphere and left-hemisphere thinking, which map quite nicely onto McPherson's differentiation of the
 appreciative view and the controlling view.
 
-But these are very minor quibbles: this is an excellent book, clear, concise, and not overburdened with references, but
+But these are very minor quibbles: this is an excellent book, both clear and concise. It is not overburdened with references, but
 engaging sufficiently with the relevant literature that an interested reader can explore further. And at a time when so
 much of our culture regards any limits as abhorrent, and keeps telling us that we can "have it all," it is also a very
 timely work.

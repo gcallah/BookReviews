@@ -166,12 +166,16 @@ Taoism, can recognize the importance of this sought-for harmony. However, I doub
 to today's hard-core atheistic materialist.
 
 
+@@ Conclusion
+
 
 One curious absence in the book is any discussion of transgenderism: rejection of ones given sex and the employment of
 unnecessary drugs and mutilating surgery in order to become more like the opposite sex is about a radical rejection of
 the "accepting-appreciating stance" as is possible, but McPherson never mentions it. But perhaps he was wise to avoid
 doing so, since touching on such a divisive topic might have distracted from his overall thesis.
 
+
+But who am I not flout this tradition? To do sell wood beef, to fail to recognize my limits
 
 Now no book can possibly deal with every person who has ever written anything on a topic related to its subject.
 I may be guilty here of simply griping that this book does not mention some of my favorite thinkers, but I will take that risk, and plunge ahead.

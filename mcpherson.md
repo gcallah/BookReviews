@@ -36,13 +36,29 @@ of them if you have less appreciation of them." 37
 The ultimate rejection of the accepting-appreciating stance is suicide, and here McP again turns to Chesterton for
 insight:
 
-"Not only is suicide, a sin, it is the same. It is the ultimate and absolute evil.. the refusal to take the oath of
+"Not only is suicide, a sin, it is the sin. It is the ultimate and absolute evil.. the refusal to take the oath of
 loyalty to life. The man who kills a man, kills a man. The man who kills himself, kills all men; as far as he's
-concerned, he wipes out the world...
+concerned, he wipes out the world..."
+
+McP does not mention euthanasia, but the implication here should be clear: Assisting someone in committing "the
+ultimate and absolute evil" should not be encouraged by our legal system.
 
 ## Moral Limits
 
-48: Interestingly, McPherson turns to the Confucian tradition when he wants to discuss reverence.
+McP next turns to morality. (As he notes, in a way, his entire book is about morality, but here he means
+morality as it is typically and more narrowly discussed by moral philosophers.)
+
+His first topic is character formation, and here he adopts an Aristotelean position, where good character is formed by
+inculcating good habits, which involve restrictions and prohibitions. Oddly, the Ten Commandments don't appear here
+(they only come on stage at the very end of the book), but they are a clear and famous example of the value of
+prhibitions
+
+But why should we respect the restrictions that traditional morality puts on us? McP's answer is "reverence": a proper
+sense of reverence for the gift of the world will render these prohibitions not arbitrary but following from the very
+nature of our being. Interestingly, McPherson relies heavily on the Confucian tradition when he wants to discuss the
+virtue of reverence. (48) (A worthwhile move, I think, as it demonstrates that the idea of virtue inherently
+involving limits is not some "Eurocentric" notion.)
+
 
 52: Citing the work of Sarah Buss, McPherson argues that good manners help to form a virtuous character, by inculcating a proper sense of respect for others.
 

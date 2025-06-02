@@ -28,16 +28,17 @@ will, but largely through medical and technological sorcery.
 McP takes on notable legal theorist Ronald Dworkin's embrace of genetic engineering, in that it treats children as
 manufactured products from which all defects are to be removed, rather than as gifts to be accepted.
 
+Given the many quotes from G.K. Chesterton in this book, 
+McP is clearly an admirer him; here he quotes him on the foolishness of piling up more and more stuff without
+appreciating what one already has: "there is no sense in not appreciating things; and there is no sense in having more
+of them if you have less appreciation of them." 37
 
+The ultimate rejection of the accepting-appreciating stance is suicide, and here McP again turns to Chesterton for
+insight:
 
-Chesterton: " there is no sense in not appreciating things; and there is no sense in having more of them if you have less appreciation of them." 37
-
-
-
-43: Cohen on the need for belonging
-
-
-44: suicide and euthanasia
+"Not only is suicide, a sin, it is the same. It is the ultimate and absolute evil.. the refusal to take the oath of
+loyalty to life. The man who kills a man, kills a man. The man who kills himself, kills all men; as far as he's
+concerned, he wipes out the world...
 
 ## Moral Limits
 
@@ -63,8 +64,13 @@ being forbidden, rests on reverence. And he shows the flaws in several other app
 prohibitions, such as Stuart Hampshire's contention that they avoid "moral anarchy."
 
 
-
-71: the proper role of partiality in the moral life.
+McP next turns to the proper role of partiality in the moral life. (71) Those entranced, with rationalist, moral
+theories, often reject the idea that we should view our own children, or our next-door neighbor, with any higher
+regard than a person in need, whom we have never met, on the other side of the world: such attachment to our own is
+"irrational," they contend. John Stuart Mill and Peter Singer are cited as prominent examples of this view.
+McP does an excellent job of destroying such nonsense: abjuring special concern for
+one's own family, friends, and neighbors in favor of "humanity," is typically a mask hiding the fact that the person
+recommending this really doesn't care for anyone else at all.
 
 Ordo amoris
 

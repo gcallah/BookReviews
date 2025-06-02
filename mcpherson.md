@@ -102,19 +102,13 @@ a *form* of us versus them thinking, allowing cosmopolitans like her to look dow
 own nation. In fact, as McP notes, proper loyalty to one's own polity, can, in fact, yield a genuinely cosmopolitan outlook, since it
 involves realizing that other people, in other polities, are similarly attached to their own country.
 
-
-
-91: Sandel: " we learn to love humanity not in general but through its particular expressions"
-
-
-103: 
-Rawls and Cohen, declaring a person's natural endowment and circumstances of birth and upbringing as "arbitrary from a
-moral point of view" are guilty of a lack of reverence for the world, and our circumstances in it as given to us. They
-are waging "a metaphysical crusade against contingency," McPherson, quoting David Wiggins, notes. This is a very
-important point, as it undermines Rawls' claim that his political principles are neutral between different comprehensive
-conceptions of the good life: in fact, they are dismissive of a conception of the good life based on such nostrums as
-"we should count our blessings and not be envious of others."
-
+McP goes on to consider some radically egalitarian approaches to political morality, in particular, those of John Rawls
+and G.A. Cohen. As he sees it, Rawls and Cohen, declaring a person's natural endowment and circumstances of birth and
+upbringing as "arbitrary from a moral point of view" are guilty of a lack of reverence for the world, and our
+circumstances in it as given to us. They are waging "a metaphysical crusade against contingency," McPherson, quoting
+David Wiggins, argues. This is a very important point, as it undermines Rawls' claim that his political principles are
+neutral between different comprehensive conceptions of the good life: in fact, they are dismissive of a conception of
+the good life based on such nostrums as "we should count our blessings and not be envious of others."
 
 McPherson notes that Ronald Dworkin has actually elevated envy, a vice, to a "standard of justice." 106
 

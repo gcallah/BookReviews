@@ -90,7 +90,17 @@ murder? Surely one's father could do something so heinous that one would have no
 
 ## Political Limits
 
-89: contra Nussbaum, cosmopolitanism is a form of us versus them thinking, allowing the cosmopolitans to look down upon patriotic rubes.
+In the political realm, the question of limits concerns the proper or most useful scope of our political action. Is
+there any justification for regarding the nation-state as a proper entity in our evaluation of what actions are
+virtuous? Shouldn't we instead aspire to perfect, global governance?  And are there any reasonable limits on with sort
+of improvements to the human condition we can hope to achieve through politics?
+
+In regards to the first two questions, McP examines the case that Martha Nussbaum makes for becoming a "citizen of the
+world," rather than of any particular, local polity. While she dismisses attachments to our local political society as
+displaying ugly "us versus them thinking," McP responds that her cosmopolitanism is, in fact,
+a *form* of us versus them thinking, allowing cosmopolitans like her to look down upon patriotic rubes attached to their
+own nation. In fact, as McP notes, proper loyalty to one's own polity, can, in fact, yield a genuinely cosmopolitan outlook, since it
+involves realizing that other people, in other polities, are similarly attached to their own country.
 
 
 

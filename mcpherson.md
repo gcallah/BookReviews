@@ -59,29 +59,14 @@ nature of our being. Interestingly, McPherson relies heavily on the Confucian tr
 virtue of reverence. (48) (A worthwhile move, I think, as it demonstrates that the idea of virtue inherently
 involving limits is not some "Eurocentric" notion.)
 
+McP makes a good case here for manners as a way of showing proper reverence and disciplining our animal appetites.
+For example, basic table manners are a way of taming and controlling our animal appetite for food and humanizing it.
+Animals simply gobble down the food available to them as fast and efficiently as possible, but all human cultures place
+restraints on such behavior. And such restraints help us to control our animal appetites. Similarly, in regards to sex,
+we transform lust into romantic love.
 
-52: Citing the work of Sarah Buss, McPherson argues that good manners help to form a virtuous character, by inculcating a proper sense of respect for others.
-
-
-
-60: Aristotle on how we must control our animal appetites
-
-61: basic table manners are a way of taming and controlling our animal appetite for food and humanizing it
-
-The person who said Asians slurp their soup because their cultures are "more relaxed."
-
-
-62: similarly, in regards to sex, we transform lust into romantic love.
-
-
-64:
-McPherson argues that the best case for respecting absolute limits on what we may do, such as killing innocent people
-being forbidden, rests on reverence. And he shows the flaws in several other approaches to defending these absolute
-prohibitions, such as Stuart Hampshire's contention that they avoid "moral anarchy."
-
-
-McP next turns to the proper role of partiality in the moral life. (71) Those entranced, with rationalist, moral
-theories, often reject the idea that we should view our own children, or our next-door neighbor, with any higher
+McP next turns to the proper role of partiality in the moral life. (71) Those entranced with rationalist moral
+theories often reject the idea that we should view our own children, or our next-door neighbor, with any higher
 regard than a person in need, whom we have never met, on the other side of the world: such attachment to our own is
 "irrational," they contend. John Stuart Mill and Peter Singer are cited as prominent examples of this view.
 McP does an excellent job of destroying such nonsense: abjuring special concern for

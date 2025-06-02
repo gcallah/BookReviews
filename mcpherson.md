@@ -45,7 +45,7 @@ ultimate and absolute evil" should not be encouraged by our legal system.
 
 ## Moral Limits
 
-McP next turns to morality. (As he notes, in a way, his entire book is about morality, but here he means
+McP next turns to morality. (As he notes, in a way his entire book is about morality, but here he means
 morality as it is typically and more narrowly discussed by moral philosophers.)
 
 His first topic is character formation, and here he adopts an Aristotelean position, where good character is formed by
@@ -70,27 +70,23 @@ theories often reject the idea that we should view our own children, or our next
 regard than a person in need, whom we have never met, on the other side of the world: such attachment to our own is
 "irrational," they contend. John Stuart Mill and Peter Singer are cited as prominent examples of this view.
 McP does an excellent job of destroying such nonsense: abjuring special concern for
-one's own family, friends, and neighbors in favor of "humanity," is typically a mask hiding the fact that the person
-recommending this really doesn't care for anyone else at all.
+one's own family, friends, and neighbors in favor of "humanity" is typically a mask hiding the fact that the person
+recommending this really doesn't care for anyone else at all. The people embracing this view love "humanity in general,"
+an abstraction that has no annoying personalty traits, as a way of excusing their lack of love for the frustratingly
+complex people that actually surround them in their lives. McP quotes Aristotle on this point: "Those who are
+many-friended, and treat everyone they meet as if they were their own kin, seem to be friends with no one."
 
-Ordo amoris
+In the last part of this chapter, McP discusses the virtue of loyalty and how it relates to our duty to assist those in
+dire need. He makes the excellent observation the parable of the Good Samaritan does not, in fact, suggest we have the
+same duties to distant people we know little about as to those we meet in person: the Good Samaritan was not sending his
+denarii to a relief fund to aid victims of an earthquake in Bactria, but was donating them to help a man whom he had
+directly encountered. It is very easy to adopt a high-minded desire to help "humanity," but more more difficult (and
+useful) to actually engage in helping the people we personally encounter.
 
-
-75: the more I love humanity in general the less I love particular people
-
-
-78: Aristotle: "Those who are many-friended, and treat everyone they meet as if they were their own kin, seem to be friends with no one."
-
-81: Gilbert Meilaender: "We did not create ourselves; we simply find ourselves here..."
-
-
-
-
-
-McPherson does not seem to give quite enough weight to the limit limits on loyalty. He considers a questionable case
-where a son turns in his father for stealing a sheep, and Confucius condemns the son. Perhaps sheep stealing is not a
-serious enough crime to justify overturning filial bonds, but what about rape, or murder? Surely one's father could do
-something so heinous that one would have no moral choice but to turn him in?
+While I do think McP is largely correct here, I wonder if he gives quite enough weight to the limit limits on loyalty.
+He considers a questionable case where a son turns in his father for stealing a sheep, and Confucius condemns the son.
+Perhaps sheep stealing is not a serious enough crime to justify overturning filial bonds, but what about rape, or
+murder? Surely one's father could do something so heinous that one would have no moral choice but to turn him in?
 
 ## Political Limits
 

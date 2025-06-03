@@ -109,24 +109,15 @@ circumstances in it as given to us. They are waging "a metaphysical crusade agai
 David Wiggins, argues. This is a very important point, as it undermines Rawls' claim that his political principles are
 neutral between different comprehensive conceptions of the good life: in fact, they are dismissive of a conception of
 the good life based on such nostrums as "we should count our blessings and not be envious of others."
+And McPherson notes that another egalitarian, Ronald Dworkin, has actually elevated envy, a vice, to a "standard of
+justice." (106)
 
-McPherson notes that Ronald Dworkin has actually elevated envy, a vice, to a "standard of justice." 106
-
-
-
-114: contra Cohen's utopianism
-
-
-115: McPherson too readily accepts the common view of Plato's The Republic as being utopian.
-
-116: utopians are at war with reality
-
-
-119: "It is better to focus on realizing the good that is possible, and one of the most important reasons for objecting to utopian thinking is that it is counterproductive to realizing this good."
-
-
-121: a strange list for moderation — Plato's "city of pigs"
-
+Cohen argues that the infeasibility of socialism is no reason to abandon it as an ideal: that is nonsense. A political
+system that relies on reality being other than it is can be rejected for that reason alone. If only people were the size
+of ants we could fit all humans in Central Park and leave the rest of the earth as unidisturbed wilderness, but we
+aren't that size, and there is no way to make us so. As McP puts it, "Utopianism wages war against the given world...
+It is better to focus on realizing the good that is possible, and one of the most important reasons for objecting to
+utopian thinking is that it is counterproductive to realizing this good."
 
 ## Economic Limits
 
@@ -173,7 +164,7 @@ Taoism, can recognize the importance of this sought-for harmony. However, I doub
 to today's hard-core atheistic materialist.
 
 
-@@ Conclusion
+## Conclusion
 
 
 One curious absence in the book is any discussion of transgenderism: rejection of ones given sex and the employment of
@@ -182,15 +173,16 @@ the "accepting-appreciating stance" as is possible, but McPherson never mentions
 doing so, since touching on such a divisive topic might have distracted from his overall thesis.
 
 
-But who am I not flout this tradition? To do sell wood beef, to fail to recognize my limits
 
 Now no book can possibly deal with every person who has ever written anything on a topic related to its subject.
-I may be guilty here of simply griping that this book does not mention some of my favorite thinkers, but I will take that risk, and plunge ahead.
+Many book reviews seem to gripe that the book under review does not mention some of the reviewer's favorite thinkers.
+But who am I not flout this tradition? To do so would be to fail to recognize my limits: so here goes.
 
+A book touting "the politics of imperfection" might benefit from citing Michael Oakeshott's famous critique of the
+politics of perfection. And one arguing that utopians are at war with reality would find useful support for that claim
+in the work of Eric Voegelin.
 
-"The politics of imperfection" but no Oakeshott.
-
-I also think that McPherson's work could benefit from referencing the work of Iain McGilchrist on the differences
+I also think that McPherson's work could usefully employ the work of Iain McGilchrist on the differences
 between right-hemisphere and left-hemisphere thinking, which map quite nicely onto McPherson's differentiation of the
 appreciative view and the controlling view.
 

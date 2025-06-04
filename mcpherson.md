@@ -57,7 +57,7 @@ sense of reverence for the gift of the world will render these prohibitions not 
 nature of our being. Interestingly, McPherson relies heavily on the Confucian tradition when he wants to discuss the
 virtue of reverence.  (A worthwhile move, I think, as it demonstrates that the idea of virtue inherently
 involving limits is not some "Eurocentric" notion.) McPherson examines several other avenues that have been followed in
-justifying absolute prohibitions, such as Stuart Hampshire's case that they are necessary to avoid "moral anarchy," and
+justifying absolute prohibitions, such as Stuart Hampshire's argument that they are necessary to avoid "moral anarchy," and
 finds them wanting.
 
 McPherson goes on to make a good case for manners as a way of showing proper reverence and disciplining our animal appetites.

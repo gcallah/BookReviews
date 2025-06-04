@@ -5,7 +5,8 @@ Oxford University Press (Oxford, U.K.)
 187 pp., $94.00, 2022
 
 
-In an age which glorifies going beyond limits, David McPherson highlights the importance of "recognizing proper limits in
+In an age which glorifies leaping past all barriers, David McPherson has written an argument
+for the importance of "recognizing proper limits in
 human life." He focuses on the "limiting virtues" of "humility, reverence, moderation, contentment, neighborliness, and
 loyalty." He discusses these virtues in relation to four kinds of limits: "(1) existential limits; (2) moral limits; (3)
 political limits; and (4) economic limits." (1) McPherson calls the approach to life that acknowledges such limits as the
@@ -13,7 +14,7 @@ political limits; and (4) economic limits." (1) McPherson calls the approach to 
 the book, he stresses that both stances are essential aspects of human life, but that the accepting-appreciating stance
 should be our default attitude. Making the choosing-controlling stance primary drains life of meaning, since the world
 is seen as a collection of problems to be solved, the solving of which, in the absence of acceptance and appreciation,
-soon enough appears pointless. As McPherson puts it, the dominance of the choosing-controlling stance leads to nihilism.
+soon enough appears pointless: McPherson contends that the dominance of the choosing-controlling stance leads to nihilism.
 
 ## Existential Limits
 
@@ -24,23 +25,23 @@ us in a situation in which "we must play God," and transcend humanity by becomin
 today call themselves "transhumanists," and hope to leave behind the human condition not, like Nietzsche, through the
 will, but largely through medical and technological sorcery.
 
-McPherson then takes on notable legal theorist Ronald Dworkin's embrace of genetic engineering, in that it treats children as
+McPherson then rejects notable legal theorist Ronald Dworkin's embrace of genetic engineering, because it treats children as
 manufactured products from which all defects are to be removed, rather than as gifts to be accepted.
 
 Given the many quotes from G.K. Chesterton in this book, 
-McPherson is clearly an admirer him; here he quotes him on the foolishness of piling up more and more stuff without
+McPherson is clearly an admirer; here he quotes him on the foolishness of piling up more and more stuff without
 appreciating what one already has: "there is no sense in not appreciating things; and there is no sense in having more
-of them if you have less appreciation of them." 37
+of them if you have less appreciation of them."
 
 The ultimate rejection of the accepting-appreciating stance is suicide, and McPherson again turns to Chesterton for
-insight:
+insight on that act:
 
 "Not only is suicide, a sin, it is the sin. It is the ultimate and absolute evil.. the refusal to take the oath of
 loyalty to life. The man who kills a man, kills a man. The man who kills himself, kills all men; as far as he's
 concerned, he wipes out the world..."
 
 McPherson does not mention euthanasia, but the implication of the above should be clear: Assisting someone in committing
-"the ultimate and absolute evil" should not be encouraged by our legal system.
+"the ultimate and absolute evil" should not be condoned by our legal system.
 
 ## Moral Limits
 
@@ -49,14 +50,14 @@ morality as it is typically and more narrowly discussed by moral philosophers.)
 
 His first topic is character formation, about which he adopts an Aristotelean position, where good character is formed by
 inculcating good habits, which necessarily involves restrictions and prohibitions. Oddly, the Ten Commandments don't
-appear here (they only come on stage at the very end of the book), but they are a clear and famous example of the value
+appear here (they only come on stage at the very end of the book), but they are a obvious and famous example of the value
 of prohibitions.
 
 But why should we respect the restrictions that traditional morality puts on us? McPherson's answer is "reverence": a proper
-sense of reverence for the gift of the world will render these prohibitions not arbitrary but following from the very
+sense of reverence for the gift of the world will render these prohibitions not arbitrary but flowing from the very
 nature of our being. Interestingly, McPherson relies heavily on the Confucian tradition when he wants to discuss the
 virtue of reverence.  (A worthwhile move, I think, as it demonstrates that the idea of virtue inherently
-involving limits is not some "Eurocentric" notion.) McPherson examines several other avenues that have been followed in
+involving limits is not some "Eurocentric" notion.) McPherson examines several other avenues that have been travelled in
 justifying absolute prohibitions, such as Stuart Hampshire's argument that they are necessary to avoid "moral anarchy," and
 finds them wanting.
 
@@ -81,18 +82,18 @@ In the last part of this chapter, McPherson discusses the virtue of loyalty and 
 dire need. He makes the excellent observation the parable of the Good Samaritan does not, in fact, suggest we have the
 same duties to distant people we know little about as to those we meet in person: the Good Samaritan was not sending his
 denarii to a relief fund to aid victims of an earthquake in Bactria, but was donating them to help a man whom he had
-directly encountered. It is very easy to adopt a high-minded desire to help "humanity," but more more difficult (and
+directly encountered. It is very easy to adopt a high-minded desire to help "humanity," but much more difficult (and
 useful) to actually engage in helping the people we personally encounter.
 
 While I do think McPherson is largely correct here, I wonder if he gives quite enough weight to the limits on loyalty.
-He considers a questionable case where a son turns in his father for stealing a sheep, and Confucius condemns the son.
+He considers a case where a son turns in his father for stealing a sheep, and Confucius condemns the son.
 Perhaps sheep stealing is not a serious enough crime to justify overturning filial bonds, but what about rape, or
 murder? Surely one's father could do something so heinous that one would have no moral choice but to turn him in?
 
 ## Political Limits
 
 In the political realm, the question of limits concerns the proper or most useful scope of our political action. Is
-there any justification for regarding the nation-state as a proper entity in our evaluation of what actions are
+there any justification for regarding the nation-state as a relevant entity in our evaluation of what actions are
 virtuous? Shouldn't we instead aspire to perfect, global governance?  And are there any reasonable limits on with sort
 of improvements to the human condition we can hope to achieve through politics?
 
@@ -104,14 +105,14 @@ own nation. In fact, as McPherson notes, proper loyalty to one's own polity, can
 involves realizing that other people, in other polities, are similarly attached to their own country.
 
 McPherson goes on to consider some radically egalitarian approaches to political morality, in particular, those of John Rawls
-and G.A. Cohen. As he sees it, Rawls and Cohen, declaring a person's natural endowment and circumstances of birth and
-upbringing as "arbitrary from a moral point of view" are guilty of a lack of reverence for the world, and our
-circumstances in it as given to us. They are waging "a metaphysical crusade against contingency," McPherson, quoting
-David Wiggins, argues. This is a very important point, as it undermines Rawls' claim that his political principles are
+and G.A. Cohen. As he sees it, Rawls and Cohen, in declaring a person's natural endowment and circumstances of birth and
+upbringing as "arbitrary from a moral point of view," are guilty of a lack of reverence for the world, and our
+circumstances in it as given to us. They are waging "a metaphysical crusade against contingency," McPherson argues (quoting
+David Wiggins). This is a very important point, as it undermines Rawls' claim that his political principles are
 neutral between different comprehensive conceptions of the good life: in fact, they are dismissive of a conception of
 the good life based on such nostrums as "we should count our blessings and not be envious of others."
-And McPherson notes that another egalitarian, Ronald Dworkin, has actually elevated envy, a vice, to a "standard of
-justice." 
+And McPherson notes that another egalitarian, Ronald Dworkin, has actually elevated envy, traditionally counted as a vice,
+into a "standard of justice." 
 
 Cohen argues that the infeasibility of socialism is no reason to abandon it as an ideal: that is nonsense. A political
 system that relies on reality being other than it is can be rejected for that reason alone. If only people were the size
@@ -120,16 +121,16 @@ aren't that size, and there is no way to make us so. As McPherson puts it, "Utop
 It is better to focus on realizing the good that is possible, and one of the most important reasons for objecting to
 utopian thinking is that it is counterproductive to realizing this good."
 McPherson argues that a "sufficientarian" approach to distributive justice, where it is a responsibility of the
-political system to ensure everyone has "enough" for a decent life, is a realistic and worthy alternative to the radical
-egalitarianism of someone like Cohen.
+political system to ensure everyone has "enough" for a decent life, is a realistic and worthy alternative to the
+radical, utopian egalitarianism of someone like Cohen.
 
 ## Economic Limits
 
 Finally, McPherson turns to economic limits. Here, he parts ways with almost every political figure in either party, in
-rejecting the idea that limitless wealth for everyone is a sensible goal to strive for. In particular, he rejects the
-economism so prevalent in both U.S. political parties that holds the highest goal of government to deliver more and more
-stuff to the people, and wherer the major disagreement between the parties is about the best way to do so.
-As McPherson puts it, "endless economic growth... is senseless without knowing what it is *for*." 
+rejecting the idea that limitless wealth for everyone is a sensible goal to strive for.
+For both major U.S. political parties, the highest goal of government to deliver more and more
+stuff to the people, and their major disagreement is about the best way to do so.
+To the contrary, as McPherson puts it, "endless economic growth... is senseless without knowing what it is *for*." 
 
 Of course, both our right-liberal and left-liberal political pundits will tell us that liberalism certainly does not
 *entail* consumerism: under liberalism, they say, people are free to choose whatever sort of values they want, and if they
@@ -174,12 +175,12 @@ unnecessary drugs and mutilating surgery in order to become more like the opposi
 the "accepting-appreciating stance" as is possible, but McPherson never mentions it. But perhaps he was wise to avoid
 doing so, since touching on such a divisive topic might have distracted from his overall thesis.
 
-I also think that McPherson's work could usefully employ the work of Iain McGilchrist on the differences
+I also think that McPherson's work could usefully employ the ideas of Iain McGilchrist on the differences
 between right-hemisphere and left-hemisphere thinking, which map quite nicely onto McPherson's differentiation of the
 appreciative view and the controlling view.
 
 But these are very minor quibbles: this is an excellent book, both clear and concise. It is not overburdened with references, but
-engaging sufficiently with the relevant literature that an interested reader can explore further. And at a time when so
+engages sufficiently with the relevant literature that an interested reader can explore further. And at a time when so
 much of our culture regards any limits as abhorrent, and keeps telling us that we can "have it all," it is also a very
 timely work.
 

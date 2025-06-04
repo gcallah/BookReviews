@@ -50,7 +50,7 @@ morality as it is typically and more narrowly discussed by moral philosophers.)
 His first topic is character formation, about which he adopts an Aristotelean position, where good character is formed by
 inculcating good habits, which necessarily involves restrictions and prohibitions. Oddly, the Ten Commandments don't
 appear here (they only come on stage at the very end of the book), but they are a clear and famous example of the value
-of prohibitions
+of prohibitions.
 
 But why should we respect the restrictions that traditional morality puts on us? McPherson's answer is "reverence": a proper
 sense of reverence for the gift of the world will render these prohibitions not arbitrary but following from the very
@@ -84,7 +84,7 @@ denarii to a relief fund to aid victims of an earthquake in Bactria, but was don
 directly encountered. It is very easy to adopt a high-minded desire to help "humanity," but more more difficult (and
 useful) to actually engage in helping the people we personally encounter.
 
-While I do think McPherson is largely correct here, I wonder if he gives quite enough weight to the limit limits on loyalty.
+While I do think McPherson is largely correct here, I wonder if he gives quite enough weight to the limits on loyalty.
 He considers a questionable case where a son turns in his father for stealing a sheep, and Confucius condemns the son.
 Perhaps sheep stealing is not a serious enough crime to justify overturning filial bonds, but what about rape, or
 murder? Surely one's father could do something so heinous that one would have no moral choice but to turn him in?

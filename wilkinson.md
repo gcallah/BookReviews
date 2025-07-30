@@ -1,7 +1,18 @@
-Purpose
+# Purpose: What Evolution and Human Nature Imply About the Meaning of Our Existence
 
+By Samuel T. Wilkinson  
+Pegasus Books, 2024  
+Hardcover, 338 pages, $29.95
 
-Scopes trial
+Samuel T. Wilkinson, a professor of psychiatry at Yale University, has written a fascinating, albeit flawed book. It is
+one in a long line of attempts to show that science and religion are compatible. But, as we will conclude, this is an
+unnecessary effort: it is like demonstrating that line dancing does not contradict plumbing.
+
+Wilkinson begins his book in Nashville, Tennessee, in January of 1925.
+The scene is the famous Scopes trial, in which the ACLU had found a teacher (John Scopes)
+willing to test Tennessee's new law forbidding the teaching of evolution. The trial drew two famous attorneys, William
+Jennings Bryan for the prosecution, and Clarence Darrow for the defense, thousands of spectators, and attention from
+newspapers nationwide.
 
 Darwin
 

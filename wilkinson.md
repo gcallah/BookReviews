@@ -52,21 +52,27 @@ Wilkinson enunciates five principles that he believes will help us to resolve th
 He goes on to make the quite sound point that accepting as fact the idea that humans evolved from non-human ancestors
 says nothing about whether we were created by a divine being or not. After all, no one would point to the fact that the
 Mona Lisa can be described as the result of physical movements and chemical interactions as proving that Leonardo did
-not create it. No one listens to the Fifth Symphony, and argues that, because it simply consists of a series of sound
-waves that can be described by physics, that means that Beethoven did not compose it.
+not create it. No one listens to the Fifth Symphony and argues that, because it simply consists of a series of sound
+waves that can be described by physics, that means that Beethoven did not compose it. While Wilkinson gestures at this
+fact, he does not seem to grasp its full import: a description of some events or processes from the viewpoint of
+physical science says nothing about those same phenomena viewed as intelligent actions. These are not rival
+accounts of what was occurring, but accounts of the same occurences from two different frameworks.
 
 
-16: Men responsible for violence 
+Wilkinson makes a great deal of the fact that convergent evolution -- similar biological features arising independently
+on two or more branches of the "tree of life" -- as being important to his case. He cites a number of examples, such as
+wings evolving independently in bats, birds, and insects, the evolution of silken thread production in "at least
+twenty-three different types of animals," and the independent evolution of similar eye structures "about half-a-dozen
+times." He takes these cases as important evidence that while genetic mutations are random, the overall direction of
+evolution is guided by higher-order laws. 
 
-
-17: evolution is God's tool
-
-
-
-football game: those bodies were just moving around according to the laws of physics 
-
-
-Convergent evolution 
+But the importance he goes to this conclusion seems misplaced: after all, he cites experts, such as the atheist
+biologist Richard Dawkins, in support of the non-random direction of evolution. Even most diehard atheists do not deny
+the fact that, however mysteriously, the elements of the universe seem to obey universal laws. Early heroes of the
+scientific revolution, such as Copernicus, Galileo, Kepler and Newton, took the existence of these laws to be evidence of
+the wonderful workings of the mind of God. But many later, atheistic scientists have simply regarded them as brute
+facts. Why would the existence of universal laws constraining the process of evolution strike them as any different
+from, say, the law of gravity?
 
 
 90: "Evolution has biologically primed us to care deeply for our children *and to enjoy caring for them*."
@@ -74,7 +80,7 @@ Convergent evolution
 But if we naturally enjoy this, then doing so is not actually a sacrifice!
 
 The same with the experiments Wilkinson cites: if people find altruism enjoyable, then this is easily accounted for in a
-rational choice model. To the extent we get enjoyment from "altruism," then there is no more puzzling by people help
+rational choice model. To the extent we get enjoyment from "altruism," then there is no more puzzling why people help
 others than it is why they go skiing or take motorcycle rides out in the country: they enjoy it.
 
 109: "our drive to cooperate is a natural predisposition"

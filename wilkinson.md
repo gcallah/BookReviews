@@ -9,10 +9,13 @@ one in a long line of attempts to show that science and religion are compatible.
 unnecessary effort: it is like demonstrating that line dancing does not contradict plumbing.
 
 Wilkinson begins his book in Nashville, Tennessee, in January of 1925.
-The scene is the famous Scopes trial, in which the ACLU had found a teacher (John Scopes)
+The scene is the famous "Scopes Monkey Trial," in which the ACLU had found a teacher (John Scopes)
 willing to test Tennessee's new law forbidding the teaching of evolution. The trial drew two famous attorneys, William
 Jennings Bryan for the prosecution, and Clarence Darrow for the defense, thousands of spectators, and attention from
-newspapers nationwide.
+newspapers nationwide. Both the public and many of the direct participants viewed the trial as not merely a matter of
+Tenessee law, but as part of the "argument of science versus religion." (Interstingly, Scopes was *not* one of that
+number, as he apparently wasn't even sure if he had ever taught evolution: the local town fathers had prompted him to
+volunteer to bring attention and commerce to the town.)
 
 Darwin
 
@@ -23,10 +26,35 @@ Darwin
 
 "deaths of despair"
 
-9: " in fact, through a framework that brings together principles of evolutionary biology, psychology, sociology, and
-philosophy, we can infer that there is a purpose to our existence, but *what this purpose is*"
+Wilkinson claims that, "in fact, through a framework that brings together principles of evolutionary biology, psychology, sociology, and
+philosophy, we can infer that there is a purpose to our existence, but *what this purpose is*." It is this bold claim
+that makes the book noteworthy; unfortunately, it is also the source of the failure of what might have been a sound, if
+much more modest, work.
 
-Five principles 
+
+Wilkinson holds that evolutionary science presents us with two "dilemmas" (although they aren't really dilemmas, but
+hypotheses):
+
+1. Many people interpret evolution as implying that our existence on earth is due to mere chance, And, if that is the
+   case, it would seem human life could not have a purpose. After all, when we roll a pair of dice, we don't ask what
+   the purpose is of their coming up snake eyes.
+2. Many people interpret evolution as implying that our fundamental nature is self-centered and our basic relationship
+   to others is one of conflict, perhaps veiled with a thin fabric of sociality.
+
+Wilkinson enunciates five principles that he believes will help us to resolve these "dilemmas":
+
+1. Evolution was not random.
+2. Nature seems to have created humans with competing dispositions.
+3. Free will is a key aspect of human nature.
+4. Strong family relationships are crucial to the good life.
+5. Strong family relationships are crucial to the good society.
+
+He goes on to make the quite sound point that accepting as fact the idea that humans evolved from non-human ancestors
+says nothing about whether we were created by a divine being or not. After all, no one would point to the fact that the
+Mona Lisa can be described as the result of physical movements and chemical interactions as proving that Leonardo did
+not create it. No one listens to the Fifth Symphony, and argues that, because it simply consists of a series of sound
+waves that can be described by physics, that means that Beethoven did not compose it.
+
 
 16: Men responsible for violence 
 

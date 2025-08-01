@@ -176,15 +176,18 @@ nature, since that is the path to salvation. And that is fine, except that then 
 but to achieve salvation, and that is quite definitely not something biological science can recommend to us.
 
 
+In laying out his case for what constitutes "the good life," Wilkinson has occasion to quote the absolutely horrific
+advice that the psychologist John B. Watson was offering to new mothers in 1928, which included directions such as
+"Never hug or kiss them, never let them sit in your lap..." There is no way of behaving so kooky that some
+rationalist hasn't recommended it quite seriously at some point in the past.
 
-182-183: John B Watson's terrible advice for mothers
 
+Wilkinson lays great stress on the findings indicating that marriage, and other close relationships, make us happier.
+And he lays out a case for why this was to our evolutionary advantage.  But neither of those findings are in conflict
+with the idea that we are just biological machines, "programmed" to behave in certain ways by "evolution." "So," the
+materialist will respond, "evolution 'wants' me to be monogamous and value relationship
+relationships.
 
-191: marriage makes people happier
-
-194: relationships make us happier
-
-But neither of those findings contradict the idea that we are just biological machines, programmed to behave in certain ways by "evolution." so, evolution "wants" me to be monogamous and value relationship relationships.
 
 202: "surely this is the case"
 
@@ -199,25 +202,16 @@ But neither of those findings contradict the idea that we are just biological ma
 
 
 
-The problem with the book 
+## The big problem with the book 
 
 
-Science is not the sort of activity that can answer a question, in the affirmative or negative, such as "does life have
-meaning?" to expect science to answer question like this it's like expecting your plumber to tell you why excretion is
-part of human life.
+Wilkinson's aim is to show us that science indicates, or at least offers support for, his contention that our life is
+meaningful and has a purpose. While I am on his side in the debate as to whether ouir lives have meaning, he is
+on a misguided venture. That is because science is not the sort of activity that can answer a question, in the
+affirmative or negative, such as "does life have meaning?" To expect science to answer question like this is like
+expecting your plumber to tell you whether a gold bathtub can make you happier.
 
 
-
-
-Randomness itself is a scientific concept 
-
-39: just wrong: there is no need to "bring these views closer together"
-
-40: "a God who left creation entirely up to chance."
-
-41: "nothing in our study of human nature makes sense except in light of human evolution"
-
-Hard-wired
 
 
 The relationship of science to the concrete world can be likened to the relationship of a blueprint to the actual
@@ -236,3 +230,14 @@ science to disprove *or* prove that life has meaning.
 
 
 
+## Notes
+
+Randomness itself is a scientific concept 
+
+39: just wrong: there is no need to "bring these views closer together"
+
+40: "a God who left creation entirely up to chance."
+
+41: "nothing in our study of human nature makes sense except in light of human evolution"
+
+Hard-wired

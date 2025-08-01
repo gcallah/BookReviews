@@ -58,7 +58,6 @@ fact, he does not seem to grasp its full import: a description of some events or
 physical science says nothing about those same phenomena viewed as intelligent actions. These are not rival
 accounts of what was occurring, but accounts of the same occurences from two different frameworks.
 
-
 Wilkinson makes a great deal of the fact that convergent evolution -- similar biological features arising independently
 on two or more branches of the "tree of life" -- as being important to his case. He cites a number of examples, such as
 wings evolving independently in bats, birds, and insects, the evolution of silken thread production in "at least
@@ -68,8 +67,8 @@ evolution is guided by higher-order laws.
 
 But the importance he goes to this conclusion seems misplaced: after all, he cites experts, such as the atheist
 biologist Richard Dawkins, in support of the non-random direction of evolution. Even most diehard atheists do not deny
-the fact that, however mysteriously, the elements of the universe seem to obey universal laws. Early heroes of the
-scientific revolution, such as Copernicus, Galileo, Kepler and Newton, took the existence of these laws to be evidence of
+the fact that, however mysteriously, the elements of the universe seem to obey universal laws. Early giants of the
+scientific revolution, such as Copernicus, Galileo, Kepler, Descartes and Newton, took the existence of these laws to be evidence of
 the wonderful workings of the mind of God. But many later, atheistic scientists have simply regarded them as brute
 facts. Why would the existence of universal laws constraining the process of evolution strike them as any different
 from, say, the law of gravity?
@@ -85,37 +84,49 @@ others than it is why they go skiing or take motorcycle rides out in the country
 
 109: "our drive to cooperate is a natural predisposition"
 
-115: "In other words, our capacity for good might not have developed without our capacity for evil."
 
-But "good" and "evil "are not biological concepts.
+Wilkinson writes, "Any evolving male hominid who impregnated many female partners would obviously reap significant
+evolutionary benefit."
 
-123: "Any evolving male hominid who impregnated many female partners would obviously reap significant evolutionary benefit."
+This is a dubiously phrased claim: the individual himself might feel a lot of pleasure in having sex with lots of
+partners, he will be long gone before he could see that he has a host of great-great-granchildren. This is why Richard
+Dawkins chose to focus on *The Selfish Gene*: it is the satyrs *genes* that "reap significant evolutionary benefit," and
+not the satyr himself.
 
-There is no benefit that accrues to the individual.
+Wilkinson notes that, despite the urgings many feel to experience sexual variety, we also have strong feelings directing
+us towards monogamy. As he writes, "In fact, sexual jealousy is a leading cause of homicide and spousal abuse."
+The evidence on this matter is a strong refutation of one of the silliest ideas currently circulating in our culture,
+the claim that Sex is "merely a private matter." 
 
-Perhaps, like Elon Musk, I am proud of having sired many children.
-
-
-125: "In fact, sexual jealousy is a leading cause of homicide and spousal abuse."
-
-Sex is not a merely private matter.
-
-Sometimes Wilkinson falls into the trap of talking about evolution or nature as if these things were themselves agents,
-rather than just abstract aspects of the world of human experience. For instance, discussing the difficulty of having an
+Sometimes Wilkinson falls into the error of talking about evolution or nature as if these things were themselves agents,
+rather than just abstract aspects of the world of experience. For instance, discussing the difficulty of having an
 infant with a large head pass through a woman's birth canal, he asks, "What was nature's solution?"
 
 But "nature", unless we embrace some form of pantheism, is not the sort of thing that can have problems that need to be solved. Why
-would it be a problem for "nature" if all hominids went extinct?
+would it be a problem for "nature" if all hominids went extinct because the females could not survive birth?
+In fact, it is estimated that roughly 99% of species that have ever existed are now extinct. If "nature" views this as a
+problem, apparently it does ot view it as much of a problem! To be fair, Wilkinson is hardly alone in mistakenly
+assigning agency to an abstract concept like nature: many professional biologists commit the same error. (Just search for
+"Nature solves this problem" to find examples.)
 
-To regard this as a problem that nature had to solve, is already to smuggle in the idea that there is an agent involved with goals.
+Wilkinson devotes a chapter to examining whether science refutes the idea that we have free will. (Interestingly, the
+title of the chapter, "Free to Choose," is the title of a book by Milton and Rose Friedman, but he does not cite them.)
+In this discussion, he relies heavily on the concept of "emergence," which holds that a "higher" level of a physical
+system may have properties that could not be predicted from its lower level components. A simple example is the fact
+that the properties of water could not be deduced from the properties of hydrogen and oxygen studied in isolation: we
+could not predict water's wetness, flow, or surface tension if we only knew of the isolated atoms. Wilkinson quotes
+Nobel laurate Philip W. Anderson, who wrote:
 
-133: romantic love is not a western invention
+"At each level of complexity entirely new properties appear. Psychology is not applied biology, nor is biology applied
+chemistry. We can now see that the whole becomes not merely more, but very different from the sum of its parts."
 
-Free will
-
-"Another one of the most remarkable examples of emergence is how the mind emerges from the brain."
-
-But this is just an undefended assumption.
+On this topic, Wilkinson writes, "Another one of the most remarkable examples of emergence is how the mind emerges from
+the brain." However, the idea that the mind "emerges" from the brain is just an undefended assumption. And it is quite
+unlike the emergence of the properties of water from the union of hydrogen and oxygen: in the case of water, we are
+looking at new physical properties emerging from the physical nature of the parts of water. But in the case of mind,
+what we have is something non-physical supposedly "emerging" from something physical. (This is why some materialists
+have been anxious to contend that consciousness is "an illusion," since they, to their credit, recognize the difficulty
+in positing that this metaphysical transformation could actually take place.)
 
 The Harvard law of animal behavior: "Under controlled experimental conditions of temperature, time, lighting, feeding,
 and training, the organism will behave as it damn well pleases."

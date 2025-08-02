@@ -163,13 +163,15 @@ Wilkinson has done an admirable job surveying the recent scientific work related
 His aim is to show us that this work indicates, or at least offers support for, his contention that our life is
 meaningful and has a purpose. While I am on his side in the debate as to whether ouir lives have meaning, he is
 on a misguided venture. That is because science is not the sort of activity that can answer the question, in the
-affirmative or negative, "does life have meaning?" To expect science to answer question like this is like
-expecting your plumber to tell you whether a gold bathtub can make you happier.
+affirmative or negative, "does life have meaning?" To expect science to answer that question is like
+expecting your plumber to tell you whether a gold bathroom fixtures can make you happier.
 
-The relationship of science to the concrete world can be likened to the relationship of a blueprint to the actual
+The relationship of science to the concrete world is similar to the relationship of a blueprint to the actual
 building it represents. The blueprint can be very valuable, both in the construction of the building, and in its
 maintenance and modifications later on. But it would be ridiculous to use the blueprint to show the occupants of the
-building that it does not contain any desks or chairs, since they do not appear on the blueprint.
+building that it does not contain any desks or chairs, since they do not appear on the blueprint. Science is an
+*abstraction from* the world of concrete experience, turning that world into a system of pure quantities related by
+mathematical formulas. [DEVOID???]
 
 Some nihilistic materialists have attempted to perform a similar maneuver: since they do not find a purpose for our existence
 anywhere in the abstraction that is science, they tell people that there *is* no purpose, and that life is meaningless.

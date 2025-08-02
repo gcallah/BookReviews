@@ -6,7 +6,7 @@ Hardcover, 338 pages, $29.95
 
 Samuel T. Wilkinson, a professor of psychiatry at Yale University, has written a fascinating, albeit flawed book. It is
 one in a long line of attempts to show that science and religion are compatible. But, as we will conclude, this is an
-unnecessary effort: it is like demonstrating that line dancing does not contradict plumbing.
+unnecessary effort: it is like demonstrating that line dancing is not incompatible with electrical engineering.
 
 Wilkinson begins his book in Nashville, Tennessee, in January of 1925.
 The scene is the famous "Scopes Monkey Trial," in which the ACLU had found a teacher (John Scopes)
@@ -120,18 +120,14 @@ what we have is something non-physical supposedly "emerging" from something phys
 have been anxious to contend that consciousness is "an illusion," since they, to their credit, recognize the difficulty
 in positing that this metaphysical transformation could actually take place.)
 
-The Harvard law of animal behavior: "Under controlled experimental conditions of temperature, time, lighting, feeding,
-and training, the organism will behave as it damn well pleases."
+In discussing free will Wilkinson brings up the famous experiments by Libet, which showed an increase in
+neural activity before an experimental subject was consciously aware of having made a choice.
+But simply showing that there is neural activity before a choice is consciously made does nothing to demonstrate that
+humans do not make genuine choices. It is like contending that because I debated where to head before
+driving to New York, I did not actually decide to go there.
 
-
-In discussing the issue of free will Wilkinson touches on the famous experiments by Libet.
-
-Simply showing that there is neural activity before a choice is consciously made does nothing to demonstrate that
-humans do not make genuine choices.
-
-
-When he comes to announce the purpose revealed by these competing pulls that evolution has graced us with, he writes,
-"This purpose is to choose between these competing natures."
+When Wilkinson comes to announce the purpose revealed by these competing pulls that evolution has graced us with, he
+writes, "This purpose is to choose between these competing natures."
 
 But what kind of purpose is *that*?
 Making some choice or other cannot be our ultimate purpose in life, since we can only make choices *based upon* some purpose we
@@ -150,42 +146,24 @@ criticize my choice based upon its failure to achieve some purpose beyond the ch
 
 My suspicion here is that Wilkinson, being a Christian, will consider it obvious that we should choose our better
 nature, since that is the path to salvation. And that is fine, except that then our purpose is not to make this choice,
-but to achieve salvation, and that is quite definitely not something biological science can recommend to us.
-
+but to achieve salvation, and that is quite definitely not something biological science can conclude.
 
 In laying out his case for what constitutes "the good life," Wilkinson has occasion to quote the absolutely horrific
 advice that the psychologist John B. Watson was offering to new mothers in 1928, which included directions such as
 "Never hug or kiss them, never let them sit in your lap..." There is no way of behaving so kooky that some
 rationalist hasn't recommended it quite seriously at some point in the past.
 
+Wilkinson places great stress on the findings indicating that marriage, and other close relationships, make us happier.
+And he presents a case for why this was to our evolutionary advantage.  But neither of those findings are in conflict
+with the idea that we are just biological machines, "programmed" to behave in certain ways by "evolution." "So," a
+hedonist materialist could respond, "evolution 'wants' me to be monogamous and to value relationships: why should I care
+about what this inhuman process wants from me?"
 
-Wilkinson lays great stress on the findings indicating that marriage, and other close relationships, make us happier.
-And he lays out a case for why this was to our evolutionary advantage.  But neither of those findings are in conflict
-with the idea that we are just biological machines, "programmed" to behave in certain ways by "evolution." "So," the
-materialist will respond, "evolution 'wants' me to be monogamous and value relationship
-relationships.
-
-
-202: "surely this is the case"
-
-207: no mention of Plato
-
-211: one political commentator
-
-214: unfortunately
-
-
-
-
-
-
-## The big problem with the book 
-
-
-Wilkinson's aim is to show us that science indicates, or at least offers support for, his contention that our life is
+Wilkinson has done an admirable job surveying the recent scientific work related to his case.
+His aim is to show us that this work indicates, or at least offers support for, his contention that our life is
 meaningful and has a purpose. While I am on his side in the debate as to whether ouir lives have meaning, he is
-on a misguided venture. That is because science is not the sort of activity that can answer a question, in the
-affirmative or negative, such as "does life have meaning?" To expect science to answer question like this is like
+on a misguided venture. That is because science is not the sort of activity that can answer the question, in the
+affirmative or negative, "does life have meaning?" To expect science to answer question like this is like
 expecting your plumber to tell you whether a gold bathtub can make you happier.
 
 

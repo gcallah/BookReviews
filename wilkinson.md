@@ -17,23 +17,21 @@ Tenessee law, but as part of the "argument of science versus religion." (Interst
 number, as he apparently wasn't even sure if he had ever taught evolution: the local town fathers had prompted him to
 volunteer to bring attention and commerce to the town.)
 
-Darwin
+Many people, and many scientists, have read the "meaning" of evolution to be that the existence of humans is a 
+chance event, without any significance. As one scientist quoted by Wilkinson put it:
 
+"In the purely natural and inevitable march of evolution, life... is of profound importance... a mere eddy in the primeval
+slime."
 
-5: "science as yet."
+Wilkinson believes the alarming rise of "deaths of despair" in recent decades is at least partially due to the prevelance
+of this nihilistic view of life.
+However, he claims that, "through a framework that brings together principles of evolutionary biology,
+psychology, sociology, and philosophy, we can infer that there is a purpose to our existence, but *what this purpose
+is*." It is this bold claim that makes the book noteworthy; unfortunately, it is also the source of the failure of what
+might have been a sound, if much more modest, work.
 
-8: depression 
-
-"deaths of despair"
-
-Wilkinson claims that, "in fact, through a framework that brings together principles of evolutionary biology, psychology, sociology, and
-philosophy, we can infer that there is a purpose to our existence, but *what this purpose is*." It is this bold claim
-that makes the book noteworthy; unfortunately, it is also the source of the failure of what might have been a sound, if
-much more modest, work.
-
-
-Wilkinson holds that evolutionary science presents us with two "dilemmas" (although they aren't really dilemmas, but
-hypotheses):
+Wilkinson argues that evolutionary science presents us with two "dilemmas" (although they aren't really dilemmas, but
+more unpleasant hypotheses):
 
 1. Many people interpret evolution as implying that our existence on earth is due to mere chance, And, if that is the
    case, it would seem human life could not have a purpose. After all, when we roll a pair of dice, we don't ask what

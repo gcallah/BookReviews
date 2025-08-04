@@ -13,9 +13,7 @@ The scene is the famous "Scopes Monkey Trial," in which the ACLU had found a tea
 willing to test Tennessee's new law forbidding the teaching of evolution. The trial drew two famous attorneys, William
 Jennings Bryan for the prosecution, and Clarence Darrow for the defense, thousands of spectators, and attention from
 newspapers nationwide. Both the public and many of the direct participants viewed the trial as not merely a matter of
-Tenessee law, but as part of the "argument of science versus religion." (Interstingly, Scopes was *not* one of that
-number, as he apparently wasn't even sure if he had ever taught evolution: the local town fathers had prompted him to
-volunteer to bring attention and commerce to the town.)
+Tenessee law, but as part of the "argument of science versus religion."
 
 Wilkinson opens with this trial because he finds it emblamatic of the supposed conflict between science and religion.
 Many people, and many scientists, have read the "meaning" of evolution to be that the existence of humans is a chance
@@ -27,13 +25,13 @@ slime."
 Wilkinson believes the alarming rise of "deaths of despair" in recent decades is at least partially due to the prevelance
 of this nihilistic view of life.  However, he claims that, "through a framework that brings together principles of
 evolutionary biology, psychology, sociology, and philosophy, we can infer not only that there is a purpose to our
-existence, but *what this purpose is*." It is this bold claim, one that makes the book noteworthy; unfortunately, it is
+existence, but *what this purpose is*." It is this bold claim that makes the book noteworthy; unfortunately, it is
 also the root of the ultimately unsatisfactory character of what might have been a sounder, if much more modest, work.
 
-Wilkinson argues that evolutionary science presents us with two "dilemmas" (although they aren't really dilemmas, but
+Wilkinson argues that evolutionary science presents us with two "dilemmas" (although these aren't really dilemmas, but
 more unpleasant hypotheses):
 
-1. Many people interpret evolution as implying that our existence on earth is due to mere chance, And, if that is the
+1. Many people interpret evolution as implying that our existence on earth is due to mere chance. And, if that is the
    case, it would seem human life could not have a purpose. After all, when we roll a pair of dice, we don't ask what
    the purpose is of their coming up snake eyes.
 2. Many people interpret evolution as implying that our fundamental nature is self-centered and our basic relationship
@@ -42,14 +40,14 @@ more unpleasant hypotheses):
 Wilkinson enunciates five principles that he believes will help us to resolve these "dilemmas":
 
 1. Evolution was not random.
-2. Nature seems to have created humans with competing dispositions.
+2. Nature seems to have created humans with competing dispositions, one selfish and one altruistic.
 3. Free will is a key aspect of human nature.
 4. Strong family relationships are crucial to the good life.
 5. Strong family relationships are crucial to the good society.
 
-He goes on to make the quite sound point that accepting as fact the idea that humans evolved from non-human ancestors
-says nothing about whether we were created by a divine being or not. After all, 
-no one listens to the Fifth Symphony and argues that, because it can be understood as a series of sound
+He goes on to make the point that accepting as fact the idea that humans evolved from non-human ancestors
+says nothing about whether we were created by a divine being. After all, 
+no one listens to Beethoven's Fifth Symphony and argues that, because it can be understood as a series of sound
 waves describable by physics, that means that Beethoven did not compose it. While Wilkinson gestures at this
 fact, he does not seem to grasp its full import: a description of some events or processes from the viewpoint of
 physical science says nothing about those same phenomena viewed as intelligent actions. These are not *rival*
@@ -62,20 +60,20 @@ types of animals," and the independent evolution of similar eye structures "abou
 instances as important evidence that while genetic mutations are random, the overall direction of evolution is guided by
 higher-order laws, which supports his case that evolution is purposive.
 
-But the importance he gives to this conclusion seems misplaced: after all, he cites experts, such as the atheist
-biologist Richard Dawkins, in support of the non-random direction of evolution. Even most diehard atheists do not deny
-the fact that, however mysteriously, the elements of the universe seem to obey universal laws. Early giants of the
-scientific revolution, such as Copernicus, Galileo, Kepler, Descartes and Newton, took the existence of these laws to be evidence of
-the wonderful workings of the mind of God. But many later, atheistic scientists have simply regarded them as brute
-facts. Why would the existence of universal laws constraining the process of evolution strike them as any different
-from, say, the law of gravity?
+But the importance he gives to this conclusion seems misplaced: after all, he cites experts such as the atheist
+biologist Richard Dawkins in support of the non-random direction of evolution. Even the most reductionist materialists
+do not deny the fact that, however mysteriously, the elements of the universe seem to obey universal laws. Early giants
+of the scientific revolution, such as Copernicus, Galileo, Kepler, Descartes and Newton, took the existence of these
+laws to be evidence of the wonderful workings of the mind of God. But many later, atheistic scientists have simply
+regarded them as brute facts. Why would the existence of universal laws constraining the process of evolution strike
+them as any different from, say, the law of gravity?
 
 Wilkinson sees the evolution of human beings as having implanted in us two competing urges: one pulls us towards
 selfishness, sexual promiscuity, greed, and violence, while the other tugs us in the direction of altruism, monogamy,
 self-sacrifice, and cooperation. (Plato knew about these dual pulls two millenia before Darwin: see *Phaedrus*.)
 
-Wilkinson notes that, despite the urgings many feel to experience sexual variety, we also have strong feelings directing
-us towards monogamy. As he writes, "In fact, sexual jealousy is a leading cause of homicide and spousal abuse."
+Wilkinson notes that, while humans have an urge to experience sexual variety, we also have a strong pull
+towards monogamy. As he writes, "In fact, sexual jealousy is a leading cause of homicide and spousal abuse."
 The evidence on this matter is a strong refutation of one of the silliest ideas currently circulating in our culture,
 the claim that sex is "merely a private matter." 
 
@@ -86,7 +84,7 @@ infant with a large head pass through a woman's birth canal, he asks, "What was 
 But "nature", unless we embrace some form of pantheism, is not the sort of thing that can have problems that need to be solved. Why
 would it be a problem for "nature" if all hominids went extinct because the females of the species could not survive birth?
 In fact, it is estimated that roughly 99% of species that have ever existed are now extinct. If "nature" views this as a
-problem, apparently it does not view it as much of a problem! To be fair, Wilkinson is hardly alone in mistakenly
+problem, apparently it does not view it as much of one! To be fair, Wilkinson is hardly alone in mistakenly
 assigning agency to an abstract concept like nature: many professional biologists commit the same error. (Just search
 the Internet for "Nature solves this problem" to find examples.)
 
@@ -108,17 +106,17 @@ what we have is something non-physical supposedly "emerging" from something phys
 have been anxious to contend that consciousness is "an illusion," since they, to their credit, recognize the difficulty
 in positing that this metaphysical transformation could actually take place.)
 
-In discussing free will Wilkinson brings up the famous experiments by Libet, which showed an increase in
+In discussing free will Wilkinson brings up the famous experiments by Benjamin Libet, which showed an increase in
 neural activity before an experimental subject was consciously aware of having made a choice.
 But simply showing that there is neural activity before a choice is consciously made does nothing to demonstrate that
-humans do not make genuine choices. It is like contending that because I debated where to head before
-driving to New York, I did not actually decide to go there.
+humans do not make genuine choices: that I deliberated about where to go on vacation before driving to New York does not
+imply that I did not actually decide to go there.
 
 When Wilkinson comes to announce the purpose revealed by these competing pulls that evolution has graced us with, he
 writes, "This purpose is to choose between these competing natures."
 
-But what kind of purpose is *that*?  Making some choice or other cannot be our ultimate purpose in life, since we can
-only make choices *based upon* some purpose we have lying outside the choice itself. For instance, if I am driving from
+But what kind of purpose is *that*?  Making some choice cannot be our ultimate purpose in life, since we can
+only make choices *based upon* some purpose we have beyond the choice itself. For instance, if I am driving from
 my home in South Carolina to New York, I have a choice between I-81 and I-95 as the main highway I will follow
 northward. If the purpose of my drive is to arrive as fast as possible in New York, I will choose I-95. But if my
 purpose is to enjoy wonderful scenery along the way, I will choose I-81. 
@@ -134,13 +132,8 @@ nature, since that is the path to salvation. And that is fine, except that then 
 is not to make this choice, but to achieve salvation, and that is quite definitely *not* something for which
 biological science can offer evidence.
 
-In laying out his case for what constitutes "the good life," Wilkinson has occasion to quote the absolutely horrific
-advice that the psychologist John B. Watson was offering to new mothers in 1928, which included directions such as
-"Never hug or kiss them, never let them sit in your lap..." There is no way of behaving so kooky that some
-rationalist hasn't recommended it quite seriously at some point in the past.
-
 Wilkinson places great stress on the findings indicating that marriage, and other close relationships, make us happier.
-And he presents a case for why this was to our evolutionary advantage.  But neither of those findings are in conflict
+And he presents a case for why this was to our evolutionary advantage. But neither of those findings are in conflict
 with the idea that we are just biological machines, "programmed" to behave in certain ways by "evolution." "So," a
 hedonist materialist could respond, "evolution 'wants' me to be monogamous and to value relationships: why should I care
 about what this inhuman process wants from me?"
@@ -148,9 +141,9 @@ about what this inhuman process wants from me?"
 Wilkinson has done an admirable job surveying recent scientific work related to his topic.
 His aim is to show us that this work indicates, or at least offers support for, his contention that our life is
 meaningful and has a purpose. While I am on his side in the debate as to whether our lives have meaning, he is
-on a misguided venture. That is because science is not the sort of activity that can answer the question, in the
-affirmative or negative, "Does life have meaning?" To expect science to answer that question is like
-expecting your plumber to tell you whether installing gold bathroom fixtures will make you happier.
+on a misguided venture. Science is not the sort of activity that can answer the question
+"Does life have meaning?" To expect science to answer that question is like
+expecting your plumber to tell you whether installing fancier bathroom fixtures will make you happier.
 
 Some nihilistic materialists have claimed that since they do not find a purpose for our existence
 anywhere in science, then there *is* no purpose, and that life is meaningless.
@@ -160,12 +153,12 @@ wishes to refute.
 
 Science is an *abstraction from* the world of concrete experience, turning that world into a system of pure quantities
 related by mathematical formulas, devoid of any qualities. Of course, science aims at truth, but its truth is the
-consistency and applicability of its abstractions.  The relationship of science to the concrete world is similar to the
-relationship of a blueprint to the actual building it represents.  The blueprint can be very valuable, both in the
-construction of the building, and in its maintenance and modifications later on. But it would be ridiculous to use the
-blueprint to show the occupants of the building that it does not contain any desks or chairs, since they do not appear
-in the blueprint. One cannot use a blueprint to disprove or prove what is inside a building, and one cannot use
+consistency and applicability of its abstractions. The relationship of science to the concrete world is similar to the
+relationship of a blueprint to the actual building it represents. The blueprint can be very valuable, both in the
+construction of the building, and in its maintenance and modifications later on. But it would be ridiculous to use a
+blueprint to show the occupants of a building that have any houseplants in their offices, since they do not appear
+in the blueprint. And just as one cannot use a blueprint to disprove or prove what is inside a building, and one cannot use
 science to disprove *or* prove that life has meaning.
 
 And once one grasps this point, any idea that there can be a conflict between science and religion dissolves,
-without the need to survey large amounts of scientific work to demonstrate the absence of conflict.
+without the need to survey large amounts of scientific work to demonstrate that absence of conflict.

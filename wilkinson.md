@@ -156,7 +156,7 @@ related by mathematical formulas, devoid of any qualities. Of course, science ai
 consistency and applicability of its abstractions. The relationship of science to the concrete world is similar to the
 relationship of a blueprint to the actual building it represents. The blueprint can be very valuable, both in the
 construction of the building, and in its maintenance and modifications later on. But it would be ridiculous to use a
-blueprint to show the occupants of a building that have any houseplants in their offices, since they do not appear
+blueprint to show the occupants of a building that do not have any houseplants in their offices, since they do not appear
 in the blueprint. And just as one cannot use a blueprint to disprove or prove what is inside a building, and one cannot use
 science to disprove *or* prove that life has meaning.
 

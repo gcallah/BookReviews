@@ -41,11 +41,59 @@ metaphysics.
 
 
 
-## Denographic
+All my libertarian friends would immediately recognize the problem with comparing military spending and consumer
+spending: the first is coerced and thus does not reflect the voluntary choices of market participants.
+So is this really a case where liberal ideology leads people astray?
+
+Pilkington contends that in the case of technological advances, "The technologies themselves were developed by the
+state..."
+
+It is true that, for instance, the Internet began as a DARPA project. But what about the myriad of technologies
+developed by such private companies, such as those coming from Toyota, 3M, Bell Labs, or Xerox PARC, just to name a few.
+A free-marketer might well respond to Pilkington, "Think how much more the private sector might've developed if so
+much R&D energy wasn't diverted to government use?"
+
+Pilkington may have a good answer to this question, but he skirts over this issue too lightly in his book.
+
+
+
+## Demographic
+
+Pilkington notes that once liberalism thoroughly infects a society, that society's birth rate begins to plummet, always
+to below replacement rate. This fact can hardly be disputed, since it has held without exception. Thus liberals are
+faced with the awkward fact that liberal societies universally commit demographic suicide.
+
+The response on the part of most liberal nations has been to import people to make up for the deficit in native births.
+But, as Pilkington points out, this solution both ignores the societal strains of incorporating large numbers of
+immigrants who are not familiar with their new culture, and runs in contradiction to liberal imperialism: once liberal
+values are exported to all nations, as is the liberal dream, than there will no longer be nations with above-replacement
+birth rates from which to import people.
+
+A minor quibble here is that Pilkington repeatedly uses the phrase "rate of people" instead of the more usual "birth
+rate": I cannot see any reason for this change of terminology, nor does he offer one.
+
+
+Sexual consumerism
+
+Stupid idea: "sex is a purely private affair"
+
+Raising awareness of STDs: word magic!
 
 
 
 ## Macroeconomic
+
+When it comes to international trade, Pilkington interestingly revives a proposal by John Maynard Keynes for using a
+planned system involving a notional trade currency called the "bancor" and a schedule of remedies for persistent trade
+surpluses such as forced investment by the nation running a surplus in the nation experiencing the deficit.
+
+Pilkington, unfortunately, does not present any argument as to why persistent trade deficits are worrisome. The standard
+response from advocates of free trade to such worries is to present an analogy where I, a computer programmer,
+habitually run a "trade deficit" with my local grocer: I regularly buy his groceries, but he never purchases any of my
+software. And the point of the free trade case here is there is no cause for me to worry about this situation. Of
+course, there may be reasons why scale matters here, and that my trade deficit with the grocer is a flawed analogy with
+one nation's trade deficit with another, but Pilkington does not provide such reasons.
+
 
 
 ## Societal Bonds
@@ -53,6 +101,8 @@ metaphysics.
 
 
 ## Neo-Paganism
+
+
 
 
 ## Conclusion

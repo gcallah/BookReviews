@@ -2,7 +2,7 @@
 
 
 
-Do we really know liberalism is collapsing? The Roman polity collapsed over a period of about 1500 years, from the time
+Do we really know liberalism is immediately collapsing? The Roman polity collapsed over a period of about 1500 years, from the time
 of the Gracchi brothers until the fall of Constantinople.
 
 How do we know that liberalism won't collapse as slowly as that?
@@ -27,8 +27,6 @@ The key assumption is that if some country's labor receives half the wage, that 
 Do we really have to worry about persistent trade deficits?
 What about my trade deficit with the neighborhood grocer?
 
-
-The future is mysterious
 
 The US should recognize it's an empire, and that empires are not always bad things. Someone could refer to Monty
 Python's amusing skit "what have the Romans ever done for us?" or cite the fact that when the western Roman Empire

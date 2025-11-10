@@ -6,6 +6,9 @@ Cambridge: Polity Press
 
 
 
+## Liberalism's Collapse
+
+
 The correct argument against the 10-hour clock is that the French revolutionaries had been hypnotized by the fact that
 they counted in base 10 into thinking that measuring everything in multiples of ten was somehow more rational than
 any other multipler, such as 12 or 24. And therefore there was no reason to do away with dividing the day into 24 hours: no division is
@@ -32,6 +35,28 @@ represented a slight shift from Plato's views, giving somewhat more emphasis to 
 ancient world contained a much wider variety of metaphysical thought, such as the materialism of Democritus and
 Lucretius or the work of the pre-Socratics such as Thales, Anaximander, Parmenides and Zeno, to say nothing of Eastern
 metaphysics.
+
+
+## Military
+
+
+
+## Denographic
+
+
+
+## Macroeconomic
+
+
+## Societal Bonds
+
+
+
+## Neo-Paganism
+
+
+## Conclusion
+
 
 
 

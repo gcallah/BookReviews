@@ -39,17 +39,30 @@ metaphysics.
 
 ## Military
 
+PP devotes an entire chapter to the mistakes liberal governments have been making in military strategy. Now this is an
+area in which I have no expertise, and so I am in no position to critique PP's case on this front. But I can describe
+it: liberal governments are bewitched by their belief in progress (so that later tech must always beat earlier tech),
+and their conviction that the price of something reflects its utility (so that a $100 million weapon must be better than
+90 million dollar weapons).
+And thus they have spent way too much on very high-tech equipment and far too little on building up large quantities of
+cheaper but still effective materiel. As an example of the strategic mis-steps possible due to this liberal bias, he
+cites the case of the Lancet drone, which costs around $35,000, but is very effective at taking out $11 million Leopard
+tanks. PP estimates that, once we take into account purchasing power parity (a technical macroeconomic concept we
+needn't dwell on here), "For every Leopard II tank Germany can produce, Russia can produce 683 Lancet drones." (109)
 
+PP makes a quite plausible case that the liberal nation's military strategy is flawed for the reasons he describes, but,
+again, this topic is so far out of any domain in which I have any expertise that I am no position to evaluate his claim.
+However, he notes that, contra the liberal faith that higher prices mean commensurably higher quality, "the market for
+military equipment is very likely not competitive." (121)
 
-All my libertarian friends would immediately recognize the problem with comparing military spending and consumer
-spending: the first is coerced and thus does not reflect the voluntary choices of market participants.
-So is this really a case where liberal ideology leads people astray?
+But this notable difference between government spending on the military and private spending is not something that would
+surprise any libertarian or public choice theorist. So is this really a case where liberal ideology leads people astray?
 
 Pilkington contends that in the case of technological advances, "The technologies themselves were developed by the
 state..."
 
 It is true that, for instance, the Internet began as a DARPA project. But what about the myriad of technologies
-developed by such private companies, such as those coming from Toyota, 3M, Bell Labs, or Xerox PARC, just to name a few.
+developed by private companies, such as those coming from Toyota, 3M, Bell Labs, or Xerox PARC, just to name a few.
 A free-marketer might well respond to Pilkington, "Think how much more the private sector might've developed if so
 much R&D energy wasn't diverted to government use?"
 

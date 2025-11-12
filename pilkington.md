@@ -4,19 +4,43 @@ Philip Pilkington
 Cambridge: Polity Press  
 234 pages  
 
+Philip Pilkington has written a very provocative and thought-provoking book, one that deserves to be taken seriously by
+anyone interested in the future of currently liberal polities.
 
+And, quite naturally, he first turns his attention to the question of just what is this thing that is collapsing. And
+his answer is: "We will consider liberalism to be the Enlightenment political ideology par excellence that sought to level
+and 'rationalize' social and political relationships. Liberalism's target has always been hierarchical structures in
+politics and society at large." (10) Of course, many alternative definitions are possible, and definitions, per
+definition, cannot be wrong, only more or less informative. But in this case, I think PP has provided us with an
+extremely informative definition.
 
 ## Liberalism's Collapse
 
+What aspect of PP's work that leaves me uneasy is his confidence that global liberalism is collapsing rapidly and that
+the immediate future will be "post-liberal." While I agree with his contention that liberalism is an inherently unstable
+way of organizing a polity, and that liberal societies are already demonstrating this truth, I am not so sure about his
+timeline.
+
+After all, let us consider progress of the Roman polity: by the late second-century B.C., with the rise of populism led
+by the Gracchi brothers and their subsequent assasinations. Civil wars and various dictatorships followed, and yet, in
+the West, the polity survived more than another five centuries, while in the East it limped along until 1453 A.D. (The
+residents of what we today call "The Byzantine Empire" self-identified as Romans and understood the political unit in
+which they lived as the Roman empire.)
+
+So, given that we know a polity can be in decline for a very long time, from whence comes PP's confidence that the
+demise of liberalism is nigh? I do not deny that he could well be correct, but I can also envision a plausible future in
+which the death throes of liberalism extend over quite a long time.
+
+In his understandable desire to discredit forced rationalist revamping of customary practices, PP makes a claim I think
+is mistaken, when he criticizes the French revolutionaries attempt to establish decimal timekeeping by claiming: "the
+24-hour day and the calendar that grows out of it are based on lived reality of night and day as it occurs on earth"
+(36).
 
 The correct argument against the 10-hour clock is that the French revolutionaries had been hypnotized by the fact that
-they counted in base 10 into thinking that measuring everything in multiples of ten was somehow more rational than
-any other multipler, such as 12 or 24. And therefore there was no reason to do away with dividing the day into 24 hours: no division is
-more rational than any other, and so it is more sensible to use the conventional divisor, and not disrupt everyone's time
-keeping to switch to a different, and equally arbitrary, divisor.
-
-But Pilkington instead claims: "the 24-hour day and the calendar that grows out of it are based on lived reality of
-night and day as it occurs on earth" (36).
+they counted in base-10 into thinking that measuring everything in multiples of ten was somehow more rational than
+any other multipler, such as 12 or 24. And therefore there was no reason to do away with dividing the day into 24 hours:
+no division is more rational than any other, and so it is more sensible to use the conventional divisor, and not disrupt
+everyone's time keeping to switch to a different, and equally arbitrary, divisor.
 
 Certainly, our lived reality tells us that some part of each day is dark, and some part is light. 
 But nothing about our lived reality demands that we divide each day into 24 hours. In Japan, for instance, the day and
@@ -25,12 +49,12 @@ five daily prayers. In ancient India, the day was divided into eigth *prahars*. 
 divided the day by the eight times of prayer: Matins, Lauds, Prime, Terce, Sext, None, Vespers, and Compline. These
 traditional divisions were, in fact, more in tune with our lived reality, as they typically varied these divisions as
 the daylight period grew shorter or longer. It was only with the widespread usage of mechanical clocks that the idea of
-dividing the day into 24 equal periods became common: It was itself a fitting of our lived experience into the
+dividing the day into 24 equal periods became common: that division was itself a fitting of our lived experience into the
 requirements of a machine.
 
-
-Pilkington writes: "There are many variants of the classic metaphysic, from Platonism to Aristotelianism and everything
-in between" (30). But R.G. Collingwood, Lloyd P. Gerson, Eric Voegelin and other have argued that Aristotle in fact only
+PP also makes a questionable claim about classical metaphysics:
+"There are many variants of the classic metaphysic, from Platonism to Aristotelianism and everything
+in between" (30). But R.G. Collingwood, Lloyd Gerson, Eric Voegelin and other have argued that Aristotle in fact only
 represented a slight shift from Plato's views, giving somewhat more emphasis to immanence than to transcendence. The
 ancient world contained a much wider variety of metaphysical thought, such as the materialism of Democritus and
 Lucretius or the work of the pre-Socratics such as Thales, Anaximander, Parmenides and Zeno, to say nothing of Eastern

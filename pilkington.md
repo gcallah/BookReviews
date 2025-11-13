@@ -5,7 +5,9 @@ Cambridge: Polity Press
 234 pages  
 
 Philip Pilkington has written a very provocative and thought-provoking book, one that deserves to be taken seriously by
-anyone interested in the future of currently liberal polities.
+anyone interested in the future of currently liberal polities. (Note: throughout the book and this review, "liberal" is
+being used as philosophers and political scientists use it -- see PP's definition below -- and not in the sense it is
+often used in American political discourse, in which it means "somewhat left of center.")
 
 And, quite naturally, he first turns his attention to the question of just what is this thing that is collapsing. And
 his answer is: "We will consider liberalism to be the Enlightenment political ideology par excellence that sought to level
@@ -16,24 +18,28 @@ extremely informative definition.
 
 ## Liberalism's Collapse
 
-What aspect of PP's work that leaves me uneasy is his confidence that global liberalism is collapsing rapidly and that
+One aspect of PP's work that leaves me uneasy is his confidence that global liberalism is collapsing rapidly and that
 the immediate future will be "post-liberal." While I agree with his contention that liberalism is an inherently unstable
 way of organizing a polity, and that liberal societies are already demonstrating this truth, I am not so sure about his
 timeline.
 
 After all, let us consider progress of the Roman polity: by the late second-century B.C., with the rise of populism led
-by the Gracchi brothers and their subsequent assasinations. Civil wars and various dictatorships followed, and yet, in
+by the Gracchi brothers, and the brothers subsequent assasinations. Civil wars and various dictatorships followed, and yet, in
 the West, the polity survived more than another five centuries, while in the East it limped along until 1453 A.D. (The
 residents of what we today call "The Byzantine Empire" self-identified as Romans and understood the political unit in
-which they lived as the Roman empire.)
+which they lived to be the Roman empire.)
 
 So, given that we know a polity can be in decline for a very long time, from whence comes PP's confidence that the
 demise of liberalism is nigh? I do not deny that he could well be correct, but I can also envision a plausible future in
 which the death throes of liberalism extend over quite a long time.
 
-In his understandable desire to discredit forced rationalist revamping of customary practices, PP makes a claim I think
-is mistaken, when he criticizes the French revolutionaries attempt to establish decimal timekeeping by claiming: "the
-24-hour day and the calendar that grows out of it are based on lived reality of night and day as it occurs on earth"
+One aspect of liberalism is its rationalism, in the pejorative sense of the word as it was used by 
+[Michael Oakeshott](https://fee.org/articles/michael-oakeshott-on-rationalism-in-politics/),
+among others. Indeed, liberalism's opposition to heirarchy and involuntary relationships is that it deems them
+"irrational." However, in his understandable desire to discredit forced rationalist revamping of customary practices, PP
+makes a claim I think is mistaken, when he criticizes the French revolutionaries attempt to establish decimal
+timekeeping by claiming: "the 24-hour day and the calendar that grows out of it are based on lived reality of night and
+day as it occurs on earth"
 (36).
 
 The correct argument against the 10-hour clock is that the French revolutionaries had been hypnotized by the fact that
@@ -144,6 +150,26 @@ one nation's trade deficit with another, but Pilkington does not provide such re
 
 ## Conclusion
 
+PP concludes his book first by declaring the importance of teleology for post-liberal thought. By this he means that
+post-liberals should recognize that the participants in the world have ends that are inherent in their nature: a common
+example is that an acorn has the natural end of becoming an oak tree. And so to do individual human beings and human
+families and polities. These ends are not a matter of choice or "individual preferences": they spring from the very
+nature of these entities. The family, for instance, has the natural end of bearing and rearing the next generation of
+human beings. Recognizing this reality can guide post-liberal policies. For example, PP writes:
+
+"A society that is organized against human nature will be a chaotic and unhappy society – it pushed too far against its
+nature, it will collapse. A society that organizes itself in line with human nature will never be perfect, but it will
+be more optimal in a society that is not organized in such a way." 218
+
+And that all strikes me as correct. However, PP seems to me overly sanguine when he follows the above by declaring that
+"Such a society will be stable, prosperous, and its inhabitants will be content and happy."
+Was it not a society that was teleologically oriented (that of Medieval Christendom) that gave birth to the unstable and 
+discontented society we live in today? Indeed, weren't Adam and Eve living in line with their natural ends when the
+serpent slithered into the garden? And yet nevertheless they ate the apple. PP seems to missing the sense of the tragic
+aspect of human existence that led someone like Plato to note that even if we could establish the perfect city, soon
+enough human nature would lead to its fall from Eden.
+
+PP then outlines a list of his recommended policies in many of the areas contemplated earlier in the book.
 
 
 

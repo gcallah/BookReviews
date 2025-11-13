@@ -169,7 +169,10 @@ serpent slithered into the garden? And yet nevertheless they ate the apple. PP s
 aspect of human existence that led someone like Plato to note that even if we could establish the perfect city, soon
 enough human nature would lead to its fall from Eden.
 
-PP then outlines a list of his recommended policies in many of the areas contemplated earlier in the book.
+PP then outlines a list of his recommended policies in many of the areas contemplated earlier in the book. In defense
+policy, the post-liberal polity "should favor quantity over quality, cheap over expensive." 220 (It is of note here the
+PP is the first person I've encountered making this connection between liberalism and mistaken military *tactics*, as
+opposed to mistaken aims (like "make the world safe for democracy").
 
 
 

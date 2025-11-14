@@ -72,47 +72,45 @@ metaphysics.
 ## Military
 
 PP devotes an entire chapter to the mistakes liberal governments have been making in military strategy. Now this is an
-area in which I have no expertise, and so I am in no position to critique PP's case on this front. But I can describe
+area in which I have no expertise, and so I am in no position to critique PP's case on this front. But I *can* describe
 it: liberal governments are bewitched by their belief in progress (so that later tech must always beat earlier tech),
 and their conviction that the price of something reflects its utility (so that a $100 million weapon must be better than
-90 million dollar weapons).
+$90 million weapon).
+
 And thus they have spent way too much on very high-tech equipment and far too little on building up large quantities of
 cheaper but still effective materiel. As an example of the strategic mis-steps possible due to this liberal bias, he
 cites the case of the Lancet drone, which costs around $35,000, but is very effective at taking out $11 million Leopard
 tanks. PP estimates that, once we take into account purchasing power parity (a technical macroeconomic concept we
 needn't dwell on here), "For every Leopard II tank Germany can produce, Russia can produce 683 Lancet drones." (109)
 
-PP makes a quite plausible case that the liberal nation's military strategy is flawed for the reasons he describes, but,
-again, this topic is so far out of any domain in which I have any expertise that I am no position to evaluate his claim.
-However, he notes that, contra the liberal faith that higher prices mean commensurably higher quality, "the market for
-military equipment is very likely not competitive." (121)
+Along the way here, he claims, contra the liberal faith that higher prices mean commensurably higher quality, that
+"the market for military equipment is very likely not competitive." (121)
 
-But this notable difference between government spending on the military and private spending is not something that would
+However, this notable difference between government spending on the military and private spending is not something that would
 surprise any libertarian or public choice theorist. So is this really a case where liberal ideology leads people astray?
 
-Pilkington contends that in the case of technological advances, "The technologies themselves were developed by the
-state..."
+In an overly all-or-nothing statement Pilkington contends that, "The [advanced] technologies themselves were developed
+by the state..."
 
-It is true that, for instance, the Internet began as a DARPA project. But what about the myriad of technologies
-developed by private companies, such as those coming from Toyota, 3M, Bell Labs, or Xerox PARC, just to name a few.
-A free-marketer might well respond to Pilkington, "Think how much more the private sector might've developed if so
-much R&D energy wasn't diverted to government use?"
-
-Pilkington may have a good answer to this question, but he skirts over this issue too lightly in his book.
-
+Now, it is true that, for instance, the Internet began as a DARPA project, and that NASA has given birth to many
+technological advances. But what about the myriad of technologies developed by private companies, especially innovators
+such as Toyota, 3M, Bell Labs, or Xerox PARC? A free-marketer might well respond to Pilkington,
+"Imagine how much more the private sector might've developed if so much R&D energy wasn't diverted to government use?"
+Pilkington may have a good answer to this question, but it is not in this book.
 
 
 ## Demographic
 
-Pilkington notes that once liberalism thoroughly infects a society, that society's birth rate begins to plummet, always
-to below replacement rate. This fact can hardly be disputed, since it has held without exception. Thus liberals are
-faced with the awkward fact that liberal societies universally commit demographic suicide.
+Turning to demographic matters, Pilkington notes that once liberalism thoroughly infects a society, that society's birth
+rate begins to plummet, eventually falling below replacement rate. This fact can hardly be disputed, since remarkably it
+has held without exception. Thus liberalism is faced with the awkward reality that liberal societies always commit
+demographic suicide.
 
-The response on the part of most liberal nations has been to import people to make up for the deficit in native births.
-But, as Pilkington points out, this solution both ignores the societal strains of incorporating large numbers of
-immigrants who are not familiar with their new culture, and runs in contradiction to liberal imperialism: once liberal
-values are exported to all nations, as is the liberal dream, than there will no longer be nations with above-replacement
-birth rates from which to import people.
+On the part of most liberal nations, the response to the problem of declining native population has been to import people
+to make up for the deficit in native births.  But, as Pilkington points out, this solution both ignores the societal
+strains of incorporating large numbers of immigrants who are not familiar with their new culture, and will lose out
+to liberal imperialism: once liberal values are exported to all nations, as is the liberal dream, than
+there will no longer be nations with above-replacement birth rates from which to import people.
 
 A minor quibble here is that Pilkington repeatedly uses the phrase "rate of people" instead of the more usual "birth
 rate": I cannot see any reason for this change of terminology, nor does he offer one.
@@ -176,6 +174,15 @@ policy, the post-liberal polity "should favor quantity over quality, cheap over 
 PP is the first person I've encountered making this connection between liberalism and mistaken military *tactics*, as
 opposed to mistaken aims (like "make the world safe for democracy").
 
+Another worry I have about PP's recommendations is that they often seem to rely on states being more successful guides
+of economic activity than I suspect is likely. Here, I think any prudent post-liberal must recognize the genuine
+insights of such brilliant thinkers as Mises, Hayek, and Buchanan about the epistemic and motivational realities
+confounding state's economic intervention in achieving their aims.
+
+Incorporating the insights of such thinkers does not mean that all post-liberals must change their profiles and replace
+"post-liberal" with "libertarian." Acknowledging the efficiency of markets is not incompatible with seeing 
+that they are often very efficient at producing very bad results: just consider the blight of widespread porn addiction
+that has been spawned by "efficient" markets in pornography.
 
 
 

@@ -6,28 +6,39 @@ Cambridge: Polity Press
 
 Philip Pilkington has written a very provocative and thought-provoking book, one that deserves to be taken seriously by
 anyone interested in the future of currently liberal polities. (Note: throughout the book and this review, "liberal" is
-being used as philosophers and political scientists use it -- see PP's definition below -- and not in the sense it is
+being used as philosophers and political scientists use it -- see PP's definition below -- rather than in the sense it is
 often used in American political discourse, in which it means "somewhat left of center.")
 
-And, quite naturally, he first turns his attention to the question of just what is this thing that is collapsing. And
-his answer is: "We will consider liberalism to be the Enlightenment political ideology par excellence that sought to level
+And, quite naturally, he first turns his attention to the question of just what is this thing that is collapsing.
+His answer is: "We will consider liberalism to be the Enlightenment political ideology par excellence that sought to level
 and 'rationalize' social and political relationships. Liberalism's target has always been hierarchical structures in
 politics and society at large." (10) Of course, many alternative definitions are possible, and definitions, per
 definition, cannot be wrong, only more or less informative. But in this case, I think PP has provided us with an
-extremely informative definition.
+very informative definition.
+
+Liberalism began by attacking the privileges of the aristocracy, and then of the legally established churches. But the
+tearing down of hierarchies could not stop there: as with any ideology that promises to cure us of the world's ills,
+liberalism has had to keep going, since all was not yet cured. No "lifestyle" could hold itself superior to any other way of
+living. No sexual activity, so long as it is voluntary, could be regarded as better or worse than any other.
+All sources of "arbitrary" authority also had to be swept away, such as parental control over their children.
 
 ## Liberalism's Collapse
 
-One aspect of PP's work that leaves me uneasy is his confidence that global liberalism is collapsing rapidly and that
-the immediate future will be "post-liberal." While I agree with his contention that liberalism is an inherently unstable
-way of organizing a polity, and that liberal societies are already demonstrating this truth, I am not so sure about his
-timeline.
+PP points out the many societal ills that this destruction of hierarchies entailed. On this point, I feel his critique
+could have benefited from looking to the work of René Girard, who demonstrated that with the breakdown of established
+authority, what transpires is not everyone playing in the heart of gold band, but fierce mimetic rivalry for prestige.
 
-After all, let us consider progress of the Roman polity: by the late second-century B.C., with the rise of populism led
-by the Gracchi brothers, and the brothers subsequent assasinations. Civil wars and various dictatorships followed, and yet, in
-the West, the polity survived more than another five centuries, while in the East it limped along until 1453 A.D. (The
-residents of what we today call "The Byzantine Empire" self-identified as Romans and understood the political unit in
-which they lived to be the Roman empire.)
+While PP's identificaiton of the symptoms of liberalism is accurate, his confidence that global liberalism is collapsing rapidly and that
+the immediate future will be "post-liberal" leaves me uneasy. As he argues, liberalism *is* an inherently unstable
+way of organizing a polity, but I am not so sure about his timeline.
+
+After all, let us consider progress of the Roman polity: It was clearly already unstable
+by the late second-century B.C., with the rise of populism led
+by the Gracchi brothers, and with the brothers subsequent assasinations. Civil wars and various dictatorships followed,
+and even stretches of renewed stability, such as the period of the "five good emperors."
+Yet, in the West, the Roman polity survived another five centuries, while in the East it limped along until 1453 A.D.
+(The residents of what we today call "The Byzantine Empire" self-identified as Romans and understood the political unit
+in which they lived to be the Roman empire.)
 
 So, given that we know a polity can be in decline for a very long time, from whence comes PP's confidence that the
 demise of liberalism is nigh? I do not deny that he could well be correct, but I can also envision a plausible future in
@@ -45,18 +56,9 @@ day as it occurs on earth"
 The correct argument against the 10-hour clock is that the French revolutionaries had been hypnotized by the fact that
 they counted in base-10 into thinking that measuring everything in multiples of ten was somehow more rational than
 any other multipler, such as 12 or 24. And therefore there was no reason to do away with dividing the day into 24 hours:
-no division is more rational than any other, and so it is more sensible to use the conventional divisor, and not disrupt
-everyone's time keeping to switch to a different, and equally arbitrary, divisor.
-
-Certainly, our lived reality tells us that some part of each day is dark, and some part is light. 
-But nothing about our lived reality demands that we divide each day into 24 hours. In Japan, for instance, the day and
-the night were each divided into six "hours." In Muslim countries, the main divisions of the day are the times of the
-five daily prayers. In ancient India, the day was divided into eigth *prahars*. And in medieval Europe, monasteries
-divided the day by the eight times of prayer: Matins, Lauds, Prime, Terce, Sext, None, Vespers, and Compline. These
-traditional divisions were, in fact, more in tune with our lived reality, as they typically varied these divisions as
-the daylight period grew shorter or longer. It was only with the widespread usage of mechanical clocks that the idea of
-dividing the day into 24 equal periods became common: that division was itself a fitting of our lived experience into the
-requirements of a machine.
+it is more sensible to use the conventional divisor, and not disrupt everyone's time keeping to switch to a different,
+and equally arbitrary, divisor. And, in fact, dividing the day into 24 equal periods was a result of the spread of
+mechanical clocks: that division was itself a fitting of our lived experience into the requirements of a machine.
 
 PP also makes a questionable claim about classical metaphysics:
 "There are many variants of the classic metaphysic, from Platonism to Aristotelianism and everything

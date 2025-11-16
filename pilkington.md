@@ -61,24 +61,15 @@ using any other divisor, such as 12 or 24. And therefore there was no reason to 
 it is in truth more sensible to use the conventional divisor, and not disrupt everyone's time keeping to switch to a
 different, and equally arbitrary, divisor. (For your consideration: it was the florescence of mechanical clocks that 
 opened the way for dividing the day into twenty-four equal periods. So wan't this "natural" division already the result
-of society changing to meet the needs of a machine?)
-
-PP also makes a questionable claim about classical metaphysics:
-"There are many variants of the classic metaphysic, from Platonism to Aristotelianism and everything
-in between" (30). But R.G. Collingwood, Lloyd Gerson, Eric Voegelin and other have argued that Aristotle in fact only
-represented a slight shift from Plato's views, giving somewhat more emphasis to immanence than to transcendence. The
-ancient world contained a much wider variety of metaphysical thought, such as the materialism of Democritus and
-Lucretius or the work of the pre-Socratics such as Thales, Anaximander, Parmenides and Zeno, to say nothing of Eastern
-metaphysics.
-
+of society changing to meet the dictums of a machine?)
 
 ## Military
 
 PP devotes an entire chapter to the mistakes liberal governments have been making in military strategy. Now this is an
-area in which I have no expertise, and so I am in no position to critique PP's case on this front. But I *can* describe
+area in which I have no expertise, and so I am in no position to critique PP's case here. But I *can* (I hope) summarize
 it: liberal governments are bewitched by their belief in progress (so that later tech must always beat earlier tech),
 and their conviction that the price of something reflects its utility (so that a $100 million weapon must be better than
-$90 million weapon).
+a $90 million weapon).
 
 And thus they have spent way too much on very high-tech equipment and far too little on building up large quantities of
 cheaper but still effective materiel. As an example of the strategic mis-steps possible due to this liberal bias, he
@@ -92,14 +83,12 @@ Along the way here, he claims, contra the liberal faith that higher prices mean 
 However, this notable difference between government spending on the military and private spending is not something that would
 surprise any libertarian or public choice theorist. So is this really a case where liberal ideology leads people astray?
 
-In an overly all-or-nothing statement Pilkington contends that, "The [advanced] technologies themselves were developed
-by the state..."
-
-Now, it is true that, for instance, the Internet began as a DARPA project, and that NASA has given birth to many
-technological advances. But what about the myriad of technologies developed by private companies, especially innovators
-such as Toyota, 3M, Bell Labs, or Xerox PARC? A free-marketer might well respond to Pilkington,
-"Imagine how much more the private sector might've developed if so much R&D energy wasn't diverted to government use?"
-Pilkington may have a good answer to this question, but it is not in this book.
+In perhaps just an overly all-or-nothing statement Pilkington contends that, "The [advanced] technologies themselves
+were developed by the state..." Now, it is true that, for instance, the Internet began as a DARPA project, and that NASA
+has given birth to many technological advances. But what about the myriad of technologies developed by private
+companies, especially innovators such as Toyota, 3M, Bell Labs, or Xerox PARC? A free-marketer might well respond to
+Pilkington, "Imagine how much more the private sector might've developed if so much R&D energy wasn't diverted to
+government use?" Pilkington may have a good answer to this question, but it is not in this book.
 
 
 ## Demographic
@@ -110,13 +99,10 @@ has held without exception. Thus liberalism is faced with the awkward reality th
 demographic suicide.
 
 On the part of most liberal nations, the response to the problem of declining native population has been to import people
-to make up for the deficit in native births.  But, as Pilkington points out, this solution both ignores the societal
-strains of incorporating large numbers of immigrants who are not familiar with their new culture, and will lose out
+to make up for the deficit in native births. But, as Pilkington points out, this solution both ignores the societal
+strains resulting from incorporating large numbers of immigrants who are not familiar with their new culture, and will lose out
 to liberal imperialism: once liberal values are exported to all nations, as is the liberal dream, than
 there will no longer be nations with above-replacement birth rates from which to import people.
-
-A minor quibble here is that Pilkington repeatedly uses the phrase "rate of people" instead of the more usual "birth
-rate": I cannot see any reason for this change of terminology, nor does he offer one.
 
 
 Sexual consumerism

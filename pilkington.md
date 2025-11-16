@@ -18,19 +18,20 @@ very informative definition.
 
 Liberalism began by attacking the privileges of the aristocracy, and then of the legally established churches. But the
 tearing down of hierarchies could not stop there: as with any ideology that promises to cure us of the world's ills,
-liberalism has had to keep going, since all was not yet cured. No "lifestyle" could hold itself superior to any other way of
-living. No sexual activity, so long as it is voluntary, could be regarded as better or worse than any other.
-All sources of "arbitrary" authority also had to be swept away, such as parental control over their children.
+liberalism has had to keep going, since all was not yet cured. Cultures could not be deemed better or worse, with the
+exception that, as far as they were not liberal, they were worse.  No "lifestyle" could hold itself superior to any
+other way of living. No sexual activity, so long as it is voluntary, could be regarded as better or worse than any
+other.  All sources of "arbitrary" authority also had to be swept away, such as parental control over their children.
 
 ## Liberalism's Collapse
 
-PP points out the many societal ills that this destruction of hierarchies entailed. On this point, I feel his critique
-could have benefited from looking to the work of René Girard, who demonstrated that with the breakdown of established
-authority, what transpires is not everyone playing in the heart of gold band, but fierce mimetic rivalry for prestige.
-
-While PP's identificaiton of the symptoms of liberalism is accurate, his confidence that global liberalism is collapsing rapidly and that
-the immediate future will be "post-liberal" leaves me uneasy. As he argues, liberalism *is* an inherently unstable
-way of organizing a polity, but I am not so sure about his timeline.
+PP describes the many societal ills that this destruction of hierarchies entailed: plummetting birth rates, rising
+mental illness, increased drug addiction, soaring out-of-wedlock births, the de-industrialization of many liberal
+countries, wars taken on for ideological reasons rather than a prudential analysis, and so forth.
+While PP's diagnosis of liberalism as the source of these diseases seems sound,
+his confidence that global liberalism is collapsing rapidly and that the immediate future will be "post-liberal" leaves
+me uneasy. Even if we grant that liberalism *is* an inherently unstable way of organizing a polity,
+does that really allow us to predict just how rapidly that instability will lead to a downfall of that regime?
 
 After all, let us consider progress of the Roman polity: It was clearly already unstable
 by the late second-century B.C., with the rise of populism led
@@ -39,26 +40,28 @@ and even stretches of renewed stability, such as the period of the "five good em
 Yet, in the West, the Roman polity survived another five centuries, while in the East it limped along until 1453 A.D.
 (The residents of what we today call "The Byzantine Empire" self-identified as Romans and understood the political unit
 in which they lived to be the Roman empire.)
+PP might respond that the Roman polity to change how government was organized several times over the centuries, and that
+is true. But even so, the Roman example shows that instability can persist for quite a while.
 
 So, given that we know a polity can be in decline for a very long time, from whence comes PP's confidence that the
-demise of liberalism is nigh? I do not deny that he could well be correct, but I can also envision a plausible future in
-which the death throes of liberalism extend over quite a long time.
+demise of liberalism is nigh? He could well be correct, but I can also envision a future in
+which the death throes of liberalism extend over centuries.
 
-One aspect of liberalism is its rationalism, in the pejorative sense of the word as it was used by 
-[Michael Oakeshott](https://fee.org/articles/michael-oakeshott-on-rationalism-in-politics/),
-among others. Indeed, liberalism's opposition to heirarchy and involuntary relationships is that it deems them
-"irrational." However, in his understandable desire to discredit forced rationalist revamping of customary practices, PP
-makes a claim I think is mistaken, when he criticizes the French revolutionaries attempt to establish decimal
-timekeeping by claiming: "the 24-hour day and the calendar that grows out of it are based on lived reality of night and
-day as it occurs on earth"
+One aspect of liberalism noted by PP is its rationalism, in the pejorative sense of the word as it was used by [Michael
+Oakeshott](https://fee.org/articles/michael-oakeshott-on-rationalism-in-politics/), among others. Indeed, liberalism's
+reason for opposing heirarchy and involuntary relationships is that it deems them "irrational." However, in PP's
+understandable desire to discredit forced rationalist revamping of customary practices, he makes a claim I think is
+mistaken, when he criticizes the French revolutionaries attempt to establish decimal timekeeping by claiming: "the
+24-hour day and the calendar that grows out of it are based on lived reality of night and day as it occurs on earth"
 (36).
 
 The correct argument against the 10-hour clock is that the French revolutionaries had been hypnotized by the fact that
 they counted in base-10 into thinking that measuring everything in multiples of ten was somehow more rational than
-any other multipler, such as 12 or 24. And therefore there was no reason to do away with dividing the day into 24 hours:
-it is more sensible to use the conventional divisor, and not disrupt everyone's time keeping to switch to a different,
-and equally arbitrary, divisor. And, in fact, dividing the day into 24 equal periods was a result of the spread of
-mechanical clocks: that division was itself a fitting of our lived experience into the requirements of a machine.
+using any other divisor, such as 12 or 24. And therefore there was no reason to do away with dividing the day into 24 hours:
+it is in truth more sensible to use the conventional divisor, and not disrupt everyone's time keeping to switch to a
+different, and equally arbitrary, divisor. (For your consideration: it was the florescence of mechanical clocks that 
+opened the way for dividing the day into twenty-four equal periods. So wan't this "natural" division already the result
+of society changing to meet the needs of a machine?)
 
 PP also makes a questionable claim about classical metaphysics:
 "There are many variants of the classic metaphysic, from Platonism to Aristotelianism and everything

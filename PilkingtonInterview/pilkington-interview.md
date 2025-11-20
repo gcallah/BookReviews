@@ -791,32 +791,28 @@ PP: Do we have a society of zero hierarchies? Are you kidding me? We live in an 
 oligarchy I've ever seen. Who are these private equity guys going out and buying up your campground and telling you how
 much money you have to pay to park your RV and grill a chicken?
 
-PP: Like, these are oligarchs of the worst variety. So what happens is that when you smash all the good natural
-law-based hierarchies.
+PP: Like, these are oligarchs of the worst variety. So what happens is that when you smash all the good,
+natural-law-based hierarchies, you get the formation of arbitrary power-based hierarchies.
 
-PP: violence, then formation of arbitrary, really, I don't mean in the liberal sense, really arbitrary power-based
-hierarchies.
-
-PP: And okay, maybe the really nice guys will win out in your struggle for power. Very good chance they won't, and
+And okay, maybe the really nice guys will win out in your struggle for power. Very good chance they won't, and
 you'll just end up with this absolutely awful structure. But that awful structure will also be highly unstable, which is
-what we see today. Because it's a hierarchical structure that's, like, really overweening and oligarchic.
+what we see today. Because it's a hierarchical structure that's really overweening and oligarchic.
 
-PP: it generates resentment, and it generates another cycle of kind of chaos. So, yeah, I mean, I'm not... I'm not a
-Girardian, per se, but it's definitely... a lot of the ideas of this came from the same kind of French structuralist
+It generates resentment, and it generates another cycle of kind of chaos. So, yeah, while I'm not a
+Girardian, per se, but it's definitely... a lot of these ideas from the same kind of French structuralist
 tradition that Girard's from. From the other side of it, actually, the weirdo side of it in Paris.
 
 GC: And it's fascinating that, anyone who challenges the oligarchy is anti-democratic, right?
-
-GC: That's... that's their defense. Any, any challenge to their power is, anti-democratic forces are growing in.
+That's their defense. Any challenge to their power is met with "Anti-democratic forces are threatening democracy!"
 
 PP: And if you see that, of course, they'll just say there's a policeman in your head that's tricked you into thinking
-about the wrong definition of
+about the wrong definition of democracy.
 
-PP: That's exactly it, right? They start off in the 60s telling you that your father's superego is talking to you in
+That's exactly it, right? They start off in the 60s telling you that your father's superego is talking to you in
 your head, and then, like, one generational cycle later, it's like black is white. It's like Orwell 19... like,
 democracy is oligarchy, or men are women, or... like, that's how it goes, you know? You get... break down the normal.
 
-PP: The normal familial psychology in a person, and then feed them the most weird, arbitrary, unnatural... hierarchies.
+The normal familial psychology in a person, and then feed them the most weird, arbitrary, unnaturalhierarchies.
 It's fascinating.
 
 GC: Yeah, I now have a private equity firm in my head instead of a policeman, right?

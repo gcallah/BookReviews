@@ -66,301 +66,182 @@ non-conformists. I know there are Presbyterians and so on who are different, but
 And then by the time you get to the French Revolution, Voltaire had already made his attacks on the church,
 and then the revolutionaries just want to tear the whole thing down.
 
-Now, just really briefly, we continue to see these questioning of hierarchies move all the way up to the present day
+Now, just really briefly, we continue to see these questioning of hierarchies proceed all the way up to the present day
 when we question gender hierarchies. It seems to be almost the pinnacle of the entire liberal project. The family comes
-in for criticism and so on. But the one thing I want to make clear is
+in for criticism and so on. Whig history, which is history seen through the lens of liberal ideology,
+pretends that there's a linear trajectory to this.
+There isn't. It tends to to move in kind of fits and starts. So some of the liberal principles in the French Revolution,
+for example, that were put into place, for example, metric clocks, strange calendars, these kind of things, attempts to
+impose very strange principles of rationality on the population would have later been seen as radical by fairly radical
+Whigs in the late 19th century. So there's no... there's no actual straight line with liberalism. It's more like a
+an path that's kind of bumpy, and it goes through fits and starts. But I think today
+we have actually reached the end of it, and I know that's an enormously controversial claim, because we're talking about
+a half-millennia-old political movement.
 
-That it's not...
+GC: So you mentioned Locke as a founding figure here. How does Hobbes fit in to your story?
 
-Whig history is liberal history. It pretends that there's a linear trajectory to this. There isn't. It tends to...
-it tends to move in kind of fits and starts. So some of the liberal principles in the French Revolution, for example,
-that were put into place, for example, metric clocks, strange calendars, these kind of things, attempts to impose very
-strange principles of rationality on the population.
+PP: I think Hobbes is a fascinating figure. You have to tie him to the philosophy of Francis Bacon as
+well. I think what they're doing is they're reintroducing some sort of materialism.
+They're kind of putting aside the medieval tradition altogether, this goes back to these Protestant debates, and to what
+extent Protestantism influenced liberalism, which I want to make clear to anyone who's reading that I do not discuss in
+the book. I think Brad S. Gregory's book is very good on that.
 
-would have later been seen as radical by, you know, fairly radical Whigs in the late 19th century. So there's no...
-there's no actual straight line with liberalism. It's more like a... it's more like an up... up... uphill slope that's
-kind of bumpy, and it goes through fits and starts. But I think today we have actually reached the end of it, and I know
-that's an enormously controversial claim, because we're talking about a half-millennia-old political movement.
+I don't think Hobbes is a liberal per se, but he's kind of laying the groundwork for the sort of anti-hierarchical thought
+that's necessary for liberalism. He's reducing people to homogeneous atoms and so on.
 
-GC: So you mentioned Locke as a founding figure here. How does Hobbes fit in to your story? How do you see his work?
-being placed in this story?
-
-PP: I think Hobbes is kind of a fascinating figure. You have to kind of tie him to the philosophy of Francis Bacon as
-well. I think what they're doing is they're reintroducing some sort of materialism. I think that's effectively what
-they're doing. They're kind of
-putting aside the medieval tradition altogether, this goes back to these Protestant debates, and to what extent
-Protestantism influenced liberalism, which I want to make clear to anyone who's listening and reading that I do not
-discuss in the book. I think Brad S. Gregory's book is very good on that.
-
-But basically, I think they're bringing back
-
-A form of materialism that didn't really exist until then.
-
-I don't think Hobbes, for example, or Bacon for that matter, Bacon's not a political philosopher, obviously, I don't
-think Hobbes is a liberal per se, but he's kind of laying the groundwork for the sort of anti-hierarchical thought
-that's necessary
-
-for liberalism. He's reducing people to homogeneous atoms and so on.
-
-
-But you have to start somewhere.
-
-GC: Your main claim is that liberalism is on the verge of collapse. Now, I agree with your diagnosis of
+GC: Your main claim in the book is that liberalism is on the verge of collapse. Now, I agree with your diagnosis of
 the problems that it's spawning.
-While reading your book, I thought about the history of Rome. Now, of course Rome had 
+But while reading your book, I thought about the history of Rome. Now, of course Rome had 
 regime changes, although on the surface, Augustus keeps keeps all the forms of the
-Republic, but, in fact, establishes the Principate. But you can see collapse happening by the time of the Grocke
+Republic, but, in fact, establishes the Principate. But you can see collapse happening by the time of the Gracchi
 brothers, around the 120s BC, where they're populists who are both killed, and then there's civil wars, and more
 assasinations and whatnot, but in one form or another, this polity limps along until 1453, when Constantinople falls.
 
-So why would we think that liberalism won't kind of lurch from crisis to crisis with, some calmer
+So why would we think that liberalism won't kind of lurch from crisis to crisis with some calmer
 periods for some indeterminate length of time? Why should we think that collapse is imminent?
 
 PP: I think the collapse here that we're talking about is, in some sense, potential civilizational collapse. It doesn't
 have to be, we can pull out of it, I think.
-
-PP: which, you're right, Rome effectively civilizationally collapses, there's no doubt about that, and that... those
+Rome effectively civilizationally collapses, there's no doubt about that, and that... those
 kind of things take a long line, as you said. And, you know, some people could even claim that Rome never collapsed, and
 that modern Europe is Rome, and I'm sympathetic to some of those arguments. But the issue with liberalism is pretty
-different, to my mind, because Rome, for all its faults.
-
-PP: Rome kind of rises and falls like a normal kind of empire. It's the kind of normal rise and fall story, but the
+different, to my mind, because Rome, for all its faults,
+Rome kind of rises and falls like a normal kind of empire. But the
 governance structures of Rome, the ideas on which it were founded, were not really the problem.
-
-PP: They were... it was a political problem in Rome. It was over-expansion due to empire. We all know... I don't know if
-everyone knows the story, but I think everyone used to know the story, and some people know the story today.
-
-PP: That's a political issue. We still, if you go to a courtroom in Europe, you're operating under very obvious aspects
+It was a political problem in Rome. It was over-expansion due to empire.
+That's a political issue. We still, if you go to a courtroom in Europe, you're operating under very obvious aspects
 of Roman law, and those things continue on even in the Anglo-Saxon
-
-PP: legal tradition. I don't think Rome ever really was discredited, in a sense. Maybe some of the barbaric practices,
-pre-Christian practices, were by the emergence of Christianity, but I don't think Rome ever was intellectually
-discredited. I don't even know what that would really mean.
-
-PP: Liberalism's a very different beast, because,
-
-PP: I don't think it actually works as a governing structure. I don't think it can work.
-
-PP: I think it's very similar to Marxist communism in that way. Marxist communism, as you know, if you read the book,
-I'd consider just a slightly radical offshoot cousin of liberalism. Although, in some senses, as Rose Lugoutko has
-pointed out, liberalism is more radical than Marxist communism, in some ways. Not on the economic side, but on the, on
-the... in practice anyway, on the... on the attacks on family and so on.
-
-PP: And the church. And it's more deeply rooted, which is interesting. But the issue is that liberalism... liberalism
-kind of was never properly tried. It's been around for 500 years.
-
-PP: And over those 500 years, it's been an enormously popular ideology among the bohemian side of the elite, let's just
-say.
-
-PP: Increasingly then, in the 20th century, probably around... well, I'd say in the late 19th century, it had already
+legal tradition. I don't think Rome ever really was discredited, in a sense. Maybe some of the barbaric practices,
+pre-Christian practices, were by the emergence of Christianity.
+discredited. 
+Liberalism's a very different beast, because, I don't think it actually works
+as a governing structure. I don't think it *can* work.
+I think it's very similar to Marxist communism in that way. Marxist communism, as you know, if you read the book,
+I'd consider just a slightly radical offshoot cousin of liberalism. Although, in some senses, as Ryszard Legutko has
+pointed out, liberalism is more radical than Marxist communism, in some ways. Not on the economic side, but
+in practice anyway, on the attacks on family and the church.
+But the issue is that liberalism was never properly tried. It's been around for 500 years,
+and over those years, it's been an enormously popular ideology among the bohemian side of the elite.
+Increasingly then, in the 20th century, probably around... well, I'd say in the late 19th century, it had already
 risen to kind of mainstream in Britain, and then it was obviously mainstream in the American global period after 1945.
 
-PP: But as I say in the book, I kind of classify between two different things. You have kind of soft liberalism and hard
-liberalism on the one hand, and soft liberalism is when liberalism kind of mixes with non-liberal aspects of society.
-
-PP: In the West, again, we can refer back to, kind of, Roman legal structures, Christian moral structures, you know, the
+But as I say in the book, I distinguish two different things: soft liberalism and hard
+liberalism. Soft liberalism is when liberalism mixes with non-liberal aspects of society.
+In the West, again, we can refer back to Roman legal structures and Christian moral structures: the
 foundations of Western civilization.
+And liberalism can kind exist parasitically on top of those more hierarchical structures.
 
-PP: And it can kind of glom onto them.
-
-PP: And your society can have limited aspects of liberalism.
-
-PP: I consider it kind of parasiting off those more hierarchical structures.
-
-PP: And, as I said, it goes in fits and starts. Occasionally, you get this burst of hard liberalism. For example, I
-think the English Civil War was, I think the, even more profoundly, the French Revolution was. The 1848 revolutions were
-bursts of hard liberalism. The Paris Commune, I might get the date wrong, 1873, I think, was another burst of hard
-liberalism.
-
-PP: And then the Marxist revolutions after are slightly different, but they're kind of... sort of similar.
-
-PP: That what happened was that these were very short-lived.
-
-PP: These were very short-lived, and they tended to provoke an almost immediate reaction, maybe within, like, less than
+And, as I said, it goes in fits and starts. Occasionally, you get this burst of hard liberalism. For example, I
+think the English Civil War was such a burst, and even more profoundly, the French Revolution was. The 1848 revolutions were
+bursts of hard liberalism. The Paris Commune was another burst of hard liberalism.
+But these were very short-lived, and they tended to provoke an almost immediate reaction, perhaps within
 a generation, and you'd get some sort of restoration.
+You might get a more liberal regime in Napoleon III or something like that, but it's
+intermixed with the regal structures, or the church structures:
+the French were particularly good at coming up with these hybrid soft-liberal republics, one after the other.
 
-PP: And it will be remixed. You might get a more liberal regime in Napoleon III or something like that, but it's
-intermixed with the, you know, the regal structures, or the church structures, or whatever.
-
-PP: the French were particularly good at coming up with these hybrid soft-liberal republics, one after the other, you
-know?
-
-PP: But... and the Americans did, too, in a different way. But the, but that's basically what happened. Now, what that
-meant was that liberalism never really penetrated deeply into the social fabric at all. I mean, for most of the liberal
-period, if you want to call those 500 years the liberal period.
-
-PP: most people in the West lived Christian lives. Even if they didn't believe in 1890 in Britain, even if they all just
-pretended to believe, they lived in line with Christian morality. They really did. And so people were living Christian
-lives. When they went to a courtroom, they were governed by some sort of Roman legal principles, right? This is...
+And the Americans did, too, in a different way. But that's basically what happened. Now, what that
+meant was that liberalism never really penetrated deeply into the social fabric at all. For most of the liberal
+period, if you want to call those 500 years the liberal period,
+most people in the West lived Christian lives. Even if they didn't believe in 1890 in Britain, even if they all just
+pretended to believe, they lived in line with Christian morality.
+And when they went to a courtroom, they were governed by some form of Roman legal principles, right? And this is
 married with Christian ethical principles.
 
-PP: This is how people live day to day. And you'd see these occasional ups.
-
-PP: surges in what I'd choose, and then they'd be put back to bed very, very quickly.
-
-PP: Since about 1990, that has not been the case. This is the period I call hyperliberalism in the book.
-
-PP: that what's happened is liberalism has been gradually, but quite quickly, introduced into the body politic, right
+Since about 1990, that has not been the case. This is the period I call hyperliberalism in the book.
+What's happened is liberalism has spread quite quickly into the body politic, right
 down to all levels. So, just to give an example, if you go back to the early 19th century, early 20th century, I should
-say, British elite, okay? You can read loads of novels from that period, Evelyn War, something like that, and you'll see
+say, British elite, okay? You can read loads of novels from that period, Evelyn Waugh, something like that, and you'll see
 these people
+and you'll say, I know these people. These are liberals. These are the same decadent, bohemian liberals that I see
+today.
 
-PP: and you'll say, I know these people. These are liberals. These are the same decadent, bohemian liberals that I see
-today, you know?
+And they were everywhere in the British elite back then, and there were some in America, too, such as
+Mabel Dodge Luhan, and these people, artistic bohemian types, but they were quite powerful, and they'd go on to
+influence various things. But they were always in the elite crust, right? And that was often the case with these more
+radical liberal thinkers. You might go back to John Stuart Mill and Godwin. But what happened in the 1990s was that
+bohemian hyperliberalism was democratized.
 
-PP: And they were everywhere in the British elite back then, and there were some in America, too, Mabel, Dodge, Lewin,
-and these people, artistic bohemian types, but they were quite powerful, and they'd go on to influence various things.
-But they were always in the elite crust, right? And that was often the case with these more radical liberal thinkers.
-You might go back to, John, John Stuart Millen, and so on, these experimental
+And it was sent down right into the groundwater, as it were, of our societies. And I
+think by about the time of the second Obama administration, society had succumbed to complete liberalization. Complete.
+And we are currently living in the in the debris of that right now.
 
-PP: Godwin, and these guys. But... What happened in the 1990s was that bohemian hyperliberalism was democratized.
+Liberalism is now how people self-identify. It is how they live their lives. Even the people who don't want
+to be liberals, like you and me, we have to live in it; we can't get away from it. That's how society is.
+And I don't think that's sustainable.
 
-PP: And it was sent down right into the... into the, groundwork, the groundwater, as it were, of our societies. And I
-think by about the second Obama administration, society had be... had succumbed to complete liberalization. Complete.
-And we are currently living in the... in the...
+I don't think that is a possible way to govern a society. So the key question is, "So can we go back to soft
+liberalism? Can we go back to Coca-Cola in glass bottles in 1956 California?" No, I don't think so. Because once you
+actually try liberal ideology, it discredits itself, just like central planning did in the USSR.
 
-PP: In the debris of that right now.
-
-PP: That the liberalism is now how people self-identify. It is how they live their lives. Even the people who don't want
-to be liberals, like you and me, we have to live in it. And, like, you can't get away from it. That's how society is.
-And here's the thing, I don't think that's sustainable.
-
-PP: I don't think that is a possible way to govern a society. So the key answer is, oh, so can we go back to soft
-liberalism? Can we go back to Coca-Cola and glass bottles in 1956 California? No, I don't think so. Because once you
-actually try the ideology, it discredits itself, just like central planning did in the USSR.
-
-GC: What do you think, why was... So...
-
-GC: Given these ideas were around, and they were circulating amongst elites who,
-
-GC: For the most part, I mean, there were always elites who thought that I can live this way, but God forbid the common
-person should.
-
-GC: Right? That... that was out there. But, given that a lot of the elites thought that these ideas should spread, we
-should liberate the common people too, why in the 90s, in particular, was this able...
-
-GC: Were they able to actually spread liberalism throughout society, whereas earlier, they hadn't?
+GC: Given these ideas were around, and they were circulating amongst elites who, for the most part,
+thought that these ideas should spread, we should liberate the common people too, why in the 90s, in particular,
+were they able to actually spread liberalism throughout society, whereas earlier, they hadn't been able to?
 
 PP: It's a really good question. I have not addressed in the book, to be clear. It's a very complex question, and I
 think it's one that's been debated, especially in American conservative circles. I think this is the big question in
 American conservative circles.
-
-PP: I think probably, I'm not gonna say anything terribly original here. I think a lot of it had to do with the 60s.
-
-PP: I think that this cultural revolution was democratized. It then became commercialized. I think that was really
+I think I'm not gonna say anything terribly original here. I think a lot of it had to do with the 60s.
+I think that this cultural revolution was democratized. It then became commercialized. I think that was really
 important. The mass consumer commercial culture wasn't there in the past to catch hold of these ideas and democratize
 them and spread them throughout society. But even after the 60s and the weirdo 70s, as I've heard them referred to
-sometimes.
+sometimes, 1983 America, while a lot more liberal than 1953 America, still wasn't thoroughly liberal.
 
-PP: They... these ideas still kind of, like, 1983, America was a lot more liberal than 1953 America, but it... it wasn't
-liberalized at that point.
+But the Cold War ended, the greatest generation, who were soft liberals, as I'd call them, died off.
+I think the last non-hyper-liberal president was probably George H.W. Bush. And then in comes Clinton:
+These were the baby boomers, they'd never experienced war or conflict themselves at least not the elite
+ones who dodged the draft in Vietnam and so on. And then they were told, "You run the world now. And there are absolutely
+no limits to your power. There are no checks and balances on your power, you don't have to think about that at all."
 
-PP: So, there was still some blockage there, but there was a lot... it feels to me, I didn't look through it, obviously,
-but from reading about it and so on, it feels like there was... there was a lot of pent-up
+And then they were handed extremely highly developed mass media systems, propaganda systems.
+And I think all of that just came together: the perfect mix. And then they went for it. And when it
+reaches its zenith, when it really kicks into high gear in the second Obama administration, we have the new Internet
+tools to spread it, which are mass psychological manipulation techniques, really military-grade
+psychological warfare operations, that's what we're dealing with.
 
-PP: desire to spread it out. And then I think, basically, the Cold War collapsed. The Cold War collapsed, the greatest
-generation, who were soft liberals, I'd call them, died off. I think, like, the last...
+GC: I saw somebody posted a cartoon where guys at the CIA are talking, and they said, "We've tried for years
+to track what every American was up to and where they were every minute of every day... but now, we have Facebook,
+and they just tell us."
 
-PP: the last non-hyper-liberal president was probably George H.W. Bush, right? And then in comes Clinton, and it all
-starts going.
+PP: Exactly!
 
-PP: And and so these were the baby boomers, they'd never experienced war or conflict themselves. I mean, maybe some of
-them... I'm not saying everybody, but the elite ones, certainly not. They dodged the draft in Vietnam and so on. And
-then they came in, and they were told, you run the world now.
+GC: At one place in the book, you write: "a society that organizes itself in line with human nature will be stable,
+prosperous, and its inhabitants will be content and happy."
 
-PP: They were told, you run the world now, and there is absolutely no limits to your power. There is no checks and
-balances on your power, you don't have to think about that at all. And then they were handed extremely highly developed
-mass media systems, propaganda systems.
+Now, I think it's a sound idea to organize a society in line with human nature, but that sentiment seems kind of optimistic to
+me. Look: Eden was organized in line with human nature, and yet still we fell.
+And, you find Plato saying, even if we could establish the very best republic, it would decay over time,
+given the nature of the world of becoming.
 
-PP: And I think all of that just came together, you know, the perfect mix. And they went for it. And then when it
-reaches its zenith, when it really kicks into high gear in the second Obama administration, we have the new internet
-tools to spread it, which are, you know, mass psychological manipulation techniques. I mean, really military-grade
+And then there's the situation of some society maybe going along fine on its own. I don't know what the political
+situation in Poland was like in 1939. But let's just posit you have a good society, but..
+you have two big, aggressive neighbors, and they just snuff out your polity. So isn't your claim over-optimistic?
 
-PP: Psychological warfare operations, that's what we're... the hardware that we're currently operating on.
+PP: Well, I'm definitely not a utopian at all. I think basically in line with classical political philosophy.
+But if you can organize it in line with human nature, you probably have the best of all possible worlds, right?
+It's not going to last forever, history changes, and it'll probably decay. I definitely buy into a cycle of
+regimes argument.
 
-GC: I saw somebody, posted a cartoon where guys at the CIA were talking, and they said, you know, we've tried for years
-to find a way that we could track what every American was up to, and know what, you know, what they did in every day,
-but now, we have Facebook and they just tell us.
-
-PP: Just exactly.
-
-GC: All right, at one point, you write that, a society that organizes itself in line with human nature will be stable,
-prosperous, and its inhabitants will be content and happy.
-
-GC: So,
-
-GC: I think it's a sound idea to organize a society in line with human nature, but this line seems kind of optimistic to
-me. If we look, Eden was in line with... organized in line with human nature, and yet we fell.
-
-GC: And, you even have someone like Plato saying, hey, even if we could establish the very best republic, it will decay,
-you know, given human nature.
-
-GC: So, and then there's the issue of, this society maybe going along fine on its own. I don't know what the political
-situation in Poland was like in 1939.
-
-GC: But you have a good society, and you have two big, aggressive neighbors, and they, you know, end it for you. So,
-
-GC: If,
-
-GC: Can you discuss whether that... that is... you think that it's over-optimistic? Well, you wrote it, I guess... I
-guess you don't, but,
-
-GC: I just, agreeing with the goal, I just, wondered, can we really say that, these good things will follow?
-
-PP: Well, I'm definitely not a utopian at all. I mean, I think I basically think in line with classical political
-philosophy, I think...
-
-PP: Plato, Aristotle, those kind of things, and I... I think maybe what I'm saying is that, I mean, in the ideal, if you
-can best organize a society in line with human nature, yeah, something like Plato's Republic, not in the government
-structures. I think people focus too much. Oh, is it a dictatorship? That stuff...
-
-PP: It's not what Plato's talking about, it's a thought experiment. I hope people are sophisticated enough to know. But
-the, you know, if you can organize it in line with that, you probably have the best of all possible worlds, right? I
-mean, and it's not going to last forever, history changes, and it'll probably decay. I definitely buy into a cycle of
-regimes argument. We didn't have the Garden of Eden until the English Civil War.
-
-PP: Or until the Protestant Reformation, like, thinking that would be crazy, right? I mean, that would just kind of be
-nonsensical, but it's more of a... I mean, some of the criticisms I got for the book are because I kind of... it almost
-reads like a Hegelian book, and it kind of is, in a sense, to be honest.
-
-PP: Even though I'm not a...
-
-GC: Like, you're breaking up.
-
-PP: But, but, you know, it's, it's, it's always in a process.
-
-GC: Yeah, you broke up a little bit there. Let's see, let's try to soldier on and see how it goes. But we did have a
-gap.
-
-GC: In what you were saying. But, now it's okay, so continue.
-
-PP: Sorry, I'll just...
-
-PP: Okay, I was just... I was just saying, you know, I got some criticism, especially from more, Christian thinkers,
+I got some criticism, especially from more Christian thinkers,
 that I was relying overly on a kind of Hegelian methodology in the book.
+And I accept that, because I think Hegel's a liberal, actually. I just wrote a piece for *Post-Liberal Order*
+responding to these critics, saying basically that I agree with their criticisms of Hegel, but what may be of
+value in those type of Hegelian process philosophies is that everything is in a state of becoming. There is
+no ultimate *telos* in this world. I'm Catholic, so I *do* think there is an ultimate end, just not in this world.
 
-PP: And I accept that, because I think Hegel's a liberal, actually. I just wrote a piece for post-liberal Order
-responding to them, saying basically that I agree with their criticisms of Hegel, but the... I guess what maybe is of
-value in those type of Hegelian process philosophies or something is that, you know, everything is kind of in a state of
-becoming, in a sense. There is no end telos in this world.
+And basically, in trying to establish a decent society, just build in as much natural
+law as possible. And the more natural law you build in, the more content people will be.
+They won't be perfectly satisfied. People aren't like that. They're
+funny, strange creatures, but it's the best you're going to get.
 
-PP: Catholic, so I think there is an antilic, but not in this world.
+And you can, you know, compare America in 1955 with America in 2025. And you can say that one of them is a better, more
+stable society than the other.
 
-PP: And and basically, what you're kind of doing, trying to establish a decent society, is just build in as much natural
-law as possible, to my mind. And the more natural law you build in, the more content
-
-PP: people will be Eudomania, or whatever, you know, they won't be perfectly satisfied. People aren't like that. They're
-funny, strange creatures, but, you know, it's the best, it's the best you're gonna get. And you can, you know, compare
-
-PP: America in 1955 with America in 2025. And you can say that one of them is a better, more stable society than the
-other. I think you can say that.
-
-PP: And why is that? Because people are more so adhering in 1955 to natural law structures. You know, everything. Family
-structures, respect for authority, respect for teachers, that's a big thing in Plato that we forget about today. So, you
-know, I think that... I don't think there's a perfect society, I don't think there ever is, and in fact, one of the main
-points I've been making in interviews since the book came
-
-PP: is that we're going to see a multitude of different civilizational societies emerge, from the Chinese to the Russian
+And why is that? Because people are more so adhering in 1955 to natural law structures. Family
+structures, respect for authority, respect for teachers, that's a big thing in Plato that we forget about today.
+I don't think there's a perfect society, and in fact, one of the main
+points I've been making in interviews since the book came out
+is that we're going to see a multitude of different civilizational societies emerge, from the Chinese to the Russian
 to the Indian.
 
 PP: to the neo-Ottoman Turkic, probably, to the neo-Shia Iran. I mean, these are going to be different societies, and

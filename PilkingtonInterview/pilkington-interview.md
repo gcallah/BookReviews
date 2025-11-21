@@ -264,28 +264,24 @@ GC: He would contend there's no consensus for, for instance, re-Christianizing t
 divisive, and it's... it's not going to happen given the large number of people who would object to the project. So, how
 would you respond to Gray's contention here?
 
-**************************
-
-PP: Well, those... to my mind, they're two separate things. So, having different cultural and religious groups
-live, in harmony, I suppose, has nothing to do with liberalism. It's happened before liberalism, it's happened
+PP: Well, to my mind, they're two separate things. So, having different cultural and religious groups
+live in harmony has nothing to do with liberalism. It happened before liberalism, it's happened
 since. I'm currently sitting in Budapest. I was down in Serbia a few weeks ago.
-
-PP: We are close to the border here. There are minarets with the... with the crescent taken down all over the little
+We are close to the border here. There are minarets with the with the crescent taken down all over the little
 towns here.
 
-PP: And what I'm saying there is that this region occasionally lived in harmony with various religious groups, and it
-occasionally lived in conflict with those religion groups, being the Ottoman Turk Muslims, and the various Christian
-denominations, from the Orthodox in Serbia to the Catholics and
+And what I'm saying there is that this region occasionally has had harmony between various religious groups, and it
+occasionally lived where there was conflict between those religion groups: the Ottoman Turk Muslims, and the various Christian
+denominations, from the Orthodox in Serbia to the Catholics and Lutheran population in Hungary. Now, these people found
+a nice solution in the form of the Austro-Hungarian monarchy, or previously the Austrian monarchy.
 
-PP: Lutheran population, and...
-
-PP: in Hungary. Now, these people found a nice solution in the form of the Austro-Hungarian monarchy, or previously the
-Austrian monarchy.
-
-PP: It was quite a stable situation, and although it is kind of controversial to say, after a few drinks, most people in
+It was quite a stable situation, and although it is kind of controversial to say, after a few drinks, most people in
 the region will admit that the Austro-Hungarian monarchy was a pretty good way of running things. It was not a liberal
 entity at all, the Austro-Hungarian monarchy. It was Catholic. It was quite Catholic, quite aggressively Catholic, but
 tolerant.
+
+**************************
+
 
 PP: tolerant. So I'll just give you an example of that. In Romania, I visited a Kolish forest, they call it here.
 

@@ -244,6 +244,8 @@ points I've been making in interviews since the book came out
 is that we're going to see a multitude of different civilizational societies emerge, from the Chinese to the Russian
 to the Indian.
 
+**************************
+
 PP: to the neo-Ottoman Turkic, probably, to the neo-Shia Iran. I mean, these are going to be different societies, and
 they're going to look very different, but I think what they'll share in common is that they'll be aspiring to something
 resembling natural law thinking. And of course, natural law thinking doesn't just exist in the West. I've been over to

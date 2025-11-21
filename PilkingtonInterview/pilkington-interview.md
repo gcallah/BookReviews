@@ -697,22 +697,20 @@ PP: And yet, if you ask a Fabian socialist.
 PP: in the Labour Party, well, do you think we should grow the state? Oh, yes, we should grow the state. It's such an
 unusual way of thinking about things.
 
-PP: So I don't think that the... I don't think that the nature of a state has anything to do with the size of a state. I
-personally think you're better off with probably about, you know, 30% of GDP as the state. It's pretty much the same in
-Hungary, I think it's 35% here. Pretty small state. Again, enormous irony, because most people
+**************************
 
-PP: Hungary is some autocracy that's ruled over by, you know, some sort of a King Orban or something like that. The
+PP: So I don't think that the nature of a state has anything to do with the size of a state. I
+personally think you're better off with probably about 30% of GDP as the state. It's pretty much the same in
+Hungary, I think it's 35% here. Pretty small state. Again, enormous irony, because most people think
+Hungary is some autocracy that's ruled over by King Orban or something like that. The
 state's much smaller here. The income tax rate is 15%. So, and yet, at the same time, I think that the Hungarian state
-bills itself as a more interventionist state than the British state.
-
-PP: In terms of intervening in certain markets. So I don't think the nature of the state is the same as the size of the
+bills itself as a more interventionist state than the British state in terms of intervening in certain markets.
+So I don't think the nature of the state is the same as the size of the
 state, and I... in response to what would it look like without the state, I think you were... that's noble, savage
 thinking, because I think states are inherent in human society.
 
-**************************
-
-GC: Reading your book, I was occasionally thinking of Renee Girard.  And your recent comments 
-bring that to mind. In particular, he does an analysis of Troilus and Cressida, where Ulysses gives a
+GC: Reading your book, I was occasionally thinking of René Girard.  And your recent comments 
+brought that to mind. In particular, he does an analysis of Troilus and Cressida, where Ulysses gives a
 speech where he says, now that hierarchies are overthrown... I'm going from memory here,
 so this isn't word for word, but now everything's chaotic. And what Girard shows, I think,
 is that the attempt to overturn all hierarchies does not result in society where everyone is equal. What it results in

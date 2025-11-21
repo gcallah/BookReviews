@@ -242,53 +242,32 @@ structures, respect for authority, respect for teachers, that's a big thing in P
 I don't think there's a perfect society, and in fact, one of the main
 points I've been making in interviews since the book came out
 is that we're going to see a multitude of different civilizational societies emerge, from the Chinese to the Russian
-to the Indian.
+to the Indian to the neo-Ottoman Turkic, probably, to the neo-Shia Iran. These are going to be different societies, and
+they're going to look very different, but I think what they'll share in common is that they'll be aspiring to something
+resembling natural law thinking. And of course, natural law thinking doesn't just exist in the West. I've been over to
+China twice this year, talking with Confucian scholars and 
+I am of the view, the Jesuit view, that there is definitely natural law thinking in, for example, Confucius, which
+is pretty much as advanced as our pagan thinkers. So, it'll look different elsewhere, and it'll never
+be perfect, but, that's just the... that's the human condition.
+
+GC: We're both readers of John Gray. He just came out with an essay
+in *The New Statesman*, reiterating something he's been saying since the 90s.
+Now, he has many criticisms of liberalism.
+But what he sees as the actual, best thing we can do politically, given our situation,
+is a kind of modus vivendi liberalism that stops trying to invade
+subcultures and liberalize them. A regime that allows Muslims to be Muslims, and allows Mormons to be Mormons, and
+the Amish to be Amish, and accepts this diversity instead of trying to force liberal values on everyone.
+But this is under a general, broadly liberal umbrella. So, I think what he is essentially saying,
+in your terms, is that we *can* and should return to soft liberalism.
+
+GC: He would contend there's no consensus for, for instance, re-Christianizing the U.S, that this would be very
+divisive, and it's... it's not going to happen given the large number of people who would object to the project. So, how
+would you respond to Gray's contention here?
 
 **************************
 
-PP: to the neo-Ottoman Turkic, probably, to the neo-Shia Iran. I mean, these are going to be different societies, and
-they're going to look very different, but I think what they'll share in common is that they'll be aspiring to something
-resembling natural law thinking. And of course, natural law thinking doesn't just exist in the West. I've been over to
-China twice this year, talking with Confucian scholars and so on, and there's
-
-PP: I am of the view, the Jesuit view, that there is definitely natural law thinking in, for example, Confucius, which
-is pretty much as advanced as our pagan thinkers, just to point out. So, it'll look different elsewhere, and it'll never
-be per... it'll... everywhere, and it'll never be perfect, but, you know, that's just the... that's the human condition,
-in a sense.
-
-GC: Wow, the fuck?
-
-GC: Right, so we're both, readers of John Gray, and
-
-GC: his recent... You know, I think... well, I think he's been saying this since the 90s. He just came out with a column
-in the New Statesman, an essay in The New Statesman, reiterating this. And...
-
-GC: Well, he has many criticisms of liberalism.
-
-GC: He doesn't think that there is... you know, what he sees as the actual, best thing we can do, given our situation,
-is a kind of modus vivendi liberalism that
-
-GC: Stops trying to... Invade...
-
-GC: subcultures and liberalize them, right? That allows Muslims to be Muslims, and allows, Mormons to be Mormons, and
-the Amish to be Amish, and accepts this diversity.
-
-GC: But, under a general, broadly liberal umbrella. So, you know, I think what he is...
-
-GC: Essentially, in your terms, doing is saying, well, we can return to soft liberalism, and in fact.
-
-GC: There... he would contend there's no consensus
-
-GC: for, for instance, re-Christianizing the U.S, that this would be very divisive, and it's... it's not going to happen
-given
-
-GC: the,
-
-GC: the large number of people who would object to the project. So, how would you respond to Gray's contention here?
-
 PP: Well, those... to my mind, they're two separate things. So, having different cultural and religious groups
-
-PP: live, in harmony, I suppose, has nothing to do with liberalism. It's happened before liberalism, it's happened
+live, in harmony, I suppose, has nothing to do with liberalism. It's happened before liberalism, it's happened
 since. I'm currently sitting in Budapest. I was down in Serbia a few weeks ago.
 
 PP: We are close to the border here. There are minarets with the... with the crescent taken down all over the little

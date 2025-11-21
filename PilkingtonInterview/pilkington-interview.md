@@ -709,117 +709,90 @@ PP: In terms of intervening in certain markets. So I don't think the nature of t
 state, and I... in response to what would it look like without the state, I think you were... that's noble, savage
 thinking, because I think states are inherent in human society.
 
-GC: Let's, finish up, reading your book. I was, occasionally thinking of Renee Girard.
+**************************
 
-GC: And your recent comments
+GC: Reading your book, I was occasionally thinking of Renee Girard.  And your recent comments 
+bring that to mind. In particular, he does an analysis of Troilus and Cressida, where Ulysses gives a
+speech where he says, now that hierarchies are overthrown... I'm going from memory here,
+so this isn't word for word, but now everything's chaotic. And what Girard shows, I think,
+is that the attempt to overturn all hierarchies does not result in society where everyone is equal. What it results in
+is a fierce struggle for a position. With established hierarchies, you have mimesis but once they break down,
+you have rivalry.
 
-GC: bring us... bring that thought back to mind. In particular, He discusses,
-
-GC: he does an analysis of Troilus and Cressida, and ulysses gives a speech where he says, now that,
-
-GC: hierarchies are overthrown, basically. I'm quoting from memory, so this isn't word for word, but now, you know,
-everything's chaotic. And what Girard shows, I think.
-
-GC: Is that the attempt
-
-GC: to overturn hierarchies does not result in an egalitarian society where everyone is equal. What it results in is a
-fierce struggle
-
-GC: for a position.
-
-GC: And, you know, we see that,
-
-GC: Musa Al Garbi analyzes wokeness as a struggle amongst elites to position themselves as the most woke, because this
-is prestigious, and if I'm woker than you, then I'm more deserving of an elite position.
-
-GC: Are you familiar with Girard's work, and do you see it connecting to your own?
+Are you familiar with Girard's work, and do you see it connecting to your own?
 
 PP: Yeah, actually, this connection's really interesting, and I haven't said it yet to anybody.
-
-PP: But I kind of have a little bit of a joke, maybe to myself, maybe I've said it to somebody else, that the book... my
+But I kind of have a little bit of a joke, maybe to myself, maybe I've said it to somebody else, that the book... my
 account of liberalism is massively inspired by the work of Gilles Deleuze, the French post-structuralist philosopher,
-who wrote a book that's...
+who wrote a book that's both kind of brilliant and kind of awful, called *Anti-Oedipus*.
 
-PP: both kind of brilliant and kind of awful, called Anti-Oedipus.
+I wouldn't really recommend reading it. I'm not sure why I read it, but I did read it, and I said, "This is the best
+account of the liberal mechanism I've ever read."
 
-PP: I wouldn't really recommend reading it. I'm not sure why I read it, but I read it, and I said, this is the best
-account of the liberal mechanism I've ever read.
+And where does it link up with Girard? Because both of them come from the French structuralist tradition.
+They come from the tradition of French structuralist anthropology, basically started... well, started with Marcel
+Maus and so on, but really formulated by Lévi-Strauss, the anthropologist.
 
-PP: And where does it link up with Girard? Because both of them come from the French structuralist tradition.
-
-PP: They come from the tradition of French structuralist anthropology, basically started... well, started with Marcel
-Maus and so on, but really formulated by Levi Strauss, the philosopher. The anthropologist, I should say.
-
-PP: And they think in those... in those exact terms, I think Gerard is often just putting many of these mythological
-structures, and I think he's explicit with this because he's an anthropologist, and he's putting them in this
+And they think in those terms. I think Girard is often just putting many of these mythological
+structures, and I think he's explicit with this because he's an anthropologist, he's putting them in this
 structuralist form.
 
-PP: And, what you... what... what Gilles Deleuz and his co-author, Felix Guaderie, are trying to say is that, you...
-they're kind of anarchists. I mean, they're just liberals in my mind, but, you know, they're the anarchist version of
-liberalism.
+Gilles Deleuz and his co-author, Félix Guattari, are kind of anarchists.
+I mean, they're just liberals in my mind, but they're the anarchist version of liberalism.
 
-PP: And they want to tear down absolutely all the hierarchies. They're in that real 60s mold of, like, the Freudian
-vertical complexes in your head. Remember this Marcuse stuff from back in the 60s? Similar stuff, like, there's a
-policeman inside of all of our heads, and he must be stopped, and it's the father, it's the, you know, everyone's
+And they want to tear down absolutely all the hierarchies. They're in that real 60s mold of the Freudian
+vertical complexes in your head. Remember this Marcuse stuff from back in the 60s? Similar stuff: there's a
+policeman inside of all of our heads, and he must be ejected, and it's the father: everyone's
 familiar with this in the kind of more watered-down version that came to the American shores.
 
-PP: But the, basically, the best actual articulation of this, the most philosophically coherent, was this Deleuze and
-Guaderie book. It's kind of fascinating in that regard.
+But the best actual articulation of this, the most philosophically coherent, was this Deleuze and
+Guattari book. It's kind of fascinating in that regard.
 
-PP: And what they're basically saying is, if you imagine
-
-PP: if you imagine a society in terms of French... in terms of structuralist anthropology, you have all these social
-structures built up of customs and norms and totems and taboos, as they'd say, you know, basically moral structures,
+And what they're basically saying is, if you imagine
+if you imagine a society in terms of structuralist anthropology, you have all these social
+structures built up of customs and norms and totems and taboos: basically moral structures,
 familial structures, all these kind of things.
 
-PP: And Deleuze and Guadarri are saying, come in and smash it all, and then smash all the, like, representations you
-have of it in your own head, and you'll come out free. And what Gerard is saying is exactly the opposite.
+And Deleuze and Guattari are saying, come in and smash it all, and then smash all the representations you
+have of it in your own head, and you'll come out free. And what Girard is saying is exactly the opposite.
+He's saying that if you do that, you'll get absolute and utter chaos. And he's channeling that insight
+from the more classical authors, because he's more of a classicist in that regard. And so he's exactly
+saying what I'm saying: that if you actually try this tearing down of the hierarchies that
+liberalism promotes, you will just get absolute chaos. And into that chaos, first will flow violence, as is in Girard,
+and then we'll form exactly what you've just said, a struggle for a new hierarchy.
 
-PP: He's saying that if you do that, you'll get absolute and utter chaos. And he's channeling that insight
-
-PP: from the more classical authors, because he's... he's more of a classicist in that regard. And so he's exactly
-saying what I'm saying.
-
-PP: that if you actually try this tearing down of the hierarchies that liberalism promotes, in a sense, you will just
-get absolute chaos. And into that chaos, first we'll flow violence, as is in Girard, and then we'll form exactly what
-you've just said, a struggle for a new hierarchy.
-
-PP: And a new hierarchy will just solidify. But this is what always happens with liberalism. Like today, right, I think
+And the new hierarchy will just solidify. But this is what always happens with liberalism. Like today, I think
 we're currently at complete peak liberalism.
-
-PP: Do we have a society of zero hierarchies? Are you kidding me? We live in an oligarchy. We live in the most obvious
+Do we have a society of zero hierarchies? Are you kidding me? We live in an oligarchy. We live in the most obvious
 oligarchy I've ever seen. Who are these private equity guys going out and buying up your campground and telling you how
 much money you have to pay to park your RV and grill a chicken?
-
-PP: Like, these are oligarchs of the worst variety. So what happens is that when you smash all the good,
+These are oligarchs of the worst variety. So what happens is that when you smash all the good,
 natural-law-based hierarchies, you get the formation of arbitrary power-based hierarchies.
 
 And okay, maybe the really nice guys will win out in your struggle for power. Very good chance they won't, and
 you'll just end up with this absolutely awful structure. But that awful structure will also be highly unstable, which is
 what we see today. Because it's a hierarchical structure that's really overweening and oligarchic.
 
-It generates resentment, and it generates another cycle of kind of chaos. So, yeah, while I'm not a
-Girardian, per se, but it's definitely... a lot of these ideas from the same kind of French structuralist
+It generates resentment, and it generates another cycle of chaos. So, while I'm not a
+Girardian, per se, but a lot of these ideas are from the same kind of French structuralist
 tradition that Girard's from. From the other side of it, actually, the weirdo side of it in Paris.
 
-GC: And it's fascinating that, anyone who challenges the oligarchy is anti-democratic, right?
+GC: And it's fascinating that anyone who challenges the oligarchy is anti-democratic, right?
 That's their defense. Any challenge to their power is met with "Anti-democratic forces are threatening democracy!"
 
 PP: And if you see that, of course, they'll just say there's a policeman in your head that's tricked you into thinking
 about the wrong definition of democracy.
 
 That's exactly it, right? They start off in the 60s telling you that your father's superego is talking to you in
-your head, and then, like, one generational cycle later, it's like black is white. It's like Orwell 19... like,
-democracy is oligarchy, or men are women, or... like, that's how it goes, you know? You get... break down the normal.
+your head, and then, one generational cycle later, it's black is white. It's like Orwell's 1984:
+oligarchy is democracy, men are women, and so on. You break down the normal, familial psychology in a person,
+and then feed them the most weird, arbitrary, unnatural hierarchies. It's fascinating.
 
-The normal familial psychology in a person, and then feed them the most weird, arbitrary, unnaturalhierarchies.
-It's fascinating.
-
-GC: Yeah, I now have a private equity firm in my head instead of a policeman, right?
+GC: Yes, I now have a private equity firm in my head instead of a policeman, right?
 
 PP: A policeman as well, a woke FBI agent!
 
-GC: Yes, there you go. All right, well, thanks so much for your time, it's been great talking with you.
+GC: Ah, there you go! Alright, thanks so much for your time, it's been great talking with you.
 
 
 

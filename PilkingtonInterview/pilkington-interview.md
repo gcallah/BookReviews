@@ -277,194 +277,128 @@ a nice solution in the form of the Austro-Hungarian monarchy, or previously the 
 
 It was quite a stable situation, and although it is kind of controversial to say, after a few drinks, most people in
 the region will admit that the Austro-Hungarian monarchy was a pretty good way of running things. It was not a liberal
-entity at all, the Austro-Hungarian monarchy. It was Catholic. It was quite Catholic, quite aggressively Catholic, but
+entity at all, the Austro-Hungarian monarchy. It was Catholic, quite aggressively Catholic, but
 tolerant.
 
-**************************
-
-
-PP: tolerant. So I'll just give you an example of that. In Romania, I visited a Kolish forest, they call it here.
-
-PP: And, the town, basically, Kolishvar, which was Hungarian, still is partially Hungarian, went through a phase of...
+So I'll just give you an example of that. In Romania, I visited a Kolish forest, they call it here.
+: And, the town, basically, Kolishvar, which was Hungarian, still is partially Hungarian, went through a phase
 where a radical preacher came to town, I think it was in the 17th or 18th century, and he converted everyone to
-Protestantism.
+some form of Protestantism.
 
-PP: think Lutheranism, it could have been Calvinism.
-
-PP: And the Habsburgs tolerated it. They, you know, gritted their teeth, and they tolerated it, and they didn't invade.
+And the Habsburgs tolerated it. They, you know, gritted their teeth, and they tolerated it, and they didn't invade.
 And then he got new ideas into his head and converted everyone to Unitarianism.
+And then they sent in the cavalry. And I think it's a great story. And now most of them are Catholic, but I
+actually had the privilege of visiting a trad Unitarian village, which was full of Hungarians. It's the most fascinating
+place I've ever been in my life. But, this is the history around here, and it has nothing to do with
+liberalism.
 
-PP: And then they sent in the cavalry. And I think it's a great story. And then most of them are Catholic, but I
-actually had the privilege of
-
-PP: visiting a trad Unitarian village, which was full of Hungarians. It's the most fascinating place I've ever been in
-my life. But, this is... this is the history around here, and it has nothing to do with liberalism.
-
-PP: And actually, I think that liberalism can often increase tensions between religious groups. I think they're... I
-think they're actually selling it in a very duplicitous way. I think, for example, the British liberal empire had a
-tendency to play groups off each other, to... to dominate liberal power. America's done a little bit of that as well,
-not quite as bad as the British have, but, so I think there's a lot of duplicity.
-
-PP: in that. So, we are going to have to figure out a way of living together, especially in Europe with our large Muslim
+And actually, I think that liberalism can often increase tensions between religious groups. I think they're
+actually selling it in a very duplicitous way. For example, the British liberal empire had a
+tendency to play groups off each other, to increase liberal power. America's done a little bit of that as well,
+not quite as bad as the British have, but still I think there's a lot of duplicity.
+So, we are going to have to figure out a way of living together, especially in Europe with our large Muslim
 populations. I think it's going to be very difficult. I think these ideas that we're going to re-migrate everyone are
-crazy. I think they'd lead to civil war. And I don't think that we're going to Christianize a bunch of, strongly
-believing Muslims who seem to believe in their faith more than the Christians on the continent. So, that's a,
+crazy. I think they'd lead to civil war. And I don't think that we're going to Christianize a bunch of strongly
+religious Muslims who seem to believe in their faith more than the Christians on the continent. So, that's a
+question, one of religious toleration, and... that's just the world. The world's always just had to come to that
+conclusion. Before end times, does everybody become a Christian?  That's above my pay grade, I don't know. But then the
+second question is,
+can we re-Christianize the... how should I put it? I don't want to call them former Christians, because they're not
+former Christians. The current progressive liberals, they are still in that tradition. They're not Muslim.
 
-PP: that's a separate... I think that is one question, one of religious toleration, and we are... I mean, that's just
-the world. The world's always just had to come to that conclusion. Before end times, does everybody become a Christian?
-That's above my pay grade, I don't know. But then the second question is.
-
-PP: can we re-Christianize the... how should I put it? I don't want to call them former Christians, because they're not
-former Christians. The current liberals, you know, progressive liberals, or whatever they are, they're kind of, they are
-still in that tradition. They're not Muslim.
-
-PP: They're a civilization of the same as...
-
-PP: actual practicing Christians' civilizational roots. So the question, really, for, I think, us, is what do we do with
-our own people, in a sense? I mean, the religious toleration question is very important, but it's a separate question
+Their civilization of the same as...
+actual practicing Christians' civilizational roots. So the question, really, for, I think, us, is what do we do with
+our own people? I mean, the religious toleration question is very important, but it's a separate question
 from what we do with our own people.
 
-PP: And I really don't see any alternative here. I mean, these people are either going to have to find their way back to
+And I really don't see any alternative here. These people are either going to have to find their way back to
 some of their civilizational roots, or
-
-PP: they're going... in fact, they already are, revert to barbarism. They are. It's very clear to me that they're going
-to revert... they already are reverting to barbarism, and I don't mean that just in an ethical sense, like, how dare
-they, you know, support abortion. Obviously, I don't like the fact they support abortion, but, you know, that's like the
-90s version of this. No, I mean they will not be able to live properly. Like, they will not be able to take care of
+they're going to... in fact, they already *are*, reverting to barbarism.
+to revert... they already are reverting to barbarism, and I don't mean that just in an ethical sense, like
+supporting abortion. Obviously, I don't like the fact they support abortion, but that's like the
+90s version of this.
+No, I mean they will not be able to live properly. They will not be able to take care of
 themselves, they will not be able to reproduce.
-
-PP: themselves as a species. They will put enormous burdens on our
-
-PP: social care systems and so on, and we're already seeing this. It's becoming really profound now in my generation,
-millennials and younger. I mean, the social norms have completely evaporated, and a lot of these people don't really
-know how to live properly, and it's only going to get worse and worse, and eventually you'll come to kind of like a...
-
-PP: I mean, I don't want to be offensive about it, but it really will be kind of...
-
-PP: people... people in bear skins, but in a digital world, you know? And the people in the bear skins aren't going to
+themselves as a species. They will put enormous burdens on our
+social care systems and so on, and we're already seeing this. It's becoming really profound now in my generation,
+millennials and younger. The social norms have completely evaporated, and a lot of these people don't really
+know how to live properly, and it's only going to get worse and worse, and eventually we'll come to a state of
+people in bear skins, but in a digital world. And the people in the bear skins aren't going to
 be very productive or useful. They're going to be quite chaotic, we're already seeing that around the edges.
 
-PP: And they're not, you know, gonna... and they're gonna require a lot, especially if they don't want to reproduce and
-so on. So there... that's the real question to me. I think the...
+What, for instance, the Muslims do with Turkey isn't really our business. Obviously, we have to live with it, and we have to live
+in the same world with them, and we should try and do that in harmony. We don't want conflicts. But
+really, our focus shall be on what do we do with the the Christians that have been wrecked by liberalism.
 
-PP: what the Muslims do with Turkey isn't really our business. Obviously, we have to live with it, and we have to live
-in a world with them and everything like that, and we should try and do that in harmony. We don't want conflicts. But
-really, our focus shall be on what do we do with the
+And as I said, I think it's really re-Christianization or barbarism. I don't mean that they all have to go to church or anything like
+that, but they have to start adhering to the sorts of, moral values that say, a slightly agnostic person in America in 1955 adhered to.
 
-PP: previous, but they're not really previous, the Christians that have kind of been wrecked by liberalism.
-
-PP: And as I said, I think it's, you know, they had that old phrase in the 60s, socialism or barbarism in France. I
-think it is really re-Christianization or barbarism. I don't mean that they all have to go to church or anything like
-that, but they have to start adhering to the... to the sorts of, moral values that say,
-
-PP: a slightly agnostic person in America in 1955 adhered to.
-
-GC: Oh, whoa...
-
-GC: Walker Percy in, Love in the Rooms is talking about his, girlfriend at the time, and he said she was,
-
-GC: a really good Christian who didn't believe in God.
-
-GC: And he said, on the other hand, I believe in God, but I'm a very bad Christian.
-
-PP: It's very good, yeah.
+GC: A Walker Percy character in *Love in the Ruins* is talking about his girlfriend at the time, and he said she was
+a really good Christian who didn't believe in God.
+And me, he said, on the other hand, I believe in God, but I'm a very bad Christian.
 
 PP: We all know people like that.
 
-GC: Yes, alright,
-
-GC: when it comes to the military, this was very interesting. I, of course, had seen the case made that
-
-GC: Liberalism, leads to imperialism that... and, you know, this was clear when,
-
-GC: America was gonna spread democracy throughout the Middle East, and, you know, was gonna produce little mini Americas
-all over the world. But what was interesting in your book was that you make a strong case
-
-GC: but one that I'm not really capable of evaluating, that liberalism is making purely,
-
-GC: tactical errors. Not just strategic errors trying to spread liberalism everywhere, but tactical errors in, the way
+GC: Your chapter on military topics was very interesting. Naturally I had seen the case made that
+evangelical liberalism leads to imperialism, and this was clear when
+America was going to spread democracy throughout the Middle East, was going to produce little mini-Americas
+all over the world. But what was interesting in your book was that you make a strong case,
+but one that I'm not really capable of evaluating, that liberalism is making purely,
+tactical errors. Not just strategic errors trying to spread liberalism everywhere, but tactical errors in the way
 that liberal societies spend money on military equipment.
 
-GC: So, where did, how did you, develop this thesis? Have you,
+So how did you develop this thesis? Have you,
+did you have military experience in your background?
+I think you made a strong case for this, but I'm just curious how you arrived at it.
 
-GC: did you have military experience in your background? It's just, I hadn't seen this case before, and like I said, I
-think you made a strong case for this, but I'm just curious how you arrived at it.
+PP: Well, no, I have no military background. I'm an economist. I can claim to be that.
+And I am not one of these weapons hobbyist guys that you'll find in a gun show. I had no real interest in
+the area. Five years ago, I couldn't tell one tank from another.
+I know people like that, and often they're very knowledgeable, and I wasn't one of those people.
 
-PP: Well, no, I have no military background. I'm an economist. I can claim to be that. I have no military background,
-and I am not one of these weapons hobbyist guys that you'll find. I kind of like firearms, but I had no interest. I
-couldn't...
+What changed that was the war in Ukraine. I was fascinated the moment it broke out, because everything that I thought
+I knew was thrown into question.
 
-PP: 5 years ago, I couldn't have told you what a tank, you know, which tank was which. I was not one of these... I know
-people like that, and often they're very knowledgeable, and I wasn't one of those people.
+An example I always go back to, it's by
+Hubert Dreyfus, the Heidegger scholar, and he says in one of his lectures that normally when you use a door,
+you don't think about it.
+But when the door won't open, *then* you think about it, and in fact, you can panic. You can go, oh, am I stuck in
+the room, you know? And that's really striking. Intellectually,
+I've had that experience a couple of times in my life, and they're always the most revealing times.
 
-PP: And it was, it was the war. It was the war in Ukraine. I was fascinated by what was going on. I was fascinated the
-moment it broke out, because everything that I knew
+And that moment the door didn't work was the Ukraine war, because I realized that my assumption, shared by almost
+everybody, which I'd never really thought about, was that, basically,
+NATO, or the United States, or whoever we want to say backed the Ukrainian side in that war, was really big,
+economically. And we thought certainly Russia's behind in terms of technology.
+We in the West are the big economies, and so therefore, there's absolutely no chance for Russia,
+if we pour all this materiel into this very large and well-trained army in Ukraine.
 
-PP: Was basically that we...
+And if Ukraine doesn't win, then it will grind to a real stalemate say within a year.
+And the Russians will start taking so many losses that they can't replace their weapons and people.
+That all turned out to be completely false.
 
-PP: well, I hadn't thought about it. It's one of those times, you know, I... I... there's this great,
+And I just got fascinated with it, I was just watching it every day. I read enormous
+amounts about military strategy. I started reading about how you plan strike packages, and
+and that kind of thing, and the conclusion I came to was
+that, the West had just gotten carried away with itself.
+It had become completely enamored with technology.
 
-PP: a phrase I always go back to, it's by,
-
-PP: Hubert Dreyfus, the Heidegger scholar, and he says, says in one of his lectures that, that anytime you use a door,
-you, you never think about it.
-
-PP: But when the doorknob doesn't work, you think about it, and in fact, you can panic. You can go, oh, am I stuck in
-the room, you know? And that's really striking. I've had that experience a couple of times. You know, intellectually,
-I've had that experience a couple of times in my life, and they're always the most revealing times in your life, in a
-sense.
-
-PP: And and that was the Ukraine war, because I realized that my assumption, which I'd never really thought about, was
-the assumption of everybody, actually, which was that, basically.
-
-PP: well, NATO, or the United States, or whoever we want to say backed the Ukraine side in that war, was really big,
-economically.
-
-PP: And we kind of thought, you know, maybe China's getting a bit of an edge in technology, but certainly Russia's not
-getting an edge in terms of technology. Now, that wasn't all true, actually. Russia had, had advanced in missile
-development.
-
-PP: and in a few other spheres. But, you know, we thought, well, we're the big economies, and so therefore, you know,
-there's absolutely no chance that Russia, if we poured all this materiel into this very large and well-trained army in
-Ukraine.
-
-PP: then they'll, you know, if they don't win, they'll, you know, grind it to a real stalemate, like a real one, where,
-like, it's just obvious within, like, a year that it's a real stalemate. And the Russians will start taking so many
-losses that they can't replace their weapons and so on. That all turned out to be completely false.
-
-PP: And the more I... I just got fascinated with it, I just spent... I was just watching it every day. I read enormous
-amounts about military strategy, I... I started reading about how you planned, you know, strike packages, and...
-
-PP: and all this kind of thing, and the conclusion I came to was.
-
-PP: that, the West had just run away with itself. It had become completely, enamored with technology.
-
-PP: And some of this was... well, it was... it was jewel. It was partly because the United States, as the hegemon,
-especially since the 1990s, but even in the Cold War, to a certain extent, set its military up like a... like a global
+It was partly because the United States, as the hegemon,
+especially since the 1990s, but even in the Cold War, to a certain extent, set its military up like a global
 policing operation.
-
-PP: And in a global policing operation, relying on, like, the best optic on your rifle, or whatever, like, makes some
+And in a global policing operation, relying on, for example, having the best optic on your rifle, makes some
 sense.
+But it makes absolutely no sense in mechanized industrial warfare. And so I realized that was one aspect of this,
+which was inherent in the nature of the unipolar, quasi-imperial system.
 
-PP: makes absolutely no sense in mechanized industrial warfare, obviously. And so I realized that was one thing, and
-that was... that was inherent in the nature of the unipolar, you know, quasi-imperial system, let's be honest.
+But the other aspect of it was a complete fetishization of progressive technology, technological
+development, which is a real hallmark of liberalism. Right up to the idea that, as in the writing I
+was reading from the RAND Corporation that claimed within 10 years we'd have robots fighting
+robots, and there'd be no human deaths at all.
 
-PP: But the other sense of it was, number one, a complete fetishization of progressive technology, technological
-development, which was... is definitively liberal. It's a real hallmark of liberalism. Right up to the idea that, you
-know, the stuff I was reading from, like, the RAND Corporation thought that within 10 years, we'd have robots fighting
-robots, and there'd be no...
-
-PP: Human deaths and all this kind of stuff.
-
-PP: Stuff that's just really... Almost to my mind.
-
-PP: And,
-
-PP: And so there was these two things kind of working together, the kind of liberal, progressive view of technology,
-which is the liberal aspect of it.
-
-PP: and the slightly more contingent, you know, geopolitical set of circumstances that the United States and its NATO
-allies, mainly the United States, found itself in. And then the one thing that I don't write about too much in the book,
+And so there was these two things kind of working together, the kind of liberal, progressive view of technology,
+and the slightly more contingent geopolitical set of circumstances that the United States and its NATO
+allies found themselves in. And one thing that I don't write about too much in the book,
 I just did... there was no space, because the military chapter is so long already, is the nature of military
 procurement.
 

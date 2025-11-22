@@ -430,6 +430,8 @@ I don't know what they'd offer as an alternative here to the way the U.S. does p
 your critique as a critique of liberalism or of markets. They would say, "Well, this is a good critique of government
 spending, which of course has these problems, and that's why we want to minimize it."
 
+******************
+
 PP: Well, the first thing I'd say is it's a longer discussion, and we won't get into it, but markets are not liberalism,
 and liberalism is not markets. Markets have existed before liberalism, and they'll exist after it. Markets, to my mind,
 are very natural human relationships, and that's why they're the best at distributing consumer products, certainly.

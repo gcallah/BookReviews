@@ -399,68 +399,36 @@ robots, and there'd be no human deaths at all.
 And so there was these two things kind of working together, the kind of liberal, progressive view of technology,
 and the slightly more contingent geopolitical set of circumstances that the United States and its NATO
 allies found themselves in. And one thing that I don't write about too much in the book,
-I just did... there was no space, because the military chapter is so long already, is the nature of military
+because there was no space, as the military chapter is so long already, is the nature of military
 procurement.
 
-PP: using a market or quasi-market-based system, as they do in the United States and the West, actually encourages,
-through the very high profit margins that they can make, these technologically advanced
+Using a market or quasi-market-based system, as they do in the United States and the West, actually favors
+these technologically advanced products, because of their quite high profit margins, over
+commodified products, such as generic tanks, generic drones, and so on. These are,
+as you might say in manufacturing, low-margin products. You produce more of them, and you get a
+low margin. If they're given the choice, no capitalist really wants to make a low-margin product.
+It's a lot of work for the pay!
 
-PP: products over commodified products, like, you know, just generic tanks, generic drones, and so on. These are more
-things that are in what you might say in manufacturing are low margin products. You produce more of them, and you get a
-low margin. Nobody really... if you're given the choice, no capitalist really wants a low margin. It's a lot of work.
+And the other issue is procurement becomes a complete nightmare in that kind of a system, because
+if the military is shown two rival advanced laser systems, how does it price them?
+It's much easier to price, say, 1,500 T-72 tanks have rolled off the production lines in Russia. I can
+look at the inputs, the steel and whatnot. I know, basically, what the economics of that are. Then you show me the laser
+weapons, and I don't know how to price that.
 
-PP: For a little bit of profit, whereas the high margin ones, it's... it's less work for a lot more profit.
-
-PP: And also, the other issue is the procurement becomes a complete nightmare in that kind of a system, because, like,
-you show some big laser weapon, and there's two of them, like, how do you price that?
-
-PP: it's much easier for me to price, say, 1,500 T-72 tanks have rolled off the production lines in Russia. Yeah, I can
-look at the inputs, the steel, blah blah blah. I know, basically, what the economics of that are. Then you show me the
-laser weapon, and I'm like, I don't know, I don't know who to price that.
-
-PP: So there's a lot of room for graft, in a sense, in that as well. So those kind of things came together. So what I
-ended up concluding was, basically, that the Soviet model of quantity over quality is the correct one, unusually, I
+So there's a lot of room for graft, in a sense, in that procurement model. So what I
+ended up concluding was, basically, that the Soviet model of quantity over quality is the correct one, surprisingly, I
 suppose.
 
-PP: And that's not that surprising, because centrally planned economies don't work, we know that. But centrally planned
-economies work very well for some things.
-
-PP: And for military production, mass military production, yeah, you want a centrally planned economy. To build the
-highway system in America, you want that centrally planned, actually.
-
-PP: The early Soviet Union, not to get off on too much of a tangent, but the early Soviet Union, from the Stalinist
-collectivist phase in the 1930s up until the 1960s, when the main,
-
-PP: products were infrastructure development, electricity infrastructure, road infrastructure, rail infrastructure,
-building housing for people. I'm not talking about the quality here, but up until the 60s, when they had to turn to
-consumer products, central planning worked.
-
-PP: And, you know, that was well recognized in America. That's what scared people, and seduced some people, like the
-people around Kennedy, John Kenneth Galbraith, and so on. And you still see, I mean, as I said in Budapest, I walk
-around and I still see the Soviet-era stuff. It's quite well built.
-
-PP: So, central planning has its place, and central planning is definitely not a liberal principle.
-
-PP: And it seems to me that militaries must be centrally planned, and the liberalization of the military that took place
-was always kind of there. It was always kind of there in the Western militaries after World War II, but it really ramped
-up in the 1990s.
-
-PP: And it's produced what we see today. Massively expensive weapons that are wiped out by extremely cheap weapons
+The liberalization of the Western militaries began after World War II, but it really ramped up in the 1990s.
+And it's produced what we see today: Massively expensive weapons that are wiped out by extremely cheap weapons
 produced elsewhere, even in Iran.
 
-GC: So, I am a recovering libertarian, and as such, have a number of libertarian friends.
-
-GC: And, they would find this puzzling as a critique
-
-GC: Of their version of liberalism, because they would say, well, of course.
-
-GC: government spending is quite different in private spending. Of course, it's plagued with ineffici, and these, you
-know, these public choice problems will arise. So I wonder to what extent... now.
-
-GC: I don't know what they'd offer as an alternative here to the way, the U.S. does procurement, but they wouldn't see
-
-GC: your critique as a critique of liberalism or markets. They would say, well, this is a critique of government
-spending, which of course has these problems, and that's why we want to minimize it.
+GC: Now, my libertarian friends would find this puzzling as a critique of *their* version of liberalism;
+they would say, "Well, *of course* government spending is quite different than private spending.
+*Of course*, it's plagued with inefficiencies, and these public choice problems will arise.
+I don't know what they'd offer as an alternative here to the way the U.S. does procurement, but they wouldn't see
+your critique as a critique of liberalism or of markets. They would say, "Well, this is a good critique of government
+spending, which of course has these problems, and that's why we want to minimize it."
 
 PP: Well, the first thing I'd say is it's a longer discussion, and we won't get into it, but markets are not liberalism,
 and liberalism is not markets. Markets have existed before liberalism, and they'll exist after it. Markets, to my mind,

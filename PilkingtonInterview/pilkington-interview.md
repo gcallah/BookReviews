@@ -430,84 +430,61 @@ I don't know what they'd offer as an alternative here to the way the U.S. does p
 your critique as a critique of liberalism or of markets. They would say, "Well, this is a good critique of government
 spending, which of course has these problems, and that's why we want to minimize it."
 
-******************
-
-PP: Well, the first thing I'd say is it's a longer discussion, and we won't get into it, but markets are not liberalism,
-and liberalism is not markets. Markets have existed before liberalism, and they'll exist after it. Markets, to my mind,
+PP: Well, although we won't get into it in depth, but markets are not liberalism,
+and liberalism is not markets. Markets existed before liberalism, and they'll exist after it. Markets, to my mind,
 are very natural human relationships, and that's why they're the best at distributing consumer products, certainly.
+I'm not sure if they're as good at distributing capital investment, having worked on Wall Street for 10 years, I've
+seen a lot.
 
-PP: I'm not sure if they're as good at distributing capital investment, having worked on Wall Street for 10 years, I've
-seen some a lot of close.
-
-PP: But they are definitely very good at distributing consumer products, and I think they are... they're just natural
+But they are definitely very good at distributing consumer products, and I think they're just natural
 law-based, entities. I think that you can find non-liberal thinkers talking about markets. The Salamanca School stands
-out as the most prominent. That's a post-Reformation, counter-Reformation, I should say, Catholic, I think they're
-Thomas, so maybe I'm wrong with that. Jesuits or something.
+out as the most prominent. That's a counter-Reformation Catholic school of thought.
 
-PP: And, so markets are a separate bag to liberalism. I think where liberalism comes into the picture is the
-fetishization of markets, is the thinking, and this would be my criticism of the libertarian strain of liberalism.
-
-PP: that markets solve absolutely every problem. And at that point, they kind of become a fetishization, and they
+And, so markets are a separate bag to liberalism. I think where liberalism comes into the picture is the
+fetishization of markets, is the thinking, and this would be my criticism of the libertarian strain of liberalism,
+that markets solve absolutely every problem. And at that point, they kind of become a fetish, and they
 definitely become ideological at that point.
 
-PP: As in, ever, you know, you're there with a hammer and everything looks like a nail. If you're there with a hammer
-and everything looks like a nail, you're in the space of ideology, to my mind. Like, you've left the realm of practical
-political thinking behind, and you're in the realm of ideology. And there's, you know, varying ideologies, but you're in
+As in, you're there with a hammer and everything looks like a nail. If you're there with a hammer
+and everything looks like a nail, you've left the realm of practical
+political thinking behind, and you're in the realm of ideology. And there's varying ideologies, but you're in
 the realm of liberal ideology when you're trying to apply market-based principles to absolutely everything.
 
 PP: And that's kind of how I think about it. Markets function very well in certain circumstances. They function somewhat
-poorly in others, and they don't function at all.
+poorly in others, and they don't function at all in others, and that a military is just one that they do not function at all.
+There is absolutely no way that I can think of, and I believe I'm a reasonably competent economist,
+there is no way I can think of to come up with some market mechanism to put a price on military goods that may never be used.
 
-PP: in others, and that a military is just one that they do not function at all. There is absolutely no way
+That's ultimately what we're dealing with. It could be... let's imagine that you had three cycles of
+military goods, maybe once every 10 years you get a new kind of wave of innovations. And you have no war in those 30 years.
+How do you price these things? I mean, it's not what I am saying that the pricing of the
+1,500 tanks is trivial, but you price them on an input-output basis, and that's central planning.
+That's how Gosplan used to do central planning in the Soviet Union. And as far as I understand
+it, that's effectively how the Russian (and Chinese, for that matter) military-industrial complex works at the moment.
 
-PP: to... that I can think of, I think I'm a reasonably confident economist. There is no way I can think of to come up
-with some market mechanism to put a price on military goods that may never be used.
-
-PP: I mean, that's ultimately what we're dealing with. It could be... let's imagine that you had a three cycles of
-military goods, maybe once every 10 years.
-
-PP: You get a new kind of wave of innovations. And you have no war in those 30 years.
-
-PP: how do you price these things? I mean, it's... it's... now, what I am saying is that the pricing of the
-
-PP: 1,500.
-
-PP: tanks is easier, but you price them on an input-output basis, and that's central planning. That's literally how you
-do central planning. That's how Gaul's plan used to do central planning in the Soviet Union. And as far as I understand
-it, that's effectively how the Russian and Chinese, for that matter, military-industrial complex works at the moment.
-
-PP: So no, it's not a criticism of markets. I'm an economist. I believe markets have a very large role to play in
-society, but the fetishization of markets, I think, is very damaging. And in the other direction, where the
-fetishization of markets is very damaging.
-
-PP: is where they start to colonize human relationships. We're seeing that at the moment, so I... one of my favorite
-examples at the moment is... I said I used to work on Wall Street.
-
-PP: private equity firms are now buying up en masse campgrounds in the United States, and they're, you know,
+So no, this is not a criticism of markets. I'm an economist. I believe markets have a very large role to play in
+society, but the fetishization of markets, I think, is very damaging. And another area where the
+fetishization of markets is very damaging is where they start to colonize human relationships.
+We're seeing that at the moment. One of my favorite
+examples at the moment is private equity firms are now buying up en masse campgrounds in the United States, and they're, you know,
 monopolizing them, and the rent prices are going up, and you can go on Instagram or whatever, all the RV guys are
 complaining about it. And there's loads of instances of this, of private equity snapping up various parts of society
-that the money power markets
+that the money-power markets
+shouldn't be in. And that's really pernicious as well. So, so the fetishization of markets, I think, is really
+dangerous in both directions. It can go too deep into the social fabric to extract value. I wrote a piece for *American
+Affairs* recently calling that consumption deepening, as in when you have to kind of go into people's souls to extract
+more profit.
 
-PP: shouldn't be in. And that's really pernicious as well. So, so the fetishization of markets, I think, is really
-dangerous in both directions. It can go too deep into the social fabric to extract value. I wrote a piece for American
-Affairs recently calling that consumption deepening, as in when you have to kind of go into people's souls to extract
-more profit. And then... and then another more practical instance, like in the case of military
-
-PP: planning. So we just shouldn't fetishize markets, and we should try and disconnect them from liberalism. Markets are
-a very good way to spread liberal principles. They just work like that. But they're not in... that's not inherent in
+So we just shouldn't fetishize markets, and we should try and disconnect them from liberalism. Markets are
+a very good way to spread liberal principles. They just work like that. But that's not inherent in
 them. That's like saying social media is a really good way of spreading liberal principles. It is.
-
-PP: But that doesn't mean social media is inherently liberal. You could create a non-liberal, social media. So I just
+But that doesn't mean social media is inherently liberal. You could create a non-liberal social media. So I just
 don't think we should fetishize markets. I don't think we should fetishize anything.
 
-GC: Yep.
-
 GC: Very good. You talk about,
-
-GC: a large number of technologies developed by the state. Again, here I'm thinking... so I'm playing devil's advocate
+a large number of technologies developed by the state. Here I'm playing devil's advocate
 and playing libertarian, responding to you here.
-
-GC: If we consider Toyota, 3M, Bellab, Xerox, Park, and we could throw on more examples. There are also lots of... lots
+But if we consider Toyota, 3M, Bellab, Xerox, Park, and we could throw on more examples. There are also lots
 and lots of new technologies developed outside the state.
 
 GC: Famously, you know, the internet started as a DARPA project, but a lot of the technologies enabling the internet
@@ -521,6 +498,9 @@ GC: These private companies would have developed. They developed a lot as it is,
 they would have developed even more.
 
 GC: So how would you respond to a critic like that?
+
+******************
+
 
 PP: Well, they can't prove it. The thing is, like, the... even if I don't believe that stuff, I... I don't think that
 markets solve all the problems, and I think the state does have a role to play in the economy. But even if I didn't

@@ -532,20 +532,16 @@ the German state, except the Germans are actually more competent at doing it. Th
 the largest as a share of GDP in the world, not quite as big as the French, but it must be 45%
 of British GDP is in the British state.
 
-Meanwhile, look at the Chinese state. It's much smaller.  It's only about 30%, I think, of GDP, much lower taxes in China and so on, very noticeable if you go there. But the
-Chinese state
-
-PP: is not neoliberal. It says we intervene in the economy really directly. It intervenes in capital formation. It
-controls... it controls the banking sector, not just at the Federal Reserve interest rate setting level. It does credit
-rationing in the banking sector through the People's Bank of China and so on. It is a real, what they used to call, dear
-regime state in the French parlance. And yet, look at that. The Chinese state is substantially
-
-PP: smaller than the British state. And when I ask people in China, like, oh, do you guys want to grow the state? They
-go, like, why would we want to grow the state? We'll grow the state if we need more state, but we don't want to grow the
-state for the sake of growing the state. Like, they think that question's odd. They think that's an unusual question to
-ask.
-
-PP: And yet, if you ask a Fabian socialist in the Labour Party, "Do you think we should grow the state?" they'd respond
+Meanwhile, look at the Chinese state. It's much smaller.  It's only about 30%, I think, of GDP, much lower taxes in
+China and so on, very noticeable if you go there. But the Chinese state is not neoliberal. It says we intervene in the
+economy really directly. It intervenes in capital formation. It
+controls the banking sector, and not just at the Federal-Reserve-interest-rate-setting level. It does credit
+rationing in the banking sector through the People's Bank of China and so on. It is a real, what they used to call
+dirigisme state in the French parlance. And yet, look at that: The Chinese state is substantially
+smaller than the British state. And when I ask people in China, "Do you guys want to grow the state?"
+they say, "Why would we want to grow the state? We'll grow the state if we need more state, but we don't want to grow the
+state for the sake of growing the state." They think that question is odd. They think that's an unusual question to
+ask. And yet, if you ask a Fabian socialist in the Labour Party, "Do you think we should grow the state?" they'd respond
 "Oh, yes, we should grow the state." It's such an unusual way of thinking about things.
 
 **************************

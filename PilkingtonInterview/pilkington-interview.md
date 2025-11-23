@@ -540,11 +540,11 @@ rationing in the banking sector through the People's Bank of China and so on. It
 dirigisme state in the French parlance. And yet, look at that: The Chinese state is substantially
 smaller than the British state. And when I ask people in China, "Do you guys want to grow the state?"
 they say, "Why would we want to grow the state? We'll grow the state if we need more state, but we don't want to grow the
-state for the sake of growing the state." They think that question is odd. They think that's an unusual question to
+state for the sake of growing the state." They think that question is odd, that it's an unusual question to
 ask. And yet, if you ask a Fabian socialist in the Labour Party, "Do you think we should grow the state?" they'd respond
 "Oh, yes, we should grow the state." It's such an unusual way of thinking about things.
 
-**************************
+
 
 PP: So I don't think that the nature of a state has anything to do with the size of a state. I
 personally think you're better off with probably about 30% of GDP as the state. It's pretty much the same in
@@ -553,21 +553,21 @@ Hungary is some autocracy that's ruled over by King Orban or something like that
 state's much smaller here. The income tax rate is 15%. So, and yet, at the same time, I think that the Hungarian state
 bills itself as a more interventionist state than the British state in terms of intervening in certain markets.
 So I don't think the nature of the state is the same as the size of the
-state, and I... in response to what would it look like without the state, I think you were... that's noble, savage
+state, and in response to what would it look like without the state: that's noble savage
 thinking, because I think states are inherent in human society.
 
-GC: Reading your book, I was occasionally thinking of René Girard.  And your recent comments 
-brought that to mind. In particular, he does an analysis of Troilus and Cressida, where Ulysses gives a
-speech where he says, now that hierarchies are overthrown... I'm going from memory here,
-so this isn't word for word, but now everything's chaotic. And what Girard shows, I think,
+GC: Reading your book, I was occasionally thinking of René Girard.  And your earlier comments 
+brought that to mind. In particular, he does an analysis of *Troilus and Cressida*, where Ulysses gives a
+speech saying in effect, now that hierarchies are overthrown
+everything is chaotic: everyone is vying for position. And what Girard shows, I think,
 is that the attempt to overturn all hierarchies does not result in society where everyone is equal. What it results in
-is a fierce struggle for a position. With established hierarchies, you have mimesis but once they break down,
-you have rivalry.
+is a fierce struggle for status. With established hierarchies, you have mimesis but once they break down,
+you have memetic rivalry.
 
 Are you familiar with Girard's work, and do you see it connecting to your own?
 
 PP: Yeah, actually, this connection's really interesting, and I haven't said it yet to anybody.
-But I kind of have a little bit of a joke, maybe to myself, maybe I've said it to somebody else, that the book... my
+But I kind of have a little bit of a joke, maybe to myself, maybe I've said it to somebody else, that my
 account of liberalism is massively inspired by the work of Gilles Deleuze, the French post-structuralist philosopher,
 who wrote a book that's both kind of brilliant and kind of awful, called *Anti-Oedipus*.
 

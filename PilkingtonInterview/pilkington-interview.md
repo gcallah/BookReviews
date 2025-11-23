@@ -481,26 +481,19 @@ them. That's like saying social media is a really good way of spreading liberal 
 But that doesn't mean social media is inherently liberal. You could create a non-liberal social media. So I just
 don't think we should fetishize markets. I don't think we should fetishize anything.
 
-GC: Very good. You talk about,
-a large number of technologies developed by the state. Here I'm playing devil's advocate
-and playing libertarian, responding to you here.
-But if we consider Toyota, 3M, Bellab, Xerox, Park, and we could throw on more examples. There are also lots
+GC: Very good.
+
+OK, you talk about the large number of technologies developed by the state. Here I'm playing devil's advocate,
+playing libertarian, responding to you.
+But if we consider Toyota, 3M, Bellab, Xerox PARC, and similar companies, there have also been lots
 and lots of new technologies developed outside the state.
+Famously, the Internet started as a DARPA project, but a lot of the technologies enabling the Internet
+were developed at Bell Labs and similar places. So a libertarian response here is likely to run: "Well, yes, given
+the large amount of government taxation and spending, of course there's many technologies that were
+developed by the government, but if it hadn't been sucking up those resources, think how much more
+these private companies would have developed.
 
-GC: Famously, you know, the internet started as a DARPA project, but a lot of the technologies enabling the internet
-were developed. Bell Labs did a lot of that, right? So a libertarian response there is likely to run... well, yes, given
-the
-
-GC: amount of government taxation and spending. Of course, there's a number of technologies that were... happened to be
-developed by the government, but if they hadn't been sucking up these resources, think how much more
-
-GC: These private companies would have developed. They developed a lot as it is, and they, without all this taxation,
-they would have developed even more.
-
-GC: So how would you respond to a critic like that?
-
-******************
-
+How would you respond to a critic like that?
 
 PP: Well, they can't prove it. The thing is, like, the... even if I don't believe that stuff, I... I don't think that
 markets solve all the problems, and I think the state does have a role to play in the economy. But even if I didn't
@@ -518,29 +511,28 @@ PP: might not work out so well, because it's not a market-based system, and it'l
 monopoly power. You might make the situation even worse than in the interventionist state. You know, it's not... even
 from a libertarian economics point of view, it's actually pretty hard to think through those kind of problems.
 
-PP: My advice would be do not try and inject too much market principles into the state. I've never really seen it work
-very well. But I just don't think the state is going away. I think those arguments are kind of like, you know, you know,
-you read Rousseau on the Noble Savage. I think it's of the same ilk. It's like, my response to Rousseau, obviously the
-Noble Savage isn't real from an anthropological point of view, but I don't think you even need to say that. I think I
-could go back to the 18th
+******************
 
-PP: century, I'm pretty sure people did say this to him, and just say, like, there is no such thing as a noble savage,
-because, like, there is always a society. The person is always born into that.
 
-PP: And so it's a kind of... it's a kind of moot point. I see the same thing with the state. Now, that... that doesn't
+PP: My advice would be do not try and inject too many market principles into the state. I've never really seen it work
+very well. But I just don't think the state is going away.
+
+It's like the idea of the Noble Savage in the 18th-century. 
+But there is no such thing as a noble savage,
+because there is always a society. The person is always born into that.
+
+And so it's a kind of moot point. I see the same thing with the state. Now, that doesn't
 mean that you have to have a large state or a small state.
 
-PP: I mean, just take the example today of the Chinese state versus, say, the British state, right? The British state,
-since the Thatcher era, has tried to inject as much in terms of market principles
-
-PP: They call it neoliberal principles, or whatever, into that state. It's tried to have all these public-private
-partnerships, all of these things. It brands itself as a kind of a market state, and you could say something similar for
+PP: Just take the example today of the Chinese state versus, say, the British state: The British state,
+since the Thatcher era, has tried to inject as much in terms of market principles --
+they call it neoliberal principles -- into that state. It's tried to have all these public-private
+partnerships. It brands itself as a kind of a market state, and you could say something similar for
 the German state, except the Germans are actually more competent at doing it. The British state's enormous. It's one of
 the largest as a share of GDP in the world, not quite as big as the French, but it must be 45%
+of British GDP is in the British state.
 
-PP: of British GDP is in the British state. Meanwhile, look at the Chinese state. It's much smaller.
-
-PP: It's only about 30%, I think, of GDP, much lower taxes in China and so on, very noticeable if you go there. But the
+Meanwhile, look at the Chinese state. It's much smaller.  It's only about 30%, I think, of GDP, much lower taxes in China and so on, very noticeable if you go there. But the
 Chinese state
 
 PP: is not neoliberal. It says we intervene in the economy really directly. It intervenes in capital formation. It
@@ -553,10 +545,8 @@ go, like, why would we want to grow the state? We'll grow the state if we need m
 state for the sake of growing the state. Like, they think that question's odd. They think that's an unusual question to
 ask.
 
-PP: And yet, if you ask a Fabian socialist.
-
-PP: in the Labour Party, well, do you think we should grow the state? Oh, yes, we should grow the state. It's such an
-unusual way of thinking about things.
+PP: And yet, if you ask a Fabian socialist in the Labour Party, "Do you think we should grow the state?" they'd respond
+"Oh, yes, we should grow the state." It's such an unusual way of thinking about things.
 
 **************************
 

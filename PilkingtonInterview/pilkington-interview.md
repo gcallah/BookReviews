@@ -130,10 +130,6 @@ In the West, again, we can refer back to Roman legal structures and Christian mo
 foundations of Western civilization. And liberalism can kind exist parasitically on top of those more hierarchical
 structures.
 
-
-*********
-
-
 And, as I said, it goes in fits and starts. Occasionally, you get this burst of hard liberalism. For example, I
 think the English Civil War was such a burst, and even more profoundly, the French Revolution was. The 1848 revolutions were
 bursts of hard liberalism. The Paris Commune was another burst of hard liberalism.
@@ -142,8 +138,9 @@ a generation, and you'd get some sort of restoration.
 You might get a more liberal regime in Napoleon III or something like that, but it's
 intermixed with the regal structures, or the church structures:
 the French were particularly good at coming up with these hybrid soft-liberal republics, one after the other.
+And the Americans did, too, in a different way.
 
-And the Americans did, too, in a different way. But that's basically what happened. Now, what that
+Now, what that
 meant was that liberalism never really penetrated deeply into the social fabric at all. For most of the liberal
 period, if you want to call those 500 years the liberal period,
 most people in the West lived Christian lives. Even if they didn't believe in 1890 in Britain, even if they all just
@@ -153,11 +150,10 @@ married with Christian ethical principles.
 
 Since about 1990, that has not been the case. This is the period I call hyperliberalism in the book.
 What's happened is liberalism has spread quite quickly into the body politic, right
-down to all levels. So, just to give an example, if you go back to the early 19th century, early 20th century, I should
-say, British elite, okay? You can read loads of novels from that period, Evelyn Waugh, something like that, and you'll see
-these people
-and you'll say, I know these people. These are liberals. These are the same decadent, bohemian liberals that I see
-today.
+down to all levels. So, just to give an example, if you go back to the early 20th century
+British elite: You can read loads of novels from that period, Evelyn Waugh, something like that, and you'll see
+these people and you'll say, I know these people. These are liberals. These are the same decadent, bohemian liberals
+that I see today.
 
 And they were everywhere in the British elite back then, and there were some in America, too, such as
 Mabel Dodge Luhan, and these people, artistic bohemian types, but they were quite powerful, and they'd go on to
@@ -182,8 +178,7 @@ thought that these ideas should spread, we should liberate the common people too
 were they able to actually spread liberalism throughout society, whereas earlier, they hadn't been able to?
 
 PP: It's a really good question. I have not addressed in the book, to be clear. It's a very complex question, and I
-think it's one that's been debated, especially in American conservative circles. I think this is the big question in
-American conservative circles.
+think it's one that's been debated, especially in American conservative circles.
 I think I'm not gonna say anything terribly original here. I think a lot of it had to do with the 60s.
 I think that this cultural revolution was democratized. It then became commercialized. I think that was really
 important. The mass consumer commercial culture wasn't there in the past to catch hold of these ideas and democratize
@@ -192,8 +187,8 @@ sometimes, 1983 America, while a lot more liberal than 1953 America, still wasn'
 
 But the Cold War ended, the greatest generation, who were soft liberals, as I'd call them, died off.
 I think the last non-hyper-liberal president was probably George H.W. Bush. And then in comes Clinton:
-These were the baby boomers, they'd never experienced war or conflict themselves at least not the elite
-ones who dodged the draft in Vietnam and so on. And then they were told, "You run the world now. And there are absolutely
+These were the baby boomers, they'd never experienced war or conflict themselves, at least not the elite
+ones who dodged the draft in Vietnam. And then they were told, "You run the world now. And there are absolutely
 no limits to your power. There are no checks and balances on your power, you don't have to think about that at all."
 
 And then they were handed extremely highly developed mass media systems, propaganda systems.
@@ -211,10 +206,10 @@ PP: Exactly!
 GC: At one place in the book, you write: "a society that organizes itself in line with human nature will be stable,
 prosperous, and its inhabitants will be content and happy."
 
-Now, I think it's a sound idea to organize a society in line with human nature, but that sentiment seems kind of optimistic to
-me. Look: Eden was organized in line with human nature, and yet still we fell.
-And, you find Plato saying, even if we could establish the very best republic, it would decay over time,
-given the nature of the world of becoming.
+Now, I think it's a sound idea to organize a society in line with human nature, but your statement seems kind of
+optimistic to me. Eden was organized in line with human nature, and yet still we fell.  And, you find Plato
+saying, even if we could establish the very best republic, it would decay over time, given the nature of the world of
+becoming.
 
 And then there's the situation of some society maybe going along fine on its own. I don't know what the political
 situation in Poland was like in 1939. But let's just posit you have a good society, but..
@@ -232,7 +227,7 @@ responding to these critics, saying basically that I agree with their criticisms
 value in those type of Hegelian process philosophies is that everything is in a state of becoming. There is
 no ultimate *telos* in this world. I'm Catholic, so I *do* think there is an ultimate end, just not in this world.
 
-And basically, in trying to establish a decent society, just build in as much natural
+Basically, in trying to establish a decent society, just build in as much natural
 law as possible. And the more natural law you build in, the more content people will be.
 They won't be perfectly satisfied. People aren't like that. They're
 funny, strange creatures, but it's the best you're going to get.
@@ -251,20 +246,18 @@ resembling natural law thinking. And of course, natural law thinking doesn't jus
 China twice this year, talking with Confucian scholars and 
 I am of the view, the Jesuit view, that there is definitely natural law thinking in, for example, Confucius, which
 is pretty much as advanced as our pagan thinkers. So, it'll look different elsewhere, and it'll never
-be perfect, but, that's just the... that's the human condition.
+be perfect, but, that's just the human condition.
 
-GC: We're both readers of John Gray. He just came out with an essay
-in *The New Statesman*, reiterating something he's been saying since the 90s.
-Now, he has many criticisms of liberalism.
-But what he sees as the actual, best thing we can do politically, given our situation,
-is a kind of modus vivendi liberalism that stops trying to invade
-subcultures and liberalize them. A regime that allows Muslims to be Muslims, and allows Mormons to be Mormons, and
-the Amish to be Amish, and accepts this diversity instead of trying to force liberal values on everyone.
-But this is under a general, broadly liberal umbrella. So, I think what he is essentially saying,
-in your terms, is that we *can* and should return to soft liberalism.
+GC: We're both readers of John Gray. He just came out with an essay in *The New Statesman*, reiterating something he's
+been saying since the 90s. Now, he has many criticisms of liberalism. But what he sees as the actual, best thing we
+can do politically, given our situation, is a kind of *modus vivendi* liberalism that stops trying to invade
+subcultures and liberalize them. A regime that allows Muslims to be Muslims, and allows Mormons to be Mormons, and the
+Amish to be Amish, and accepts this diversity instead of trying to force liberal values on everyone.  But this is under
+a general, broadly liberal umbrella. So, I think what he is essentially saying, in your terms, is that we *can* and
+should return to soft liberalism.
 
-GC: He would contend there's no consensus for, for instance, re-Christianizing the U.S, that this would be very
-divisive, and it's... it's not going to happen given the large number of people who would object to the project. So, how
+He would contend there's no consensus for, for instance, re-Christianizing the U.S, that this would be very
+divisive, and it's not going to happen given the large number of people who would object to the project. So, how
 would you respond to Gray's contention here?
 
 PP: Well, to my mind, they're two separate things. So, having different cultural and religious groups
@@ -272,6 +265,10 @@ live in harmony has nothing to do with liberalism. It happened before liberalism
 since. I'm currently sitting in Budapest. I was down in Serbia a few weeks ago.
 We are close to the border here. There are minarets with the with the crescent taken down all over the little
 towns here.
+
+
+*********
+
 
 And what I'm saying there is that this region occasionally has had harmony between various religious groups, and it
 occasionally lived where there was conflict between those religion groups: the Ottoman Turk Muslims, and the various Christian

@@ -1,17 +1,16 @@
 # Interview with PP Pilkington
 
 
-Gene Callahan: So, to start, I think there's a potential confusion for American readers in that, typical American usage,
-liberalism signifies someone left of center, right? Now, you're using it in the sense of people have said that,
+Gene Callahan: So, to start, I think there's a potential confusion for American readers in that, in typical American usage,
+liberalism signifies someone left of center. Now, you're using it in the sense of people who have said that,
 what you have in America is left liberals and right liberals.
 So, perhaps you can talk a little bit about how you're using the word liberalism differently than this American sense,
-and what you see this global liberalism is that's collapsing.
+and what you see this global liberalism is that's collapsing?
 
-Philip Pilkington: Yeah, I'm actually... I'm weirdly sympathetic to the American use of liberal. I know there's kind of
-we all grow up with if we kind of go to college or we interact with academic types and so on, and Europeans
-and, you know, classical liberals and so on will be very kind of snobby about the fact that America's supposedly
-distorted the use of the term liberal by referring to the
-mainstream of Democratic Party political culture.
+Philip Pilkington: Yeah, I'm actually weirdly sympathetic to the American use of liberal. I know there's something
+we all grow up with if we went to college or we interact with academic types, and Europeans
+and classical liberals will be very kind of snobby about the fact that America has supposedly
+distorted the use of the term liberal by referring to the mainstream of Democratic Party political culture.
 
 And I think you're absolutely right that the main dividing line in American politics has not been liberal and
 conservative per se, it's been left liberal and right liberal. At the same time, I think people are kind of onto
@@ -21,14 +20,14 @@ of Europe, and especially to the Anglo countries, like Ireland, Britain, Austral
 I think there's actually something to that.
 
 When I speak of liberalism, I'm referring to liberalism in a very broad historic, sense. So, I consider that for 
-the beginning of liberalism the main political event to have been the English Civil War.
+the beginning of liberalism the main political event was the English Civil War.
 (Which is a misnomer, it wasn't a civil war, it was a revolution.
 The English covered that up because they wanted to promote constitutional continuity. But it's not true. There was
 a revolution. It was just like the French Revolution. It worked a little bit
 differently: armies fought against each other. But, there was a beheading of a monarch,
 the establishment of a dictatorship under Oliver Cromwell, and there was enormous social upheaval, cultural and
 social upheaval, the stripping of the churches, the attempt to strip what was left of Anglican
-culture out of the churches, because it too much resembled Catholicism to the Puritans.
+culture out of the churches, because to the Puritans it too much resembled Catholicism.
 
 You could even say that the ideological roots of liberalism go back to the Reformation. Brad S.
 Gregory wrote a book about that. I totally agree with what he's saying, but I think the English (so-called) Civil War, ,
@@ -37,7 +36,7 @@ liberalism, and it ended up establishing the first major, modern republic in the
 form of the short-lived English republic. The other republics prior to that were minor, Calvin's
 Geneva, the Venetian Republic, and so on. I think they were just experimenting with sort of a Greek form of government. But in
 terms of modern, liberal republics, I think Cromwell was the first. And then, who comes along and
-ideologizes Cromwell, but John Locke, in his Two Treatises on Government?
+ideologizes Cromwell, but John Locke, in his *Two Treatises on Government*?
 And interestingly, this was understood at the time. John Locke did not publish the two
 treatises under his own name.
 
@@ -47,7 +46,7 @@ And he knew that the Two Treatises on Government would have been considered an a
 that were put in place under the Cromwellian parliamentary dictatorship.
 
 And what was this all about? Well, I think there's an absolute continuity between those initial liberal advances
-and the present day of transgender ideology. I don't see any difference between the ideas: they are
+and the present day of transgender ideology. I don't see any essential difference between the ideas: they are
 all anti-hierarchical.
 
 The fundamental principle of liberalism, on my reading of it, is that there should not be arbitrary
@@ -60,21 +59,21 @@ the revolutionaries *do* kill the king, like the Puritans. But unlike the Purita
 the French revolutionairies actually try to replace Christian religion altogether.
 
 They try to impose a cult of reason, and put a prostitute in Notre Dame Cathedral. So you're seeing that over time,
-liberalism becomes more radical. The Puritans were happy with a very stripped-down form of Protestant religion, you know, very
-individualistic, and no ornamentation, and no hierarchy in the church, and so on. (These are the more radical
+liberalism becomes more radical. The Puritans were happy with a very stripped-down form of Protestant religion, very
+individualistic, and no ornamentation, and no hierarchy in the church. (These are the more radical
 non-conformists. I know there are Presbyterians and so on who are different, but that was the direction it was moving in.
 And then by the time you get to the French Revolution, Voltaire had already made his attacks on the church,
 and then the revolutionaries just want to tear the whole thing down.
 
 Now, just really briefly, we continue to see these questioning of hierarchies proceed all the way up to the present day
 when we question gender hierarchies. It seems to be almost the pinnacle of the entire liberal project. The family comes
-in for criticism and so on. Whig history, which is history seen through the lens of liberal ideology,
+in for criticism as well. Whig history, which is history seen through the lens of liberal ideology,
 pretends that there's a linear trajectory to this.
 There isn't. It tends to to move in kind of fits and starts. So some of the liberal principles in the French Revolution,
-for example, that were put into place, for example, metric clocks, strange calendars, these kind of things, attempts to
-impose very strange principles of rationality on the population would have later been seen as radical by fairly radical
-Whigs in the late 19th century. So there's no... there's no actual straight line with liberalism. It's more like a
-an path that's kind of bumpy, and it goes through fits and starts. But I think today
+for example, that were put into place, were metric clocks, strange calendars, these kind of things, attempts to
+impose very strange principles of rationality on the population that would have later be seen as radical by fairly radical
+Whigs in the late 19th century. So there's no actual straight line with liberalism. It's more like a
+path that's kind of bumpy, and it goes through fits and starts. But I think today
 we have actually reached the end of it, and I know that's an enormously controversial claim, because we're talking about
 a half-millennia-old political movement.
 
@@ -99,6 +98,10 @@ assasinations and whatnot, but in one form or another, this polity limps along u
 
 So why would we think that liberalism won't kind of lurch from crisis to crisis with some calmer
 periods for some indeterminate length of time? Why should we think that collapse is imminent?
+
+
+
+*********
 
 PP: I think the collapse here that we're talking about is, in some sense, potential civilizational collapse. It doesn't
 have to be, we can pull out of it, I think.

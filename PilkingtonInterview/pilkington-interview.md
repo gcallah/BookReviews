@@ -99,40 +99,40 @@ assasinations and whatnot, but in one form or another, this polity limps along u
 So why would we think that liberalism won't kind of lurch from crisis to crisis with some calmer
 periods for some indeterminate length of time? Why should we think that collapse is imminent?
 
-
-
-*********
-
 PP: I think the collapse here that we're talking about is, in some sense, potential civilizational collapse. It doesn't
 have to be, we can pull out of it, I think.
 Rome effectively civilizationally collapses, there's no doubt about that, and that... those
-kind of things take a long line, as you said. And, you know, some people could even claim that Rome never collapsed, and
+kind of things take a long time, as you said. And, you know, some people could even claim that Rome never collapsed, and
 that modern Europe is Rome, and I'm sympathetic to some of those arguments. But the issue with liberalism is pretty
 different, to my mind, because Rome, for all its faults,
-Rome kind of rises and falls like a normal kind of empire. But the
+Rome rises and falls like a normal kind of empire. But the
 governance structures of Rome, the ideas on which it were founded, were not really the problem.
 It was a political problem in Rome. It was over-expansion due to empire.
-That's a political issue. We still, if you go to a courtroom in Europe, you're operating under very obvious aspects
+We still, if you go to a courtroom in Europe, you're operating under very obvious aspects
 of Roman law, and those things continue on even in the Anglo-Saxon
 legal tradition. I don't think Rome ever really was discredited, in a sense. Maybe some of the barbaric practices,
-pre-Christian practices, were by the emergence of Christianity.
-discredited. 
+pre-Christian practices, were discredited by the emergence of Christianity.
+
 Liberalism's a very different beast, because, I don't think it actually works
 as a governing structure. I don't think it *can* work.
 I think it's very similar to Marxist communism in that way. Marxist communism, as you know, if you read the book,
-I'd consider just a slightly radical offshoot cousin of liberalism. Although, in some senses, as Ryszard Legutko has
-pointed out, liberalism is more radical than Marxist communism, in some ways. Not on the economic side, but
-in practice anyway, on the attacks on family and the church.
+I'd consider just a slightly radical offshoot cousin of liberalism. Although, in some ways, as Ryszard Legutko has
+pointed out, liberalism is more radical than Marxist communism. Not on the economic side, but
+in practice anyway, in the attacks on family and the church.
 But the issue is that liberalism was never properly tried. It's been around for 500 years,
 and over those years, it's been an enormously popular ideology among the bohemian side of the elite.
-Increasingly then, in the 20th century, probably around... well, I'd say in the late 19th century, it had already
-risen to kind of mainstream in Britain, and then it was obviously mainstream in the American global period after 1945.
+Increasingly then, in the late 19th century, it had already risen to kind of mainstream in Britain, and then it was
+obviously mainstream in the American global period after 1945.
 
 But as I say in the book, I distinguish two different things: soft liberalism and hard
 liberalism. Soft liberalism is when liberalism mixes with non-liberal aspects of society.
 In the West, again, we can refer back to Roman legal structures and Christian moral structures: the
-foundations of Western civilization.
-And liberalism can kind exist parasitically on top of those more hierarchical structures.
+foundations of Western civilization. And liberalism can kind exist parasitically on top of those more hierarchical
+structures.
+
+
+*********
+
 
 And, as I said, it goes in fits and starts. Occasionally, you get this burst of hard liberalism. For example, I
 think the English Civil War was such a burst, and even more profoundly, the French Revolution was. The 1848 revolutions were

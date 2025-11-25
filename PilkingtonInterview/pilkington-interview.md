@@ -1,4 +1,4 @@
-# Interview with PP Pilkington
+# Interview with Philip Pilkington
 
 
 Gene Callahan: So, to start, I think there's a potential confusion for American readers in that, in typical American usage,

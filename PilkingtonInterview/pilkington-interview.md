@@ -266,10 +266,6 @@ since. I'm currently sitting in Budapest. I was down in Serbia a few weeks ago.
 We are close to the border here. There are minarets with the with the crescent taken down all over the little
 towns here.
 
-
-*********
-
-
 And what I'm saying there is that this region occasionally has had harmony between various religious groups, and it
 occasionally lived where there was conflict between those religion groups: the Ottoman Turk Muslims, and the various Christian
 denominations, from the Orthodox in Serbia to the Catholics and Lutheran population in Hungary. Now, these people found
@@ -280,12 +276,12 @@ the region will admit that the Austro-Hungarian monarchy was a pretty good way o
 entity at all, the Austro-Hungarian monarchy. It was Catholic, quite aggressively Catholic, but
 tolerant.
 
-So I'll just give you an example of that. In Romania, I visited a Kolish forest, they call it here.
-: And, the town, basically, Kolishvar, which was Hungarian, still is partially Hungarian, went through a phase
+So I'll just give you an example of that. In Romania, I visited a the town of Kolozsvár [Cluj-Napoca in Romanian],
+which was Hungarian, still is partially Hungarian, went through a phase
 where a radical preacher came to town, I think it was in the 17th or 18th century, and he converted everyone to
 some form of Protestantism.
 
-And the Habsburgs tolerated it. They, you know, gritted their teeth, and they tolerated it, and they didn't invade.
+And the Habsburgs tolerated it. They gritted their teeth, and they tolerated it, and they didn't invade.
 And then he got new ideas into his head and converted everyone to Unitarianism.
 And then they sent in the cavalry. And I think it's a great story. And now most of them are Catholic, but I
 actually had the privilege of visiting a trad Unitarian village, which was full of Hungarians. It's the most fascinating
@@ -298,40 +294,35 @@ tendency to play groups off each other, to increase liberal power. America's don
 not quite as bad as the British have, but still I think there's a lot of duplicity.
 So, we are going to have to figure out a way of living together, especially in Europe with our large Muslim
 populations. I think it's going to be very difficult. I think these ideas that we're going to re-migrate everyone are
-crazy. I think they'd lead to civil war. And I don't think that we're going to Christianize a bunch of strongly
+crazy: They'd lead to civil war. And I don't think that we're going to Christianize a bunch of strongly
 religious Muslims who seem to believe in their faith more than the Christians on the continent. So, that's a
-question, one of religious toleration, and... that's just the world. The world's always just had to come to that
-conclusion. Before end times, does everybody become a Christian?  That's above my pay grade, I don't know. But then the
+question, one of religious toleration, and... that's just the world. The world's always just had to deal with
+that. Before end times, does everybody become a Christian?  That's above my pay grade, I don't know. But then the
 second question is,
 can we re-Christianize the... how should I put it? I don't want to call them former Christians, because they're not
 former Christians. The current progressive liberals, they are still in that tradition. They're not Muslim.
 
-Their civilization of the same as...
-actual practicing Christians' civilizational roots. So the question, really, for, I think, us, is what do we do with
-our own people? I mean, the religious toleration question is very important, but it's a separate question
-from what we do with our own people.
+Their civilization is the same as that of
+actual practicing Christians. So the question, really, for us, is what do we do with
+our own people? I mean, the religious toleration question is very important, but it's a separate question.
 
 And I really don't see any alternative here. These people are either going to have to find their way back to
-some of their civilizational roots, or
-they're going to... in fact, they already *are*, reverting to barbarism.
-to revert... they already are reverting to barbarism, and I don't mean that just in an ethical sense, like
-supporting abortion. Obviously, I don't like the fact they support abortion, but that's like the
-90s version of this.
-No, I mean they will not be able to live properly. They will not be able to take care of
-themselves, they will not be able to reproduce.
-themselves as a species. They will put enormous burdens on our
-social care systems and so on, and we're already seeing this. It's becoming really profound now in my generation,
-millennials and younger. The social norms have completely evaporated, and a lot of these people don't really
-know how to live properly, and it's only going to get worse and worse, and eventually we'll come to a state of
-people in bear skins, but in a digital world. And the people in the bear skins aren't going to
-be very productive or useful. They're going to be quite chaotic, we're already seeing that around the edges.
+some of their civilizational roots, or they're going to revert to barbarism. In fact, they already *are* reverting to
+barbarism, and I don't mean that just in an ethical sense, like supporting abortion. Obviously, I don't like the fact
+they support abortion, but that's like the 90s version of this.  No, I mean they will not be able to live properly. They
+will not be able to take care of themselves, they will not be able to reproduce themselves as a species. They will put
+enormous burdens on our social care systems and so on, and we're already seeing this. It's becoming really profound now
+in my generation, millennials and younger. The social norms have completely evaporated, and a lot of these people don't
+really know how to live properly, and it's only going to get worse and worse, and eventually we'll come to a state of
+people in bear skins, but in a digital world. And the people in the bear skins aren't going to be very productive or
+useful. They're going to be quite chaotic, and we're already seeing that around the edges.
 
 What, for instance, the Muslims do with Turkey isn't really our business. Obviously, we have to live with it, and we have to live
 in the same world with them, and we should try and do that in harmony. We don't want conflicts. But
 really, our focus shall be on what do we do with the the Christians that have been wrecked by liberalism.
 
 And as I said, I think it's really re-Christianization or barbarism. I don't mean that they all have to go to church or anything like
-that, but they have to start adhering to the sorts of, moral values that say, a slightly agnostic person in America in 1955 adhered to.
+that, but they have to start adhering to the sorts of moral values that, say, a slightly agnostic person in America in 1955 adhered to.
 
 GC: A Walker Percy character in *Love in the Ruins* is talking about his girlfriend at the time, and he said she was
 a really good Christian who didn't believe in God.
@@ -343,12 +334,12 @@ GC: Your chapter on military topics was very interesting. Naturally I had seen t
 evangelical liberalism leads to imperialism, and this was clear when
 America was going to spread democracy throughout the Middle East, was going to produce little mini-Americas
 all over the world. But what was interesting in your book was that you make a strong case,
-but one that I'm not really capable of evaluating, that liberalism is making purely,
+but one that I'm not really capable of evaluating, that liberalism is making purely
 tactical errors. Not just strategic errors trying to spread liberalism everywhere, but tactical errors in the way
 that liberal societies spend money on military equipment.
 
-So how did you develop this thesis? Have you,
-did you have military experience in your background?
+So how did you develop this thesis?
+Did you have military experience in your background?
 I think you made a strong case for this, but I'm just curious how you arrived at it.
 
 PP: Well, no, I have no military background. I'm an economist. I can claim to be that.
@@ -359,17 +350,15 @@ I know people like that, and often they're very knowledgeable, and I wasn't one 
 What changed that was the war in Ukraine. I was fascinated the moment it broke out, because everything that I thought
 I knew was thrown into question.
 
-An example I always go back to, it's by
-Hubert Dreyfus, the Heidegger scholar, and he says in one of his lectures that normally when you use a door,
-you don't think about it.
-But when the door won't open, *then* you think about it, and in fact, you can panic. You can go, oh, am I stuck in
-the room, you know? And that's really striking. Intellectually,
-I've had that experience a couple of times in my life, and they're always the most revealing times.
+An example I always go back to, it's by Hubert Dreyfus, the Heidegger scholar, and he says in one of his lectures that
+normally when you use a door, you don't think about it.  But when the door won't open, *then* you think about it, and in
+fact, you can panic. You can go, oh, am I stuck in the room, you know? And that's really striking. Intellectually, I've
+had that experience a couple of times in my life, and they're always the most revealing times.
 
 And that moment the door didn't work was the Ukraine war, because I realized that my assumption, shared by almost
 everybody, which I'd never really thought about, was that, basically,
 NATO, or the United States, or whoever we want to say backed the Ukrainian side in that war, was really big,
-economically. And we thought certainly Russia's behind in terms of technology.
+economically. And we thought certainly Russia is behind in terms of technology.
 We in the West are the big economies, and so therefore, there's absolutely no chance for Russia,
 if we pour all this materiel into this very large and well-trained army in Ukraine.
 
@@ -379,21 +368,18 @@ That all turned out to be completely false.
 
 And I just got fascinated with it, I was just watching it every day. I read enormous
 amounts about military strategy. I started reading about how you plan strike packages, and
-and that kind of thing, and the conclusion I came to was
-that, the West had just gotten carried away with itself.
-It had become completely enamored with technology.
+that kind of thing, and the conclusion I came to was that, the West had just gotten carried away with itself.  It had
+become completely enamored with technology.
 
-It was partly because the United States, as the hegemon,
-especially since the 1990s, but even in the Cold War, to a certain extent, set its military up like a global
-policing operation.
-And in a global policing operation, relying on, for example, having the best optic on your rifle, makes some
-sense.
-But it makes absolutely no sense in mechanized industrial warfare. And so I realized that was one aspect of this,
-which was inherent in the nature of the unipolar, quasi-imperial system.
+It was partly because the United States, as the hegemon, especially since the 1990s, but even in the Cold War, to a
+certain extent, set its military up like a global policing operation.  And in a global policing operation, relying on,
+for example, having the best optic on your rifle, makes some sense.  But it makes absolutely no sense in mechanized
+industrial warfare. And so I realized that was one aspect of this, which was inherent in the nature of the unipolar,
+quasi-imperial system.
 
 But the other aspect of it was a complete fetishization of progressive technology, technological
-development, which is a real hallmark of liberalism. Right up to the idea that, as in the writing I
-was reading from the RAND Corporation that claimed within 10 years we'd have robots fighting
+development, which is a real hallmark of liberalism. Right up to the idea that, as I
+was reading from the RAND Corporation, claiming within 10 years we'd have robots fighting
 robots, and there'd be no human deaths at all.
 
 And so there was these two things kind of working together, the kind of liberal, progressive view of technology,
@@ -440,24 +426,23 @@ But they are definitely very good at distributing consumer products, and I think
 law-based, entities. I think that you can find non-liberal thinkers talking about markets. The Salamanca School stands
 out as the most prominent. That's a counter-Reformation Catholic school of thought.
 
-And, so markets are a separate bag to liberalism. I think where liberalism comes into the picture is the
+So markets are a separate bag to liberalism. I think where liberalism comes into the picture is the
 fetishization of markets, is the thinking, and this would be my criticism of the libertarian strain of liberalism,
 that markets solve absolutely every problem. And at that point, they kind of become a fetish, and they
 definitely become ideological at that point.
 
-As in, you're there with a hammer and everything looks like a nail. If you're there with a hammer
-and everything looks like a nail, you've left the realm of practical
-political thinking behind, and you're in the realm of ideology. And there's varying ideologies, but you're in
-the realm of liberal ideology when you're trying to apply market-based principles to absolutely everything.
+If you're there with a hammer and everything looks like a nail, you've left the realm of practical political thinking
+behind, and you're in the realm of ideology. And there's varying ideologies, but you're in the realm of liberal ideology
+when you're trying to apply market-based principles to absolutely everything.
 
-PP: And that's kind of how I think about it. Markets function very well in certain circumstances. They function somewhat
-poorly in others, and they don't function at all in others, and that a military is just one that they do not function at all.
+Markets function very well in certain circumstances. They function somewhat
+poorly in others, and they don't function at all in others. The military is just one where they do not function at all.
 There is absolutely no way that I can think of, and I believe I'm a reasonably competent economist,
 there is no way I can think of to come up with some market mechanism to put a price on military goods that may never be used.
 
 That's ultimately what we're dealing with. It could be... let's imagine that you had three cycles of
-military goods, maybe once every 10 years you get a new kind of wave of innovations. And you have no war in those 30 years.
-How do you price these things? I mean, it's not what I am saying that the pricing of the
+military goods, maybe once every 10 years you get a new wave of innovations. And you have no war in those 30 years.
+How do you price these things? I mean, it's not that I am saying that the pricing of the
 1,500 tanks is trivial, but you price them on an input-output basis, and that's central planning.
 That's how Gosplan used to do central planning in the Soviet Union. And as far as I understand
 it, that's effectively how the Russian (and Chinese, for that matter) military-industrial complex works at the moment.
@@ -466,7 +451,7 @@ So no, this is not a criticism of markets. I'm an economist. I believe markets h
 society, but the fetishization of markets, I think, is very damaging. And another area where the
 fetishization of markets is very damaging is where they start to colonize human relationships.
 We're seeing that at the moment. One of my favorite
-examples at the moment is private equity firms are now buying up en masse campgrounds in the United States, and they're, you know,
+examples is private equity firms now buying up en masse campgrounds in the United States, and they're
 monopolizing them, and the rent prices are going up, and you can go on Instagram or whatever, all the RV guys are
 complaining about it. And there's loads of instances of this, of private equity snapping up various parts of society
 that the money-power markets
@@ -476,10 +461,10 @@ Affairs* recently calling that consumption deepening, as in when you have to kin
 more profit.
 
 So we just shouldn't fetishize markets, and we should try and disconnect them from liberalism. Markets are
-a very good way to spread liberal principles. They just work like that. But that's not inherent in
+a very good way to spread liberal principles. But that's not inherent in
 them. That's like saying social media is a really good way of spreading liberal principles. It is.
 But that doesn't mean social media is inherently liberal. You could create a non-liberal social media. So I just
-don't think we should fetishize markets. I don't think we should fetishize anything.
+don't think we should fetishize markets.
 
 GC: Very good.
 
@@ -497,56 +482,44 @@ How would you respond to a critic like that?
 
 PP: Well, they can't prove it. The thing is, like, the... even if I don't believe that stuff, I... I don't think that
 markets solve all the problems, and I think the state does have a role to play in the economy. But even if I didn't
-think that.
+think that the state's never gonna go away. This isthe liberal anti-hierarchical utopianism.
+Even if you accept all the libertarian principles, if in the best case scenario the state went away and it disappeared
+and we'd be in a better society: well, it's never gonna go away, because the state is a natural
+formation in human relationships. And so all you're actually going to get is a better or worse state.
 
-PP: the state's never gonna go away. This is, like, this is... this is the liberal anti-hierarchical utopianism. Like,
-even if you accept all the libertarian principles, if in the best case scenario the state went away and it disappeared
-and etc, etc, we'd be in a better society, like... yeah, but it's never gonna go away, because the state is a natural
-formation in human relationships.
+And you can try and infuse that state with market principles.  But that might not work out so well, because it's not a
+market-based system, and it'll just exercise its kind of fiat and monopoly power. You might make the situation even
+worse than in the interventionist state. Even from a libertarian economics point of view, it's
+actually pretty hard to think through those kind of problems.
 
-PP: And so all you're actually going to get is a better or worse state. And you can try and infuse that state with
-market principles.
-
-PP: might not work out so well, because it's not a market-based system, and it'll just exercise its kind of fiat and
-monopoly power. You might make the situation even worse than in the interventionist state. You know, it's not... even
-from a libertarian economics point of view, it's actually pretty hard to think through those kind of problems.
-
-******************
-
-
-PP: My advice would be do not try and inject too many market principles into the state. I've never really seen it work
+So, my advice would be do not try and inject too many market principles into the state. I've never really seen it work
 very well. But I just don't think the state is going away.
 
-It's like the idea of the Noble Savage in the 18th-century. 
-But there is no such thing as a noble savage,
-because there is always a society. The person is always born into that.
+It's like the idea of the Noble Savage in the 18th-century. But there is no such thing as a noble savage, because there
+is always a society. The person is always born into that. And so it's a kind of moot point. I see the same thing with
+the state. Now, that doesn't mean that you have to have a large state or a small state.
 
-And so it's a kind of moot point. I see the same thing with the state. Now, that doesn't
-mean that you have to have a large state or a small state.
-
-PP: Just take the example today of the Chinese state versus, say, the British state: The British state,
+Just take the example today of the Chinese state versus, say, the British state: The British state,
 since the Thatcher era, has tried to inject as much in terms of market principles --
 they call it neoliberal principles -- into that state. It's tried to have all these public-private
 partnerships. It brands itself as a kind of a market state, and you could say something similar for
 the German state, except the Germans are actually more competent at doing it. The British state's enormous. It's one of
-the largest as a share of GDP in the world, not quite as big as the French, but it must be 45%
-of British GDP is in the British state.
+the largest as a share of GDP in the world, not quite as big as the French, but it must be about 45%
+of British GDP is the British state.
 
 Meanwhile, look at the Chinese state. It's much smaller.  It's only about 30%, I think, of GDP, much lower taxes in
 China and so on, very noticeable if you go there. But the Chinese state is not neoliberal. It says we intervene in the
 economy really directly. It intervenes in capital formation. It
 controls the banking sector, and not just at the Federal-Reserve-interest-rate-setting level. It does credit
-rationing in the banking sector through the People's Bank of China and so on. It is a real, what they used to call
-dirigisme state in the French parlance. And yet, look at that: The Chinese state is substantially
+rationing in the banking sector through the People's Bank of China. It is a real, what they used to call
+dirigisme state, in the French parlance. And yet, look at that: The Chinese state is substantially
 smaller than the British state. And when I ask people in China, "Do you guys want to grow the state?"
 they say, "Why would we want to grow the state? We'll grow the state if we need more state, but we don't want to grow the
 state for the sake of growing the state." They think that question is odd, that it's an unusual question to
 ask. And yet, if you ask a Fabian socialist in the Labour Party, "Do you think we should grow the state?" they'd respond
 "Oh, yes, we should grow the state." It's such an unusual way of thinking about things.
 
-
-
-PP: So I don't think that the nature of a state has anything to do with the size of a state. I
+So I don't think that the nature of a state has anything to do with the size of a state. I
 personally think you're better off with probably about 30% of GDP as the state. It's pretty much the same in
 Hungary, I think it's 35% here. Pretty small state. Again, enormous irony, because most people think
 Hungary is some autocracy that's ruled over by King Orban or something like that. The
@@ -561,7 +534,7 @@ brought that to mind. In particular, he does an analysis of *Troilus and Cressid
 speech saying in effect, now that hierarchies are overthrown
 everything is chaotic: everyone is vying for position. And what Girard shows, I think,
 is that the attempt to overturn all hierarchies does not result in society where everyone is equal. What it results in
-is a fierce struggle for status. With established hierarchies, you have mimesis but once they break down,
+is a fierce struggle for status. With established hierarchies, you have mimesis, but once they break down,
 you have memetic rivalry.
 
 Are you familiar with Girard's work, and do you see it connecting to your own?
@@ -576,15 +549,11 @@ account of the liberal mechanism I've ever read."
 
 And where does it link up with Girard? Because both of them come from the French structuralist tradition.
 They come from the tradition of French structuralist anthropology, basically started... well, started with Marcel
-Maus and so on, but really formulated by Lévi-Strauss, the anthropologist.
-
-And they think in those terms. I think Girard is often just putting many of these mythological
-structures, and I think he's explicit with this because he's an anthropologist, he's putting them in this
-structuralist form.
+Maus and so on, but really formulated by Lévi-Strauss, the anthropologist. And they think in those terms. I think Girard
+is often just putting many of these myths in this structuralist form.
 
 Gilles Deleuz and his co-author, Félix Guattari, are kind of anarchists.
 I mean, they're just liberals in my mind, but they're the anarchist version of liberalism.
-
 And they want to tear down absolutely all the hierarchies. They're in that real 60s mold of the Freudian
 vertical complexes in your head. Remember this Marcuse stuff from back in the 60s? Similar stuff: there's a
 policeman inside of all of our heads, and he must be ejected, and it's the father: everyone's
@@ -593,10 +562,9 @@ familiar with this in the kind of more watered-down version that came to the Ame
 But the best actual articulation of this, the most philosophically coherent, was this Deleuze and
 Guattari book. It's kind of fascinating in that regard.
 
-And what they're basically saying is, if you imagine
-if you imagine a society in terms of structuralist anthropology, you have all these social
-structures built up of customs and norms and totems and taboos: basically moral structures,
-familial structures, all these kind of things.
+And what they're basically saying is, if you imagine a society in terms of structuralist anthropology, you have all
+these social structures built up of customs and norms and totems and taboos: basically moral structures, familial
+structures, all these kind of things.
 
 And Deleuze and Guattari are saying, come in and smash it all, and then smash all the representations you
 have of it in your own head, and you'll come out free. And what Girard is saying is exactly the opposite.
@@ -619,7 +587,7 @@ you'll just end up with this absolutely awful structure. But that awful structur
 what we see today. Because it's a hierarchical structure that's really overweening and oligarchic.
 
 It generates resentment, and it generates another cycle of chaos. So, while I'm not a
-Girardian, per se, but a lot of these ideas are from the same kind of French structuralist
+Girardian, per se, a lot of these ideas are from the same kind of French structuralist
 tradition that Girard's from. From the other side of it, actually, the weirdo side of it in Paris.
 
 GC: And it's fascinating that anyone who challenges the oligarchy is anti-democratic, right?

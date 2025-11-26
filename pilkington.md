@@ -104,6 +104,13 @@ strains resulting from incorporating large numbers of immigrants who are not fam
 to liberal imperialism: once liberal values are exported to all nations, as is the liberal dream, than
 there will no longer be nations with above-replacement birth rates from which to import people.
 
+Furthermore, Importing workers to make up for low native birth rates also harms countries they are being imported
+from. As PP puts it:
+
+"Liberal Westerners were in effect utilizing economic incentives to break up families and communities in the developing
+world to provide cheap labour in the developed countries... Rather than seeing this for what it is -- the outsourcing of
+raising children -- liberals dressed this up as a form of altruism. Bizarrely, under late liberalism, support for
+biological imperialism became a test of one's morality..." (140)
 
 Sexual consumerism
 
@@ -115,7 +122,14 @@ Raising awareness of STDs: word magic!
 
 ## Macroeconomic
 
-When it comes to international trade, Pilkington interestingly revives a proposal by John Maynard Keynes for using a
+PP is rightly scornful of the typical free-trader's response to the disruptions his policies cause:
+
+"If the worker ends up in a depressed region of his country addicted to opiates for the rest of his life, all the
+liberal economist can do is try to further reduce the worker's actual identity to equivalence by saying that the
+'average' worker's 'equilibrium living standards' have risen."
+
+
+To address this problem with international trade, Pilkington interestingly revives a proposal by John Maynard Keynes for using a
 planned system involving a notional trade currency called the "bancor" and a schedule of remedies for persistent trade
 surpluses such as forced investment by the nation running a surplus in the nation experiencing the deficit.
 

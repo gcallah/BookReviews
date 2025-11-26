@@ -144,6 +144,12 @@ one nation's trade deficit with another, but Pilkington does not provide such re
 
 ## Societal Bonds
 
+PP Notes the very odd confluence of two contradictory ideas in liberalism: The first is that people should be able to
+do whatever they want so long as they are not directly attacking the person or property of another. So we should not
+involuntarily Institutionalize people who quite obviously are not able to manage their own lives, nor should we
+ban the use of drugs that cause people to behave in an antisocial fashion. And yet, at the same time, liberal courts
+excuse horrific crimes committed by people suffering from some mental illness or under the influence of some strong
+drug.
 
 
 ## Neo-Paganism
@@ -180,17 +186,18 @@ opposed to mistaken aims (like "make the world safe for democracy").
 Another worry I have about PP's recommendations is that they often seem to rely on states being more successful guides
 of economic activity than I suspect is likely. Here, I think any prudent post-liberal must recognize the genuine
 insights of such brilliant thinkers as Mises, Hayek, and Buchanan about the epistemic and motivational realities
-confounding state's economic intervention in achieving their aims.
+lying between any state's purported aims in undertaking some economic program and its actual ability to achieve those
+aims.
 
 Incorporating the insights of such thinkers does not mean that all post-liberals must change their profiles and replace
 "post-liberal" with "libertarian." Acknowledging the efficiency of markets is not incompatible with seeing 
 that they are often very efficient at producing very bad results: just consider the blight of widespread porn addiction
 that has been spawned by "efficient" markets in pornography.
 
-For such a slim work, PP's book is impressively packed with challenging ideas. This review, unfortunately, could only
-address a select few of them. The fact that some of them are not fully fleshed out or defended is probably more a result
-of the desire to keep the book short, than of the authors inability to defend them if asked to.
+In any case, for such a slim work, PP's book is impressively packed with challenging ideas. This review, unfortunately,
+could only address a select few of them. The fact that some of them are not fully fleshed out or defended is probably
+more a result of the desire to keep the book short, rather than of the authors inability to defend them if asked to.
 
-In any case, this is an important new work, and anyone interested in where our societies are headed would be
+In conclusion, this is an important new work, and anyone interested in where liberal societies are headed would be
 well-advised to read it.
 

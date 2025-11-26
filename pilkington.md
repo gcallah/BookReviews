@@ -187,5 +187,10 @@ Incorporating the insights of such thinkers does not mean that all post-liberals
 that they are often very efficient at producing very bad results: just consider the blight of widespread porn addiction
 that has been spawned by "efficient" markets in pornography.
 
+For such a slim work, PP's book is impressively packed with challenging ideas. This review, unfortunately, could only
+address a select few of them. The fact that some of them are not fully fleshed out or defended is probably more a result
+of the desire to keep the book short, than of the authors inability to defend them if asked to.
 
+In any case, this is an important new work, and anyone interested in where our societies are headed would be
+well-advised to read it.
 

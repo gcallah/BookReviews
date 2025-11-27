@@ -12,18 +12,17 @@ often used in American political discourse, in which it means "somewhat left of 
 And, quite naturally, he first turns his attention to the question of just what is this thing that is collapsing.
 His answer is: "We will consider liberalism to be the Enlightenment political ideology par excellence that sought to level
 and 'rationalize' social and political relationships. Liberalism's target has always been hierarchical structures in
-politics and society at large." (10) Of course, many alternative definitions are possible, and definitions, per
-definition, cannot be wrong, only more or less informative. But in this case, I think PP has provided us with an
-very informative definition.
+politics and society at large." (10) Of course, many alternative definitions are possible, and definitions, by
+definition, cannot be wrong, only more or less informative. But in this case, I think PP has provided us with a
+highly informative definition.
 
-Liberalism began by attacking the privileges of the aristocracy, and then of the legally established churches. But the
-tearing down of hierarchies could not stop there: as with any ideology that promises to cure us of the world's ills,
-liberalism has had to keep going, since all was not yet cured. Cultures could not be deemed better or worse, with the
-exception that, as far as they were not liberal, they were worse.  No "lifestyle" could hold itself superior to any
-other way of living. No sexual activity, so long as it is voluntary, could be regarded as better or worse than any
-other.  All sources of "arbitrary" authority also had to be swept away, such as parental control over their children.
-
-## Liberalism's Collapse
+As PP tells it, liberalism began by attacking the privileges of the aristocracy, and then of the legally established
+churches. But the tearing down of hierarchies could not stop there: as with any ideology that promises to cure us of the
+world's ills, liberalism has had to keep going, since all was not yet cured. Cultures could not be deemed better or
+worse, with the exception that, as far as they were not liberal, they were worse. No "lifestyle" could hold itself
+superior to any other way of living. No sexual activity, so long as it is voluntary, could be regarded as better or
+worse than any other. All sources of "arbitrary" authority also had to be swept away, such as parental control over
+their children.
 
 PP describes the many societal ills that this destruction of hierarchies entailed: plummetting birth rates, rising
 mental illness, increased drug addiction, soaring out-of-wedlock births, the de-industrialization of many liberal
@@ -55,15 +54,13 @@ mistaken, when he criticizes the French revolutionaries attempt to establish dec
 24-hour day and the calendar that grows out of it are based on lived reality of night and day as it occurs on earth"
 (36).
 
-The correct argument against the 10-hour clock is that the French revolutionaries had been hypnotized by the fact that
-they counted in base-10 into thinking that measuring everything in multiples of ten was somehow more rational than
-using any other divisor, such as 12 or 24. And therefore there was no reason to do away with dividing the day into 24 hours:
-it is in truth more sensible to use the conventional divisor, and not disrupt everyone's time keeping to switch to a
-different, and equally arbitrary, divisor. (For your consideration: it was the florescence of mechanical clocks that 
-opened the way for dividing the day into twenty-four equal periods. So wan't this "natural" division already the result
-of society changing to meet the dictums of a machine?)
-
-## Military
+I contend that the correct argument against the 10-hour clock is that the French revolutionaries had been hypnotized by
+the fact that they counted in base-10 into thinking that measuring everything in multiples of ten was somehow more
+rational than using any other divisor, such as 12 or 24. And since that belief was mistaken, there was no reason to do
+away with dividing the day into 24 hours: it is in truth more "rational" to use the conventional divisor, and not disrupt
+everyone's time keeping to switch to a different, and equally arbitrary, one. (For your consideration: it was the
+florescence of mechanical clocks that opened the way for dividing the day into twenty-four equal periods. So wasn't this
+"natural" division already the result of society changing to meet the needs of a machine?)
 
 PP devotes an entire chapter to the mistakes liberal governments have been making in military strategy. Now this is an
 area in which I have no expertise, and so I am in no position to critique PP's case here. But I *can* (I hope) summarize
@@ -79,7 +76,6 @@ needn't dwell on here), "For every Leopard II tank Germany can produce, Russia c
 
 Along the way here, he claims, contra the liberal faith that higher prices mean commensurably higher quality, that
 "the market for military equipment is very likely not competitive." (121)
-
 However, this notable difference between government spending on the military and private spending is not something that would
 surprise any libertarian or public choice theorist. So is this really a case where liberal ideology leads people astray?
 
@@ -90,8 +86,6 @@ companies, especially innovators such as Toyota, 3M, Bell Labs, or Xerox PARC? A
 Pilkington, "Imagine how much more the private sector might've developed if so much R&D energy wasn't diverted to
 government use?" Pilkington may have a good answer to this question, but it is not in this book.
 
-
-## Demographic
 
 Turning to demographic matters, Pilkington notes that once liberalism thoroughly infects a society, that society's birth
 rate begins to plummet, eventually falling below replacement rate. This fact can hardly be disputed, since remarkably it
@@ -112,18 +106,16 @@ world to provide cheap labour in the developed countries... Rather than seeing t
 raising children -- liberals dressed this up as a form of altruism. Bizarrely, under late liberalism, support for
 biological imperialism became a test of one's morality..." (140)
 
-Aging Western societies with below replacement birth rates, also create internal conflicts in those societies.
+Aging Western societies with below replacement birth rates also create internal conflicts in those societies.
 The interests of the older portion of society, who holds most of the assets, and are happy to see the prices of those
 assets rise, are at odds with the interests of the younger people, who, just starting out in their career, have little
 in the way of savings and would like to purchase assets at lower prices. This problem is especially acute in the area
 of housing, where, as PP points out, wealthy seniors are purchasing second homes for their vacations, while young people
 are unable to afford first homes to live in.
 
-PP recommends post-liberal societies make family creation a priority in policy making; for example, he advocates
-state-subsidized housing for families.
+In response to these problems, PP recommends post-liberal societies make family creation and support a priority in
+policy making; for example, he advocates state-subsidized housing for families.
 
-
-## Macroeconomic
 When it comes to macroeconomics, PP is scornful of the typical free-trader's response to the disruptions free
 trade causes:
 
@@ -142,25 +134,13 @@ software. And the point of the free trade case here is there is no cause for me 
 course, there may be reasons why scale matters here, and that my trade deficit with the grocer is a flawed analogy with
 one nation's trade deficit with another, but Pilkington does not provide such reasons.
 
-
-
-## Societal Bonds
-
+In a chapter entitled "Madness: Commercial and Civilizational,"
 PP Notes the very odd confluence of two contradictory ideas in liberalism: The first is that people should be able to
 do whatever they want so long as they are not directly attacking the person or property of another. So we should not
 involuntarily institutionalize people who quite obviously are not able to manage their own lives, nor should we
 ban the use of drugs that cause people to behave in an antisocial fashion. And yet, at the same time, liberal courts
 excuse horrific crimes committed by people suffering from some mental illness or under the influence of some strong
 drug.
-
-
-
-## Neo-Paganism
-
-
-
-
-## Conclusion
 
 PP concludes his book first by declaring the importance of teleology for post-liberal thought. By this he means that
 post-liberals should recognize that the participants in the world have ends that are inherent in their nature: a common

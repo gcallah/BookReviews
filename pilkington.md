@@ -104,7 +104,7 @@ strains resulting from incorporating large numbers of immigrants who are not fam
 to liberal imperialism: once liberal values are exported to all nations, as is the liberal dream, than
 there will no longer be nations with above-replacement birth rates from which to import people.
 
-Furthermore, Importing workers to make up for low native birth rates also harms countries they are being imported
+Furthermore, importing workers to make up for low native birth rates also harms countries they are being imported
 from. As PP puts it:
 
 "Liberal Westerners were in effect utilizing economic incentives to break up families and communities in the developing
@@ -112,22 +112,24 @@ world to provide cheap labour in the developed countries... Rather than seeing t
 raising children -- liberals dressed this up as a form of altruism. Bizarrely, under late liberalism, support for
 biological imperialism became a test of one's morality..." (140)
 
-Sexual consumerism
+Aging Western societies with below replacement birth rates, also create internal conflicts in those societies.
+The interests of the older portion of society, who holds most of the assets, and are happy to see the prices of those
+assets rise, are at odds with the interests of the younger people, who, just starting out in their career, have little
+in the way of savings and would like to purchase assets at lower prices. This problem is especially acute in the area
+of housing, where, as PP points out, wealthy seniors are purchasing second homes for their vacations, while young people
+are unable to afford first homes to live in.
 
-Stupid idea: "sex is a purely private affair"
-
-Raising awareness of STDs: word magic!
-
+PP recommends post-liberal societies make family creation a priority in policy making; for example, he advocates
+state-subsidized housing for families.
 
 
 ## Macroeconomic
-
-PP is rightly scornful of the typical free-trader's response to the disruptions his policies cause:
+When it comes to macroeconomics, PP is scornful of the typical free-trader's response to the disruptions free
+trade causes:
 
 "If the worker ends up in a depressed region of his country addicted to opiates for the rest of his life, all the
 liberal economist can do is try to further reduce the worker's actual identity to equivalence by saying that the
 'average' worker's 'equilibrium living standards' have risen."
-
 
 To address this problem with international trade, Pilkington interestingly revives a proposal by John Maynard Keynes for using a
 planned system involving a notional trade currency called the "bancor" and a schedule of remedies for persistent trade
@@ -146,10 +148,11 @@ one nation's trade deficit with another, but Pilkington does not provide such re
 
 PP Notes the very odd confluence of two contradictory ideas in liberalism: The first is that people should be able to
 do whatever they want so long as they are not directly attacking the person or property of another. So we should not
-involuntarily Institutionalize people who quite obviously are not able to manage their own lives, nor should we
+involuntarily institutionalize people who quite obviously are not able to manage their own lives, nor should we
 ban the use of drugs that cause people to behave in an antisocial fashion. And yet, at the same time, liberal courts
 excuse horrific crimes committed by people suffering from some mental illness or under the influence of some strong
 drug.
+
 
 
 ## Neo-Paganism

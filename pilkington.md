@@ -5,29 +5,26 @@ Cambridge: Polity Press
 234 pages  
 
 Philip Pilkington has written a very provocative and thought-provoking book, one that deserves to be taken seriously by
-anyone interested in the future of currently liberal polities. (Note: throughout the book and this review, "liberal" is
-being used as philosophers and political scientists use it -- see PP's definition below -- rather than in the sense it is
-often used in American political discourse, in which it means "somewhat left of center.")
-
-And, quite naturally, he first turns his attention to the question of just what is this thing that is collapsing.
+anyone interested in the future of currently liberal polities.
+Quite naturally, he first turns his attention to the question of just what is this thing that is collapsing.
 His answer is: "We will consider liberalism to be the Enlightenment political ideology par excellence that sought to level
 and 'rationalize' social and political relationships. Liberalism's target has always been hierarchical structures in
-politics and society at large." (10) Of course, many alternative definitions are possible, and definitions, by
-definition, cannot be wrong, only more or less informative. But in this case, I think PP has provided us with a
-highly informative definition.
+politics and society at large." Of course, many alternative definitions are possible, and definitions, by
+definition, cannot be wrong, only more or less informative. But in this case, I think Pilkington has provided us with a
+highly informative one.
 
-As PP tells it, liberalism began by attacking the privileges of the aristocracy, and then of the legally established
+As Pilkington tells it, liberalism began by attacking the privileges of the aristocracy, and then of the legally established
 churches. But the tearing down of hierarchies could not stop there: as with any ideology that promises to cure us of the
-world's ills, liberalism has had to keep going, since all was not yet cured. Cultures could not be deemed better or
-worse, with the exception that, as far as they were not liberal, they were worse. No "lifestyle" could hold itself
-superior to any other way of living. No sexual activity, so long as it is voluntary, could be regarded as better or
-worse than any other. All sources of "arbitrary" authority also had to be swept away, such as parental control over
-their children.
+world's ills, liberalism has had to keep going, since all was not yet cured. The levelling had to continue:
+Cultures could not be deemed better or worse, with the exception that, as far as they were not liberal, they were worse.
+No "lifestyle" could hold itself superior to any other way of living. No sexual activity, so long as it is voluntary,
+could be regarded as better or worse than any other. All sources of "arbitrary" authority also had to be swept away,
+such as parental control over their children.
 
-PP describes the many societal ills that this destruction of hierarchies entailed: plummetting birth rates, rising
+Pilkington describes the many societal ills that this destruction of hierarchies entailed: plummetting birth rates, rising
 mental illness, increased drug addiction, soaring out-of-wedlock births, the de-industrialization of many liberal
 countries, wars taken on for ideological reasons rather than a prudential analysis, and so forth.
-While PP's diagnosis of liberalism as the source of these diseases seems sound,
+While Pilkington's diagnosis of liberalism as the source of these diseases seems sound,
 his confidence that global liberalism is collapsing rapidly and that the immediate future will be "post-liberal" leaves
 me uneasy. Even if we grant that liberalism *is* an inherently unstable way of organizing a polity,
 does that really allow us to predict just how rapidly that instability will lead to a downfall of that regime?
@@ -39,43 +36,43 @@ and even stretches of renewed stability, such as the period of the "five good em
 Yet, in the West, the Roman polity survived another five centuries, while in the East it limped along until 1453 A.D.
 (The residents of what we today call "The Byzantine Empire" self-identified as Romans and understood the political unit
 in which they lived to be the Roman empire.)
-PP might respond that the Roman polity to change how government was organized several times over the centuries, and that
+Pilkington might respond that the Roman polity to change how government was organized several times over the centuries, and that
 is true. But even so, the Roman example shows that instability can persist for quite a while.
 
-So, given that we know a polity can be in decline for a very long time, from whence comes PP's confidence that the
+So, given that we know a polity can be in decline for a very long time, from whence comes Pilkington's confidence that the
 demise of liberalism is nigh? He could well be correct, but I can also envision a future in
 which the death throes of liberalism extend over centuries.
 
-One aspect of liberalism noted by PP is its rationalism, in the pejorative sense of the word as it was used by [Michael
+One aspect of liberalism noted by Pilkington is its rationalism, in the pejorative sense of the word as it was used by [Michael
 Oakeshott](https://fee.org/articles/michael-oakeshott-on-rationalism-in-politics/), among others. Indeed, liberalism's
-reason for opposing heirarchy and involuntary relationships is that it deems them "irrational." However, in PP's
+reason for opposing heirarchy and involuntary relationships is that it deems them "irrational." However, in Pilkington's
 understandable desire to discredit forced rationalist revamping of customary practices, he makes a claim I think is
 mistaken, when he criticizes the French revolutionaries attempt to establish decimal timekeeping by claiming: "the
-24-hour day and the calendar that grows out of it are based on lived reality of night and day as it occurs on earth"
-(36).
+24-hour day and the calendar that grows out of it are based on lived reality of night and day as it occurs on earth."
+
 
 I contend that the correct argument against the 10-hour clock is that the French revolutionaries had been hypnotized by
 the fact that they counted in base-10 into thinking that measuring everything in multiples of ten was somehow more
 rational than using any other divisor, such as 12 or 24. And since that belief was mistaken, there was no reason to do
 away with dividing the day into 24 hours: it is in truth more "rational" to use the conventional divisor, and not disrupt
 everyone's time keeping to switch to a different, and equally arbitrary, one. (For your consideration: it was the
-florescence of mechanical clocks that opened the way for dividing the day into twenty-four equal periods. So wasn't this
+spread of mechanical clocks that led to dividing the day into twenty-four equal periods. So wasn't this
 "natural" division already the result of society changing to meet the needs of a machine?)
 
-PP devotes an entire chapter to the mistakes liberal governments have been making in military strategy. Now this is an
-area in which I have no expertise, and so I am in no position to critique PP's case here. But I *can* (I hope) summarize
+Pilkington devotes an entire chapter to the mistakes liberal governments have been making in military strategy. Now this is an
+area in which I have no expertise, and so I am in no position to critique Pilkington's case here. But I *can* (I hope) summarize
 it: liberal governments are bewitched by their belief in progress (so that later tech must always beat earlier tech),
 and their conviction that the price of something reflects its utility (so that a $100 million weapon must be better than
 a $90 million weapon).
 
-And thus they have spent way too much on very high-tech equipment and far too little on building up large quantities of
+As a result they have spent way too much on very high-tech equipment and far too little on building up large quantities of
 cheaper but still effective materiel. As an example of the strategic mis-steps possible due to this liberal bias, he
 cites the case of the Lancet drone, which costs around $35,000, but is very effective at taking out $11 million Leopard
-tanks. PP estimates that, once we take into account purchasing power parity (a technical macroeconomic concept we
-needn't dwell on here), "For every Leopard II tank Germany can produce, Russia can produce 683 Lancet drones." (109)
+tanks. Pilkington estimates that, once we take into account purchasing power parity (a technical macroeconomic concept we
+needn't dwell on here), "For every Leopard II tank Germany can produce, Russia can produce 683 Lancet drones."
 
 Along the way here, he claims, contra the liberal faith that higher prices mean commensurably higher quality, that
-"the market for military equipment is very likely not competitive." (121)
+"the market for military equipment is very likely not competitive."
 However, this notable difference between government spending on the military and private spending is not something that would
 surprise any libertarian or public choice theorist. So is this really a case where liberal ideology leads people astray?
 
@@ -83,7 +80,7 @@ In perhaps just an overly all-or-nothing statement Pilkington contends that, "Th
 were developed by the state..." Now, it is true that, for instance, the Internet began as a DARPA project, and that NASA
 has given birth to many technological advances. But what about the myriad of technologies developed by private
 companies, especially innovators such as Toyota, 3M, Bell Labs, or Xerox PARC? A free-marketer might well respond to
-Pilkington, "Imagine how much more the private sector might've developed if so much R&D energy wasn't diverted to
+Pilkington, "Imagine how much more the private sector might have developed if so much R&D energy wasn't diverted to
 government use?" Pilkington may have a good answer to this question, but it is not in this book.
 
 
@@ -99,24 +96,24 @@ to liberal imperialism: once liberal values are exported to all nations, as is t
 there will no longer be nations with above-replacement birth rates from which to import people.
 
 Furthermore, importing workers to make up for low native birth rates also harms countries they are being imported
-from. As PP puts it:
+from. As Pilkington puts it:
 
 "Liberal Westerners were in effect utilizing economic incentives to break up families and communities in the developing
 world to provide cheap labour in the developed countries... Rather than seeing this for what it is -- the outsourcing of
 raising children -- liberals dressed this up as a form of altruism. Bizarrely, under late liberalism, support for
-biological imperialism became a test of one's morality..." (140)
+biological imperialism became a test of one's morality..."
 
 Aging Western societies with below replacement birth rates also create internal conflicts in those societies.
-The interests of the older portion of society, who holds most of the assets, and are happy to see the prices of those
-assets rise, are at odds with the interests of the younger people, who, just starting out in their career, have little
-in the way of savings and would like to purchase assets at lower prices. This problem is especially acute in the area
-of housing, where, as PP points out, wealthy seniors are purchasing second homes for their vacations, while young people
-are unable to afford first homes to live in.
+The interests of the older generations, who hold most of the assets, and are happy to see the prices of those
+assets continuously rise, are at odds with the interests of the younger people, who, just starting out in their career,
+have little in the way of savings and would like to purchase assets at lower prices. This problem is especially acute in
+the area of housing, where, as Pilkington points out, wealthy seniors are purchasing second homes for their vacations, while
+young people are unable to afford first homes to live in.
 
-In response to these problems, PP recommends post-liberal societies make family creation and support a priority in
+In response to these problems, Pilkington recommends post-liberal societies make family creation and support a priority in
 policy making; for example, he advocates state-subsidized housing for families.
 
-When it comes to macroeconomics, PP is scornful of the typical free-trader's response to the disruptions free
+When it comes to macroeconomics, Pilkington is scornful of the typical free-trader's response to the disruptions free
 trade causes:
 
 "If the worker ends up in a depressed region of his country addicted to opiates for the rest of his life, all the
@@ -128,45 +125,45 @@ planned system involving a notional trade currency called the "bancor" and a sch
 surpluses such as forced investment by the nation running a surplus in the nation experiencing the deficit.
 
 Pilkington, unfortunately, does not present any argument as to why persistent trade deficits are worrisome. The standard
-response from advocates of free trade to such worries is to present an analogy where I, a computer programmer,
+response from advocates of free trade to such concerns is to present an analogy where I, a computer programmer,
 habitually run a "trade deficit" with my local grocer: I regularly buy his groceries, but he never purchases any of my
 software. And the point of the free trade case here is there is no cause for me to worry about this situation. Of
 course, there may be reasons why scale matters here, and that my trade deficit with the grocer is a flawed analogy with
 one nation's trade deficit with another, but Pilkington does not provide such reasons.
 
 In a chapter entitled "Madness: Commercial and Civilizational,"
-PP Notes the very odd confluence of two contradictory ideas in liberalism: The first is that people should be able to
+Pilkington Notes the very odd confluence of two contradictory ideas in liberalism: The first is that people should be able to
 do whatever they want so long as they are not directly attacking the person or property of another. So we should not
 involuntarily institutionalize people who quite obviously are not able to manage their own lives, nor should we
 ban the use of drugs that cause people to behave in an antisocial fashion. And yet, at the same time, liberal courts
 excuse horrific crimes committed by people suffering from some mental illness or under the influence of some strong
 drug.
 
-PP concludes his book first by declaring the importance of teleology for post-liberal thought. By this he means that
-post-liberals should recognize that the participants in the world have ends that are inherent in their nature: a common
+Pilkington concludes his book first by declaring the importance of teleology for post-liberal thought. By this he means that
+post-liberals should recognize that living beings have ends that are inherent in their nature: a common
 example is that an acorn has the natural end of becoming an oak tree. And so to do individual human beings and human
 families and polities. These ends are not a matter of choice or "individual preferences": they spring from the very
 nature of these entities. The family, for instance, has the natural end of bearing and rearing the next generation of
-human beings. Recognizing this reality can guide post-liberal policies. For example, PP writes:
+human beings. Recognizing this reality can guide post-liberal policies. For example, Pilkington writes:
 
 "A society that is organized against human nature will be a chaotic and unhappy society – it pushed too far against its
 nature, it will collapse. A society that organizes itself in line with human nature will never be perfect, but it will
-be more optimal in a society that is not organized in such a way." 218
+be more optimal in a society that is not organized in such a way."
 
-And that all strikes me as correct. However, PP seems to me overly sanguine when he follows the above by declaring that
+And that all strikes me as correct. However, Pilkington seems to me overly sanguine when he follows the above by declaring that
 "Such a society will be stable, prosperous, and its inhabitants will be content and happy."
 Was it not a society that was teleologically oriented (that of Medieval Christendom) that gave birth to the unstable and 
 discontented society we live in today? Indeed, weren't Adam and Eve living in line with their natural ends when the
-serpent slithered into the garden? And yet nevertheless they ate the apple. PP seems to missing the sense of the tragic
+serpent slithered into the garden? And yet nevertheless they ate the apple. Pilkington seems to missing the sense of the tragic
 aspect of human existence that led someone like Plato to note that even if we could establish the perfect city, soon
 enough human nature would lead to its fall from Eden.
 
-PP then outlines a list of his recommended policies in many of the areas contemplated earlier in the book. In defense
-policy, the post-liberal polity "should favor quantity over quality, cheap over expensive." 220 (It is of note here the
-PP is the first person I've encountered making this connection between liberalism and mistaken military *tactics*, as
-opposed to mistaken aims (like "make the world safe for democracy").
+Pilkington then outlines a list of his recommended policies in many of the areas contemplated earlier in the book. In defense
+policy, the post-liberal polity "should favor quantity over quality, cheap over expensive." (It is of note here the
+Pilkington is the first person I've encountered making this connection between liberalism and mistaken military *tactics*, as
+opposed to mistaken aims, like "make the world safe for democracy.")
 
-Another worry I have about PP's recommendations is that they often seem to rely on states being more successful guides
+A concern I have about Pilkington's recommendations is that they often seem to rely on states being more successful guides
 of economic activity than I suspect is likely. Here, I think any prudent post-liberal must recognize the genuine
 insights of such brilliant thinkers as Mises, Hayek, and Buchanan about the epistemic and motivational realities
 lying between any state's purported aims in undertaking some economic program and its actual ability to achieve those
@@ -177,7 +174,7 @@ Incorporating the insights of such thinkers does not mean that all post-liberals
 that they are often very efficient at producing very bad results: just consider the blight of widespread porn addiction
 that has been spawned by "efficient" markets in pornography.
 
-In any case, for such a slim work, PP's book is impressively packed with challenging ideas. This review, unfortunately,
+In any case, for such a slim work, Pilkington's book is impressively packed with challenging ideas. This review, unfortunately,
 could only address a select few of them. The fact that some of them are not fully fleshed out or defended is probably
 more a result of the desire to keep the book short, rather than of the authors inability to defend them if asked to.
 

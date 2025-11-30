@@ -132,7 +132,7 @@ course, there may be reasons why scale matters here, and that my trade deficit w
 one nation's trade deficit with another, but Pilkington does not provide such reasons.
 
 In a chapter entitled "Madness: Commercial and Civilizational,"
-Pilkington Notes the very odd confluence of two contradictory ideas in liberalism: The first is that people should be able to
+Pilkington notes the very odd confluence of two contradictory ideas in liberalism: The first is that people should be able to
 do whatever they want so long as they are not directly attacking the person or property of another. So we should not
 involuntarily institutionalize people who quite obviously are not able to manage their own lives, nor should we
 ban the use of drugs that cause people to behave in an antisocial fashion. And yet, at the same time, liberal courts
@@ -154,9 +154,9 @@ And that all strikes me as correct. However, Pilkington seems to me overly sangu
 "Such a society will be stable, prosperous, and its inhabitants will be content and happy."
 Was it not a society that was teleologically oriented (that of Medieval Christendom) that gave birth to the unstable and 
 discontented society we live in today? Indeed, weren't Adam and Eve living in line with their natural ends when the
-serpent slithered into the garden? And yet nevertheless they ate the apple. Pilkington seems to missing the sense of the tragic
+serpent slithered into the garden? And yet nevertheless they ate the apple. Pilkington is perhaps missing the sense of the tragic
 aspect of human existence that led someone like Plato to note that even if we could establish the perfect city, soon
-enough human nature would lead to its fall from Eden.
+enough human nature would lead to its degeneration.
 
 Pilkington then outlines a list of his recommended policies in many of the areas contemplated earlier in the book. In defense
 policy, the post-liberal polity "should favor quantity over quality, cheap over expensive." (It is of note here the

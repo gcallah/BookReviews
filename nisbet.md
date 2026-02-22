@@ -17,6 +17,12 @@ of this book in that project.
 
 ## The Kinship Community
 
+The earliest human communities were based upon kinship and were ruled by the traditions of the community, as interpreted
+by the elders. Nisbet Keeps this community in mind throughout the book, but does not devote a chapter to it, because
+this form of community, which was the sole form of human community for the first many tens of thousands of years of our
+existence, did not produce social philosophers. It did not need to, in the same sense that no one needs to offer an
+explanation of why they are breathing, but only of why they are not breathing: kinship communities are as natural to
+humans as hive communities are to bees.
 
 
 ## The Military Community

@@ -90,11 +90,23 @@ a keen appreciation for the web of life in particular.
 
 
 
-In the pluralist view, each of these forms of creating community might, instead of trying to wipe the others out,
-recognize that they are in a conversation with each other. When any of these farms of community becomes completely
-predominant, the effect is a one-sided caricature of what human society ought to look like.
+In response to the attempts of various bases for community to become the dominant or even exclusive basis, there has
+arisen what Nisbet calls the "plural community," which attempts to give each basis its proper place in a conversation of
+communities. Nisbet finds the beginnings of pluralist thinking in Aristotle's reponse to Plato's focus on the political
+community. He sees that tradition continuing in Burke, Tocqueville, Durkheim, and Weber, amongst others.
+In this pluralist view, when any of these forms of community becomes
+too dominant, the effect is a one-sided caricature of what human society ought to look like.
 
 
+
+
+
+## Conclusion
+
+
+
+At the end of the book, wisely avoids, becoming a "futurist," I am contemplating the what outcome Is likely to emerge
+from the current crisis of community, he answers "we do not know. We are reduced to speculation" (401).
 
 Perhaps it is not surprising given the vast scope of material that Nisbit covers, that he occasionally gets his facts wrong:
 For example, the Roman empire never extended to India, as he claims (31).
@@ -118,6 +130,5 @@ Frantz Fanon, is described as brilliant.
 Nisbet is certainly underappreciated today, as he is one of the great "social philosophers" himself, offering us a novel
 and enlightening platform of understanding from which to view our social lives. One can only hope that this book will go
 someway to remedy that lacuna.
-
 
 

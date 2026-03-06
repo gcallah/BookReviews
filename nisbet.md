@@ -20,7 +20,7 @@ existence, did not produce social philosophers. It did not need to, in the same 
 explanation of why they are breathing, but only of why they are not breathing: kinship communities are as natural to
 humans as hive communities are to bees.
 
-However, after many millennia of there arose a rival to the kinship community: the military community, organized around the command
+However, after many millennia there arose a rival to the kinship community: the military community, organized around the command
 of a single leader, rather than a network of familial ties. And the existence of such community was deadly for any
 kinship community that it confronted. As Nisbet puts it: 
 

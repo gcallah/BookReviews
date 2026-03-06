@@ -11,14 +11,10 @@ its initial publisher. Editor Luke Sheahan and The American Philosophical Societ
 by bringing out a new addition this year.
 
 
-Sheahan's excellent introduction sets Nisbet in his historical context, and gives us an overview of his project, and the place
-of this book in that project.
-
-
 ## The Kinship Community
 
 The earliest human communities were based upon kinship and were ruled by the traditions of the community, as interpreted
-by the elders. Nisbet Keeps this community in mind throughout the book, but does not devote a chapter to it, because
+by the elders. Nisbet keeps this community in mind throughout the book, but does not devote a chapter to it, because
 this form of community, which was the sole form of human community for the first many tens of thousands of years of our
 existence, did not produce social philosophers. It did not need to, in the same sense that no one needs to offer an
 explanation of why they are breathing, but only of why they are not breathing: kinship communities are as natural to
@@ -27,11 +23,11 @@ humans as hive communities are to bees.
 
 ## The Military Community
 
+However, after many millennia of there arose a rival to the kinship community: the military community, organized around the command
+of a single leader, rather than a network of familial ties. And the existence of such community was deadly for any
+kinship community that it sought to confront. As Nisbet puts it: 
 
-There is no known historical instance of a political state not founded in circumstances of war, not rooted in the
-distinctive discipline of war. The state is indeed hardly more than the institutionalization of the war-making
-apparatus..." 83
-
+"The kinship community is invariably defeated by the military community when the two come in confrontation" (22).
 
 As the kinship based societies fell, one after another, to societies organized upon military lines, the quest began for
 a way to tame this military form of organization and turned the new unity that it created towards higher goals than mere
@@ -40,11 +36,14 @@ killing and conquest.
 
 ## The Political Community
 
+"There is no known historical instance of a political state not founded in circumstances of war, not rooted in the
+distinctive discipline of war. The state is indeed hardly more than the institutionalization of the war-making
+apparatus..." 83
+
+
 
 In the golden age of Athens, the conflict between kinship based community and military based community became acute. The
 tragic playwrights dealt with this theme repeatedly.
-
-
 But, as Nisbet demonstrates, the greatest of the thinkers dealing with this conflict was Plato. As he puts it, "Such was
 the power of his portrait of the political community that it has remained for some twenty-five hundred years the major
 inspiration of all other portraits of this form of community" 105
@@ -60,16 +59,10 @@ In his chapter on religious communities, Nisbet first describes the importance o
 empire. He continues to discuss Augustine, medieval Christiandom, the effects of Luther, Calvin, and the French
 philosophes on that social order, and revival of thinking about religious community in the 19th century.
 
-Comte
-
-"In every relevant aspect, the rise of sociology is a part of the nineteenth-century rediscovery of the religious
+Interestingly, it was largely the secular sociologists of the 19th and early 20th century, such as Comte, Durkheim, and Weber,
+who revived recognition of the importance of the religious community. As Nisbet writes, "In every relevant aspect, the
+rise of sociology is a part of the nineteenth-century rediscovery of the religious
 community." 215
-
-
-
-Durkheim
-
-The religious person is stronger
 
 
 ## The Revolutionary Community
@@ -107,6 +100,11 @@ too dominant, the effect is a one-sided caricature of what human society ought t
 
 At the end of the book, wisely avoids, becoming a "futurist," I am contemplating the what outcome Is likely to emerge
 from the current crisis of community, he answers "we do not know. We are reduced to speculation" (401).
+
+
+Sheahan's excellent introduction sets Nisbet in his historical context, and gives us an overview of his project, and the place
+of this book in that project.
+
 
 Perhaps it is not surprising given the vast scope of material that Nisbit covers, that he occasionally gets his facts wrong:
 For example, the Roman empire never extended to India, as he claims (31).

@@ -1,8 +1,10 @@
-# The Social Philosophers: Community and Conflict in Western Thought
+# The Social Philosophers
+
+## Community and Conflict in Western Thought
 
 Robert Nisbet
 
-2025 Philadelphia: American Philosophical Society Press 418 pages
+2025, Philadelphia: American Philosophical Society Press, 418 pages
 
 
 Robert Nisbet was an American sociologist who lived from 1913 to 1996. The book under review here, *The Social
@@ -36,11 +38,11 @@ killing and conquest.
 
 ## The Political Community
 
+Nisbet contends that the political community is a development of the military one:
+
 "There is no known historical instance of a political state not founded in circumstances of war, not rooted in the
 distinctive discipline of war. The state is indeed hardly more than the institutionalization of the war-making
 apparatus..." 83
-
-
 
 In the golden age of Athens, the conflict between kinship based community and military based community became acute. The
 tragic playwrights dealt with this theme repeatedly.
@@ -61,13 +63,15 @@ philosophes on that social order, and revival of thinking about religious commun
 
 Interestingly, it was largely the secular sociologists of the 19th and early 20th century, such as Comte, Durkheim, and Weber,
 who revived recognition of the importance of the religious community. As Nisbet writes, "In every relevant aspect, the
-rise of sociology is a part of the nineteenth-century rediscovery of the religious
-community." 215
+rise of sociology is a part of the nineteenth-century rediscovery of the religious community." 215
 
 
 ## The Revolutionary Community
 
-
+For Nisbet, The revolutionary community is born with the French Revolution, which, as opposed to earlier slave and
+peasant revolt, was not a mere rebellion, but an attempt to completely transform society. Famous figures following in
+the footsteps of the French Revolution include Marx, Lenin, Georges Sorel and Frantz Fanon. It shares much in common
+with the military community, and continues to be a powerful force in our time.
 
 ## The Ecological Community
 
@@ -97,12 +101,11 @@ too dominant, the effect is a one-sided caricature of what human society ought t
 ## Conclusion
 
 
-
-At the end of the book, wisely avoids, becoming a "futurist," I am contemplating the what outcome Is likely to emerge
+At the end of the book, Nisbet wisely avoids becoming a "futurist," In contemplating the what outcome is likely to emerge
 from the current crisis of community, he answers "we do not know. We are reduced to speculation" (401).
 
 
-Sheahan's excellent introduction sets Nisbet in his historical context, and gives us an overview of his project, and the place
+Luke Sheahan's excellent introduction sets Nisbet in his historical context, and gives us an overview of his project, and the place
 of this book in that project.
 
 

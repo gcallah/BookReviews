@@ -14,9 +14,9 @@ by bringing out a new addition this year. And Sheahan's excellent introduction s
 and gives us an overview of his project, and the place of this book in that project.
 
 Nisbet's story begins with the earliest human communities, based upon kinship and ruled by the tradition, as interpreted
-by the elders. Nisbet keeps this community in mind throughout the book, but does not devote a chapter to it, because
+by the elders. Nisbet keeps this community in mind throughout the book, but does not devote a chapter to it. That is because
 this form of community, which was the sole form of human society for the first many tens of thousands of years of our
-existence, did not produce social philosophers. It did not need to, in the same sense that no one needs to offer an
+existence, did not produce social philosophers. It did not need to, for the same reason that no one needs to offer an
 explanation of why they are breathing, but only of why they are not breathing: kinship communities are as natural to
 humans as hive communities are to bees.
 
@@ -43,12 +43,12 @@ But, as Nisbet demonstrates, the greatest of the thinkers dealing with this conf
 the power of his portrait of the political community that it has remained for some twenty-five hundred years the major
 inspiration of all other portraits of this form of community" (105).
 
-The great figures of this tradition include the body of elite Roman lawyers who bequeathed us Roman law,
+The other great figures of this tradition include the body of elite Roman lawyers who bequeathed us Roman law,
 Machiavelli, Bodin, Hobbes, and Rousseau.
 
 As the Roman Empire declined, a new form of community arose in its wake, specifically oriented around religious
 practice: the religious community. After highlighting the importance of early Christianity in the Roman
-Empire, Nisbet continues to discuss Augustine, medieval Christiandom, the effects of Luther, Calvin, and the French
+Empire, Nisbet continues to discuss Augustine, medieval Christendom, the effects of Luther, Calvin, and the French
 philosophes on that social order, and revival of thinking about religious community in the 19th century.
 
 Interestingly, it was largely the secular sociologists of the 19th and early 20th century, such as Comte, Durkheim, and Weber,
@@ -62,8 +62,8 @@ the footsteps of the French Revolution include Marx, Lenin, Georges Sorel and Fr
 with the military community, such as a strict command structure and a focus on violence.
 
 Nisbet marks the beginning of what he calls the "ecological community" in western thought with Saint Benedict. The novel
-characteristics of this type were present in the original Benedictine rule: respect for the "web of life," cooperative
-social relations, uncoerced social relations, and simplicty (289-291). This form is alive today, not only in
+characteristics of this type were present in the original Benedictine rule: respect for the "web of life," cooperation,
+uncoerced social relations, and simplicity (289-291). This form is alive today, not only in
 monasteries, but in communes attempting to get "back to nature" and other intentional communities.
 A surprising inclusion in this section of the book is Charles Darwin, but Nisbet makes a convincing case that Darwin had
 a keen appreciation for the web of life in particular.
@@ -85,17 +85,17 @@ actually baptism and holy communion that Luther retained.
 And he says that in the English Civil War the Puritans fought against the "Catholic Stuart monarchy" (233), but while
 Charles I married a Catholic, he was not himself one.
 
-Furthermore, and unfortunately, in preparing this text for its new publication, a number of typos have crept in, such as
+Furthermore, and unfortunately, in preparing this text with OCR for its new publication, a number of errors have crept in, such as
 rendering what must have been "no  mere exercise" as "no men exercise" (p. 60) and "ends that he could imagine" winds up
 "ends that lie could imagine" (p. 207).
 
-Perhaps the most outstanding aspect of this work is Nisbet's ability to enter into the thought process of each of the
+In any case, perhaps the most outstanding aspect of this work is Nisbet's ability to enter into the thought process of each of the
 social philosophers he discusses, and demonstrate how, from their point of view, their approach to society seemed
-reasonable. Even an advocate of revolutionary violence against white people (which I assume Nisbet knew he himself was) such as
+reasonable. Even an advocate of revolutionary violence against white people (which I assume Nisbet knew he himself was), such as
 Frantz Fanon, is described as brilliant.
 
 Nisbet is certainly underappreciated today, as he is one of the great "social philosophers" himself, offering us a novel
 and enlightening platform of understanding from which to view our social lives. One can only hope that this book will go
-someway to remedy that lacuna.
+some distance in remedying that lacuna.
 
 

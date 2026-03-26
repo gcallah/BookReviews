@@ -6,11 +6,11 @@ then
     exit 1
 fi
 
-if [ -f $1.html ]; then
-    echo "$1.html exists: please choose a different name."
+if [ -f $1.md ]; then
+    echo "$1.md exists: please choose a different name."
     exit 1
 fi
 
-sed "s/Book/$2/g" < review_templ.html > $1.html
-git add $1.html
+sed "s/Book/$2/g" < review_templ.md > $1.md
+git add $1.md
 

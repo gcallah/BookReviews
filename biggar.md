@@ -19,10 +19,13 @@ real and important, and much is at stake in them."
 "race relations were worst in Austria, Finland, and Ireland."
 
 
-"commitment to Millian liberal principles."
+"commitment to Millian liberal principles." (10)
 
 But those are what got us here.
 
+
+"And the claim that there are o universal truths is itself, of course, a
+dogmatic assertion of a universal truth."
 
 
 "Indigenous" people certainly knew lots of interesting things, and it is

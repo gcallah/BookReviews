@@ -82,10 +82,34 @@ the guise of liberalism. So this is another place where Biggar's emphasis on lib
 Thinkers like John Gray and Alasdair MacIntyre have shown that it's actually not rational to embrace ideological
 liberalism, since it is an incoherent theory.
 
+=======
+Nigel Biggar did not join the culture wars voluntarily: the culture wars came
+for him. As he puts it, "the colonial front of the culture wars came uninvited
+to my doorstep... in 2017."
+>>>>>>> 0af45f3a6499b7331012855ece8c07fae1505030
 
 
+"The fact is that the culture wars are neither artifical nor trivial. They are
+real and important, and much is at stake in them."
 
-"Indigenous" people certainly knew lots of interesting things, and it is foolish to dismiss them as ignorant savages.
+
+"a single visible cancellatiion causes multiple invisible self-cancellations."
+
+
+"race relations were worst in Austria, Finland, and Ireland."
+
+
+"commitment to Millian liberal principles." (10)
+
+But those are what got us here.
+
+
+"And the claim that there are o universal truths is itself, of course, a
+dogmatic assertion of a universal truth."
+
+
+"Indigenous" people certainly knew lots of interesting things, and it is
+foolish to dismiss them as ignorant savages.
 But ironically, to insist that the knowledge they had was "science" is the demand it fit into a western framework.
 
 

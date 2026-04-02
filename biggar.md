@@ -5,7 +5,11 @@ Nigel Biggar
 
 
 Nigel Biggar did not join the culture wars voluntarily: the culture wars came for him.
-While working on an academic project called "Ethics and Empire" at Oxford University, he found himself the target of a
+He opens his new book with a description of how that happened:
+Biggar was working on an academic project called "Ethics and Empire" at Oxford University.
+When it was discovered that the project was attempting to highlight both the
+negative and the positive impacts of empires on their subjects, 
+he found himself the target of a
 campaign by hundreds of academics and a host of students who wanted to, in the words of Cambridge professor 
 Priyamvada Gopal, "SHUT THIS DOWN." (The caps are hers.)
 
@@ -15,22 +19,35 @@ politicians or something artificial and trivial, Biggar cites the gay feminist p
 forced to resign from her post at the University of Sussex because of "a sustained campaign of harassment by students in
 some colleagues." Her crime was that she had questioned transgender orthodoxy.
 
+The species of postmodernism which placed Biggar in its sights is
+"postcolonialism." Biggar never denies that colonial powers sometimes did
+terrible things; he only notes that they sometimes did good things as well. But
+that won't do for hardcore postcolonialists: for them, the world is cleanly
+divided between wholly evil colonial powers (almost always European;
+post-colonialists have little interest in the history of colonialism on the
+part of non-white people), and wholly innocent subject populations. And to make
+that sharp cut, they must reject basic logic and sweep any contrary evidence
+under their PhD thesis. Biggar here cites a founding postcolonialist, Frantz Fanon
+condemnation of "tiresome reasoning [and] oppresive logic" characteristic of
+"European culture." But, as Biggar notes, you can't solve a problem unless you
+diagnose it correctly, and "Fanon's view of the colonial problem... owe[s] more
+to blind hatred than to a disciplined observation of historical data and
+diagnosis of the problem." 16
 
-"Fanon's view of the colonial problem... owe[s] more to blind hatred than to a disciplined observation of historical data
-and diagnosis of the problem." 16
-
-
+Another incident of wokeness gone mad described by Biggar involves the claim
+that hundreds of Indian students at residential schools in Canada were killed
+and dumped in unmarked graves. Despite the fact that 
 "Not a single set of remains of a murdered Indian child in an unmarked grave had been found in Kamloops or elsewhere in
-Canada. Indeed, not a single attempt to disinter an alleged grave has been made." 27
+Canada. Indeed, not a single attempt to disinter an alleged grave has been made," this story continues to circulate as though it werefact.
 
 
 ## Tyranny
 
+Biggar sees this aversion to reason and evidence, at least when they interfere
+with a politically useful narrative, to contain "the springs of tyranny."
 
-The springs of tyranny
 
-
-The students preferred to protest roads, a white man dead for over a century, to protesting about the looming the
+The students preferred to protest Rhodes, a white man dead for over a century, to protesting about the looming the
 humanitarian crisis in South Africa due to a corrupt government.
 
 

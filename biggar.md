@@ -58,6 +58,14 @@ benefited greatly from the slave trade (with which it was barely involved) and
 failing to mention the city's much more important role in ending the slave
 trade.
 
+Biggar then relates the case of Frances Widdowson, who was fired from her
+professorship at Mount Royal University for questioning the notion of
+"indigenous science." This is especially ironic because, while
+"indigenous" people certainly knew lots of interesting things, and it is
+foolish to dismiss them as ignorant savages, to insist that the
+knowledge they had was "science" is to demand it fit into a western framework.
+
+
 ## Tyranny
 
 Biggar sees this aversion to reason and evidence (when they interfere
@@ -66,27 +74,25 @@ once those are abandoned, the only means left to resolve disagreements is
 power. Thus, "postcolonialists and other 'progressive' zealots assume an
 aggresive, intimidating, repressive, tyrannical posture."
 
+As an example of this odious behavior, Biggar cites the "Rhodes Must Fall"
+movement at Oxford University, dedicated to bring down a statue of Cecil Rhodes
+at the university. Biggar notes that there outrage over the statue centered
+around a single, fabricated quote supposedly from Rhodes. He notes the irony
+that the students preferred to protest Rhodes, a white man dead for over a
+century, to protesting about the present-day humanitarian crisis in South
+Africa, due to a corrupt government.
 
 
-The students preferred to protest Rhodes, a white man dead for over a century,
-to protesting about the looming the
-humanitarian crisis in South Africa due to a corrupt government.
+What explains this gulf between the protesters' self-proclaimed concern for the
+oppressed and their general lack of concern for the people actually suffering
+oppression? Biggar argues that "[Their] focus of concern was really not the
+poor and disadvantaged at all, but the righteous self..." 46
 
-
-
-"Uncaring kindness" 43
-
-
-## Wokeness
-
-
-"The focus of concern was really not the poor and disadvantaged at all, but the righteous self..." 46
-
-
-A saint recognizes that he himself is a terrible sinner.
-
-
-"it is a narcissistic relationship in which the African, the Indian, and Arab are brought in as extras" 49
+He notes that in Christian literature, a saint recognizes that he himself is a
+terrible sinner. But in the literature of wokeness, sin lies entirely with the
+"oppressors," from whom the woke person is sharply distinguished. Biggar writes
+that "it is a narcissistic relationship in which the African, the Indian, and
+Arab are brought in as extras" 49
 
 
 
@@ -121,11 +127,6 @@ the guise of liberalism. So this is another place where Biggar's emphasis on lib
 Thinkers like John Gray and Alasdair MacIntyre have shown that it's actually not rational to embrace ideological
 liberalism, since it is an incoherent theory.
 
-=======
-Nigel Biggar did not join the culture wars voluntarily: the culture wars came
-for him. As he puts it, "the colonial front of the culture wars came uninvited
-to my doorstep... in 2017."
->>>>>>> 0af45f3a6499b7331012855ece8c07fae1505030
 
 
 "The fact is that the culture wars are neither artifical nor trivial. They are
@@ -145,12 +146,6 @@ But those are what got us here.
 
 "And the claim that there are o universal truths is itself, of course, a
 dogmatic assertion of a universal truth."
-
-
-"Indigenous" people certainly knew lots of interesting things, and it is
-foolish to dismiss them as ignorant savages.
-But ironically, to insist that the knowledge they had was "science" is the demand it fit into a western framework.
-
 
 The contention made by, for instance, Philip Pilkington, is that the liberal desire to do away with all hierarchy has
 led to precisely the situation which distresses Biggar.

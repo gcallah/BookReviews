@@ -9,17 +9,20 @@ He opens his new book with a description of how that happened:
 Biggar was working on an academic project called "Ethics and Empire" at Oxford University.
 When it was discovered that the project was attempting to highlight both the
 negative and the positive impacts of empires on their subjects, 
-he found himself the target of a
-campaign by hundreds of academics and a host of students who wanted to, in the words of Cambridge professor 
-Priyamvada Gopal, "SHUT THIS DOWN." (The caps are hers.)
+he found himself the target of a campaign by hundreds of academics and a host
+of students who wanted to, in the words of Cambridge professor Priyamvada
+Gopal, "SHUT THIS DOWN." (The caps are hers.)
 
-Apparently, the idea that empires have had good as well as as bad aspects is so outrageous that no one should even be
-allowed to investigate the issue. As further evidence that the culture wars are not an invention of conservative
-politicians or something artificial and trivial, Biggar cites the gay feminist philosopher, Kathleen Stock, Who was
-forced to resign from her post at the University of Sussex because of "a sustained campaign of harassment by students in
-some colleagues." Her crime was that she had questioned transgender orthodoxy.
+Apparently, the idea that empires have had good as well as as bad aspects is so
+outrageous that no one should even be allowed to investigate the issue. As
+further evidence that the culture wars are not an invention of conservative
+politicians or something artificial and trivial, Biggar cites the gay feminist
+philosopher, Kathleen Stock, Who was forced to resign from her post at the
+University of Sussex because of "a sustained campaign of harassment by students
+in some colleagues." Her crime was that she had questioned transgender
+orthodoxy.
 
-The species of postmodernism which placed Biggar in its sights is
+The species of postmodernism which had Biggar in its crosshairs is
 "postcolonialism." Biggar never denies that colonial powers sometimes did
 terrible things; he only notes that they sometimes did good things as well. But
 that won't do for hardcore postcolonialists: for them, the world is cleanly
@@ -34,20 +37,39 @@ diagnose it correctly, and "Fanon's view of the colonial problem... owe[s] more
 to blind hatred than to a disciplined observation of historical data and
 diagnosis of the problem." 16
 
-Another incident of wokeness gone mad described by Biggar involves the claim
+Another incident of postcolonialism gone mad that Biggar describes involves the claim
 that hundreds of Indian students at residential schools in Canada were killed
-and dumped in unmarked graves. Despite the fact that 
-"Not a single set of remains of a murdered Indian child in an unmarked grave had been found in Kamloops or elsewhere in
-Canada. Indeed, not a single attempt to disinter an alleged grave has been made," this story continues to circulate as though it werefact.
+and dumped in unmarked graves. Despite the fact that "Not a single set of
+remains of a murdered Indian child in an unmarked grave had been found in
+Kamloops or elsewhere in Canada. Indeed, not a single attempt to disinter an
+alleged grave has been made," this story continues to circulate as though it
+were fact.
 
+The whole field of "postcolonial studies" is, as Biggar sees it, only wears the
+skin of a scholarly enterprise, as its practitioners are not competent in either philosophy
+or ethics or history, and so simply treat the evil of colonialism as
+"axiomatic" and "slavishly" repeat the work of a founder of the field, Edward
+Said, as "Holy Scripture."
+
+Biggar offers an example of the fatuousness of the field's practitioners in the
+efforts to "decolonize" museums. For instance, the Kelvingrove Museum in
+Glasgow installed a permanent exhibition intended to show that Glasgow
+benefited greatly from the slave trade (with which it was barely involved) and
+failing to mention the city's much more important role in ending the slave
+trade.
 
 ## Tyranny
 
-Biggar sees this aversion to reason and evidence, at least when they interfere
-with a politically useful narrative, to contain "the springs of tyranny."
+Biggar sees this aversion to reason and evidence (when they interfere
+with a politically useful narrative) to contain "the springs of tyranny," since
+once those are abandoned, the only means left to resolve disagreements is
+power. Thus, "postcolonialists and other 'progressive' zealots assume an
+aggresive, intimidating, repressive, tyrannical posture."
 
 
-The students preferred to protest Rhodes, a white man dead for over a century, to protesting about the looming the
+
+The students preferred to protest Rhodes, a white man dead for over a century,
+to protesting about the looming the
 humanitarian crisis in South Africa due to a corrupt government.
 
 

@@ -82,7 +82,6 @@ that the students preferred to protest Rhodes, a white man dead for over a
 century, to protesting about the present-day humanitarian crisis in South
 Africa, due to a corrupt government.
 
-
 What explains this gulf between the protesters' self-proclaimed concern for the
 oppressed and their general lack of concern for the people actually suffering
 oppression? Biggar argues that "[Their] focus of concern was really not the
@@ -90,7 +89,8 @@ poor and disadvantaged at all, but the righteous self..." 46
 
 He notes that in Christian literature, a saint recognizes that he himself is a
 terrible sinner. But in the literature of wokeness, sin lies entirely with the
-"oppressors," from whom the woke person is sharply distinguished. Biggar writes
+"oppressors," from whom the woke person is sharply distinguished. Given that
+wokenesss is about showing one's own moral superiority, it follows that
 that "it is a narcissistic relationship in which the African, the Indian, and
 Arab are brought in as extras" 49
 
@@ -128,25 +128,6 @@ Thinkers like John Gray and Alasdair MacIntyre have shown that it's actually not
 liberalism, since it is an incoherent theory.
 
 
-
-"The fact is that the culture wars are neither artifical nor trivial. They are
-real and important, and much is at stake in them."
-
-
-"a single visible cancellatiion causes multiple invisible self-cancellations."
-
-
-"race relations were worst in Austria, Finland, and Ireland."
-
-
-"commitment to Millian liberal principles." (10)
-
-But those are what got us here.
-
-
-"And the claim that there are o universal truths is itself, of course, a
-dogmatic assertion of a universal truth."
-
 The contention made by, for instance, Philip Pilkington, is that the liberal desire to do away with all hierarchy has
 led to precisely the situation which distresses Biggar.
 
@@ -160,16 +141,13 @@ Timur Kuran and preference cascades
 
 69:
 
-Could it be that no one saw the universities needed a faculty of architecture or faculty of agriculture because
+Biggar complains that the medieval university lacked faculties of subjects like
+architecture and agriculture, "Perhaps because of the infection of medieval
+Christendom by an Aristotelian disdain for the servile arts." But this guess
+ignores the fact that manual labor was an important part of monastic
+discipline. Could it be instead that no one saw the universities needed a
+faculty of architecture or faculty of agriculture because
 development in such disciplines was done better under an apprenticeship system?
-
-And perhaps bringing these disciplines into universities was the start of their downfall?
-
-Is architecture really being improved by the departments of architecture?
-
-
-
-Computer science education is not closely tied what is needed to be successful working software engineer
 
 
 Suppression of evidence in the transgender industry
@@ -280,4 +258,21 @@ Bob Brier: the pharaoh who kept crushing his enemy
 
 
 
+## Notes
 
+
+
+
+"a single visible cancellatiion causes multiple invisible self-cancellations."
+
+
+"race relations were worst in Austria, Finland, and Ireland."
+
+
+"commitment to Millian liberal principles." (10)
+
+But those are what got us here.
+
+
+"And the claim that there are o universal truths is itself, of course, a
+dogmatic assertion of a universal truth."

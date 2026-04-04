@@ -95,45 +95,29 @@ that "it is a narcissistic relationship in which the African, the Indian, and
 Arab are brought in as extras" 49
 
 
+## The Silence of the Lambs
 
-The silence of university colleagues
+While Biggar was under attack by the postcolonialists, he was taken aback by the 
+the silence of his university colleagues, many of whom he had thought to be
+friends, in the face of his troubles. "It was as if I had become diseased and
+they were terrified of contagion," he writes. Only four colleagues reached out
+to offer support. And he had to meet one of his "supportive" colleagues in a
+deserted café, behind a screen where no one could see them.
 
-He had to meet his "supportive" colleague in a deserted café, behind a screen.
+In explanation, Biggar posits that "Academics are as protective of their
+reputations as anyone else... They are generally not made for battle." 54
 
-
-
-"And that is because what drives the prophet fundamentally is *love for the criticized*, not *self-love for the
-critic*."  47
-
-
-"Academics are as protective of their reputations as anyone else... They are generally not made for battle." 54
-
-
-Bigger notes that "the Nazi party enjoyed 'almost twice as much' support among students as in the country as a whole."
+Bigger notes that "the Nazi party enjoyed 'almost twice as much' support among
+students as in the country as a whole."
 Three hundred professors signed a manifesto urging support for Hitler.
 
-Much like today's woke academics, the academics of 1933 Germany held that "research and teaching must serve... the
-national community… and not some abstract notion of 'objective truth.'" The difference being that in the letter case, it
-was the Nazi party they believed research and teaching ought to serve.
+Much like today's woke academics, the academics of 1933 Germany held that
+"research and teaching must serve... the national community… and not some
+abstract notion of 'objective truth.'" The difference being that in the letter
+case, it was the Nazi party they believed research and teaching ought to serve.
 
 
-But why is it academics' "civic duty," as Biggar puts it, to "defend liberal culture on campus." What if an academic
-happens to think liberalism is misguided? Do they still have a civic duty to defend it?
 
-Of course, with this statement, Biggar could mean nothing more than that academics have a duty to carefully consider
-others' ideas, and respond to them rationally. But Plato was teaching us that 2400 years ago, and certainly not under
-the guise of liberalism. So this is another place where Biggar's emphasis on liberalism seems misplaced.
-
-Thinkers like John Gray and Alasdair MacIntyre have shown that it's actually not rational to embrace ideological
-liberalism, since it is an incoherent theory.
-
-
-The contention made by, for instance, Philip Pilkington, is that the liberal desire to do away with all hierarchy has
-led to precisely the situation which distresses Biggar.
-
-
-Nazis: MacIntyre's critique that the encyclopediaists were, in fact, unable to respond to the Nieztschean critique of
-their position.
 
 
 Timur Kuran and preference cascades
@@ -248,6 +232,29 @@ But that need for a transcendental grounding is something liberalism explicitly
 has tried to deny: it declares, "No, we can ground these virtues in purely immanent reasoning."
 So that, for instance, there's no transcendence in Hobbes's case for the
 Leviathan, or, three centuries later, in the reasoning of Rawls or Nozick.
+
+
+But why is it academics' "civic duty," as Biggar puts it, to "defend liberal
+culture on campus." What if an academic happens to think liberalism is
+misguided? Do they still have a civic duty to defend it?
+
+Of course, with this statement, Biggar could mean nothing more than that
+academics have a duty to carefully consider others' ideas, and respond to them
+rationally. But Plato was teaching us that 2400 years ago, and certainly not
+under the guise of liberalism. So this is another place where Biggar's emphasis
+on liberalism seems misplaced.
+
+Thinkers like John Gray and Alasdair MacIntyre have shown that it's actually
+not rational to embrace ideological liberalism, since it is an incoherent
+theory.
+
+The contention made by, for instance, Philip Pilkington, is that the liberal
+desire to do away with all hierarchy has led to precisely the situation which
+distresses Biggar.
+
+
+Nazis: MacIntyre's critique that the encyclopediaists were, in fact, unable to
+respond to the Nieztschean critique of their position.
 
 
 

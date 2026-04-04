@@ -233,21 +233,25 @@ Is monotheism really necessary for recognizing that one is not a god? Don't Budd
 recognize this?
 
 
-Perhaps it is really Christianity you're advocating for, not liberalism?
+## Liberalism
+
+There is a tension running throughout this work between Biggar's repeated
+invocartion of liberalism as the solution to the woes he describes, and his
+recognition that (quoting Charles Renouvier), "The world suffers from its lack
+of faith in a transcendent truth."
+
+Whether Christian, or Buddhist, or Greek, or Taoist, one thing all these views
+have in common is a grounding of these virtues in a reality that transcends the
+quotidian human concerns.
+
+But that need for a transcendental grounding is something liberalism explicitly
+has tried to deny: it declares, "No, we can ground these virtues in purely immanent reasoning."
+So that, for instance, there's no transcendence in Hobbes's case for the
+Leviathan, or, three centuries later, in the reasoning of Rawls or Nozick.
 
 
-Whether Christian, or Buddhist, or Greek, or Taoist, one thing all these views have in common is a grounding of these
-virtues in a transcendent reality.
 
-But it seems to me that that is something liberalism explicitly tried to cut itself off from: it said, "no, we can
-ground these virtues in purely immanent reasoning."
-
-
-So there's no transcendence in Hobbes's case for why to create a Leviathan.
-
-
-So perhaps liberalism is really where things went off the rails?
-
+## History
 
 
 Biggar seems to make a mistake about the nature of historical research.

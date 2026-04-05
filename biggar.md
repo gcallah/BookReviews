@@ -229,20 +229,24 @@ have in common is a grounding of these virtues in a reality that transcends the
 quotidian human concerns.
 
 But that need for a transcendental grounding is something liberalism explicitly
-has tried to deny: it declares, "No, we can ground these virtues in purely immanent reasoning."
-So that, for instance, there's no transcendence in Hobbes's case for the
-Leviathan, or, three centuries later, in the reasoning of Rawls or Nozick.
+has tried to deny: it declares, "No, we can ground these virtues in purely
+immanent reasoning." So that, for instance, there's no transcendence in
+Hobbes's case for the Leviathan, or, three centuries later, in the reasoning of
+Rawls or Nozick.
 
+Furthermore, contra the liberal conceit of neutrality between different
+"comprehensive doctrines," Biggar seems to understand that, as he puts it,
+"There is no neutral position available." 134
 
 But why is it academics' "civic duty," as Biggar puts it, to "defend liberal
-culture on campus." What if an academic happens to think liberalism is
-misguided? Do they still have a civic duty to defend it?
+culture on campus."
 
-Of course, with this statement, Biggar could mean nothing more than that
+Of course, with this statement, Biggar may not actually be denoting ideological
+liberalism. He might mean "liberality" as a personal virtue, so that
 academics have a duty to carefully consider others' ideas, and respond to them
 rationally. But Plato was teaching us that 2400 years ago, and certainly not
-under the guise of liberalism. So this is another place where Biggar's emphasis
-on liberalism seems misplaced.
+under the guise of liberalism. So this is another place where Biggar's
+invocation of liberalism is a puzzle.
 
 Thinkers like John Gray and Alasdair MacIntyre have shown that it's actually
 not rational to embrace ideological liberalism, since it is an incoherent
@@ -260,8 +264,11 @@ respond to the Nieztschean critique of their position.
 
 ## History
 
+While not diminishing to the importance of this book, it is worth mentioning
+that Biggar seems to have a misapprehension about the nature of historical
+research. He writes:
 
-Biggar seems to make a mistake about the nature of historical research.
+
 
 
 Bob Brier: the pharaoh who kept crushing his enemy

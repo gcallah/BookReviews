@@ -217,9 +217,29 @@ Is monotheism really necessary for recognizing that one is not a god? Don't Budd
 recognize this?
 
 
+## History
+
+While not diminishing to the importance of this book, it is worth mentioning
+that Biggar seems to have a misapprehension about the nature of historical
+research. He writes:
+
+"
+
+"
+
+
+
+
+
+Bob Brier: the pharaoh who kept crushing his enemy
+
+
+
+
 ## Liberalism
 
-There is a tension running throughout this work between Biggar's repeated
+A more important concern I  have with the book is the
+tension running throughout this work between Biggar's repeated
 invocartion of liberalism as the solution to the woes he describes, and his
 recognition that (quoting Charles Renouvier), "The world suffers from its lack
 of faith in a transcendent truth."
@@ -259,20 +279,6 @@ distresses Biggar.
 
 Nazis: MacIntyre's critique that the encyclopediaists were, in fact, unable to
 respond to the Nieztschean critique of their position.
-
-
-
-## History
-
-While not diminishing to the importance of this book, it is worth mentioning
-that Biggar seems to have a misapprehension about the nature of historical
-research. He writes:
-
-
-
-
-Bob Brier: the pharaoh who kept crushing his enemy
-
 
 
 

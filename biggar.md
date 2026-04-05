@@ -231,7 +231,9 @@ research. He writes:
 
 
 
-Bob Brier: the pharaoh who kept crushing his enemy
+Bob Brier: the pharaoh who kept crushing his In one of his lectures Egyptologist Bob Brier, described how the pharaoh Ramesses II repeatedly had inscriptions made up that described how he had ventured out and crushed the Hittites. Brier points out that if Ramesses and really thoroughly defeated the Hittites the first time, there would not have been a second time, and if the second time, there wouldn't have been a third time. So historians have concluded that Ramesses never crushed the Hittites at all.
+
+So this series of inscriptions is not "the data" of history that an historian discovers by observation, the way that an astronomer determines where a planet is on some particular night. Instead, it is *evidence* as to what the data is. And the data of history only emerges in the process of the historian interpreting the evidence.
 
 
 

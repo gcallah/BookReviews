@@ -2,7 +2,7 @@
 
 Nigel Biggar
 
-
+## Culture Wars
 
 Nigel Biggar did not join the culture wars voluntarily: the culture wars came for him.
 He opens his new book with a description of how that happened:
@@ -116,15 +116,6 @@ Much like today's woke academics, the academics of 1933 Germany held that
 abstract notion of 'objective truth.'" The difference being that in the letter
 case, it was the Nazi party they believed research and teaching ought to serve.
 
-
-
-
-
-Timur Kuran and preference cascades
-
-
-69:
-
 Biggar complains that the medieval university lacked faculties of subjects like
 architecture and agriculture, "Perhaps because of the infection of medieval
 Christendom by an Aristotelian disdain for the servile arts." But this guess
@@ -137,84 +128,31 @@ development in such disciplines was done better under an apprenticeship system?
 Suppression of evidence in the transgender industry
 
 
-## Intellectual vices
+## Intellectual vices and virtues
 
-ad hominem
+Biggar proceeds to list the intellectual vices he sees corrupting today's
+universities, and contrasts them with the intellectual virtues he sees as
+necessary for the university to fulfill its telos. The vices he describes are
+"smearing by association, the authoritarian pulling of professional rank,
+misrepresentation, the setting up of straw men, unjust bias, false assertion,
+dogmatic ideological abstraction and evasive omission. Biggar offers several
+stunning examples of the first vice from one Richard Drayton, who in an essay
+on Biggar brings up irrelevant facts such as his great-great-granfather having
+a manure business, and his having been born no few miles from long-dead people
+who were known to be racists.
 
+I do have one complaint about this  section: the rhetorical device were Biggar
+refers to himself in the third person throughout this chapter simply does not
+work. He merely makes it sound as though someone else wrote the chapter.
 
-Misrepresentation
-
-
-Strawmanning
-
-
-Cultural bias
-
-
-False assertions
-
-
-Ideological assumptions
-
-
-Evasive omission and diminution
-
-
-I'm sorry, but the rhetorical device were Biggar refers to himself in the third person throughout this chapter simply
-does not work. He merely makes it sound as though someone else wrote the chapter.
-
-
-
-
-## Biggar's virtues
-
-Temperance
-
-We should not let our passions blind us
-
-Respect
-
-Our initial position should be that others are acting in good faith
-
-Carefulness
-
-
-
-Patience
-
-
-Charity
-
-
-Humility
-
-
-Docility
-
-Open to being taught
-
-
-Thoughtfulness
-
-If thoughtfulness is simply an outcome of exercising the previous virtues, does it really deserve its own slot?
-
-
-
-Courage
-
-
-There is no neutral position
-
-
-How does one respond to the revolutionary challenge, that asking for these virtues to be displayed by the oppressed is a
-way to make them "thoughtful and reasonable" about their oppression?
-
-
-Professor should model the virtues
-
-
-Is monotheism really necessary for recognizing that one is not a god? Don't Buddhists and Taoists and Confucians
-recognize this?
+The virtues Biggar opposes to these vices are temperance, respect, carefulness,
+patience, charity, humility, docility (openness to being taught),
+thoughtfulness, and courage. Of particular note for our online world is that,
+for Biggar, respect means that our initial position should be that others are
+acting in good faith. (Of course, we may later discover that they are *not*
+doing so, but that should be a discovery, not an assumption.)
+And Biggar makes the important point that professors should not just *teach*
+these virtues, but also *model* them.
 
 
 ## History
@@ -223,8 +161,9 @@ While not diminishing to the importance of this book, it is worth mentioning
 that Biggar seems to have a misapprehension about the nature of historical
 research. He writes:
 
-"
-
+"It is true that only those who have dug deep into archives or archaeological
+sites can tell us what the hard, empirical data are. But when it comes to
+making sense of that data, all manner of... assumptions come into play."
 "
 
 In one of his lectures Egyptologist Bob Brier, described how the pharaoh

@@ -1,6 +1,9 @@
 ## Intellectual vices
 
 
+The man who brought up Carlyle and manure vis=a-vis Mary Harrington.
+
+Given profs are not made for battle...?
 
 How does one respond to the revolutionary challenge, that asking for these virtues to be displayed by the oppressed is a
 way to make them "thoughtful and reasonable" about their oppression?
@@ -24,6 +27,7 @@ ground these virtues in purely immanent reasoning."
 
 So there's no transcendence in Hobbes's case for why to create a Leviathan.
 
+Liberalism rejects "comprehensive doctrines": and so promotes moral relativism.
 
 So perhaps liberalism is really where things went off the rails?
 

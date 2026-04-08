@@ -129,29 +129,29 @@ case, it was the Nazi party they believed research and teaching ought to serve.
 While discussing these problems,
 Biggar complains that the medieval university lacked faculties of subjects like
 architecture and agriculture, "Perhaps because of the infection of medieval
-Christendom by an Aristotelian disdain for the servile arts." But this guess
-ignores the fact that manual labor was an important and respected part of
-monastic discipline. Could it be instead that no one thought that universities
-needed a faculty of architecture or faculty of agriculture because education
-in such disciplines was done better under an apprenticeship system?
+Christendom by an Aristotelian disdain for the servile arts." But this
+suggestion ignores the fact that manual labor was an important and respected
+part of monastic discipline. Could it be instead that no one thought that
+universities needed a faculty of architecture or faculty of agriculture because
+education in such disciplines was done better under an apprenticeship system?
 
 
 ## Intellectual vices and virtues
 
 Biggar proceeds to list the intellectual vices he sees corrupting today's
-universities, and contrasts them with the intellectual virtues he sees as
-necessary for the university to fulfill its telos. The vices he describes are
+universities, and contrasts them with the intellectual virtues he believes are
+necessary for the university to fulfill its telos. The vices he catalogues are
 "smearing by association, the authoritarian pulling of professional rank,
 misrepresentation, the setting up of straw men, unjust bias, false assertion,
 dogmatic ideological abstraction and evasive omission." Biggar offers several
 stunning examples of the first vice from one Richard Drayton, who in an essay
-on Biggar brings up irrelevant facts such as Biggar's great-great-granfather having
-had a manure business, and his having been born no few miles from long-dead
+on Biggar brings up such irrelevant facts such as Biggar's great-great-granfather having
+had a manure business, and Biggar having been born some few miles from long-dead
 people who were known to be racists.
 
-I do have one complaint about this section: the rhetorical device Biggar
-uses in referring to himself in the third person throughout this chapter simply does not
-work: it merely makes it sound as though someone else wrote the chapter.
+(I do have one complaint about this section: the rhetorical device Biggar
+uses in referring to himself in the third person throughout this chapter does not
+work for me: it merely makes me think someone else wrote the chapter.
 
 The virtues Biggar opposes to these vices are temperance, respect, carefulness,
 patience, charity, humility, docility (openness to being taught),
@@ -175,8 +175,8 @@ making sense of that data, all manner of... assumptions come into play."
 
 To explain what is wrong in the above, I will begin with an example.
 In one of his lectures Egyptologist Bob Brier, described how the pharaoh
-Ramesses II repeatedly had inscriptions made up that described how he had
-ventured out and crushed the Hittites. Brier points out that if Ramesses and
+Ramesses II, every few years, had an inscription made up that described how he had
+recently ventured out and crushed the Hittites. Brier points out that if Ramesses and
 really thoroughly defeated the Hittites the first time, there would not have
 been a second time, and if the second time, there wouldn't have been a third
 time. Historians have concluded that Ramesses never crushed the Hittites at

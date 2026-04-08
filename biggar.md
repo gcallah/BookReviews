@@ -1,6 +1,11 @@
-# A New Dark Age
+# The New Dark Age: Why Liberals Must Win the Culture Wars
 
-Nigel Biggar
+Nigel Biggar  
+Polity Press: Cambridge  
+2026  
+169 pages  
+$25.00  
+
 
 ## Culture Wars
 
@@ -17,7 +22,7 @@ Apparently, the idea that empires have had good as well as as bad aspects is so
 outrageous that no one should even be allowed to investigate the issue. As
 further evidence that the culture wars are not an invention of conservative
 politicians or something artificial and trivial, Biggar cites the gay feminist
-philosopher, Kathleen Stock, Who was forced to resign from her post at the
+philosopher, Kathleen Stock, who was forced to resign from her post at the
 University of Sussex because of "a sustained campaign of harassment by students
 and some colleagues." Her crime was that she had questioned transgender
 orthodoxy.
@@ -35,18 +40,19 @@ who condemned the "tiresome reasoning [and] oppresive logic" characteristic of
 "European culture." But, as Biggar notes, you can't solve a problem unless you
 diagnose it correctly, and "Fanon's view of the colonial problem... owe[s] more
 to blind hatred than to a disciplined observation of historical data and
-diagnosis of the problem." 16
+diagnosis of the problem."
 
 Another incident of postcolonialism gone mad that Biggar describes involves the claim
 that hundreds of American Indian students at residential schools in Canada were killed
-and dumped in unmarked graves. Despite the fact that "Not a single set of
+and dumped in unmarked graves.
+And this story continues to circulate as though it were true,
+despite the fact that: "Not a single set of
 remains of a murdered Indian child in an unmarked grave had been found in
 Kamloops or elsewhere in Canada. Indeed, not a single attempt to disinter an
-alleged grave has been made," this story continues to circulate as though it
-were fact.
+alleged grave has been made,"
 
 The whole field of "postcolonial studies," as Biggar sees it, only wears the
-skin of a scholarly enterprise, as its practitioners are not competent in either philosophy
+skin of a scholarly enterprise, as its practitioners are not competent in philosophy
 or ethics or history, and so simply treat the evil of colonialism as
 "axiomatic" and "slavishly" repeat the work of a founder of the field, Edward
 Said, as "Holy Scripture."
@@ -55,12 +61,12 @@ Biggar offers an example of the fatuousness of the field's practitioners in
 their efforts to "decolonize" museums. For instance, the Kelvingrove Museum in
 Glasgow installed a permanent exhibition intended to show that Glasgow
 benefited greatly from the slave trade (with which it was barely involved) and
-failing to mention the city's much more important role in ending the slave
+failing to mention the city's much more important role in *ending* the slave
 trade.
 
 Biggar then relates the case of Frances Widdowson, who was fired from her
 professorship at Mount Royal University for questioning the notion of
-"indigenous science." This is especially ironic because, while
+"indigenous science." This is ironic because, while
 "indigenous" people certainly knew lots of interesting things, and it is
 foolish to dismiss them as ignorant savages, to insist that the
 knowledge they had was "science" is to demand it fit into a western framework.
@@ -68,7 +74,7 @@ knowledge they had was "science" is to demand it fit into a western framework.
 
 ## Tyranny
 
-Biggar sees this aversion to reason and evidence (when they interfere
+Biggar sees this aversion to reason and evidence (at least when they interfere
 with a politically useful narrative) to contain "the springs of tyranny," since
 once those are abandoned, the only means left to resolve disagreements is
 power. Thus, "postcolonialists and other 'progressive' zealots assume an
@@ -76,23 +82,23 @@ aggresive, intimidating, repressive, tyrannical posture."
 
 As an example of this odious behavior, Biggar cites the "Rhodes Must Fall"
 movement at Oxford University, dedicated to bring down a statue of Cecil Rhodes
-at the university. Biggar notes that there outrage over the statue centered
-around a single, fabricated quote supposedly from Rhodes. He notes the irony
-that the students preferred to protest Rhodes, a white man dead for over a
-century, to protesting about the present-day humanitarian crisis in South
-Africa, due to a corrupt government.
+at the university. Biggar notes that their outrage over the statue centered
+around a single, quote fabricated by Adekeye Adebajo and falsely attributed to
+Rhodes. He notes the irony that the students preferred to protest Rhodes, a
+white man dead for over a century, to protesting about the present-day
+humanitarian crisis in South Africa, due to government corruption.
 
 What explains this gulf between the protesters' self-proclaimed concern for the
 oppressed and their general lack of concern for the people actually suffering
 oppression? Biggar argues that "[Their] focus of concern was really not the
 poor and disadvantaged at all, but the righteous self..."
 
-He notes that in Christian literature, a saint recognizes that he himself is a
-terrible sinner. But in the literature of wokeness, sin lies entirely with the
-"oppressors," from whom the woke person is sharply distinguished. Given that
-wokenesss is about showing one's own moral superiority, it follows that
-that "it is a narcissistic relationship in which the African, the Indian, and
-Arab are brought in as extras."
+He notes that in Christian literature, the saints recognize that they
+themselves are terrible sinners. But in the literature of wokeness, sin lies
+entirely with the "oppressors," from whom the woke person is sharply
+distinguished. Given that wokenesss is about showing one's own moral
+superiority, it follows that that "it is a narcissistic relationship in which
+the African, the Indian, and Arab are brought in as extras."
 
 
 ## The Silence of the Lambs
@@ -102,32 +108,32 @@ the silence of his university colleagues, many of whom he had thought to be
 friends, in the face of his troubles. "It was as if I had become diseased and
 they were terrified of contagion," he writes. Only four colleagues reached out
 to offer support. And he had to meet one of his "supportive" colleagues in a
-deserted café, behind a screen where no one could see them. And his colleagues'
-fear of publicly support Biggar surely means they would be afraid to express
-their true views where they differ from the elite consensus. As Biggar puts it, 
-"a single visible cancellatiion causes multiple invisible self-cancellations."
+deserted café, behind a screen where no one could see them. Given his colleagues'
+fear of publicly support Biggar, we can surmise that they would also 
+be afraid to express their true views where they differ from the elite
+consensus. As Biggar points out, "a single visible cancellatiion causes multiple
+invisible self-cancellations." In explanation, Biggar posits that "Academics
+are as protective of their reputations as anyone else... They are generally not
+made for battle."
 
-In explanation, Biggar posits that "Academics are as protective of their
-reputations as anyone else... They are generally not made for battle."
-
-Academics propensity to bend in whatever direction the political winds seem to
+This propensity of academics to bend in whatever direction the political winds seem to
 be blowing is not new: Bigger notes that "the Nazi party enjoyed 'almost twice
 as much' support among students as in the country as a whole." Three hundred
 professors signed a manifesto urging support for Hitler.
 
 Much like today's woke academics, the academics of 1933 Germany held that
 "research and teaching must serve... the national community... and not some
-abstract notion of 'objective truth.'" The difference being that in the letter
+abstract notion of 'objective truth.'" The difference is that in the letter
 case, it was the Nazi party they believed research and teaching ought to serve.
 
 While discussing these problems,
 Biggar complains that the medieval university lacked faculties of subjects like
 architecture and agriculture, "Perhaps because of the infection of medieval
 Christendom by an Aristotelian disdain for the servile arts." But this guess
-ignores the fact that manual labor was an important part of monastic
-discipline. Could it be instead that no one thought that universities needed a
-faculty of architecture or faculty of agriculture because
-development in such disciplines was done better under an apprenticeship system?
+ignores the fact that manual labor was an important and respected part of
+monastic discipline. Could it be instead that no one thought that universities
+needed a faculty of architecture or faculty of agriculture because education
+in such disciplines was done better under an apprenticeship system?
 
 
 ## Intellectual vices and virtues

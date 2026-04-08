@@ -175,16 +175,17 @@ making sense of that data, all manner of... assumptions come into play."
 
 To explain what is wrong in the above, I will begin with an example.
 In one of his lectures Egyptologist Bob Brier, described how the pharaoh
-Ramesses II, every few years, had an inscription made up that described how he had
+Ramesses II, every few years, had an inscription made up that boasted of how he had
 recently ventured out and crushed the Hittites. Brier points out that if Ramesses and
 really thoroughly defeated the Hittites the first time, there would not have
-been a second time, and if the second time, there wouldn't have been a third
-time. Historians have concluded that Ramesses never crushed the Hittites at
-all.
+been a second time, and if he had done so the second time, there wouldn't have
+been a third time, etc. As a result of this historical reasoning,
+scholars have concluded that Ramesses never crushed the Hittites at all,
+but merely battled them to a  series of draws.
 
-Thus, this series of inscriptions is not *the data* of history that an historian
+Thus, these inscriptions are not *the data* of history that an historian
 discovers by observation, the way that an astronomer determines where a planet
-is on some particular night. Instead, it is *evidence* as to what the data is.
+is on some particular night. Instead, they are *evidence* as to what the data is.
 So it is not the case that there is first historical
 data, followed by historians' "making sense" of that data. The data of history
 only emerges as a result of historians making sense of the evidence.
@@ -196,21 +197,20 @@ A more important concern I  have with the book is the
 tension running throughout this work between Biggar's repeated
 invocation of liberalism as the solution to the woes he describes, and his
 recognition that (quoting Charles Renouvier), "The world suffers from its lack
-of faith in a transcendent truth."
+of faith in a transcendent truth." (Biggar is quoting Charles Renouvier.) 
 
 But that need for a transcendental grounding for social order
-is something liberalism explicitly
-has tried to deny: it declares, "No, we can ground these virtues in purely
-immanent reasoning." So that, for instance, there's no appeal to transcendent
+is something liberalism has tried to reject.
+Liberalism declares, "No, we can ground social order in purely
+immanent reasoning." There's no appeal to transcendent
 reality in Hobbes's case for the Leviathan, or, three centuries later, in the
 reasoning of Rawls or Nozick.
 
 Furthermore, contra the liberal conceit of neutrality between different
 "comprehensive doctrines," Biggar seems to understand that, as he puts it,
-"There is no neutral position available."
-
-But given Biggar sees this truth, then why does he argue that it is academics'
-"civic duty to defend liberal culture on campus"?
+"There is no neutral position available." But given Biggar sees this truth,
+then why does he argue that it is academics' "civic duty to defend liberal
+culture on campus"?
 
 Of course, with this statement, Biggar may not actually be denoting ideological
 liberalism. He might mean "liberality" as a personal virtue, so that
@@ -219,13 +219,10 @@ rationally. But Plato was teaching us that 2400 years ago, and certainly not
 under the guise of liberalism. So this is another place where Biggar's
 invocation of liberalism is a puzzle.
 
-Biggar's short by important book gives us a new twist on the old aphorism "A
-conservative is a liberal who has been mugged." The updated version is, "A
-conservative is a liberal who has met a cancel mob."
+I agree with Biggar that academics should teach and practice the virtues he
+lists. But why aren't they enough? Why tie them to the ideological baggage of
+liberalism?
 
-
-## Notes
-
-
-"And the claim that there are o universal truths is itself, of course, a
-dogmatic assertion of a universal truth."
+In any case, Biggar's short but important book gives us a new twist on the old
+aphorism "A conservative is a liberal who has been mugged." The updated version
+is: "A conservative is a liberal who has met a cancel mob."

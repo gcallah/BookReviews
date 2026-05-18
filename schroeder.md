@@ -8,51 +8,44 @@ Verso: London and New York
 
 
 
-Paul W Schroeder was an historian, who taught at the university of Illinois, and
-whose specialty was the history of international politics in Europe during the
-modern era. He was a serious thinker who had absorbed an integrated a huge
+Paul W Schroeder, who passed away in 202X,
+was an historian. He taught at the university of Illinois, and
+his specialty was the history of international politics in Europe during the
+early modern era. He was a serious thinker who had absorbed an integrated a huge
 wealth of factual information in his area of expertise, and could bring it to
 bear on novel problems, such as recent US foreign policy. The essays in this
-book are his work in that area.
+book are his excursion into that area.
 
 
 
 In his introduction to this book Parry Anderson makes the surprising claim that
 Schroeder was a "rarity" as a critic of American interventionism, because he was
-"a self declared conservative, of Christian belief." viii. Anderson seems
-unaware that there was an entire magazine, The American Conservative, launched
+"a self declared conservative, of Christian belief" (viii). But there
+was an entire magazine, *The American Conservative*, launched
 by conservative critics of American interventionism and featuring many dozens of
-them in its pages. (And a fair number of them were also Christians.) And this
-despite the fact that heights the publication on the next page.
+them in its pages. (And a fair number of them were also Christians.)
 
 
-Furthermore, at least in this book, I see a little evidence that S is actually a
-conservative: from the opinions expressed in it, I would guess that he is a
-moderate progressive. But perhaps there is evidence elsewhere, that I am not
+Furthermore, at least in this book, I see a little evidence that S was actually a
+conservative: from the opinions expressed in it, I would guess that he was
+what I would call a "conservative progressive": meaning that
+he is fundamentally aligned with progressive goals, but is a strong believer in
+prudence and caution in achieving them. For example, in the last essay in this
+book, "An Organized Hyporcrisy," he comes out strongly against the Republican
+Party as he found it at that time (2016). of course, the Republican Party is
+far from a pure embodiement of conservative principles (however one might
+conceive them), but, despite its flaws,  it would still appear closer to
+conservatives' hearts than was the Democratic Party.
+But perhaps there is evidence elsewhere, that I am not
 aware of, the demonstrates that he actually is a conservative.
 
-Page 257: he is a progressive
 
-"I cannot make sense of the history of international politics and the
-international system without using the notion of progress in it, and do not
-understand how anyone else can." 258
-
-276
-
-Shoulder appears to be what I would call a "conservative progressive," and that
-he is fundamentally aligned with progressive goals, but is a strong believer in
-prudence and caution in achieving them.
-
-
-
-I think I am saying here should be taken as a refutation of progressivism or an
-endorsement of conservatism. My only intent is to object to the maneuver
-attempting to make it that progressive policies should be viewed more favorably
-by disguising progressive thinkers as "good conservatives."
-
+## A Just, Unnecessary War
 
 "the increasing usefulness of the United Nations and its agencies" 6-7
 
+
+## The New World Order: A Historical Perspective
 
 
 "a failure to uphold the rule of law in critical areas will encourage
@@ -72,13 +65,51 @@ here, and the agents of which have the power to force them to do so, then
 international law will be a quite different entity than national law.
 
 
-## the war bin Laden wanted
-
-136: know your enemy Hidden agenda
+## The Risks of Victory: An Historian's Perspective
 
 
+## The Case Against Preemptive War
 
-## An organized hypocrisy
+
+## A Papier-Mache ' Fortress
+
+
+## International Order and Its Current Enemies
+
+
+## For Shame
+
+
+## Misreading the 9/11 Report
+
+
+
+
+## The War Bin Laden Wanted
+
+136: know your enemy, Hidden agenda
+
+
+## Liberating OUrselves
+
+
+S believes that, while historical knowledge rarely reveals what *will* happen
+in some situation, it can usefully inform us of what is highly unlikely to
+occur. As he puts it, an historian must have "a trained, intuitive sense of the
+way things do not happen" 150. As a result, if some policy has as its goal one
+of the things that "do not happen," the historian can indicate it is almost
+surely doomed to fail.
+
+
+
+## Mirror, Mirror on the War
+
+
+## Open Fire
+
+
+
+## An Organized Hypocrisy
 
 "All this was done in order to force through a program of austerity, limited
 government, tax reductions, and various incentives for businesses." 287

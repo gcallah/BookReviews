@@ -11,11 +11,10 @@ Verso: London and New York
 Paul W Schroeder, who passed away in 202X,
 was an historian. He taught at the university of Illinois, and
 his specialty was the history of international politics in Europe during the
-early modern era. He was a serious thinker who had absorbed an integrated a huge
-wealth of factual information in his area of expertise, and could bring it to
-bear on novel problems, such as recent US foreign policy. The essays in this
-book are his excursion into that area.
-
+early modern era. He was a serious thinker who had absorbed an integrated a
+tremendous wealth of factual information in his area of expertise, and could
+bring it to bear on new domains, such as recent US foreign policy. The
+essays in this book are his excursion into that area.
 
 
 In his introduction to this book Parry Anderson makes the surprising claim that
@@ -28,24 +27,31 @@ them in its pages. (And a fair number of them were also Christians.)
 
 Furthermore, at least in this book, I see a little evidence that S was actually a
 conservative: from the opinions expressed in it, I would guess that he was
-what I would call a "conservative progressive": meaning that
-he is fundamentally aligned with progressive goals, but is a strong believer in
-prudence and caution in achieving them. For example, in the last essay in this
+what I would call a "cautious progressive," meaning that
+his worldview is fundamentally progressive, but he recommends exercising
+prudence and caution in realizing it. For example, in the last essay in this
 book, "An Organized Hyporcrisy," he comes out strongly against the Republican
 Party as he found it at that time (2016). of course, the Republican Party is
 far from a pure embodiement of conservative principles (however one might
 conceive them), but, despite its flaws,  it would still appear closer to
 conservatives' hearts than was the Democratic Party.
-But perhaps there is evidence elsewhere, that I am not
-aware of, the demonstrates that he actually is a conservative.
+And to be fair to the claim of conservatism, S does, at several places in the
+book, argue against utopianism.
+
+The original publication dates of these essays range, as the title indicates,
+from 1991 to 2016. The opening essay, "A Just, Unnecessary War," argues that,
+while the First Gulf War was a just war, there was a better way to proceed:
+continuing the sanctions regime.
 
 
-## A Just, Unnecessary War
-
-"the increasing usefulness of the United Nations and its agencies" 6-7
-
-
-## The New World Order: A Historical Perspective
+In his essay, "The New World Order: A Historical Perspective," S. discusses the
+term that was popular at the time of the first Bush administration. He sees it
+as part of a longer trend towards improved international relations, and claims
+that "a new era in international relations has emerged since World War II"
+(24). Here S's progressive character comes through clearly, as he cites things
+like the "permanent pacification of Western Europe" (how does he know it is
+permanent?) and "the dismantling of the great European colonial empires" as
+signs of this new era.
 
 
 "a failure to uphold the rule of law in critical areas will encourage
@@ -61,21 +67,25 @@ is the custodian of a unified social organism and is tasked with maintaining the
 overall coordination of its organs. International relations concern the
 interactions between a couple hundred of these different social organisms.
 Unless they all accept some sovereign, state structure to which they all must
-here, and the agents of which have the power to force them to do so, then
+adhere, and the agents of which have the power to force them to do so, then
 international law will be a quite different entity than national law.
 
 
-## The Risks of Victory: An Historian's Perspective
+## The Risks of Victory: An Historian's Provocation
 
 
 ## The Case Against Preemptive War
 
 
-## A Papier-Mache ' Fortress
+## A Papier-Mache' Fortress
 
 
 ## International Order and Its Current Enemies
 
+
+"overcoming the ignorance, provincialism, self-absorption, and
+self-satisfaction that now handicaps the United States for [international]
+leadership." 119
 
 ## For Shame
 

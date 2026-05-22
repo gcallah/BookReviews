@@ -27,16 +27,12 @@ them in its pages. (And a fair number of them were also Christians.)
 
 Furthermore, at least in this book, I see a little evidence that S was actually a
 conservative: from the opinions expressed in it, I would guess that he was
-what I would call a "cautious progressive," meaning that
+what I would call a "conservative, non-utopian progressive," meaning that
 his worldview is fundamentally progressive, but he recommends exercising
-prudence and caution in realizing it. For example, in the last essay in this
-book, "An Organized Hyporcrisy," he comes out strongly against the Republican
-Party as he found it at that time (2016). of course, the Republican Party is
-far from a pure embodiement of conservative principles (however one might
-conceive them), but, despite its flaws,  it would still appear closer to
-conservatives' hearts than was the Democratic Party.
-And to be fair to the claim of conservatism, S does, at several places in the
-book, argue against utopianism.
+prudence and caution in realizing it.
+And he rejects the dream that the progressive vision can ever be fully
+achieved: we are always *en voyage*, and S at several places in the
+book argue against utopianism. More on this later.
 
 The original publication dates of these essays range, as the title indicates,
 from 1991 to 2016, and they are arranged in the book in chronological order.

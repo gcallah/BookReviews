@@ -39,19 +39,32 @@ And to be fair to the claim of conservatism, S does, at several places in the
 book, argue against utopianism.
 
 The original publication dates of these essays range, as the title indicates,
-from 1991 to 2016. The opening essay, "A Just, Unnecessary War," argues that,
-while the First Gulf War was a just war, there was a better way to proceed:
-continuing the sanctions regime.
+from 1991 to 2016, and they are arranged in the book in chronological order.
+The first essay, "A Just, Unnecessary War," argues that,
+while the First Gulf War was just, there was a better way to proceed:
+continuing the sanctions regime. Although S. admits this would have been a
+*slower* way to evict Iraq from Kuwait, he argues that it would have the
+international community's commitment to resolving conflicts while turning to
+war only as a last resort. And he argues that sanctions *were* working, and
+would have continued to do so. It is essentially a version of the ancient
+punishment of exiling a miscreant from the  polis implemented at the
+international level: a rogue state would be exiled from the community of
+nations, and not allowed to rejoin without showing it had mended its ways.
+Given the great dependence of the subjects of modern states on international
+trade, this exile, S. holds, would be sufficiently onerous to bring that state
+back in line. And given the dependence of modern armies on resources from
+abroad the rodue state would find itself increasingly powerless in the
+meantime.
 
 
 In his essay, "The New World Order: A Historical Perspective," S. discusses the
-term that was popular at the time of the first Bush administration. He sees it
-as part of a longer trend towards improved international relations, and claims
-that "a new era in international relations has emerged since World War II"
-(24). Here S's progressive character comes through clearly, as he cites things
-like the "permanent pacification of Western Europe" (how does he know it is
-permanent?) and "the dismantling of the great European colonial empires" as
-signs of this new era.
+term (New World Order, or NWO) that was prominent at the time of the first Bush
+administration. He sees that very popularity as part of a larger trend towards improved
+international relations, and claims that "a new era in international relations
+has emerged since World War II" (24). Here S's progressive character comes
+through clearly, as he cites things like the "permanent pacification of Western
+Europe" (how does he know it is permanent?) and "the dismantling of the great
+European colonial empires" as signs of this new era.
 
 
 "a failure to uphold the rule of law in critical areas will encourage

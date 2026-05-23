@@ -63,23 +63,6 @@ Europe" (how does he know it is permanent?) and "the dismantling of the great
 European colonial empires" as signs of this new era.
 
 
-"a failure to uphold the rule of law in critical areas will encourage
-lawlessness and aggression" 23
-
-There is no law without a sovereign to enforce it. That most certainly does not
-mean when has to endorse "anything goes" in international relations. And it
-doesn't mean that it's not good to propound and urge the following of guidelines
-for international relations. But however we decide to use the word law, it
-should be recognized that if there is no world sovereign, international law is a
-distinctly different thing than the laws of a nation. The sovereign of a nation
-is the custodian of a unified social organism and is tasked with maintaining the
-overall coordination of its organs. International relations concern the
-interactions between a couple hundred of these different social organisms.
-Unless they all accept some sovereign, state structure to which they all must
-adhere, and the agents of which have the power to force them to do so, then
-international law will be a quite different entity than national law.
-
-
 ## The Risks of Victory: An Historian's Provocation
 
 
@@ -92,7 +75,9 @@ international law will be a quite different entity than national law.
 ## International Order and Its Current Enemies
 
 
-"overcoming the ignorance, provincialism, self-absorption, and
+But besides criticizing the leadership that has led U.S. foreign policy in this
+sad direction, S. exhorts the American people, who have accepted these
+policies, to "overcom[e] the ignorance, provincialism, self-absorption, and
 self-satisfaction that now handicaps the United States for [international]
 leadership." 119
 

@@ -66,11 +66,17 @@ European colonial empires" as signs of this new era.
 ## The Risks of Victory: An Historian's Provocation
 
 
+
 ## The Case Against Preemptive War
 
 
 ## A Papier-Mache' Fortress
 
+
+The fifth chapter of this book, "A Papier-Mache' Fortress," is an odd inclusion.
+It is a lengthy, highly critical, and quite interesting review of Philip
+Bobbit's book, *The Shield of Achilles*. While valuable in itself, the review
+did not seem to have much to do with "America's fatal leap."
 
 ## International Order and Its Current Enemies
 
@@ -94,7 +100,7 @@ leadership." 119
 136: know your enemy, Hidden agenda
 
 
-## Liberating OUrselves
+## Liberating Ourselves
 
 
 S believes that, while historical knowledge rarely reveals what *will* happen
@@ -111,7 +117,59 @@ surely doomed to fail.
 
 ## Open Fire
 
+"The fact is that the US... broke the Iraqis' legs and now complains because
+they cannot jump the high hurdles." 189
 
+"the war in Iraq did not go wrong, a spectacular military victory spoiled by a
+botched operation, but was always wrong, a delusional attempt to do the
+impossible." 194
+
+But S. still believes that liberal-constitutional democracy is an historical
+endpoint. He simply thinks that it is also hard to get there, and cannot be
+achieved by easy means, like a quick defeat of Saddam Hussein's regime in Iraq.
+He believes that the goal to "achieve liberal -– constitutional representative
+democratic government" 191 is what all nations aspire to.
+
+The conservative view is that human life is always fraught with
+inconveniences and unfortunate situations that cannot be easily corrected. In
+response to those situations, we muddle along and try to improve things as best
+we can. The idea that the ultimate response to all political dilemmas is
+constitutional-representative democratic government is an intrinsically
+progressive view.
+
+
+
+
+## Leave or Lose
+
+In "Leave or Lose," S. argues
+
+
+## From Hegemony to Empire: The Fatal Leap
+
+Schroeder's Way of interrogating the prudence of embarking upon the second Iraq
+war is a interesting example of what might be called "applied history." 235
+
+
+Page 237: were the costs really born by Egyptian peasantry? Nigel Biggar's
+colonialism says perhaps otherwise.
+
+
+Schroder's list of requirements for a successful US venture in Iraq on page
+238 is grimly humorous
+
+
+
+Schroeder's differentiation between hegemon and empire is interesting, but could
+also be read as just the difference between a poorly run empire and a well-run
+empire.
+
+## Europe's Progress and America's Success
+
+273: American violence
+
+
+279: America is no longer exceptional
 
 ## An Organized Hypocrisy
 
@@ -119,16 +177,16 @@ surely doomed to fail.
 government, tax reductions, and various incentives for businesses." 287
 
 The only tax reductions during the Obama administration were targeted at low and
-middle income families. Various bush era tax cuts were allowed to expire, the
-federal deficit continued to be in the hundreds of billions of dollars range. If
+middle income families. Various Bush era tax cuts were allowed to expire, the
+federal deficit continued to be in the hundreds of billions of dollars. If
 the Republican Congress was trying to "force through" these things, they did a
 very poor job of doing so.
 
-"The Founders made the Supreme Court, the ultimate arbiter of the American
+"The Founders made the Supreme Court the ultimate arbiter of the American
 constitutional order"
 
 Well, no they did not. In fact, that principal really only emerged with Marbury
-versus Madison, and was annunciated by chief Justice John Marshall. So it was
+versus Madison, and was annunciated by Chief Justice John Marshall. So it was
 not the founders who declared the Supreme Court the ultimate arbiter, but
 subsequent member of the Supreme Court itself.
 
@@ -137,7 +195,7 @@ subsequent member of the Supreme Court itself.
 it as a normal, sane, reform-minded conservative party." 291
 
 So the "conservative" Schroeder wants to return to the status quo, where the
-goals of progressive continue to be advanced, and the only role of the GOP is to
+goals of progressives continue to be advanced, and the only role of the GOP is to
 slow down those advances. If one is a progressive, those are totally reasonable
 goals, but certainly are not if one is a conservative. So the presentation of S
 is a "reasonable" conservative is, in fact, tactic designed to make
@@ -147,34 +205,6 @@ is a "reasonable" conservative is, in fact, tactic designed to make
 
 
 
-
-
-
-Schroeder's Way of interrogating the prudence of embarking upon the second rack
-war is a interesting example of what might be called "applied history." 235
-
-
-Page 237: were the costs really born by Egyptian peasantry? Nigel Biggers
-colonialism says perhaps otherwise.
-
-
-Schroder's list of requirements for a successful US venture in a rock on page
-238 is grimly humorous
-
-
-
-Schroeder's differentiation between hegemon and empire is interesting, but could
-also be read it's just the difference between a poorly run empire and a well run
-empire
-
-
-
-273: American violence
-
-
-
-
-279: America is no longer exceptional
 
 
 

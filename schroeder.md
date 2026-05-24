@@ -95,6 +95,38 @@ France in 1789, or Russia in 1917.
 
 ## The Case Against Preemptive War
 
+"an American campaign to overthrow Hussein by armed force would be an unjust,
+aggressive, imperialist war which even if it succeeded... would have negative,
+potentially disastrous effects on our alliances and friendships, American
+leadership in the world, the existing international system, and the prospects
+for general peace, order, and stability." 76
+
+S. declares that the standards international actors have used for justifying
+preemptive war required that the threat being dealt with is clear and imminent,
+direct, critical, and unmanageable. He then goes on to show that the threat
+presented by Iraq to the United States in 2002 did not meet a single one of
+those criteria.
+
+The new standard being set by the bush administration was the preemptive war was
+justified against any evil ruler who might represent some sort of threat
+somewhere down the road. As S points out:
+
+"The American example and standard for preemptive war, if carried out, would
+invite imitation and emulation, and get it." 85
+
+And indeed, with Russia's attack on Ukraine, excused by similar reasoning to
+ours on Iraq, we got it.
+
+The new American doctrine on weapons of vast destruction "declares that there is
+one law for the United States and other states of which it approves, and another
+law for all the rest." 92
+
+S's anti-utopianism emerges again when he declares:
+"The idea of eliminating all evil regimes that might use weapons of mass
+destruction or let terrorist use them is impossible and counter-productive, a
+bad dream." 95
+
+
 
 ## A Papier-Mache' Fortress
 

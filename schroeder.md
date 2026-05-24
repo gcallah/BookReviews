@@ -147,6 +147,31 @@ leadership." 119
 
 ## For Shame
 
+The essay "For Shame" addresses the revelations that were emerging at that time
+about torture occurring in various US detention facilities, particularly those
+in Iraq, but, as S contends, more broadly "a Gulag Archipelago of detention
+camps and interrogation centers." 122
+
+S. characterizes the  Bush administration's response to these revelations as
+meaning that "a few obvious culprits will be punished, a few mid-level superiors
+reprimanded or demoted, dangerous questions held at bay at hearings, a
+commission possibly named to study the problems, administrative changes
+promised, and then the administration, denying involvement and responsibility,
+will move on to other things to distract the public." And then he declares:
+"They must not get away with this." 120
+
+As S. insists, "This was not an isolated incident caused by a few bad apples"
+121 Instead, the very character of the American war against Iraq, justified by
+the idea that anything we need to do to stamp out terrorism is justified, was
+exactly the justification adopted by the people doing the torturing.
+
+"The abuse was thus deliberate and purposive, intended to make prisoners
+psychologically ready for interrogation." 122
+
+
+And S is distraught that not a single administration official responsible for
+this blatant abuse of justice ever resigned, or took responsibility for it.
+
 
 ## Misreading the 9/11 Report
 

@@ -141,8 +141,6 @@ people, who have accepted these policies, to "overcom[e] the ignorance,
 provincialism, self-absorption, and self-satisfaction that now handicaps the
 United States for [international] leadership." 119
 
-## For Shame
-
 The essay "For Shame" addresses the revelations that were emerging at the time
 of its writing (2004) about torture occurring in various US
 facilities, particularly those in Iraq, but, as S contends, more broadly "a
@@ -160,14 +158,8 @@ As S. insists, "This was not an isolated incident caused by a few bad apples"
 121 Instead, the very character of the American war against Iraq, based on
 the idea that anything we need to do to stamp out terrorism is justified, was
 exactly the justification adopted by the people doing the torturing.
-
 "The abuse was thus deliberate and purposive, intended to make prisoners
 psychologically ready for interrogation." 122
-
-
-And S is distraught that not a single administration official responsible for
-this blatant abuse of justice ever resigned, or took responsibility for it.
-
 
 ## Misreading the 9/11 Report
 

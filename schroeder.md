@@ -95,9 +95,6 @@ And he points out that historians must be modest in handing out advice:
 in a given situation; it only offers a richer reservoir of possibilities to
 think about." 51
 
-
-## The Case Against Preemptive War
-
 In "The Case Against Preemptive War," written in 2002, as the Bush administration 
 was drumming up support for an attack on Iraq, S. argues that
 "an American campaign to overthrow Hussein by armed force would be an unjust,
@@ -112,7 +109,7 @@ direct, critical, and unmanageable. He then goes on to show that the threat
 presented by Iraq to the United States in 2002 did not meet a single one of
 those criteria.
 
-The new standard being set by the bush administration was the preemptive war was
+The new standard being set by the Bush administration was that preemptive war was
 justified against any evil ruler who might represent some sort of threat
 somewhere down the road. As S points out:
 
@@ -126,47 +123,41 @@ The new American doctrine on weapons of vast destruction "declares that there is
 one law for the United States and other states of which it approves, and another
 law for all the rest." 92
 
-S's anti-utopianism emerges again when he declares:
+S's anti-utopianism emerges when he declares:
 "The idea of eliminating all evil regimes that might use weapons of mass
 destruction or let terrorist use them is impossible and counter-productive, a
 bad dream." 95
 
-
-
-## A Papier-Mache' Fortress
-
-
-The fifth chapter of this book, "A Papier-Mache' Fortress," is an odd inclusion.
+The fifth chapter of the book, "A Papier-Mache' Fortress," is an odd inclusion.
 It is a lengthy, highly critical, and quite interesting review of Philip
 Bobbit's book, *The Shield of Achilles*. While valuable in itself, the review
 did not seem to have much to do with "America's fatal leap."
 
-## International Order and Its Current Enemies
-
-
-But besides criticizing the leadership that has led U.S. foreign policy in this
-sad direction, S. exhorts the American people, who have accepted these
-policies, to "overcom[e] the ignorance, provincialism, self-absorption, and
-self-satisfaction that now handicaps the United States for [international]
-leadership." 119
+In "International Order and Its Current Enemies," S. again makes the case that
+the U.S. is risking severe damage to an international order that the country
+itself depends upon for its well being. Besides criticizing the leadership that
+has led U.S. foreign policy in this sad direction, S. exhorts the American
+people, who have accepted these policies, to "overcom[e] the ignorance,
+provincialism, self-absorption, and self-satisfaction that now handicaps the
+United States for [international] leadership." 119
 
 ## For Shame
 
-The essay "For Shame" addresses the revelations that were emerging at that time
-about torture occurring in various US detention facilities, particularly those
-in Iraq, but, as S contends, more broadly "a Gulag Archipelago of detention
-camps and interrogation centers." 122
+The essay "For Shame" addresses the revelations that were emerging at the time
+of its writing (2004) about torture occurring in various US
+facilities, particularly those in Iraq, but, as S contends, more broadly "a
+Gulag Archipelago of detention camps and interrogation centers." 122
 
-S. characterizes the  Bush administration's response to these revelations as
-meaning that "a few obvious culprits will be punished, a few mid-level superiors
+S. says that the Bush administration's response to these revelations
+indicates that "a few obvious culprits will be punished, a few mid-level superiors
 reprimanded or demoted, dangerous questions held at bay at hearings, a
 commission possibly named to study the problems, administrative changes
 promised, and then the administration, denying involvement and responsibility,
-will move on to other things to distract the public." And then he declares:
-"They must not get away with this." 120
+will move on to other things to distract the public." (And his prediction
+proved accurate.)
 
 As S. insists, "This was not an isolated incident caused by a few bad apples"
-121 Instead, the very character of the American war against Iraq, justified by
+121 Instead, the very character of the American war against Iraq, based on
 the idea that anything we need to do to stamp out terrorism is justified, was
 exactly the justification adopted by the people doing the torturing.
 

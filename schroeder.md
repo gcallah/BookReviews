@@ -63,26 +63,22 @@ Europe" (how does he know it is permanent?) and "the dismantling of the great
 European colonial empires" as signs of this new era.
 
 
-## The Risks of Victory: An Historian's Provocation
+In "The Risks of Victory," S. draws an analogy between the situation of the
+U.S. in the wake of the 9/11 attacks and the Austro-Hungarian Empire after the
+assasination of Archduke Franz Ferdinand. He insists that, contrary to the
+voices of those eager for a "War on Terror," 9/11 did not "change everything":
+"structure of contemporary international politics has not changed, and neither
+has human nature." 51
 
-9/11 did not "change everything": "structure of contemporary international
-politics has not changed, and neither has human nature." 51
-
-
+He also dismisses the notion that 9/11 was equivalent to the attack that
+spurred us into entering WWII:
 "The only thing that the attack on Pearl Harbor and the attacks on the World
 Trade Center and the Pentagon have in common is that both were directed against
 the United States." 51
 
-S. insists that, in using historical analogies, we must "value the differences
-as well as the similarities between past and present circumstances." 51
-
-"After all, knowledge of history can never tell us exactly what to think or do
-in a given situation; it only offers a richer reservoir of possibilities to
-think about." 51
-
-S. draws interesting parallels between the reaction of Austro-;Hungary to the
-terrorist assassination of 1914, and the reaction of the United States to the
-terrorist attack of 2001. Both chose to abandon the international system, which
+The similarity that S. sees between the reactions of Austro-Hungary and
+the United States to the respective terrorist attacks they suffered is that
+both chose to abandon the international system, which
 they saw as having failed them, and act unilaterally against what they took to
 be an existential threat. That choice did not work out well for Austro-Hungary,
 to say the least.
@@ -91,10 +87,19 @@ S also makes the important point that simply getting rid of a bad regime as far
 from sufficient. In many cases in fact a worse regime takes its place: think of
 France in 1789, or Russia in 1917.
 
+S. makes some important historiographical points in this essay.
+He declares that, in using historical analogies, we must "value the differences
+as well as the similarities between past and present circumstances." 51
+And he points out that historians must be modest in handing out advice:
+"After all, knowledge of history can never tell us exactly what to think or do
+in a given situation; it only offers a richer reservoir of possibilities to
+think about." 51
 
 
 ## The Case Against Preemptive War
 
+In "The Case Against Preemptive War," written in 2002, as the Bush administration 
+was drumming up support for an attack on Iraq, S. argues that
 "an American campaign to overthrow Hussein by armed force would be an unjust,
 aggressive, imperialist war which even if it succeeded... would have negative,
 potentially disastrous effects on our alliances and friendships, American

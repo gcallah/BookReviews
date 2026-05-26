@@ -161,8 +161,6 @@ exactly the justification adopted by the people doing the torturing.
 "The abuse was thus deliberate and purposive, intended to make prisoners
 psychologically ready for interrogation." 122
 
-## Misreading the 9/11 Report
-
 S says that "The 9/11 Commission Report draws praise for valid reasons." 125 But
 he also worries the common interpretations of it are mistaken in thinking that
 it means "America is now the front line in the anti-terrorist struggle, and the
@@ -171,7 +169,7 @@ improving security at home and carrying the fight to the terrorists by military
 action and intelligence work elsewhere." 125
 
 But as S points out, report actually indicates that "terrorism is not centered
-in America. It is essentially global... the central front lies elsewhere –
+in America. It is essentially global... the central front lies elsewhere -–
 Pakistan, Afghanistan, the Arabian Peninsula and nearby East Africa, Southeast
 Asia, Indonesia, and the Philippines, West Africa, and European cities with
 large Muslim populations." 126
@@ -183,18 +181,12 @@ or more foreign military adventures. And, as S points out, the actions the
 United States has undertaken since the 9/11 attacks have significantly
 deteriorated our ability to influence the decisions made by other nations.
 
+In "The War Bin Laden Wanted," Schroeder contends that leading the United States
+to a quagmire in Iraq was the intention of the 9/11 attacks, and that it was
+foolish of us to give our enemy precisely what he wanted.
 
-
-
-## The War Bin Laden Wanted
-
-136: know your enemy, Hidden agenda
-
-
-## Liberating Ourselves
-
-
-S believes that, while historical knowledge rarely reveals what *will* happen
+In "Liberating Ourselves,"
+S argues that, while historical knowledge rarely reveals what *will* happen
 in some situation, it can usefully inform us of what is highly unlikely to
 occur. As he puts it, an historian must have "a trained, intuitive sense of the
 way things do not happen" 150. As a result, if some policy has as its goal one

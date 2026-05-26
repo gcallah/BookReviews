@@ -273,6 +273,8 @@ is a "reasonable" conservative is, in fact, tactic designed to make
 "unreasonable" any determined conservative resistance to progressive policies.
 
 
+## Conclusion
+
 
 
 

@@ -193,9 +193,21 @@ way things do not happen" 150. As a result, if some policy has as its goal one
 of the things that "do not happen," the historian can indicate it is almost
 surely doomed to fail.
 
+With "Mirror, Mirror on the War," S turns to the infamous Dreyfus affair to seek
+analogies with the American situation in Iraq at the time it was written (2006).
 
+He notes that the 9/11 attacks appeared especially monumental to Americans
+because America has so rarely experienced such violence within its borders, but
+compared to what other countries have gone through, it was actually a
+"pinprick."
 
-## Mirror, Mirror on the War
+As with the Dreyfus affair in France, the cover-up and deceptions following the
+attack on Iraq by the United States "turn blunder into crime." 172 and assholes
+at the American public was not innocent in regards to this crime: the people
+displayed "a powerful willingness to be deceived." 173 S ends the essay worrying
+about what a failure to fully deal with the corruption on display will mean for
+America's future.
+
 
 
 ## Open Fire
@@ -207,7 +219,7 @@ they cannot jump the high hurdles." 189
 botched operation, but was always wrong, a delusional attempt to do the
 impossible." 194
 
-But S. still believes that liberal-constitutional democracy is an historical
+But S. nevertheless believes that liberal-constitutional democracy is an historical
 endpoint. He simply thinks that it is also hard to get there, and cannot be
 achieved by easy means, like a quick defeat of Saddam Hussein's regime in Iraq.
 He believes that the goal to "achieve liberal -– constitutional representative

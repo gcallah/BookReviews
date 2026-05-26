@@ -212,25 +212,28 @@ America's future.
 
 ## Open Fire
 
+The essay "Open Fire" refers to the United States attack on Iraq as "utopian
+optimism" end of the worst kind: "reckless, ignorant, arrogant, overconfident,
+and oblivious to logic, facts, and history" 187
+
+"no historian should pretend to be a prophet" 183
+
+
 "The fact is that the US... broke the Iraqis' legs and now complains because
 they cannot jump the high hurdles." 189
 
-"the war in Iraq did not go wrong, a spectacular military victory spoiled by a
-botched operation, but was always wrong, a delusional attempt to do the
-impossible." 194
+S insists that even as Americans were tiring of the Iraq war at that time
+(2007), they still had not learned the most fundamental lesson about it that
+they should have: the war had not gone wrong, "it always was wrong, in specific,
+basic ways." 193
 
-But S. nevertheless believes that liberal-constitutional democracy is an historical
-endpoint. He simply thinks that it is also hard to get there, and cannot be
-achieved by easy means, like a quick defeat of Saddam Hussein's regime in Iraq.
-He believes that the goal to "achieve liberal -– constitutional representative
-democratic government" 191 is what all nations aspire to.
+Once again Schroeder finds an interesting historical analogy tell understand
+America's situation, in particular the surge in Iraq that was going on as he was
+writing. Here, it is Austria's decision to try to retain its hegemonic position
+in Italy in 1848. Rather than recognizing that its position was unsustainable,
+Austria, believing it must not show weakness, doubled down, leading to several
+military defeats.
 
-The conservative view is that human life is always fraught with
-inconveniences and unfortunate situations that cannot be easily corrected. In
-response to those situations, we muddle along and try to improve things as best
-we can. The idea that the ultimate response to all political dilemmas is
-constitutional-representative democratic government is an intrinsically
-progressive view.
 
 
 

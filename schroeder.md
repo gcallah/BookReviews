@@ -163,6 +163,26 @@ psychologically ready for interrogation." 122
 
 ## Misreading the 9/11 Report
 
+S says that "The 9/11 Commission Report draws praise for valid reasons." 125 But
+he also worries the common interpretations of it are mistaken in thinking that
+it means "America is now the front line in the anti-terrorist struggle, and the
+central battle involves keeping American safe from further attack, primarily by
+improving security at home and carrying the fight to the terrorists by military
+action and intelligence work elsewhere." 125
+
+But as S points out, report actually indicates that "terrorism is not centered
+in America. It is essentially global... the central front lies elsewhere –
+Pakistan, Afghanistan, the Arabian Peninsula and nearby East Africa, Southeast
+Asia, Indonesia, and the Philippines, West Africa, and European cities with
+large Muslim populations." 126
+
+And the work of defeating terrorism in those places must be undertaken primarily
+by local governments, not by American military action. To this end, American
+foreign policy is much more important than increased homeland security measures
+or more foreign military adventures. And, as S points out, the actions the
+United States has undertaken since the 9/11 attacks have significantly
+deteriorated our ability to influence the decisions made by other nations.
+
 
 
 
@@ -274,6 +294,14 @@ is a "reasonable" conservative is, in fact, tactic designed to make
 
 
 ## Conclusion
+
+For those who want to understand the misadventures of United States foreign
+policy beginning in the 1990s, this is an important book. Written by a serious
+historian who is able to draw upon a wealth of parallels from his own research,
+it casts new light on the situations American  decision-makers faced.
+
+In doing so, S shows us a cautious and epistemologically modest way to employ
+our historical knowledge in evaluating present policy choices.
 
 
 

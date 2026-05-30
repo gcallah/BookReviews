@@ -13,19 +13,267 @@ Price
 
 ## Introduction
 
+Coyne and Hall have written an excellent book, perhaps the second-best
+introduction to Austrian economics in print. (I joke because I have written one
+myself: full disclosure, this book is a close competitor to EFRP.) the fact
+that, in this review, I will focus on a few places in which I disagree with
+their approach should in no way be taken to mean that the above praise is not
+true. Rather, it is simply that I think the most interesting things *I* have to
+say about their book involve a few places where I disagree with what *they* say.
+
+
 
 ## What Is Austrian Economics?
+
+"Austrian economics… is not a political philosophy, ideology, or worldview --
+e.g. "conservatism," "libertarianism," or "neoliberalism"
+1
+
+The authors are correct that, at its core Austrian economics is none of these
+things. It is only a number of pages later that the authors explain why a
+confusion between Austrian economics and libertarianism often exists which is
+that Murray Rothbard and his followers attempted to inextricably link them.
+
+The author has mentioned the theory of marginal utility superseding the labor
+theory of value for determining the price of goods. But unfortunately, they
+don't explain what the labor theory of value asserted. I think that would have
+been a valuable addition.
+
+Menger overthrew cost of production theories of price.
+
+The authors correctly pointed out that value is not something that inheres in
+goods, but is the result of an act of valuation. Thus, there is no such thing as
+a "store of value." Acts of valuation cannot be stored. What is possible is that
+we can set aside some good in the hope that people will value it highly in the
+future. But that does not make the good a "store of value": setting aside
+immediate consumption of some good in the hopes of achieving a profit by selling
+it in the future is always a speculative venture, not a simple act of storage.
+
+
+The authors claimed that "were exchange takes place, it is reciprocal and
+mutually beneficial in that each person obtains a good that they value more than
+what they gave up in the trade" (5). That statement is not altogether accurate:
+more correctly, each person *believes* that the exchange will be mutually
+beneficial, and that they believe the good they obtaining is more valuable to
+them than the one they are giving up. But that expectation may prove to be
+mistaken: there are obvious cases where one has simply been deceived by the
+seller as to the nature of good one is buying, but there are many, many more
+cases where are the buyer has simply made a mistake: they thought the good would
+bring them more happiness, but, in fact, it does not. Consider the case of a
+drug dealer selling some highly addictive drug to an addict: and is correct to
+say that the attic values the drug more than the money he is giving up, and the
+drug dealer values the money more than the drug he is selling. But that
+observation in no way justifies claiming that the exchange is "mutually
+beneficial." Instead, it would be better to describe it as mutually damaging.
+
+However, even in a mundane transaction involving no deceit and no addiction, the
+exchange may not turn out to be mutually beneficial. I might become convinced,
+after watching an ad, that my life would be much better upgrading my 40 inch TV
+to a 60 inch TV. But after a couple of months of watching, I might realize that
+the 40 inch TV was fine, and I should've spent the money on my children's
+education.
+
+The authors then describe Menger's theory of the origin of money, where it
+arises spontaneously through the process of people trading a good they have for
+one that is more widely tradable, with the most tradable good finally emerging
+as money. But they do not mention that there is little historical evidence that
+this is how money actually arose.
+
+Menger's theory is logically coherent, and I myself used it to describe the
+origin of money in economics for real people. But a plausible explanation for
+how something happened is not sufficient to claim that it did happen that way:
+we must supplement the logical coherence of our theory with empirical research.
 
 
 ## The Science of Economics
 
 
-## Catallaxy: The Study of Coordination and Exchange
+"understanding and prediction are not synonymous" 23
+
+
+
+The authors claim the praxeology is different from the study of "other, passive
+biological entities." 25
+
+It's a little weird here to describe, for instance, a pack of wolves hunting a
+reindeer as "passive."
+
+
+
+Very nice example of rush-hour commuting: we cannot understand what is going on
+without talking about the purposes of the people commuting, and the
+institutional settings within which they are acting. (26-27)
+
+Methodological individualism (29)
+
+The fact that the study of individual motivations certainly should not be
+neglected, and can yield very important insights about social phenomena does not
+mean that it is the only correct approach to understanding them. If we wish to
+understand the rise of Nazism in Germany, we may take undertake a study of the
+individual motivations of people who joined the Nazi party. But we might also
+take our starting point by considering Nazism as an idea-force, and proceed to
+examine how that idea influenced the behavior of people who joined the party.
+
+Of course it is true that Charlotte's rowing team would not exist absent the
+rowers. But at the same time the rowers would not exist *as rowers* without the
+rowing team. In fact, as the British philosopher Bernard Bosanquet pointed out,
+while it is true that groups are composed of individuals, it is also true that
+individual minds are structured by the groups they are in and surrounded by:
+individuals and the groups in which they participate compose an organic unity.
+Of course an organism does not exist absent its organs, but at the same time,
+the organs' existence depends upon the organism as a whole. The struggle between
+methodological individualism and methodological holism is unnecessary: we should
+employ one or the other (or even both) as fits the occasion.
+
+
+
+
+Coyne and Hall write that "If a party to an exchange is coerced, this does not
+invalidate... the theory of voluntary exchange; instead, the theory is not
+applicable to that specific situation because a required condition... is
+absent" (31).
+
+But the authors are under selling praxeology here.
+In fact, the logic of action fully applies even to exchanges we call coerced. What the
+coercer has done is used the threat of violence to raise the cost of some choice
+for the victim. If an extortion racket tells a store owner "either pay us $100 a
+month for insurance, or we will damage your store, and eventually you," they
+have changed the choice set facing their victim. Now, instead of choosing to
+keep the $100 or buy the insurance, the victim is choosing to keep the $100 and
+suffer a large amount of economic and physical damage, or buy the insurance. And
+we can still say, if the victim pays up, that he preferred the second option to
+the first.
+
+In some respects this is analogous to someone selling an avalanche barrier to a
+hotel in the Alps: "If you don't buy this, your hotel will be destroyed by an
+avalanche." Any owner chooses between paying for the barrier, or possibly
+suffering the damage from an avalanche. The difference in "involuntary"
+exchanges is that the avalanche itself is caused by one of the parties to the
+transaction. The praxeological analysis is identical; it is just that the
+aggressor has forced a new choice set upon the victim which changes the options
+he faces. And of course that may be morally blameworthy, but praxeology applies
+just as much to morally blameworthy actions as it does to the actions of saints.
+(There are cases where we do not condemn the person using coercion: for
+instance, if someone threatens to shoot a robber if he does not put down the
+goods he is stealing and surrender, many people will approve of that use of
+coercion.)
+
+
+The extortionist makes what otherwise would've been his victims best choice
+significantly more costly with his threat of violence if that is chosen.
+
+
+
+
+A government intervention will result in those affected getting on the whole
+less of what they immediately wanted. But sometimes, that is exactly the rule of
+state should fulfill: to check our worst nature's tendency to prioritize
+immediate wants over sustainability.
+
+
+We can define coercion philosophically, as a situation in which one party comes
+to the other not with the intention to interact peacefully to some extent or
+another, but to use a threat of violence to constrain the other's choice
+environment .
+
+As a result, we can see that the victim is not purely a victim, but still has
+choices to make. If the mafia comes around and demands a monthly payment from my
+pizza business, I could decide to pay up. But I could also decide to try to
+defend myself against Any attempt on their part to make good on their threat. In
+fact, a friend of mine responded to a mafia attempt at extortion by upping the
+anti, and threatening to kill the person who had come to extort him.
+
+Or, I could also just sell my business, and hope the next owner is able to deal
+with such problems. Or I could abandoned my business, and move to Siberia, where
+it is probably not worth the while of the mafia taunt me down.
+
+To choose and to choose voluntarily are really identical expressions. If my will
+could not impact the outcome of what was occurring, then I really had no choice.
+If my car goes off a cliff and it's plunging down into the ocean, I have no
+choice as to whether I will wind up in the ocean or not. Any going on
+exhaustively described by its physical characteristics is not an instance of
+choice at all. For something to be a choice, it had to be possible that the
+agent could choose otherwise.
+
+
+
+Strictly speaking, all human action is voluntary, as opposed to involuntary
+physiological processes such as digestion. Ludwig von Mises makes this
+distinction clear in the section of *Human Action* called "Purposeful Action and
+Animal Reaction."
+
+
+Of course I am not trying to correct
+people's ordinary speech. When a husband drags his spouse to a party, it's fine
+to say that she came involuntarily. But as social theorists, our job is to speak
+as precisely as possible. Even a person facing coercion is still a human actor,
+and still can choose how to respond. It is possible to stand in front of a
+column of tanks at Tiananmen Square. It is possible to proclaim "Give me liberty
+or give me death."
+
+
+The use of coercion alters the choice set of the person being coerced using a
+threat of violence. This is not a moral commentary on the justice of the
+coercion. Almost everyone agrees that in some circumstances, coercion is called
+for. If you see someone trying to kidnap your child and you have a gun, almost
+everyone agrees that you are justified in pulling it out and yelling "Stop, or I
+will shoot!" Again, almost everyone agrees that when you meet a stranger walking
+down the street, it is *not* just to pull out your gun and yell "Give me your
+wallet, or I will shoot!"
+
+Praxeological speaking, these situations yield to the same analysis: in both
+cases, by pulling out your gun, you are making a choice the other person had
+available (driving off with the child or keeping one's wallet) significantly
+less attractive because the other person now has to consider the real
+possibility that violence will be used against them if they make that choice.
+
+
+"We cannot make sense of the world without pure theory because we must have a
+theoretical grounding to orient our efforts and understanding." 32
+
+This is just rationalist nonsense: how in the world could understanding begin
+with "pure theory"? A theory is an abstraction that attempts to reveal an
+orderly relationship between aspects of our experience. If we do not first have
+experiences that we, to some extent, comprehend, how in the world could we ever
+abstract a theory from them? We would be attempting to make a theory of the
+incomprehensible.
+
+How in the world could any individual form, from a completely incomprehensible
+series of experiences, a theory that might make sense of them?
+
+Instead, I hold that a theory is an abstraction from concrete experience and
+that the concrete experiences themselves must be, at least to some extent,
+comprehensible, or no theory could be abstracted from them. There is no
+possibility that, starting from some "experiences" that are completely
+incomprehensible, one could ever proceed to any theory that would further our
+understanding of them. Instead, we always proceed from something that is
+partially understood to something that is better understood.
+
+
+
+
+## Catallaxy
+
 
 
 ## Economic Calculation and Planning
 
+Coyne and Hall do an excellent job covering the socialist calculation debate. It
+began when M showed the necessity of prices for rational economic calculation.
+Several socialist economist responded by inventing "market socialism," which
+they held could employ prices even more efficiently than could businesses
+competing with each other.
 
+Hayek entered the debate at that point. Contra some who have tried to "de
+homogenize" M and Hayek , he did not offer a *different* explanation of why
+socialism could not work then did Mises; instead he explained why Mises's
+contention was correct.
+
+Why couldn't the socialists just assign prices to things based on their best
+guesses, and then calculate from those prices?
+
+Hayek showed why the market process itself is necessary to produce the knowledge
+upon which sensible prices are based.
 
 ## The Market Process
 
@@ -36,6 +284,32 @@ Price
 
 
 ## Money and Banking
+
+"as a result, both are better off" 110
+
+This statement is unwarranted. The correct version of it is that, "as a result,
+both *believe* they will be better off."
+
+If it turns out that Cordelia is allergic to wheat, and William is allergic to
+potatoes, they will both find that they were worse off after the trade. This
+jump from the fact that some actor believes they will be better off due to a
+trade, to declaring that they, in fact, *are* better off, is actually a
+rejection of the subjectivism that these authors swear allegiance to.
+
+And this is precisely the kind of unwarranted move, from the apodictictly
+correct statement that before a trade they agree to, both actors engaging in the
+trade *believe* they will be better off, to declaring that they are, in fact,
+better off, that typically is used to move from praxeological reasoning to
+libertarian conclusions.
+
+
+Mises: many a slip between cup and lip.
+
+The authors are abusing sound praxeological reasoning, which says  that prior to
+the trade, both parties believe it will improve their life circumstances,  to
+declare that after the trade, both parties will find that it has, in fact,
+improved their circumstances.
+
 
 
 

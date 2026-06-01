@@ -74,6 +74,10 @@ to be logically coherent: we must supplement the logical coherence of our type
 with empirical research demonstrating that it actually applies in some
 particular case.
 
+After discussing Menger, the authors continue by presenting the ideas of
+major figures in the history of the Austrian school, such as Bohm-Bawerk,
+Wieser, Mises, Hayek, Kirzner, and Rothbard.
+
 
 ## The Science of Economics
 

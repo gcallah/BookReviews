@@ -15,26 +15,38 @@ Price
 
 Coyne and Hall have written an excellent book, perhaps the second-best
 introduction to Austrian economics in print. (I joke because I have written one
-myself: full disclosure, this book is a close competitor to EFRP.) the fact
-that, in this review, I will focus on a few places in which I disagree with
-their approach should in no way be taken to mean that the above praise is not
-true. Rather, it is simply that I think the most interesting things *I* have to
-say about their book involve a few places where I disagree with what *they* say.
+myself: full disclosure, this book is a close competitor to *Economics for Real
+People*.) The fact that, in this review, I will focus on a few places in which I
+disagree with their approach should in no way be taken to mean that the above
+praise is not true. Rather, it is simply that I think the most interesting
+things *I* have to say about their book involve a few places where I differ
+from what *they* say.
 
 
 
 ## What Is Austrian Economics?
 
-"Austrian economics… is not a political philosophy, ideology, or worldview --
+Quite naturally, the author Begin by explaining what Austrian economics is. This
+is not the study of the Austrian economy, nor our Austrian economist all from
+the country of Austria. Rather, it is a distinctive flavor of economics that was
+developed first within the nation of Austria, but since has found adherence from
+across the world.
+
+The authors caution the reader that, contrary to some popular beliefs:
+"Austrian economics... is not a political philosophy, ideology, or worldview --
 e.g. "conservatism," "libertarianism," or "neoliberalism"
 1
 
 The authors are correct that, at its core Austrian economics is none of these
 things. It is only a number of pages later that the authors explain why a
-confusion between Austrian economics and libertarianism often exists which is
+confusion between Austrian economics and libertarianism often exists, which is
 that Murray Rothbard and his followers attempted to inextricably link them.
 
-The author has mentioned the theory of marginal utility superseding the labor
+They then proceed to give a brief history of the Austrian school, beginning with
+its founder, Carl Menger. Menger Disregarded as one of the three leading
+figures of the "marginalist revolution" in economics, which fundamentally
+changed the way that economists understand how goods come to be valued.
+The authors mention that the theory of marginal utility superseded the labor
 theory of value for determining the price of goods. But unfortunately, they
 don't explain what the labor theory of value asserted. I think that would have
 been a valuable addition.
@@ -49,30 +61,6 @@ future. But that does not make the good a "store of value": setting aside
 immediate consumption of some good in the hopes of achieving a profit by selling
 it in the future is always a speculative venture, not a simple act of storage.
 
-
-The authors claimed that "were exchange takes place, it is reciprocal and
-mutually beneficial in that each person obtains a good that they value more than
-what they gave up in the trade" (5). That statement is not altogether accurate:
-more correctly, each person *believes* that the exchange will be mutually
-beneficial, and that they believe the good they obtaining is more valuable to
-them than the one they are giving up. But that expectation may prove to be
-mistaken: there are obvious cases where one has simply been deceived by the
-seller as to the nature of good one is buying, but there are many, many more
-cases where are the buyer has simply made a mistake: they thought the good would
-bring them more happiness, but, in fact, it does not. Consider the case of a
-drug dealer selling some highly addictive drug to an addict: and is correct to
-say that the attic values the drug more than the money he is giving up, and the
-drug dealer values the money more than the drug he is selling. But that
-observation in no way justifies claiming that the exchange is "mutually
-beneficial." Instead, it would be better to describe it as mutually damaging.
-
-However, even in a mundane transaction involving no deceit and no addiction, the
-exchange may not turn out to be mutually beneficial. I might become convinced,
-after watching an ad, that my life would be much better upgrading my 40 inch TV
-to a 60 inch TV. But after a couple of months of watching, I might realize that
-the 40 inch TV was fine, and I should've spent the money on my children's
-education.
-
 The authors then describe Menger's theory of the origin of money, where it
 arises spontaneously through the process of people trading a good they have for
 one that is more widely tradable, with the most tradable good finally emerging
@@ -80,29 +68,25 @@ as money. But they do not mention that there is little historical evidence that
 this is how money actually arose.
 
 Menger's theory is logically coherent, and I myself used it to describe the
-origin of money in economics for real people. But a plausible explanation for
-how something happened is not sufficient to claim that it did happen that way:
-we must supplement the logical coherence of our theory with empirical research.
+origin of money in economics for real people. But as Max Weber pointed out,
+it is not sufficient for an ideal type used in a social scientific explanation
+to be logically coherent: we must supplement the logical coherence of our type
+with empirical research demonstrating that it actually applies in some
+particular case.
 
 
 ## The Science of Economics
 
-
-"understanding and prediction are not synonymous" 23
-
-
-
-The authors claim the praxeology is different from the study of "other, passive
-biological entities." 25
-
-It's a little weird here to describe, for instance, a pack of wolves hunting a
-reindeer as "passive."
-
+In the next section, on the science of economics, the authors, take care to
+differentiate the social sciences from the physical sciences. They correctly
+note that "understanding and prediction are not synonymous" (23).
 
 
 Very nice example of rush-hour commuting: we cannot understand what is going on
-without talking about the purposes of the people commuting, and the
-institutional settings within which they are acting. (26-27)
+ffer a very nice example of impossiblity of adequately understanding rush-hour commuting in and out
+of Grand Central Station as a purely physical phenomenon.  To really understand
+what is going on, one must take into account the *purposes* of the people
+commuting, and the institutional settings within which they are acting. (26-27)
 
 Methodological individualism (29)
 
@@ -200,7 +184,7 @@ agent could choose otherwise.
 Strictly speaking, all human action is voluntary, as opposed to involuntary
 physiological processes such as digestion. Ludwig von Mises makes this
 distinction clear in the section of *Human Action* called "Purposeful Action and
-Animal Reaction."
+Animal Reaction" (1.1).
 
 
 Of course I am not trying to correct
@@ -301,6 +285,31 @@ correct statement that before a trade they agree to, both actors engaging in the
 trade *believe* they will be better off, to declaring that they are, in fact,
 better off, that typically is used to move from praxeological reasoning to
 libertarian conclusions.
+
+MERGE WITH:
+
+The authors claimed that "were exchange takes place, it is reciprocal and
+mutually beneficial in that each person obtains a good that they value more than
+what they gave up in the trade" (5). That statement is not altogether accurate:
+more correctly, each person *believes* that the exchange will be mutually
+beneficial, and that they believe the good they obtaining is more valuable to
+them than the one they are giving up. But that expectation may prove to be
+mistaken: there are obvious cases where one has simply been deceived by the
+seller as to the nature of good one is buying, but there are many, many more
+cases where are the buyer has simply made a mistake: they thought the good would
+bring them more happiness, but, in fact, it does not. Consider the case of a
+drug dealer selling some highly addictive drug to an addict: and is correct to
+say that the attic values the drug more than the money he is giving up, and the
+drug dealer values the money more than the drug he is selling. But that
+observation in no way justifies claiming that the exchange is "mutually
+beneficial." Instead, it would be better to describe it as mutually damaging.
+
+However, even in a mundane transaction involving no deceit and no addiction, the
+exchange may not turn out to be mutually beneficial. I might become convinced,
+after watching an ad, that my life would be much better upgrading my 40 inch TV
+to a 60 inch TV. But after a couple of months of watching, I might realize that
+the 40 inch TV was fine, and I should've spent the money on my children's
+education.
 
 
 Mises: many a slip between cup and lip.

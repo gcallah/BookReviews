@@ -109,19 +109,20 @@ while it is true that groups are composed of individuals, it is also true that
 individual minds are structured by the groups they are in and surrounded by:
 individuals and the groups in which they participate compose an organic unity.
 Of course an organism does not exist absent its organs, but at the same time,
-the organs' existence depends upon the organism as a whole. The struggle between
-methodological individualism and methodological holism is unnecessary: we should
-employ one or the other (or even both) as fits the occasion.
+the organs' existence depends upon the organism as a whole. As St. Paul wrote,
+"There is one body, but it has many parts. But all its many parts make up one
+body... And so we are formed into one body."
+The struggle between methodological individualism and methodological holism is
+unnecessary: we should employ one or the other (or even both) as fits the
+occasion.
 
-
-
-
+In discussing the theory of action,
 Coyne and Hall write that "If a party to an exchange is coerced, this does not
 invalidate... the theory of voluntary exchange; instead, the theory is not
 applicable to that specific situation because a required condition... is
 absent" (31).
 
-But the authors are under selling praxeology here.
+But the authors are underselling praxeology here.
 In fact, the logic of action fully applies even to exchanges we call coerced. What the
 coercer has done is used the threat of violence to raise the cost of some choice
 for the victim. If an extortion racket tells a store owner "either pay us $100 a
@@ -136,8 +137,8 @@ In some respects this is analogous to someone selling an avalanche barrier to a
 hotel in the Alps: "If you don't buy this, your hotel will be destroyed by an
 avalanche." Any owner chooses between paying for the barrier, or possibly
 suffering the damage from an avalanche. The difference in "involuntary"
-exchanges is that the avalanche itself is caused by one of the parties to the
-transaction. The praxeological analysis is identical; it is just that the
+exchanges is that the avalanche itself will be *caused* by the person selling the
+insurance. The praxeological analysis is identical; it is just that the
 aggressor has forced a new choice set upon the victim which changes the options
 he faces. And of course that may be morally blameworthy, but praxeology applies
 just as much to morally blameworthy actions as it does to the actions of saints.
@@ -146,28 +147,10 @@ instance, if someone threatens to shoot a robber if he does not put down the
 goods he is stealing and surrender, many people will approve of that use of
 coercion.)
 
-
-The extortionist makes what otherwise would've been his victims best choice
-significantly more costly with his threat of violence if that is chosen.
-
-
-
-
-A government intervention will result in those affected getting on the whole
-less of what they immediately wanted. But sometimes, that is exactly the rule of
-state should fulfill: to check our worst nature's tendency to prioritize
-immediate wants over sustainability.
-
-
-We can define coercion philosophically, as a situation in which one party comes
-to the other not with the intention to interact peacefully to some extent or
-another, but to use a threat of violence to constrain the other's choice
-environment .
-
 As a result, we can see that the victim is not purely a victim, but still has
-choices to make. If the mafia comes around and demands a monthly payment from my
+a choice to make. If the mafia comes around and demands a monthly payment from my
 pizza business, I could decide to pay up. But I could also decide to try to
-defend myself against Any attempt on their part to make good on their threat. In
+defend myself against any attempt on their part to make good on their threat. In
 fact, a friend of mine responded to a mafia attempt at extortion by upping the
 anti, and threatening to kill the person who had come to extort him.
 
@@ -175,21 +158,10 @@ Or, I could also just sell my business, and hope the next owner is able to deal
 with such problems. Or I could abandoned my business, and move to Siberia, where
 it is probably not worth the while of the mafia taunt me down.
 
-To choose and to choose voluntarily are really identical expressions. If my will
-could not impact the outcome of what was occurring, then I really had no choice.
-If my car goes off a cliff and it's plunging down into the ocean, I have no
-choice as to whether I will wind up in the ocean or not. Any going on
-exhaustively described by its physical characteristics is not an instance of
-choice at all. For something to be a choice, it had to be possible that the
-agent could choose otherwise.
-
-
-
-Strictly speaking, all human action is voluntary, as opposed to involuntary
+Praxeologically speaking, all human action is voluntary, as opposed to involuntary
 physiological processes such as digestion. Ludwig von Mises makes this
 distinction clear in the section of *Human Action* called "Purposeful Action and
 Animal Reaction" (1.1).
-
 
 Of course I am not trying to correct
 people's ordinary speech. When a husband drags his spouse to a party, it's fine
@@ -199,25 +171,12 @@ and still can choose how to respond. It is possible to stand in front of a
 column of tanks at Tiananmen Square. It is possible to proclaim "Give me liberty
 or give me death."
 
-
-The use of coercion alters the choice set of the person being coerced using a
-threat of violence. This is not a moral commentary on the justice of the
-coercion. Almost everyone agrees that in some circumstances, coercion is called
-for. If you see someone trying to kidnap your child and you have a gun, almost
-everyone agrees that you are justified in pulling it out and yelling "Stop, or I
-will shoot!" Again, almost everyone agrees that when you meet a stranger walking
-down the street, it is *not* just to pull out your gun and yell "Give me your
-wallet, or I will shoot!"
-
-Praxeological speaking, these situations yield to the same analysis: in both
-cases, by pulling out your gun, you are making a choice the other person had
-available (driving off with the child or keeping one's wallet) significantly
-less attractive because the other person now has to consider the real
-possibility that violence will be used against them if they make that choice.
-
-
+A little later, the authors claim:
 "We cannot make sense of the world without pure theory because we must have a
-theoretical grounding to orient our efforts and understanding." 32
+theoretical grounding to orient our efforts and understanding" (32).
+
+
+
 
 This is just rationalist nonsense: how in the world could understanding begin
 with "pure theory"? A theory is an abstraction that attempts to reveal an

@@ -189,6 +189,15 @@ aspect of experience, there is no way we could formulate a theory about it.
 
 ## Catallaxy
 
+In their chapter on "Catallaxy," Coyne and Hall define that word as the study of
+exchange and the institutions which support it. They contrast The "allocation
+paradigm," which takes as its starting point a given stock of resources, and asks
+how to best distribute them, with the "exchange paradigm." In the "exchange
+paradigm," a phrase coming from Nobel Prize winner James Buchanan, the focus is
+instead on how that stock only comes into being as a result of the process of
+exchange. Unfortunately, much of mainstream economics as focused on the
+allocation paradigm, because it is more susceptible to mathematical treatment
+than is the exchange paradigm.
 
 
 ## Economic Calculation and Planning
@@ -212,13 +221,50 @@ upon which sensible prices are based.
 
 ## The Market Process
 
+The authors next turn their attention to the market process. They quote Israel
+Kirzner, who claims that "What occurred as a result of [the socialist
+calculation debate] was that the Austrians were inspired... to identify more
+carefully the aspects of their understanding of the market process that their
+critics had failed to recognize" (75).
 
+The market process view, while not rejecting the importance of equilibrium
+conditions in markets (when the quantity supplied and the quantity demanded
+perfectly mesh), insists that the process by which equilibrium is approached is
+much more important and interesting than the equilibrium condition itself. Mises
+and Hayek extensively developed this theory, and in our day, it has been
+advanced most significantly by Kirzner.
 
 ## Interventionism
 
+In their chapter on interventionism, the authors claim that, when it comes to
+government policies interfering with market exchanges, "We know some people are
+made worse off because they are no longer able to engage in voluntary exchanges
+that they otherwise would have engaged in absent the government intervention"
+(93). But this analysis conflates the idea that people only engage in exchanges
+that they *believe* will make them better off with the notion that all such
+exchanges *actually* make them better off. let us consider, for instance, a law
+for bidding liquor sales to anyone under 21. There are plenty of 18, 19, and
+20-year-olds who would happily buy liquor if the government would allow them to.
+But it's quite possible that if they were allowed to do so, they would actually
+be worse off than under the current regime, as they might be too immature to
+handle drinking responsibly. Of course, many might disagree with this, but the
+fact we can see it as possible is enough to illustrate the problem with Coyne
+and Hall's contention.
 
 
 ## Money and Banking
+
+
+And their chapter on money in banking, Coyne and Hall discussed the possibility
+that a free banking regime, where private banks issue their own currency, might
+be preferable to government monopolized issuance of money, they also touch upon
+the intro Austrian debate between those who believe fractional reserve banking,
+where the bank does not hold every dollar deposited in its vaults, can be
+conducted responsibly, and those Austrians who argue that it is inherently
+fraudulent.
+
+
+????
 
 "as a result, both are better off" 110
 
@@ -275,6 +321,13 @@ improved their circumstances.
 
 ## Austrian Business Cycle Theory
 
+The authors devote a chapter on Austrian business cycle theory.
+That theory offers an explanation of why the economy seems to go
+through booms and busts. It treats the interest rate as a price like any other,
+and views attempts by the government to set the interest rate at a different
+level than market participants would set it as creating distortions in economic
+activity. When those distortions come home to roost, we get the periodic
+downturns in the economy that we call recessions and depressions.
 
 
 ## Austrian Economics: Yesterday, Today, and Tomorrow
@@ -283,6 +336,9 @@ improved their circumstances.
 
 ## Conclusion
 
+This book is an excellent introduction to the Austrian school of economics.
+Again, to the extent this Revue has focused on a few points of disagreement, it
+is only because those were the most interesting points to discuss.
 
 
 

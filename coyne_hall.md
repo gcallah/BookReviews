@@ -175,26 +175,14 @@ A little later, the authors claim:
 "We cannot make sense of the world without pure theory because we must have a
 theoretical grounding to orient our efforts and understanding" (32).
 
+This is a puzzling contention to me.  As I understand it, a theory is an
+abstraction from concrete reality.  If we do not first have some understanding
+of concrete reality, how could we ever abstract a theory from it?  A theory is
+an attempt make what is already somewhat comprehensible more fully
+comprehensible. If we began from a state of sheer incomprehension about some
+aspect of experience, there is no way we could formulate a theory about it.
 
-
-
-This is just rationalist nonsense: how in the world could understanding begin
-with "pure theory"? A theory is an abstraction that attempts to reveal an
-orderly relationship between aspects of our experience. If we do not first have
-experiences that we, to some extent, comprehend, how in the world could we ever
-abstract a theory from them? We would be attempting to make a theory of the
-incomprehensible.
-
-How in the world could any individual form, from a completely incomprehensible
-series of experiences, a theory that might make sense of them?
-
-Instead, I hold that a theory is an abstraction from concrete experience and
-that the concrete experiences themselves must be, at least to some extent,
-comprehensible, or no theory could be abstracted from them. There is no
-possibility that, starting from some "experiences" that are completely
-incomprehensible, one could ever proceed to any theory that would further our
-understanding of them. Instead, we always proceed from something that is
-partially understood to something that is better understood.
+ 
 
 
 

@@ -26,32 +26,37 @@ from what *they* say.
 
 ## What Is Austrian Economics?
 
-Quite naturally, the author Begin by explaining what Austrian economics is. This
-is not the study of the Austrian economy, nor our Austrian economist all from
-the country of Austria. Rather, it is a distinctive flavor of economics that was
-developed first within the nation of Austria, but since has found adherence from
-across the world.
+Quite naturally, the authors begin by explaining what Austrian economics is. It
+is not the study of the Austrian economy, nor are Austrian economists all from
+the country of Austria. Rather, it is a distinctive approach to economics that was
+developed first in Austria, but since has had practitioners from across the world.
 
 The authors caution the reader that, contrary to some popular beliefs:
 "Austrian economics... is not a political philosophy, ideology, or worldview --
-e.g. "conservatism," "libertarianism," or "neoliberalism"
-1
+e.g. 'conservatism,' 'libertarianism,' or 'neoliberalism' (1).
 
-The authors are correct that, at its core Austrian economics is none of these
+The authors are correct that, at its core, Austrian economics is none of these
 things. It is only a number of pages later that the authors explain why a
 confusion between Austrian economics and libertarianism often exists, which is
 that Murray Rothbard and his followers attempted to inextricably link them.
 
 They then proceed to give a brief history of the Austrian school, beginning with
-its founder, Carl Menger. Menger Disregarded as one of the three leading
+its founder, Carl Menger. Menger is regarded as one of the three leading
 figures of the "marginalist revolution" in economics, which fundamentally
 changed the way that economists understand how goods come to be valued.
-The authors mention that the theory of marginal utility superseded the labor
-theory of value for determining the price of goods. But unfortunately, they
-don't explain what the labor theory of value asserted. I think that would have
-been a valuable addition.
+The authors mention that Menger's theory of marginal utility superseded the labor
+theory of value for explaining the price of goods.
 
-Menger overthrew cost of production theories of price.
+The labor theory of value, accepted by the classical economists like Adam Smith
+as well as by Karl Marx, held that the value of a good is determined by the
+value of its inputs. Menger stood the classical theory on its head,
+demonstrating that it is the price of consumer goods that determines the price
+of their inputs, and not the reverse.
+
+Labor theory of value was a valid attempt at explaining prices.
+In fact, in equilibrium, the labor theory of value and the marginal utility
+theory will yield the same result. It is only in disequilibrium that the
+superiority of the marginal utility theory shines forth.
 
 The authors correctly pointed out that value is not something that inheres in
 goods, but is the result of an act of valuation. Thus, there is no such thing as
@@ -67,16 +72,18 @@ one that is more widely tradable, with the most tradable good finally emerging
 as money. But they do not mention that there is little historical evidence that
 this is how money actually arose.
 
-Menger's theory is logically coherent, and I myself used it to describe the
-origin of money in economics for real people. But as Max Weber pointed out,
-it is not sufficient for an ideal type used in a social scientific explanation
-to be logically coherent: we must supplement the logical coherence of our type
-with empirical research demonstrating that it actually applies in some
-particular case.
+Menger's theory is logically coherent, in fact, very elegant,
+and I myself used it to describe the
+origin of money in *Economics for Real People*. But as Max Weber pointed out,
+it is necessary but not sufficient for an ideal type used in a social
+scientific explanation to be logically coherent: we must supplement the logical
+coherence of our type with empirical research demonstrating that it actually
+applies in some particular case.
 
 After discussing Menger, the authors continue by presenting the ideas of
-major figures in the history of the Austrian school, such as Bohm-Bawerk,
-Wieser, Mises, Hayek, Kirzner, and Rothbard.
+subsequent major figures in the history of the Austrian school, such as
+Eugen von Bohm-Bawerk, F. Wieser, Ludwig von Mises, F.A. Hayek, Israel Kirzner,
+and Murray Rothbard.
 
 
 ## The Science of Economics
@@ -85,9 +92,10 @@ In the next section, on the science of economics, the authors, take care to
 differentiate the social sciences from the physical sciences. They correctly
 note that "understanding and prediction are not synonymous" (23).
 
+Coyne and Hall offer a very nice example of how limited an understanding 
+one can achieve, using only the physical sciences, of
 
-Very nice example of rush-hour commuting: we cannot understand what is going on
-ffer a very nice example of impossiblity of adequately understanding rush-hour commuting in and out
+rush-hour commuting in and out
 of Grand Central Station as a purely physical phenomenon.  To really understand
 what is going on, one must take into account the *purposes* of the people
 commuting, and the institutional settings within which they are acting. (26-27)

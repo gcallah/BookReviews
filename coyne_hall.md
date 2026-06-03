@@ -88,39 +88,41 @@ and Murray Rothbard.
 
 ## The Science of Economics
 
-In the next section, on the science of economics, the authors, take care to
-differentiate the social sciences from the physical sciences. They correctly
-note that "understanding and prediction are not synonymous" (23).
+In the next section, on the science of economics, Coyne and Hall take care to
+differentiate the social sciences from the physical sciences. We can study
+human action differently than the physical sciences because, as humans
+ourselves, we comprehend the logic that underlies choosing.
+Following Mises, they refer to the study of the logic of choice as "praxeology."
 
 Coyne and Hall offer a very nice example of how limited an understanding 
-one can achieve, using only the physical sciences, of
+one can achieve, using only the physical sciences, of rush-hour commuting in
+and out of Grand Central Station. To really understand what is going on, one
+must take into account the *purposes* of the people commuting, and the
+institutional settings within which they are acting. (26-27)
 
-rush-hour commuting in and out
-of Grand Central Station as a purely physical phenomenon.  To really understand
-what is going on, one must take into account the *purposes* of the people
-commuting, and the institutional settings within which they are acting. (26-27)
+The authors assert that methodological individualism, meaning that all analysis
+of human action must begin with the individual, is the correct approach for
+studying economic phenomena. But I think this assertion is unjustified.
+The the study of individual motivations certainly should not be
+neglected, and it can yield very important insights about social phenomena
+But that does not mean that it is the only correct approach to understanding
+them. If we wish to understand the rise of Nazism in Germany, we may take
+undertake a study of the individual motivations of people who joined the Nazi
+party. But we might also take our starting point by considering Nazism as an
+idea-force, and proceed to examine how that idea influenced the behavior of
+people who joined the party.
 
-Methodological individualism (29)
-
-The fact that the study of individual motivations certainly should not be
-neglected, and can yield very important insights about social phenomena does not
-mean that it is the only correct approach to understanding them. If we wish to
-understand the rise of Nazism in Germany, we may take undertake a study of the
-individual motivations of people who joined the Nazi party. But we might also
-take our starting point by considering Nazism as an idea-force, and proceed to
-examine how that idea influenced the behavior of people who joined the party.
-
-Of course it is true that Charlotte's rowing team would not exist absent the
-rowers. But at the same time the rowers would not exist *as rowers* without the
-rowing team. In fact, as the British philosopher Bernard Bosanquet pointed out,
-while it is true that groups are composed of individuals, it is also true that
-individual minds are structured by the groups they are in and surrounded by:
-individuals and the groups in which they participate compose an organic unity.
-Of course an organism does not exist absent its organs, but at the same time,
-the organs' existence depends upon the organism as a whole. As St. Paul wrote,
-"There is one body, but it has many parts. But all its many parts make up one
-body... And so we are formed into one body."
-The struggle between methodological individualism and methodological holism is
+Of course it is true that a political party would not exist absent the
+party members. But at the same time the party members would not exist *as party members*
+without the party. In fact, as the British philosopher Bernard Bosanquet
+pointed out, while it is true that groups are composed of individuals, it is
+also true that individual minds are structured by the groups they are in and
+surrounded by: individuals and the groups in which they participate compose an
+organic unity. Of course an organism does not exist absent its organs, but at
+the same time, the organs' existence depends upon the organism as a whole. As
+St. Paul wrote, "There is one body, but it has many parts. But all its many
+parts make up one body... And so we [Christians] are formed into one body." The
+struggle between methodological individualism and methodological holism is
 unnecessary: we should employ one or the other (or even both) as fits the
 occasion.
 
@@ -155,25 +157,14 @@ instance, if someone threatens to shoot a robber if he does not put down the
 goods he is stealing and surrender, many people will approve of that use of
 coercion.)
 
-As a result, we can see that the victim is not purely a victim, but still has
-a choice to make. If the mafia comes around and demands a monthly payment from my
-pizza business, I could decide to pay up. But I could also decide to try to
-defend myself against any attempt on their part to make good on their threat. In
-fact, a friend of mine responded to a mafia attempt at extortion by upping the
-anti, and threatening to kill the person who had come to extort him.
-
-Or, I could also just sell my business, and hope the next owner is able to deal
-with such problems. Or I could abandoned my business, and move to Siberia, where
-it is probably not worth the while of the mafia taunt me down.
-
 Praxeologically speaking, all human action is voluntary, as opposed to involuntary
 physiological processes such as digestion. Ludwig von Mises makes this
 distinction clear in the section of *Human Action* called "Purposeful Action and
 Animal Reaction" (1.1).
 
-Of course I am not trying to correct
+And of course I am not trying to correct
 people's ordinary speech. When a husband drags his spouse to a party, it's fine
-to say that she came involuntarily. But as social theorists, our job is to speak
+to say that she came "involuntarily." But as social theorists, our job is to speak
 as precisely as possible. Even a person facing coercion is still a human actor,
 and still can choose how to respond. It is possible to stand in front of a
 column of tanks at Tiananmen Square. It is possible to proclaim "Give me liberty
@@ -183,17 +174,12 @@ A little later, the authors claim:
 "We cannot make sense of the world without pure theory because we must have a
 theoretical grounding to orient our efforts and understanding" (32).
 
-This is a puzzling contention to me.  As I understand it, a theory is an
-abstraction from concrete reality.  If we do not first have some understanding
-of concrete reality, how could we ever abstract a theory from it?  A theory is
-an attempt make what is already somewhat comprehensible more fully
-comprehensible. If we began from a state of sheer incomprehension about some
-aspect of experience, there is no way we could formulate a theory about it.
-
- 
-
-
-
+This is a puzzling contention to me. As I understand it, a theory is an
+abstraction from concrete reality. If we do not first have some comprehension
+of concrete reality, how could we ever abstract a theory from it? A theory is
+an attempt to better understand what is already, at least to some extent,
+understood. If we began from a state of sheer incomprehension about some
+aspect of experience, there is no possibility we could formulate a theory about it.
 
 ## Catallaxy
 
@@ -211,21 +197,20 @@ than is the exchange paradigm.
 ## Economic Calculation and Planning
 
 Coyne and Hall do an excellent job covering the socialist calculation debate. It
-began when M showed the necessity of prices for rational economic calculation.
+began when Mises showed the necessity of prices for rational economic calculation.
 Several socialist economist responded by inventing "market socialism," which
 they held could employ prices even more efficiently than could businesses
 competing with each other.
 
 Hayek entered the debate at that point. Contra some who have tried to "de
-homogenize" M and Hayek , he did not offer a *different* explanation of why
+homogenize" Mises and Hayek, Hayek did not offer a *different* explanation of why
 socialism could not work then did Mises; instead he explained why Mises's
 contention was correct.
 
 Why couldn't the socialists just assign prices to things based on their best
 guesses, and then calculate from those prices?
-
 Hayek showed why the market process itself is necessary to produce the knowledge
-upon which sensible prices are based.
+upon which meaningful prices are based.
 
 ## The Market Process
 
@@ -248,84 +233,32 @@ In their chapter on interventionism, the authors claim that, when it comes to
 government policies interfering with market exchanges, "We know some people are
 made worse off because they are no longer able to engage in voluntary exchanges
 that they otherwise would have engaged in absent the government intervention"
-(93). But this analysis conflates the idea that people only engage in exchanges
-that they *believe* will make them better off with the notion that all such
-exchanges *actually* make them better off. let us consider, for instance, a law
-for bidding liquor sales to anyone under 21. There are plenty of 18, 19, and
-20-year-olds who would happily buy liquor if the government would allow them to.
-But it's quite possible that if they were allowed to do so, they would actually
-be worse off than under the current regime, as they might be too immature to
-handle drinking responsibly. Of course, many might disagree with this, but the
-fact we can see it as possible is enough to illustrate the problem with Coyne
-and Hall's contention.
+(93). But this analysis conflates the correct idea that people only engage in exchanges
+that they *believe* will make them better off with the mistaken notion that all such
+exchanges *actually* make them better off. Consider a young person considering
+buying heroin: if they do so, they must believe they are made better off as a
+result. But if years of addiction later, they find their life in ruins, they
+will regret the decision and realize it did not actually make them better off.
+A law forbidding such sales might, in fact, make the would-be purchasers better
+off than if they had been allowed to proceed.
 
+And this is precisely the kind of unwarranted move, from the apodictictly
+correct statement that before a trade they agree to, both actors engaging in the
+trade *believe* they will be better off from it, to declaring that they are, in fact,
+better off, that is often used to move from sound praxeological reasoning to
+libertarian conclusions.
 
 ## Money and Banking
 
 
 And their chapter on money in banking, Coyne and Hall discussed the possibility
 that a free banking regime, where private banks issue their own currency, might
-be preferable to government monopolized issuance of money, they also touch upon
-the intro Austrian debate between those who believe fractional reserve banking,
-where the bank does not hold every dollar deposited in its vaults, can be
+be preferable to government monopolized issuance of money. They also touch upon
+the intra-Austrian debate between those who believe fractional reserve banking
+(where a bank does not hold every dollar deposited in its vaults but instead
+lends out some fraction of  those dollars) can be
 conducted responsibly, and those Austrians who argue that it is inherently
 fraudulent.
-
-
-????
-
-"as a result, both are better off" 110
-
-This statement is unwarranted. The correct version of it is that, "as a result,
-both *believe* they will be better off."
-
-If it turns out that Cordelia is allergic to wheat, and William is allergic to
-potatoes, they will both find that they were worse off after the trade. This
-jump from the fact that some actor believes they will be better off due to a
-trade, to declaring that they, in fact, *are* better off, is actually a
-rejection of the subjectivism that these authors swear allegiance to.
-
-And this is precisely the kind of unwarranted move, from the apodictictly
-correct statement that before a trade they agree to, both actors engaging in the
-trade *believe* they will be better off, to declaring that they are, in fact,
-better off, that typically is used to move from praxeological reasoning to
-libertarian conclusions.
-
-MERGE WITH:
-
-The authors claimed that "were exchange takes place, it is reciprocal and
-mutually beneficial in that each person obtains a good that they value more than
-what they gave up in the trade" (5). That statement is not altogether accurate:
-more correctly, each person *believes* that the exchange will be mutually
-beneficial, and that they believe the good they obtaining is more valuable to
-them than the one they are giving up. But that expectation may prove to be
-mistaken: there are obvious cases where one has simply been deceived by the
-seller as to the nature of good one is buying, but there are many, many more
-cases where are the buyer has simply made a mistake: they thought the good would
-bring them more happiness, but, in fact, it does not. Consider the case of a
-drug dealer selling some highly addictive drug to an addict: and is correct to
-say that the attic values the drug more than the money he is giving up, and the
-drug dealer values the money more than the drug he is selling. But that
-observation in no way justifies claiming that the exchange is "mutually
-beneficial." Instead, it would be better to describe it as mutually damaging.
-
-However, even in a mundane transaction involving no deceit and no addiction, the
-exchange may not turn out to be mutually beneficial. I might become convinced,
-after watching an ad, that my life would be much better upgrading my 40 inch TV
-to a 60 inch TV. But after a couple of months of watching, I might realize that
-the 40 inch TV was fine, and I should've spent the money on my children's
-education.
-
-
-Mises: many a slip between cup and lip.
-
-The authors are abusing sound praxeological reasoning, which says  that prior to
-the trade, both parties believe it will improve their life circumstances,  to
-declare that after the trade, both parties will find that it has, in fact,
-improved their circumstances.
-
-
-
 
 ## Austrian Business Cycle Theory
 
@@ -340,6 +273,10 @@ downturns in the economy that we call recessions and depressions.
 
 ## Austrian Economics: Yesterday, Today, and Tomorrow
 
+The authors conlcude their work with a survey of current research directions in
+Austrian econommics, inclduing robust political economy, monetary theory,
+entrepreneurship, developmental economics, behavioral economics, and collective
+action challenges.
 
 
 ## Conclusion

@@ -10,26 +10,20 @@ Price
 
 214 pages
 
-
-## Introduction
-
 Coyne and Hall have written an excellent book, perhaps the second-best
 introduction to Austrian economics in print. (I joke because I have written one
-myself: full disclosure, this book is a close competitor to *Economics for Real
-People*.) The fact that, in this review, I will focus on a few places in which I
-disagree with their approach should in no way be taken to mean that the above
+myself: full disclosure, this book is a close competitor to [*Economics for Real
+People*](https://mises.org/library/book/economics-real-people).)
+The fact that, in this review, I will focus on a few places in which I
+disagree with their claims should in no way be taken to mean that the above
 praise is not true. Rather, it is simply that I think the most interesting
 things *I* have to say about their book involve a few places where I differ
 from what *they* say.
 
-
-
-## What Is Austrian Economics?
-
 Quite naturally, the authors begin by explaining what Austrian economics is. It
 is not the study of the Austrian economy, nor are Austrian economists all from
 the country of Austria. Rather, it is a distinctive approach to economics that was
-developed first in Austria, but since has had practitioners from across the world.
+developed first in Austria, but since has attracted practitioners from across the world.
 
 The authors caution the reader that, contrary to some popular beliefs:
 "Austrian economics... is not a political philosophy, ideology, or worldview --
@@ -38,41 +32,43 @@ e.g. 'conservatism,' 'libertarianism,' or 'neoliberalism' (1).
 The authors are correct that, at its core, Austrian economics is none of these
 things. It is only a number of pages later that the authors explain why a
 confusion between Austrian economics and libertarianism often exists, which is
-that Murray Rothbard and his followers attempted to inextricably link them.
+that Murray Rothbard and his followers attempted to firmly link them.
 
 They then proceed to give a brief history of the Austrian school, beginning with
 its founder, Carl Menger. Menger is regarded as one of the three leading
 figures of the "marginalist revolution" in economics, which fundamentally
 changed the way that economists understand how goods come to be valued.
-The authors mention that Menger's theory of marginal utility superseded the labor
-theory of value for explaining the price of goods.
+Menger's theory of marginal utility superseded the labor theory of value for
+explaining the price of goods.
 
-The labor theory of value, accepted by the classical economists like Adam Smith
+The labor theory of value, accepted by the classical economists like Adam Smith,
 as well as by Karl Marx, held that the value of a good is determined by the
 value of its inputs. Menger stood the classical theory on its head,
 demonstrating that it is the price of consumer goods that determines the price
 of their inputs, and not the reverse.
 
-Labor theory of value was a valid attempt at explaining prices.
-In fact, in equilibrium, the labor theory of value and the marginal utility
-theory will yield the same result. It is only in disequilibrium that the
-superiority of the marginal utility theory shines forth.
+Labor theory of value was a serious attempt at explaining how goods are valued,
+even if it turned out to be wrong.  In fact, in equilibrium, the labor theory
+and the marginal utility theory will yield the same result, which is why, among
+lay people, the labor theory retains its popularity: at first glance, it appears
+accurate. It is only in disequilibrium that the superiority of the marginal
+utility theory shines forth.
 
-The authors correctly pointed out that value is not something that inheres in
+Coyne and Hall point out that value is not something that inheres in
 goods, but is the result of an act of valuation. Thus, there is no such thing as
 a "store of value." Acts of valuation cannot be stored. What is possible is that
 we can set aside some good in the hope that people will value it highly in the
 future. But that does not make the good a "store of value": setting aside
 immediate consumption of some good in the hopes of achieving a profit by selling
-it in the future is always a speculative venture, not a simple act of storage.
+it in the future is always a speculative venture, never a simple act of storage.
 
-The authors then describe Menger's theory of the origin of money, where it
+The authors then describe Menger's theory of the origin of money, in which money
 arises spontaneously through the process of people trading a good they have for
-one that is more widely tradable, with the most tradable good finally emerging
-as money. But they do not mention that there is little historical evidence that
-this is how money actually arose.
+one that is more widely traded, with the most traded good finally emerging
+as money. But they do not address the fact that there is little historical
+evidence that this is how money actually arose.
 
-Menger's theory is logically coherent, in fact, very elegant,
+Menger's theory is logically coherent and elegant,
 and I myself used it to describe the
 origin of money in *Economics for Real People*. But as Max Weber pointed out,
 it is necessary but not sufficient for an ideal type used in a social
@@ -82,11 +78,8 @@ applies in some particular case.
 
 After discussing Menger, the authors continue by presenting the ideas of
 subsequent major figures in the history of the Austrian school, such as
-Eugen von Bohm-Bawerk, F. Wieser, Ludwig von Mises, F.A. Hayek, Israel Kirzner,
+Eugen von Bohm-Bawerk, Friedrich von  Wieser, Ludwig von Mises, F.A. Hayek, Israel Kirzner,
 and Murray Rothbard.
-
-
-## The Science of Economics
 
 In the next section, on the science of economics, Coyne and Hall take care to
 differentiate the social sciences from the physical sciences. We can study
@@ -104,7 +97,7 @@ The authors assert that methodological individualism, meaning that all analysis
 of human action must begin with the individual, is the correct approach for
 studying economic phenomena. But I think this assertion is unjustified.
 The the study of individual motivations certainly should not be
-neglected, and it can yield very important insights about social phenomena
+neglected, and it can yield very important insights about social phenomena.
 But that does not mean that it is the only correct approach to understanding
 them. If we wish to understand the rise of Nazism in Germany, we may take
 undertake a study of the individual motivations of people who joined the Nazi
@@ -181,38 +174,31 @@ an attempt to better understand what is already, at least to some extent,
 understood. If we began from a state of sheer incomprehension about some
 aspect of experience, there is no possibility we could formulate a theory about it.
 
-## Catallaxy
-
 In their chapter on "Catallaxy," Coyne and Hall define that word as the study of
 exchange and the institutions which support it. They contrast The "allocation
 paradigm," which takes as its starting point a given stock of resources, and asks
-how to best distribute them, with the "exchange paradigm." In the "exchange
+how to best allocate them, with the "exchange paradigm." In the "exchange
 paradigm," a phrase coming from Nobel Prize winner James Buchanan, the focus is
-instead on how that stock only comes into being as a result of the process of
+instead on how that stock comes into being as a *result* of the process of
 exchange. Unfortunately, much of mainstream economics as focused on the
 allocation paradigm, because it is more susceptible to mathematical treatment
 than is the exchange paradigm.
 
+Coyne and Hall do an excellent job covering the socialist calculation debate.
+That debate began when Mises showed the necessity of prices for rational
+economic calculation.  Several socialist economist responded by inventing
+"market socialism," which they held could employ prices even more efficiently
+than could businesses competing with each other.
 
-## Economic Calculation and Planning
-
-Coyne and Hall do an excellent job covering the socialist calculation debate. It
-began when Mises showed the necessity of prices for rational economic calculation.
-Several socialist economist responded by inventing "market socialism," which
-they held could employ prices even more efficiently than could businesses
-competing with each other.
-
-Hayek entered the debate at that point. Contra some who have tried to "de
-homogenize" Mises and Hayek, Hayek did not offer a *different* explanation of why
-socialism could not work then did Mises; instead he explained why Mises's
+Hayek entered the debate at that point. Contra some who have tried to
+"de-homogenize" Mises and Hayek, Hayek did not offer a *different* argument
+for why socialism could not work then did Mises; instead he explained why Mises's
 contention was correct.
 
 Why couldn't the socialists just assign prices to things based on their best
-guesses, and then calculate from those prices?
-Hayek showed why the market process itself is necessary to produce the knowledge
-upon which meaningful prices are based.
-
-## The Market Process
+guesses, and then calculate from those prices?  Hayek showed why the market
+process itself is necessary to produce the knowledge upon which meaningful
+prices are based.
 
 The authors next turn their attention to the market process. They quote Israel
 Kirzner, who claims that "What occurred as a result of [the socialist
@@ -227,8 +213,6 @@ much more important and interesting than the equilibrium condition itself. Mises
 and Hayek extensively developed this theory, and in our day, it has been
 advanced most significantly by Kirzner.
 
-## Interventionism
-
 In their chapter on interventionism, the authors claim that, when it comes to
 government policies interfering with market exchanges, "We know some people are
 made worse off because they are no longer able to engage in voluntary exchanges
@@ -240,49 +224,42 @@ buying heroin: if they do so, they must believe they are made better off as a
 result. But if years of addiction later, they find their life in ruins, they
 will regret the decision and realize it did not actually make them better off.
 A law forbidding such sales might, in fact, make the would-be purchasers better
-off than if they had been allowed to proceed.
+off than if they had been allowed to proceed. Mises himself characterized this
+always speculative character of all choices with the phrase, "There's many a
+slip twixt cup and lip."
 
-And this is precisely the kind of unwarranted move, from the apodictictly
+And this is precisely the kind of move, from the apodictictly
 correct statement that before a trade they agree to, both actors engaging in the
-trade *believe* they will be better off from it, to declaring that they are, in fact,
+trade *believe* they will be better off from it, to declaring that they *are*, in fact,
 better off, that is often used to move from sound praxeological reasoning to
-libertarian conclusions.
+unwarranted libertarian conclusions.
 
-## Money and Banking
-
-
-And their chapter on money in banking, Coyne and Hall discussed the possibility
+In their chapter on money in banking, Coyne and Hall discuss the possibility
 that a free banking regime, where private banks issue their own currency, might
 be preferable to government monopolized issuance of money. They also touch upon
 the intra-Austrian debate between those who believe fractional reserve banking
 (where a bank does not hold every dollar deposited in its vaults but instead
-lends out some fraction of  those dollars) can be
-conducted responsibly, and those Austrians who argue that it is inherently
-fraudulent.
-
-## Austrian Business Cycle Theory
+lends out some fraction of  those dollars, and thus keeps the reciprocal
+fraction *in reserve*) can be conducted responsibly, and those Austrians who
+argue that it is inherently fraudulent.
 
 The authors devote a chapter on Austrian business cycle theory.
 That theory offers an explanation of why the economy seems to go
 through booms and busts. It treats the interest rate as a price like any other,
-and views attempts by the government to set the interest rate at a different
+and understands attempts by the government to set the interest rate at a different
 level than market participants would set it as creating distortions in economic
 activity. When those distortions come home to roost, we get the periodic
-downturns in the economy that we call recessions and depressions.
-
-
-## Austrian Economics: Yesterday, Today, and Tomorrow
+downturns in the economy that we call recessions and depressions. The theory has
+sometimes been called a [hangover
+theory](https://webhome.auburn.edu/~garriro/hangover.htm).
 
 The authors conlcude their work with a survey of current research directions in
-Austrian econommics, inclduing robust political economy, monetary theory,
-entrepreneurship, developmental economics, behavioral economics, and collective
-action challenges.
-
-
-## Conclusion
+Austrian economics, including robust political economy, monetary theory,
+entrepreneurship, developmental economics, behavioral economics, alternative
+governance structures, and collective action challenges.
 
 This book is an excellent introduction to the Austrian school of economics.
-Again, to the extent this Revue has focused on a few points of disagreement, it
+Again, to the extent this review has focused on a few points of disagreement, it
 is only because those were the most interesting points to discuss.
 
 

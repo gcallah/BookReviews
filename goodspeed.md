@@ -197,8 +197,6 @@ asserting that that is the case: test that hypothesis would require detailed
 statistical analysis based on an actual understanding of the claims of ABC.)
 
 
-
-
 ## A great deal of Ruin
 
 
@@ -213,9 +211,6 @@ like this makes others timid about investing: Keynes had a good point about
 
 
 
-
-
-
 ## Firefighters and arsonists
 
 Using the Davis-Romer method for measuring the length and depth of
@@ -226,8 +221,8 @@ central banking and the expanded welfare state have meliorated the frequency or
 depth of recessions. Expansions have indeed been getting longer, but that is
 part of a trend that started well before the 20th century increases in the
 government role in the economy in both countries. And he notes that oftentimes,
-government actions have actually played a causal role in  initiating a
-recession.
+government actions have actually played a causal role in initiating a
+recession, particularly through going to war.
 
 
 
@@ -243,14 +238,14 @@ distant locations" (162). But then he goes on to ask, "Is it in fact generally
 true that recessions are inherently international phenomena?" (162).
 
 But nothing about the butterfly effect means that a butterfly flap it its wings
-will *necessarily* have effects that spell outside even the flower it is
+will *necessarily* have effects that spill beyond the flower it is
 flapping around. Even in a complex system, *most* local changes will have
 primarily local effects. Most butterflies flapping their wings in Brazil will
 never have any measurable effect on the weather in Saskatchewan. But in a
 complex system, every once in a while the introduction of a tiny change in some
 variable will generate such large and unpredictable macro effects.
 
-G goes on to show that it only half us recessions did a recession in the UK
+G goes on to show that it only half U.S. recessions did a recession in the U.K.
 occur at roughly the same time. This actually shows a significant degree of
 linkage between the two economies, since we would never expect half of
 butterflies flapping in Brazil to produce some significant effect in
@@ -260,23 +255,23 @@ G also explains the better stability of the British banking system compared to
 the American by the fact that British banks were allowed to consolidate and
 open many branches, whereas many American banks were limited by state law to a
 single branch. These so-called "unit banks" were of course especially
-vulnerable to a crap failure or a plague of locusts in their area, or a decline
-in local real estate prices.
-
-
+vulnerable to a crop failure, a plague of locusts in their area, or thew
+closure of an important local factory.
 
 
 
 ## Purge the rottenness
 
 
-G, predictably, does not much like Schumpeter's idea that recessions are the
-gale winds of creative destruction purging the rottenness out of the economy.
-However, once again, the evidence with which he disputes this idea is
-questionable. For instance, he regards the fact that recessions strike harder
-at younger firms than more established firms as strong evidence against
-Schumpeter (and his more recent followers, such as Robert Hall, Valerie Ramey,
-Olivier Blanchard, and Peter Diamond). But is it really? Perhaps most of the
+G, predictably, does not much like Joseph Schumpeter's idea (endorsed recently
+by Robert Hall, Valerie Ramey, Olivier Blanchard, Peter Diamond, and others),
+that recessions are the gale winds of creative destruction purging the
+rottenness out of the economy. However, once again, the evidence with which he
+disputes this idea is questionable. For instance, he regards the fact that
+recessions strike harder at younger firms than more established firms as strong
+evidence against Schumpeter.
+
+But is it really? Perhaps most of the
 "rottenness" during an expansion accumulates precisely in the many new firms
 that get funding despite the fact that their business prospects are not really
 very good. If so, then the data G cites would support, rather than refute, the
@@ -301,7 +296,7 @@ expansion proceeding the 1981–82 recession, so the recession was hardly
 correcting for prior excess allocation" (187). This argument simply treats an
 historical trend as though it were some sort of norm, so that investment below
 that trend could not possibly be too high. However, as the facts on the ground
-change, investment line with or even below an historical trend may easily prove
+change, investment in line with or even below an historical trend may easily prove
 to be still too high: the litmus test for investments is not whether they
 conform to some past line on a graph, but whether they will turn out to be
 profitable.
@@ -316,14 +311,14 @@ theory, creative destruction theory, or Keynesian theory, who would regard
 policies adopted in response to it. It is as though G is trying to refute a
 theory that holds that the worst forest fires are often due to inadequate brush
 management by citing that one time a volcano erupted and set massive amounts of
-forest on fire.
+forest ablaze.
 
 This repeats the pattern we saw with ABC earlier: G gives the reader a quick
 summary of what he believes a theory says. Then he picks some outcome that *he*
 claims should result if the theory were true. When he doesn't find that
 outcome, he argues that the theory is therefore probably false. With ABC, the
 tests he chose were actually irrelevant to the theory. My knowledge of the
-recent literature on creative destruction is inadequate to allow me to judge if
+recent literature on creative destruction theory is inadequate to allow me to judge if
 the same is true in this case. But it would be interesting to hear from the
 advocates of the theory if they believe he has adequately tested their ideas.
 
@@ -387,9 +382,9 @@ forest fire, "the" cause might be all of a recent drought, a very windy day,
 carelessness on the part of a camper cooking some hotdogs, poor forestry
 management practices, the nature of the trees growing in that area, and more.
 If we then consider the further complexity added by the myriad ways in which
-millions of humans can respond to the situation in which they find themselves,
-it seems very foolish to search for monocausal explanations of complex
-phenomena such as recessions. Yet that is precisely what G has done.
+millions of humans can respond to the physical situation in which they find
+themselves, it seems very foolish to search for monocausal explanations of
+complex phenomena such as recessions. Yet that is precisely what G has done.
 
 I think it is a note that well G spends a good amount of time showing that
 every recession he examines was triggered by one or more economic shocks, he

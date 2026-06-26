@@ -120,33 +120,30 @@ question with the 1771 downturn later proved to be profitable, as though that
 proved that there was no speculative bubble. But again, that evidence simply
 does not demonstrate what he wishes it to demonstrate: a speculative bubble
 will impact a large number of ventures, some sound, and some unsound. The
-dot.com bubble of 2001 resulted in high valuations for many tech companies that
+Dot-Com bubble of 2001 resulted in high valuations for many tech companies that
 later proved to be sound, but also resulted in high valuations for many other
-companies that subsequently went bust. The concept of a speculative bubble does
-not imply that every single enterprise the price of which went up during that
-bubble was therefore unsound, and the fact that some of the ventures promoted
-during the bubble later succeeded is not evidence that there was no bubble. The
-ideal type of a bubble means that the valuation of a broad range of enterprises
-will become unrealistically high. It does not imply that none of those
-enterprises will succeed. 
+companies that subsequently went bust. The ideal type of a bubble means that
+the valuation of a broad range of enterprises will become unrealistically high.
+It does not imply that none of those enterprises will succeed, and the
+subsequent success of some of them does not imply that there was no bubble.
 
 
 In trying to show that there was no railroad stock bubble in the recession of
 the 1870s, G writes that, if there had been one, "one would logically expect to
 observe sharp spikes in railroad mileage to be followed by long plateaus of no
-new railroad mileage" (75). he then attempts to demonstrate that there was no
+new railroad mileage" (75). He then attempts to demonstrate that there was no
 bubble by showing that railroad mileage steadily increased in the United States
-from 1850 through the early 20th century. but Jay Cooke, the central character
+from 1850 through the early 20th century. But Jay Cooke, the central character
 in G's story of that recession, built very little mileage. The purported
 bubble, in fact, could well be illustrated by the fact that Cooke raised an
 enormous sum of money in order to build such a paltry amount of track. A more
-accurate dataset to test whether there really was such a bubble would consist
+accurate dataset to test whether there really was such a bubble might consist
 of the valuations of railroad stocks, not the amount of miles of track built.
 
 G then proceeds to attempt to show that there was no bubble in 1871 by pointing
 to the fact that Berkshire Hathaway acquired the ultimate successor of Cooke's
-railroad company in the 21st-century, after fourteen decades and two mergers
-involving three other railroads: if a wise investor like Warren Buffett thought
+railroad company in the 21st-century, fourteen decades and two mergers
+involving three other railroads later: if a wise investor like Warren Buffett thought
 this totally different company was a good deal in the 2000s, how could it not
 have been a wise undertaking in 1871?
 
@@ -155,12 +152,12 @@ amphetamines and attempted to complete three books in a month by working 20
 hours a day, but collapsed before he was able to complete any of them. If he
 recovered, and then completed the three books over the next few decades to
 great acclaim, it appears that G would claim that the amphetamine-fueled period
-of writing was not an unsustainable boom, since the books turned out to be good
-in the end. 
+of writing was not an unsustainable boom, since the books were eventually
+finished and turned out to be good.
 
 This just won't do. If we wish to judge whether some past investment was a
-prudent decision or not, we must look at the circumstances of that time, and
-the cost of investing. An investment may be perfectly sound at a cost of $1
+prudent decision or not, we must look at the circumstances and
+the cost of investing at that time. An investment may be perfectly sound at a cost of $1
 million, given a realistic view of the time span over which profits will
 appear, but extremely imprudent at a cost of $10 million. If someone
 nevertheless invests $10 million in that enterprise, due to grossly
@@ -171,21 +168,28 @@ next many decades, that hardly means that his initial investment was wise.
 Well my example only involves a single enterprise, the reader ought to be able
 to extend it to apply to an entire industry. The fact that the Internet has
 steadily increased its importance in our economy in no way demonstrates that it
-made sense to throw massive amounts of investment at any company with "dotcom"
-in its name in 2000.
+made sense to throw massive amounts of investment at any company with "Dot-Com"
+its name in 2000.
 
 
 
 
 ## Oscillation or plucks
 
+G goes on to endorse Milton Friedman's "plucking model" of downturns, where,
+rather than oscillations, they are analogous to someone plucking on a taught
+string and temporarily pulling it downward. He aims to back this hypothesis by
+demonstrating that the depth of a recession is not correlated with the height
+of the previous expansion (as he argues the oscillation model implies) but that
+the depths of the downturn are correlated with the steepness of the recover, as
+implied by the plucking model.
 
-Since ABC does not claim that all expansion is due to unwarranted credit
+However, since ABC does not claim that all expansion is due to unwarranted credit
 expansion, to test ABC using G's method, one would have to estimate how much of
 an expansion was sound and how much was due to easy credit.
 
 In fact, since central banks are most likely to ease when growth is anemic, one
-might possibly find that the larger a a sound economic expansion was, the less
+might possibly find that the larger a sound economic expansion was, the less
 likely the central bank was to supply easy credit. And if that turned out to be
 the case, and we would get just the lack of correlation between the height of
 an expansion and the depth of a subsequent recession that G finds. (I am *not*
@@ -198,7 +202,7 @@ statistical analysis based on an actual understanding of the claims of ABC.)
 ## A great deal of Ruin
 
 
-But why does she look at only the wealth effect of the bursting of the dotcom
+But why does G look at only the wealth effect of the bursting of the Dot-Com
 bubble? (And yes, I will unashamedly continue to refer to it as a bubble.) In
 addition to the decline in the NASDAQ index, hundreds of Internet companies
 went out of business, throwing over a hundred thousand of employees out of

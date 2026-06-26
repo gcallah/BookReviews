@@ -22,19 +22,9 @@ And so I expected to gain similar insight from his new book, *Recession*. But
 our expectations can prove to be overly optimistic, resulting in a downturn.
 
 
-G treats the term "moral" as an appropriate, and any explanation of economic
-events that involves morality at all is immediately suspect for that reason
-alone. Of course, simply because an explanation for some economic events
-carries a moral lesson does not mean that it is correct. But it also does not
-mean that it is necessarily incorrect for that reason.
-
-If someone says of a ne'er-do-well, "he's gonna come a cropper," it's not
-falsified as a prediction simply because the person making it cannot indicate
-what day this will happen. We often can make what Hayek referred to as "pattern
-predictions" despite not being able to make precise quantitative predictions.
-
-
 ## Epiphanies or Apophanies
+
+G sets the stage for the rest of the book by...
 
 
 And of course, the Austrian business cycle theory (henceforth ABC ) does not
@@ -47,14 +37,14 @@ the length or depth of the recession that comes after.
 
 
 Furthermore, the ABC does not posit that there is a "natural" tendency for an
-economy that is employing credit to have the interest rate mispriced. Instead,
+credit-based economy to have artificial expansions of credit. Instead,
 the key idea is that central banks will sometimes act to hold the interest rate
 below the free market rate, and that decision will have unintended and
 unfortunate consequences.
 
-When Goodspeed describes Hatek's presentation at Cambridge in 1931, he quotes a
+When Goodspeed describes Hayek's presentation at Cambridge in 1931, he quotes a
 story from volume 9 of the *Collected Works of Hayek* that was told by Joan
-Robinson, 40 years after the fact, to make Hayek appear especially foolish. But
+Robinson, 40 years after the fact, which makes Hayek appear foolish. But
 he fails to mention the paragraph immediately after, where the editor, Bruce
 Caldwell, casts doubt out upon Robinson's story. The fact that, from the wealth
 of literature, by Hayek, Mises, and their many intellectual descendants, G
@@ -93,7 +83,7 @@ together with Oscar Wilde's story *The Picture of Dorian Gray*. This allows him
 to use some very lurid imagery to mock of all these theories; however, since
 his entire characterization of ABC and mania theory as implying that all
 expansions are due to manias or malinvestments is false, the analogy is
-nonsense. (It is more fitting when used as an analogy for the forest fire
+nonsense. (It may be more apt when used as an analogy for the forest fire
 theory.)
 
 Since G's assertion that ABC and mania theory imply that the longer an
@@ -114,20 +104,6 @@ central banking cannot possibly have relevance in evaluating the theory. Here,
 it is as though G tried to study the impact of atomic weaponry on international
 relations by using data going back to the 18th century.
 
-The fact that G has done an extensive amount of statistical analysis does him
-no credit, when the analysis he is doing is irrelevant to the theories he is
-attempting to evaluate.
-
-Max Weber told us that using an ideal type help us better comprehend some
-historical happening faces two tests: first of all, the type itself must be
-internally coherent and offer a genuine explanation of what has occurred. But
-secondly, the characteristics of the type must be used to empirically test
-whether that type actually helps describe that particular situation. Obviously,
-such tests must depend, if they are to be meaningful, on an accurate
-understanding of what the ideal typing question implies. G's tests fail that
-latter qualification.
-
-
 ## The penitent expansion
 
 In discussing the British economic crisis of 1772, G writes that "Henry
@@ -136,7 +112,7 @@ speculative activity in 1770-71 and this contained within itself the seeds of
 collapse'" (58). However, try as I might, I cannot detect any moral terms in
 Hamilton's statement at all: instead, it appears to me to be purely economic
 analysis. What's more, even if Hamilton had been using "distinctly moral
-terms," what of it? Does G deem it a priori impossible that any moral analysis
+terms," what of it? Does G deem it *a priori* impossible that any moral analysis
 of an economic event should have any relevance?
 
 G then describes how some of the speculative ventures that had been called into
@@ -383,6 +359,15 @@ hit: it would require a detailed historical investigation to sort out a
 plausible story as to what other factors might have fed into the post-Covid
 recession.)
 
+Max Weber taught us that using an ideal type help us better comprehend some
+historical happening faces two tests: first of all, the type itself must be
+internally coherent and offer a genuine explanation of what has occurred. But
+secondly, the characteristics of the type must be used to empirically test
+whether that type actually helps describe that particular situation. Obviously,
+such tests must depend, if they are to be meaningful, on an accurate
+understanding of what the ideal typing question implies. G's tests sometimes
+fail that latter qualification.
+
 Why should we think that there is a single cause of recession? After all, we
 don't suspect that there is a single cause of, for instance, the death of
 people. We are quite satisfied in thinking some people die from gunshot wounds,
@@ -434,7 +419,28 @@ byways to monocausal explanations.
 
 
 
-In short, it appears to this reader that G set out with a thesis, and then
-hunted for a statistics that could demonstrate it.
+## Notes
 
 
+If someone says of a ne'er-do-well, "he's gonna come a cropper," it's not
+falsified as a prediction simply because the person making it cannot indicate
+what day this will happen. We often can make what Hayek referred to as "pattern
+predictions" despite not being able to make precise quantitative predictions.
+
+
+Are the central banks targets never too low?
+
+If there is any meaning to calling them "too low," then there must be some
+untoward consequences, or how else to explain the "too"? What, then, does G
+believe those consequences are?
+
+Are there ever "manias"? Again, if "mania" means anything, it means "too much
+enthusiasm for the investment potential of some commodity or service. If they
+are possible, what does G think are their ill effects?
+
+
+It is usually possible to find some datasets that appear to confirm some
+economic hypothesis: it probably would not have been put forward unless it had
+at least some plausibility. But to genuinely test a theory, one ought also to
+look for what data might conflict with the theory, and see if the theory can
+explain *why* they merely *seem* to conflict.

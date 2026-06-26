@@ -36,10 +36,6 @@ predictions" despite not being able to make precise quantitative predictions.
 
 ## Epiphanies or Apophanies
 
-Imagine concluding from the fact that heart attacks usually follow a shock,
-that therefore obesity, lack of exercise, and bad diet have nothing to do with
-heart attacks!
-
 
 And of course, the Austrian business cycle theory (henceforth ABC ) does not
 claim that expansions cause recessions. The claim is that expansions, *to the
@@ -393,7 +389,9 @@ people. We are quite satisfied in thinking some people die from gunshot wounds,
 some from cancer, some from car accidents, some drowning, and so on. And often
 multiple causes can result in a person's death: they might be overweight, a
 smoker, a highly stressed person, and then experience some shock that triggered
-their heart attack.
+their heart attack. Imagine concluding from the fact that heart attacks usually
+follow a shock, that therefore obesity, lack of exercise, and bad diet have
+nothing to do with heart attacks!
 
 Even when seeking to understand a physical event, such as a highly destructive
 forest fire, "the" cause might be all of a recent drought, a very windy day,
@@ -404,10 +402,9 @@ millions of humans can respond to the situation in which they find themselves,
 it seems very foolish to search for monocausal explanations of complex
 phenomena such as recessions. Yet that is precisely what G has done.
 
-
 I think it is a note that well G spends a good amount of time showing that
 every recession he examines was triggered by one or more economic shocks, he
-never asks how often economic shocks do not trigger a recession. An interesting
+never asks how often economic shocks do *not* trigger a recession. An interesting
 compliment to his research would be to establish some criteria for what
 constitutes an "economic shock" and perhaps a way to assign an numerical value
 to its intensity, and ask under what conditions such shocks do or don't result

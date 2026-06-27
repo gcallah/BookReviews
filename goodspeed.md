@@ -8,23 +8,17 @@ Tyler Goodspeed
 Over a decade ago, I reviewed Tyler Beck Goodspeed's book, *Rethinking the
 Keynesian Revolution* (ref). I found it a very interesting and helpful
 explanation of how the macroeconomic views of Keynes and Hayek might be
-reconciled, and shown to be applicable to different sorts of downturns. NOTE
-
-NOTE: In fact, I presented a graphical explanation at Duke University of how G
-reconciled the two accounts, showing that Hayek's theory would apply to a
-situation in which the actual interest rate was *below* the natural rate, and
-long-term investment and current consumption were both unsustainably high,
-while Keynes's theory applied when the actual interest rate was *above* the
-natural rate, and both long-term investment and current consumption were
-thereby depressed.
-
+reconciled, and shown to be applicable to different sorts of downturns.
 And so I expected to gain similar insight from his new book, *Recession*. But
 our expectations can prove to be overly optimistic, resulting in a downturn.
 
-
-## Epiphanies or Apophanies
-
-G sets the stage for the rest of the book by...
+G sets the stage for the rest of the book by claiming that the various
+patterns different theorists have found to characterize business cycles --
+Kitchin and Juglar cycles, Kuznets swings, Kondratiev waves -- are actually
+"clustering illusions... we are mistaking for regularity what is simply a
+random distribution with chance clusters" (27). Of course, G may have mistaken
+for random distributions what are actually intricate patterns with some random
+noice in them, but he does not consider that possibility.
 
 
 And of course, the Austrian business cycle theory (henceforth ABC ) does not

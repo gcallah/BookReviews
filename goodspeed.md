@@ -6,29 +6,32 @@ Tyler Goodspeed
 ## Introduction
 
 Over a decade ago, I reviewed Tyler Beck Goodspeed's book, *Rethinking the
-Keynesian Revolution* (ref). I found it a very interesting and helpful
-explanation of how the macroeconomic views of Keynes and Hayek might be
-reconciled, and shown to be applicable to different sorts of downturns.
-And so I expected to gain similar insight from his new book, *Recession*. But
-our expectations can prove to be overly optimistic, resulting in a downturn.
+Keynesian Revolution* (ref). I found it to be anould not allow that kin to live
+interesting and helpful explanation of how the macroeconomic views of Keynes
+and Hayek might be reconciled, and shown to be applicable to different sorts of
+downturns. And so I expected to gain similar insight from his new book,
+*Recession*. But our expectations can prove to be overly optimistic, resulting
+in a downturn.
 
-G sets the stage for the rest of the book by claiming that the various
+G's first chapter claims that the various
 patterns different theorists have found to characterize business cycles --
 Kitchin and Juglar cycles, Kuznets swings, Kondratiev waves -- are actually
 "clustering illusions... we are mistaking for regularity what is simply a
 random distribution with chance clusters" (27). Of course, G may have mistaken
 for random distributions what are actually intricate patterns with some random
-noice in them, but he does not consider that possibility.
+noise in them, but he does not consider that possibility.
 
-
-And of course, the Austrian business cycle theory (henceforth ABC ) does not
-claim that expansions cause recessions. The claim is that expansions, *to the
-extent that they are fueled by easy credit*, cause recessions. furthermore,
-there is simply no reason that a sound expansion of the economy cannot be
+G posits tests for what he calls "overinvestment" theories, which he takes to
+include the Austrian business cycle theory (henceforth ABC ), mania theories,
+and forest fire theories based upon his understanding that they all imply that
+expansions cause recessions. But ABC does *not* make such a claim. (Nor do most
+mania theories.)
+The claim of ABC is that expansions, *to the
+extent that they are fueled by easy credit*, cause recessions. And
+there is no reason that a sound expansion of the economy cannot be
 combined with an inflationary expansion. So it is nonsense to try to test this
 theory by seeing whether the length or height of an expansion correlates with
 the length or depth of the recession that comes after.
-
 
 Furthermore, the ABC does not posit that there is a "natural" tendency for an
 credit-based economy to have artificial expansions of credit. Instead,
@@ -40,12 +43,11 @@ When Goodspeed describes Hayek's presentation at Cambridge in 1931, he quotes a
 story from volume 9 of the *Collected Works of Hayek* that was told by Joan
 Robinson, 40 years after the fact, which makes Hayek appear foolish. But
 he fails to mention the paragraph immediately after, where the editor, Bruce
-Caldwell, casts doubt out upon Robinson's story. The fact that, from the wealth
-of literature, by Hayek, Mises, and their many intellectual descendants, G
+Caldwell, casts doubt out upon Robinson's story. The fact that, in the very
+brief space he devotes to (mis)explaining Hayek's theory, G
 chose to include this story, as well as the fact that Hayek pronounced
-"fluctuations" in a way the students found amusing, in his very brief
-description of Hayek's theory, leads this reviewer to suspect that he shared
-Robinson's "mean-spirited" (Caldwell, page 25) intent.
+"fluctuations" in a way the students found amusing, leads this reviewer to
+suspect that he shared Robinson's "mean-spirited" (Caldwell, page 25) intent.
 
 
 G then claims Wesley Clark Mitchell's statement that prosperity itself breeds
@@ -324,7 +326,7 @@ advocates of the theory if they believe he has adequately tested their ideas.
 economic expansion that requires, as its remedy, an economic contraction"
 (203).
 
-Given the problematic aspects of G's use of data in analyzing  theories
+Given the problematic aspects of G's use of data in analyzing theories
 different from his own, as discussed above, this reader suspects that this was
 not the *conclusion* of his research, but instead the *assumption* he made at
 its beginning, and for which he then sought confirmatory data.
@@ -409,6 +411,10 @@ inadequate. I suggest that he is applying the sort of method that is adequate
 for analyzing simple systems, like billiard balls hitting other billiard balls,
 to vastly more complex systems, which do not reveal all of their highways and
 byways to monocausal explanations.
+
+
+## References
+
 
 
 

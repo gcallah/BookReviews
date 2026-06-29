@@ -43,7 +43,7 @@ When Goodspeed describes Hayek's presentation at Cambridge in 1931, he quotes a
 story from volume 9 of the *Collected Works of Hayek* that was told by Joan
 Robinson, 40 years after the fact, which makes Hayek appear foolish. But
 he fails to mention the paragraph immediately after, where the editor, Bruce
-Caldwell, casts doubt out upon Robinson's story. The fact that, in the very
+Caldwell, casts doubt out on Robinson's story. The fact that, in the very
 brief space he devotes to (mis)explaining Hayek's theory, G
 chose to include this story, as well as the fact that Hayek pronounced
 "fluctuations" in a way the students found amusing, leads this reviewer to
@@ -58,7 +58,7 @@ result in a crisis.
 
 ## Peter Pan versus Dorian Gray
 
-G then lumps together three completely different theories of the business
+G again lumps together completely different theories of the business
 cycle, when he says "in the cyclical 'manic,' 'malinvestment,' or 'forest fire'
 view of recessions, the longer we have gone without a recession, the more we
 should anticipate that one is imminent" (41). Again, this is just nonsense.
@@ -67,38 +67,29 @@ Stanford and the University of Chicago, neither the malinvestment nor the manic
 theory implies any such thing. Any expansion, per the latter two theories, may
 be a genuinely sound increase in economic activity, *or* might be the result of
 an artificially low interest rate or a mania. Each case would have to be
-evaluated on its own merits. If sound expansion is neither mania nor
+evaluated on its own merits. If an expansion is neither mania nor
 malinvestment based, then, per either of those theories, there is no reason to
 think that a recession is imminent. And even if it were one of these "bad"
 expansions, neither theory, to my knowledge, makes any prediction as to how
 *soon* the expansion must end: they each merely say that, sooner or later, it
-will end badly.
+will end badly. (This follows from Hayek's point that when dealing with complex
+phenomena, precise numerical predictions, such as "This expansion will end in
+the third week of March," are often impossible, and we must be satisfied with
+*pattern predictions*.)
 
-G then compares these quite distinct theories which he has erroneously lumped
-together with Oscar Wilde's story *The Picture of Dorian Gray*. This allows him
-to use some very lurid imagery to mock of all these theories; however, since
-his entire characterization of ABC and mania theory as implying that all
-expansions are due to manias or malinvestments is false, the analogy is
-nonsense. (It may be more apt when used as an analogy for the forest fire
-theory.)
+G then makes an analogy between these distinct theories which he has
+erroneously lumped together with Oscar Wilde's story *The Picture of Dorian
+Gray*. This allows him to use some very lurid imagery to mock these
+theories; however, since his entire characterization of ABC and mania theory as
+implying that *all* expansions are due to manias or malinvestments is false, the
+analogy is nonsense. (It may be more apt when used as an analogy for the forest
+fire theory.)
 
-Since G's assertion that ABC and mania theory imply that the longer an
-expansion has gone on, the higher the likelihood of an imminent recession, is
-false, his subsequent statistical demonstration that expansions show no such
-pattern is completely irrelevant to evaluating those theories. (Once again, it
-may be a more valid as an argument against the forest fire theory.) The method
-of refutation G has adopted here would be valid only if ABC claimed that every
-expansion is driven entirely by artificially low interest rate rates, or mania
-theory claimed that every expansion is driven entirely by a mania. But since
-neither theory makes any such claim, his statistical "refutation" of them is
-nonsense.
-
-G also uses data from as far back at 1700 in his statistical analysis. But
-since ABC treats the role of central banks in artificially depressing the
-interest rate as a key component of its ideal type, data from before the era of
-central banking cannot possibly have relevance in evaluating the theory. Here,
-it is as though G tried to study the impact of atomic weaponry on international
-relations by using data going back to the 18th century.
+Since G is wrong in claiming that ABC and mania theory imply that the longer an
+expansion has gone on, the higher the likelihood of an imminent recession,
+his subsequent statistical demonstration that expansions show no such
+pattern is irrelevant to evaluating those theories. (Once again, it
+may be a more valid as an argument against the forest fire theory.)
 
 ## The penitent expansion
 
@@ -124,19 +115,19 @@ It does not imply that none of those enterprises will succeed, and the
 subsequent success of some of them does not imply that there was no bubble.
 
 
-In trying to show that there was no railroad stock bubble in the recession of
+Similarly, in trying to show that there was no railroad stock bubble in the recession of
 the 1870s, G writes that, if there had been one, "one would logically expect to
 observe sharp spikes in railroad mileage to be followed by long plateaus of no
-new railroad mileage" (75). He then attempts to demonstrate that there was no
-bubble by showing that railroad mileage steadily increased in the United States
+new railroad mileage" (75). He then shows 
+that railroad mileage steadily increased in the United States
 from 1850 through the early 20th century. But Jay Cooke, the central character
 in G's story of that recession, built very little mileage. The purported
-bubble, in fact, could well be illustrated by the fact that Cooke raised an
+bubble, in fact, could well be *illustrated* by the fact that Cooke raised an
 enormous sum of money in order to build such a paltry amount of track. A more
 accurate dataset to test whether there really was such a bubble might consist
 of the valuations of railroad stocks, not the amount of miles of track built.
 
-G then proceeds to attempt to show that there was no bubble in 1871 by pointing
+G further attempts to prove that there was no bubble in 1871 by pointing
 to the fact that Berkshire Hathaway acquired the ultimate successor of Cooke's
 railroad company in the 21st-century, fourteen decades and two mergers
 involving three other railroads later: if a wise investor like Warren Buffett thought
@@ -144,7 +135,7 @@ this totally different company was a good deal in the 2000s, how could it not
 have been a wise undertaking in 1871?
 
 I think an analogy might be useful here. Imagine some writer who loaded up on
-amphetamines and attempted to complete three books in a month by working 20
+amphetamines and tried to complete three books in a month by working 20
 hours a day, but collapsed before he was able to complete any of them. If he
 recovered, and then completed the three books over the next few decades to
 great acclaim, it appears that G would claim that the amphetamine-fueled period
@@ -161,7 +152,7 @@ underestimating the difficulty of the enterprise, goes bankrupt as a result,
 sells it for half-a-million dollars, and the enterprise then succeeds over the
 next many decades, that hardly means that his initial investment was wise.
 
-Well my example only involves a single enterprise, the reader ought to be able
+While my example only involves a single enterprise, the reader ought to be able
 to extend it to apply to an entire industry. The fact that the Internet has
 steadily increased its importance in our economy in no way demonstrates that it
 made sense to throw massive amounts of investment at any company with "Dot-Com"
@@ -187,7 +178,7 @@ an expansion was sound and how much was due to easy credit.
 In fact, since central banks are most likely to ease when growth is anemic, one
 might possibly find that the larger a sound economic expansion was, the less
 likely the central bank was to supply easy credit. And if that turned out to be
-the case, and we would get just the lack of correlation between the height of
+the case, then we would get just the lack of correlation between the height of
 an expansion and the depth of a subsequent recession that G finds. (I am *not*
 asserting that that is the case: test that hypothesis would require detailed
 statistical analysis based on an actual understanding of the claims of ABC.)
@@ -195,20 +186,23 @@ statistical analysis based on an actual understanding of the claims of ABC.)
 
 ## A great deal of Ruin
 
-
-But why does G look at only the wealth effect of the bursting of the Dot-Com
+G hopes to show that the steep decline in the prices of Internet stocks was
+only a small part of the 2001 recession by pointing out that the wealth effect
+of such a fall in asset prices will have a very small effect on consumer
+spending.
+But why look at only the wealth effect of the bursting of the Dot-Com
 bubble? (And yes, I will unashamedly continue to refer to it as a bubble.) In
 addition to the decline in the NASDAQ index, hundreds of Internet companies
 went out of business, throwing over a hundred thousand of employees out of
 work. And of course, those employees had been supporting local coffee shops,
-and dry cleaners, and landscapers, and bars, and so on. And watching a crash
-like this makes others timid about investing: Keynes had a good point about
-"animal spirits."
+and dry cleaners, and landscapers, and bars, and so on. Furthermore,
+watching a crash like this makes others timid about investing: Keynes had a
+good point about investors' "animal spirits."
 
 
-
-## Firefighters and arsonists
-
+In a chapter entitled "Firefighters and Arsonists," G asks how much the
+expanded role of government in the modern economy, both through central banking
+and welfare programs, has made downturns less severe.
 Using the Davis-Romer method for measuring the length and depth of
 contractions, and looking at peak-to-trough changes in real GDP, real
 consumption, real investment, and the unemployment rate, in both the United
@@ -236,14 +230,14 @@ true that recessions are inherently international phenomena?" (162).
 But nothing about the butterfly effect means that a butterfly flap it its wings
 will *necessarily* have effects that spill beyond the flower it is
 flapping around. Even in a complex system, *most* local changes will have
-primarily local effects. Most butterflies flapping their wings in Brazil will
-never have any measurable effect on the weather in Saskatchewan. But in a
+primarily local effects. Butterflies flapping their wings in Brazil will
+rarely have any measurable effect on the weather in Saskatchewan. But in a
 complex system, every once in a while the introduction of a tiny change in some
 variable will generate such large and unpredictable macro effects.
 
-G goes on to show that it only half U.S. recessions did a recession in the U.K.
+G goes on to show that in only half U.S. recessions did a recession in the U.K.
 occur at roughly the same time. This actually shows a significant degree of
-linkage between the two economies, since we would never expect half of
+linkage between the two economies, as we would not expect half of
 butterflies flapping in Brazil to produce some significant effect in
 Saskatchewan.
 
@@ -255,7 +249,6 @@ vulnerable to a crop failure, a plague of locusts in their area, or thew
 closure of an important local factory.
 
 
-
 ## Purge the rottenness
 
 
@@ -264,8 +257,8 @@ by Robert Hall, Valerie Ramey, Olivier Blanchard, Peter Diamond, and others),
 that recessions are the gale winds of creative destruction purging the
 rottenness out of the economy. However, once again, the evidence with which he
 disputes this idea is questionable. For instance, he regards the fact that
-recessions strike harder at younger firms than more established firms as strong
-evidence against Schumpeter.
+recessions strike harder at younger firms than at more established firms as strong
+evidence against the Schumpeterians.
 
 But is it really? Perhaps most of the
 "rottenness" during an expansion accumulates precisely in the many new firms
@@ -297,7 +290,7 @@ to be still too high: the litmus test for investments is not whether they
 conform to some past line on a graph, but whether they will turn out to be
 profitable.
 
-He then goes on to ask, "was there a large population of unproductive firms at
+He then asks, "was there a large population of unproductive firms at
 the end of 2019 that required systematic liquidation by once-in-a-century
 pandemic to facilitate the constructive flow of people and capital to more
 productive endeavors?" (190). This is a blatant example of cherry picking: I
@@ -317,21 +310,6 @@ tests he chose were actually irrelevant to the theory. My knowledge of the
 recent literature on creative destruction theory is inadequate to allow me to judge if
 the same is true in this case. But it would be interesting to hear from the
 advocates of the theory if they believe he has adequately tested their ideas.
-
-
-
-## An object in motion
-
-"An essential conclusion of this book is that there is nothing wrong with an
-economic expansion that requires, as its remedy, an economic contraction"
-(203).
-
-Given the problematic aspects of G's use of data in analyzing theories
-different from his own, as discussed above, this reader suspects that this was
-not the *conclusion* of his research, but instead the *assumption* he made at
-its beginning, and for which he then sought confirmatory data.
-
-
 
 
 ## Conclusion

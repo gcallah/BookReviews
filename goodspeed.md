@@ -319,12 +319,13 @@ As Steven Horwitz and I argued in our paper "Ideal types and Austrian business
 cycle theory" (ref), ABC (as well as mania theory, forest fire theory, shock
 theory, creative destruction theory, and the Keynesian theory) is an ideal
 type, which might be highly applicable, or somewhat applicable, or not
-applicable at all, in explaining any particular downturn. For example, when
+applicable at all, in explaining any particular downturn. For example (as
+mentioned above), when
 Covid spread across the globe and governments everywhere shut down businesses
 and restricted activities, only a very naïve advocate of ABC would attempt to
 explain the subsequent downturn using (primarily) that theory. (And the same
 would apply to advocates of those other theories.) In that instance, the
-downturn was quite obviously primarily due to an unexpected event (a shock)
+downturn was obviously due primarily to an unexpected event (a shock),
 combined with the government policies that were adopted in response to that
 event. (And of course, that does not imply that there could not have been
 malinvestments, one or more manias, or some excess "kindling," before Covid
@@ -348,8 +349,8 @@ some from cancer, some from car accidents, some drowning, and so on. And often
 multiple causes can result in a person's death: they might be overweight, a
 smoker, a highly stressed person, and then experience some shock that triggered
 their heart attack. Imagine concluding from the fact that heart attacks usually
-follow a shock, that therefore obesity, lack of exercise, and bad diet have
-nothing to do with heart attacks!
+follow a shock, that therefore obesity, lack of exercise, smoking, and bad diet
+have nothing to do with heart attacks!
 
 Even when seeking to understand a physical event, such as a highly destructive
 forest fire, "the" cause might be all of a recent drought, a very windy day,
@@ -358,9 +359,11 @@ management practices, the nature of the trees growing in that area, and more.
 If we then consider the further complexity added by the myriad ways in which
 millions of humans can respond to the physical situation in which they find
 themselves, it seems very foolish to search for monocausal explanations of
-complex phenomena such as recessions. Yet that is precisely what G has done.
+complex phenomena such as recessions. Yet, despite arguing against monocausal
+explanations himself, that is precisely what G has done by positing shocks as
+their sole cause.
 
-I think it is a note that well G spends a good amount of time showing that
+I think it is noteworthy that G spends a good amount of time showing that
 every recession he examines was triggered by one or more economic shocks, he
 never asks how often economic shocks do *not* trigger a recession. An interesting
 compliment to his research would be to establish some criteria for what
@@ -371,15 +374,12 @@ economies without manias, or artificial credit expansions, might adapt to such
 shocks better than those exhibiting such pathologies.
 
 
-
 Nothing in my review should be regarded a special pleading for ABC as the best
 or only explanation for all recessions: to the extent I mention it more than
 any other theory, that is only because it is the theory with which I am most
 familiar. Similarly, I discuss mania theory more often than other theories
-because it is the theory with which I am second most familiar. But as long ago
-as my 2003 paper with Roger Garrison (ref), we argued that mania theory and ABC
-could offer complementary explanations of a recession, and in my previous
-review of G I said the same about Keynesian theory. The human life-world is an
+because it is the theory with which I am second most familiar. (NOTE)
+The human life-world is an
 incredibly complex system, and I see no reason to expect that any theory
 attempting to explain some concrete historical going-on should offer us any
 more than partial enlightenment as to what occurred. G appears to disagree with
@@ -389,6 +389,14 @@ inadequate. I suggest that he is applying the sort of method that is adequate
 for analyzing simple systems, like billiard balls hitting other billiard balls,
 to vastly more complex systems, which do not reveal all of their highways and
 byways to monocausal explanations.
+
+
+NOTE:
+
+As long ago
+as my 2003 paper with Roger Garrison (ref), we argued that mania theory and ABC
+could offer complementary explanations of a recession, and in my previous
+review of G I said the same about Keynesian theory.
 
 
 ## References

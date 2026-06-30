@@ -231,11 +231,11 @@ linkage between the two economies, as we would not expect half of
 butterflies flapping in Brazil to produce some significant effect in
 Saskatchewan.
 
-G also explains the better stability of the British banking system compared to
-the American by the fact that British banks were allowed to consolidate and
+G explains the better stability of the British banking system compared to
+the American system by the fact that British banks were allowed to consolidate and
 open many branches, whereas many American banks were limited by state law to a
 single branch. These so-called "unit banks" were of course especially
-vulnerable to a crop failure, a plague of locusts in their area, or thew
+vulnerable to a regional drought, a plague of locusts in their area, or the
 closure of an important local factory.
 
 
@@ -292,45 +292,33 @@ theory that holds that the worst forest fires are often due to inadequate brush
 management by citing that one time a volcano erupted and set massive amounts of
 forest ablaze.
 
-This repeats the pattern we saw with ABC earlier: G gives the reader a quick
-summary of what he believes a theory says. Then he picks some outcome that *he*
-claims should result if the theory were true. When he doesn't find that
-outcome, he argues that the theory is therefore probably false. With ABC, the
-tests he chose were actually irrelevant to the theory. My knowledge of the
-recent literature on creative destruction theory is inadequate to allow me to judge if
-the same is true in this case. But it would be interesting to hear from the
-advocates of the theory if they believe he has adequately tested their ideas.
+As Steven Horwitz and I argued in our paper "Ideal Types and Austrian Business
+Cycle Theory" (Callahan and Horwitz 2010), ABC is best understood as a Weberian
+ideal type. It is not, unlike, for example, downward-sloping demand curves, a
+deduction from the pure logic of choice. Instead, it is a description of a
+pattern that may emerge in a certain sort of institutional setting. (And the
+same is true for mania theories, forest fire theory, shock
+theory, creative destruction theory, and the "Keynesian" theory.)
+An ideal type, however logically sound, may be highly applicable, or somewhat
+applicable, or not applicable at all, in explaining any particular going-on.
 
-
-## Conclusion
-
-
-As Steven Horwitz and I argued in our paper "Ideal types and Austrian business
-cycle theory" (ref), ABC (as well as mania theory, forest fire theory, shock
-theory, creative destruction theory, and the Keynesian theory) is an ideal
-type, which might be highly applicable, or somewhat applicable, or not
-applicable at all, in explaining any particular downturn. For example (as
-mentioned above), when
+For example (as mentioned above), when
 Covid spread across the globe and governments everywhere shut down businesses
 and restricted activities, only a very naïve advocate of ABC would attempt to
 explain the subsequent downturn using (primarily) that theory. (And the same
 would apply to advocates of those other theories.) In that instance, the
 downturn was obviously due primarily to an unexpected event (a shock),
 combined with the government policies that were adopted in response to that
-event. (And of course, that does not imply that there could not have been
-malinvestments, one or more manias, or some excess "kindling," before Covid
-hit: it would require a detailed historical investigation to sort out a
-plausible story as to what other factors might have fed into the post-Covid
-recession.)
+event.
 
-Max Weber taught us that using an ideal type help us better comprehend some
-historical happening faces two tests: first of all, the type itself must be
-internally coherent and offer a genuine explanation of what has occurred. But
-secondly, the characteristics of the type must be used to empirically test
-whether that type actually helps describe that particular situation. Obviously,
-such tests must depend, if they are to be meaningful, on an accurate
-understanding of what the ideal typing question implies. G's tests sometimes
-fail that latter qualification.
+Max Weber taught us that the claim that an ideal type helps us to better
+comprehend some historical happening must pass two tests: first of all, the type
+itself must be internally coherent and offer a plausible explanation of what has
+occurred. But secondly, the characteristics of the type must be used to
+empirically test to what degree that type is exemplified in that particular
+situation. Obviously, such tests must depend, if they are to be meaningful, on
+an accurate understanding of what the ideal typing question implies. G's tests
+sometimes fail that latter qualification.
 
 Why should we think that there is a single cause of recession? After all, we
 don't suspect that there is a single cause of, for instance, the death of

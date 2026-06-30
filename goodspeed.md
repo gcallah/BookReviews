@@ -55,9 +55,7 @@ is not a claim that prosperity must result in a crisis. It is a claim that
 setting the interest rate artificially low for an extended period of time will
 result in a crisis.
 
-## Peter Pan versus Dorian Gray
-
-G again lumps together completely different theories of the business
+G again conflates completely different theories of the business
 cycle, when he says "in the cyclical 'manic,' 'malinvestment,' or 'forest fire'
 view of recessions, the longer we have gone without a recession, the more we
 should anticipate that one is imminent" (41). Again, this is just nonsense.
@@ -66,12 +64,12 @@ Stanford and the University of Chicago, neither the malinvestment nor the manic
 theory implies any such thing. Any expansion, per the latter two theories, may
 be a genuinely sound increase in economic activity, *or* might be the result of
 an artificially low interest rate or a mania. Each case would have to be
-evaluated on its own merits. If an expansion is neither mania nor
-malinvestment based, then, per either of those theories, there is no reason to
+evaluated on its own merits. If an expansion is based neither on a mania nor
+on malinvestment, then, per either of those theories, there is no reason to
 think that a recession is imminent. And even if it were one of these "bad"
 expansions, neither theory, to my knowledge, makes any prediction as to how
 *soon* the expansion must end: they each merely say that, sooner or later, it
-will end badly. (This follows from Hayek's point that when dealing with complex
+will end badly. (This illustrates Hayek's point that when dealing with complex
 phenomena, precise numerical predictions, such as "This expansion will end in
 the third week of March," are often impossible, and we must be satisfied with
 *pattern predictions*.)
@@ -83,14 +81,6 @@ theories; however, since his entire characterization of ABC and mania theory as
 implying that *all* expansions are due to manias or malinvestments is false, the
 analogy is nonsense. (It may be more apt when used as an analogy for the forest
 fire theory.)
-
-Since G is wrong in claiming that ABC and mania theory imply that the longer an
-expansion has gone on, the higher the likelihood of an imminent recession,
-his subsequent statistical demonstration that expansions show no such
-pattern is irrelevant to evaluating those theories. (Once again, it
-may be a more valid as an argument against the forest fire theory.)
-
-## The penitent expansion
 
 In discussing the British economic crisis of 1772, G writes that "Henry
 Hamilton suggested in distinctly moral terms, 'there had been a great
@@ -109,22 +99,23 @@ will impact a large number of ventures, some sound, and some unsound. The
 Dot-Com bubble of 2001 resulted in high valuations for many tech companies that
 later proved to be sound, but also resulted in high valuations for many other
 companies that subsequently went bust. The ideal type of a bubble means that
-the valuation of a broad range of enterprises will become unrealistically high.
+the valuation of some genre of enterprises will become unrealistically high.
 It does not imply that none of those enterprises will succeed, and the
-subsequent success of some of them does not imply that there was no bubble.
+subsequent success of some of them does not demonstrate that there was no bubble.
 
-
-Similarly, in trying to show that there was no railroad stock bubble in the recession of
-the 1870s, G writes that, if there had been one, "one would logically expect to
-observe sharp spikes in railroad mileage to be followed by long plateaus of no
-new railroad mileage" (75). He then shows 
-that railroad mileage steadily increased in the United States
-from 1850 through the early 20th century. But Jay Cooke, the central character
-in G's story of that recession, built very little mileage. The purported
-bubble, in fact, could well be *illustrated* by the fact that Cooke raised an
-enormous sum of money in order to build such a paltry amount of track. A more
-accurate dataset to test whether there really was such a bubble might consist
-of the valuations of railroad stocks, not the amount of miles of track built.
+Similarly, in trying to show that there was no railroad stock bubble in the
+recession of the 1870s, G writes that, if there had been one, "one would
+logically expect to observe sharp spikes in railroad mileage to be followed by
+long plateaus of no new railroad mileage" (75). He then shows that railroad
+mileage steadily increased in the United States from 1850 through the early
+20th century. But Jay Cooke, the railroad entrepreneur and 
+central character in G's story of that
+recession, built very little mileage. The purported bubble, in fact, could well
+be *illustrated* by the fact that Cooke raised an enormous sum of money in
+order to build such a paltry amount of track. A more accurate dataset to test
+whether there really was such a bubble *might* consist of the valuations of
+railroad stocks, not the amount of miles of track built. I am not claiming that
+it *would* be better, only that G did not consider that possibility.
 
 G further attempts to prove that there was no bubble in 1871 by pointing
 to the fact that Berkshire Hathaway acquired the ultimate successor of Cooke's
@@ -135,7 +126,7 @@ have been a wise undertaking in 1871?
 
 I think an analogy might be useful here. Imagine some writer who loaded up on
 amphetamines and tried to complete three books in a month by working 20
-hours a day, but collapsed before he was able to complete any of them. If he
+hours a day, but collapsed before he was able to finsih any of them. If he
 recovered, and then completed the three books over the next few decades to
 great acclaim, it appears that G would claim that the amphetamine-fueled period
 of writing was not an unsustainable boom, since the books were eventually
@@ -147,7 +138,7 @@ the cost of investing at that time. An investment may be perfectly sound at a co
 million, given a realistic view of the time span over which profits will
 appear, but extremely imprudent at a cost of $10 million. If someone
 nevertheless invests $10 million in that enterprise, due to grossly
-underestimating the difficulty of the enterprise, goes bankrupt as a result,
+underestimating its difficulty, goes bankrupt as a result,
 sells it for half-a-million dollars, and the enterprise then succeeds over the
 next many decades, that hardly means that his initial investment was wise.
 
@@ -226,7 +217,7 @@ motion atmospheric dynamics that eventually generate large storms and quite
 distant locations" (162). But then he goes on to ask, "Is it in fact generally
 true that recessions are inherently international phenomena?" (162).
 
-But nothing about the butterfly effect means that a butterfly flap it its wings
+But nothing about the butterfly effect means that a butterfly flapping its wings
 will *necessarily* have effects that spill beyond the flower it is
 flapping around. Even in a complex system, *most* local changes will have
 primarily local effects. Butterflies flapping their wings in Brazil will

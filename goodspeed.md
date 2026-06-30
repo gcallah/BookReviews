@@ -6,7 +6,7 @@ Tyler Goodspeed
 ## Introduction
 
 Over a decade ago, I reviewed Tyler Beck Goodspeed's book, *Rethinking the
-Keynesian Revolution* (ref). I found it to be anould not allow that kin to live
+Keynesian Revolution* (ref). I found it to be an
 interesting and helpful explanation of how the macroeconomic views of Keynes
 and Hayek might be reconciled, and shown to be applicable to different sorts of
 downturns. And so I expected to gain similar insight from his new book,
@@ -24,30 +24,29 @@ noise in them, but he does not consider that possibility.
 G posits tests for what he calls "overinvestment" theories, which he takes to
 include the Austrian business cycle theory (henceforth ABC ), mania theories,
 and forest fire theories based upon his understanding that they all imply that
-expansions cause recessions. But ABC does *not* make such a claim. (Nor do most
-mania theories.)
-The claim of ABC is that expansions, *to the
-extent that they are fueled by easy credit*, cause recessions. And
+expansions cause recessions. But ABC does *not* make such a claim. (Nor do the
+mania theories I have encountered.) The claim of ABC is that expansions, *to the
+extent that they are fueled by overly easy credit*, cause recessions. And
 there is no reason that a sound expansion of the economy cannot be
-combined with an inflationary expansion. So it is nonsense to try to test this
+combined with an inflationary expansion. So one cannot test this
 theory by seeing whether the length or height of an expansion correlates with
 the length or depth of the recession that comes after.
 
-Furthermore, the ABC does not posit that there is a "natural" tendency for an
-credit-based economy to have artificial expansions of credit. Instead,
-the key idea is that central banks will sometimes act to hold the interest rate
-below the free market rate, and that decision will have unintended and
-unfortunate consequences.
+Furthermore, contra Goodspeed, ABC does not posit that there is a "natural"
+tendency for an credit-based economy to have artificial expansions of credit.
+Instead, the key idea is that central banks will sometimes act to hold the
+interest rate below the free market rate, and that decision will have
+unintended and unfortunate consequences.
 
 When Goodspeed describes Hayek's presentation at Cambridge in 1931, he quotes a
-story from volume 9 of the *Collected Works of Hayek* that was told by Joan
-Robinson, 40 years after the fact, which makes Hayek appear foolish. But
+story from the *Collected Works of Hayek* that was told by Joan
+Robinson, 40 years after the fact, and which makes Hayek appear foolish. But
 he fails to mention the paragraph immediately after, where the editor, Bruce
 Caldwell, casts doubt out on Robinson's story. The fact that, in the very
 brief space he devotes to (mis)explaining Hayek's theory, G
 chose to include this story, as well as the fact that Hayek pronounced
 "fluctuations" in a way the students found amusing, leads this reviewer to
-suspect that he shared Robinson's "mean-spirited" (Caldwell, page 25) intent.
+suspect that he shared Robinson's "mean-spirited" intent. (See Hayek 1995, pp. xx?-25)
 
 
 G then claims Wesley Clark Mitchell's statement that prosperity itself breeds
@@ -401,31 +400,17 @@ review of G I said the same about Keynesian theory.
 
 ## References
 
+- Callahan, Gene, Roger Garrison (2003)
+  "Does Austrian Business Cycle Theory Help Explain the Dot-Com Boom and Bust?"
+  *Quarterly Journal of Austrian Economics*.
+  https://doi.org/10.1007/s12113-003-1019-x.
+
+- Callahan, Gene, and Steven Horwitz (2010) "The Role of Ideal Types in
+  Austrian Business Cycle Theory." *What Is so Austrian About Austrian
+  Economics?* https://doi.org/10.1108/S1529-2134(2010)0000014013.
+
+- Hayek, F.A. (1995) *Collected Works of F.A. Hayek, Volume 9: Contra Keynes
+  and Cambridge*. Edited by Bruce Caldwell. University of Chicago Press,
+  Chicago.
 
 
-
-## Notes
-
-
-If someone says of a ne'er-do-well, "he's gonna come a cropper," it's not
-falsified as a prediction simply because the person making it cannot indicate
-what day this will happen. We often can make what Hayek referred to as "pattern
-predictions" despite not being able to make precise quantitative predictions.
-
-
-Are the central banks targets never too low?
-
-If there is any meaning to calling them "too low," then there must be some
-untoward consequences, or how else to explain the "too"? What, then, does G
-believe those consequences are?
-
-Are there ever "manias"? Again, if "mania" means anything, it means "too much
-enthusiasm for the investment potential of some commodity or service. If they
-are possible, what does G think are their ill effects?
-
-
-It is usually possible to find some datasets that appear to confirm some
-economic hypothesis: it probably would not have been put forward unless it had
-at least some plausibility. But to genuinely test a theory, one ought also to
-look for what data might conflict with the theory, and see if the theory can
-explain *why* they merely *seem* to conflict.

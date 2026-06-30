@@ -13,15 +13,15 @@ downturns. And so I expected to gain similar insight from his new book,
 *Recession*. But our expectations can prove to be overly optimistic, resulting
 in a downturn.
 
-G's first chapter claims that the various
+Goodspeed's first chapter claims that the various
 patterns different theorists have found to characterize business cycles --
 Kitchin and Juglar cycles, Kuznets swings, Kondratiev waves -- are actually
 "clustering illusions... we are mistaking for regularity what is simply a
-random distribution with chance clusters" (27). Of course, G may have mistaken
-for random distributions what are actually intricate patterns with some random
-noise in them, but he does not consider that possibility.
+random distribution with chance clusters" (27). Of course, Goodspeed may have
+mistaken for random distributions what are actually intricate patterns with
+some random noise in them, but he does not consider that possibility.
 
-G posits tests for what he calls "overinvestment" theories, which he takes to
+Goodspeed posits tests for what he calls "overinvestment" theories, which he takes to
 include the Austrian business cycle theory (henceforth ABC ), mania theories,
 and forest fire theories based upon his understanding that they all imply that
 expansions cause recessions. But ABC does *not* make such a claim. (Nor do the
@@ -49,13 +49,13 @@ chose to include this story, as well as the fact that Hayek pronounced
 suspect that he shared Robinson's "mean-spirited" intent. (See Hayek 1995, pp. xx?-25)
 
 
-G then claims Wesley Clark Mitchell's statement that prosperity itself breeds
+Goodspeed then claims Wesley Clark Mitchell's statement that prosperity itself breeds
 the crisis places him in the same company as Hayek. This is nonsense: the ABC
 is not a claim that prosperity must result in a crisis. It is a claim that
 setting the interest rate artificially low for an extended period of time will
 result in a crisis.
 
-G again conflates completely different theories of the business
+Goodspeed again conflates completely different theories of the business
 cycle, when he says "in the cyclical 'manic,' 'malinvestment,' or 'forest fire'
 view of recessions, the longer we have gone without a recession, the more we
 should anticipate that one is imminent" (41). Again, this is just nonsense.
@@ -74,7 +74,7 @@ phenomena, precise numerical predictions, such as "This expansion will end in
 the third week of March," are often impossible, and we must be satisfied with
 *pattern predictions*.)
 
-G then makes an analogy between these distinct theories which he has
+Goodspeed then makes an analogy between these distinct theories which he has
 erroneously lumped together with Oscar Wilde's story *The Picture of Dorian
 Gray*. This allows him to use some very lurid imagery to mock these
 theories; however, since his entire characterization of ABC and mania theory as
@@ -82,16 +82,16 @@ implying that *all* expansions are due to manias or malinvestments is false, the
 analogy is nonsense. (It may be more apt when used as an analogy for the forest
 fire theory.)
 
-In discussing the British economic crisis of 1772, G writes that "Henry
+In discussing the British economic crisis of 1772, Goodspeed writes that "Henry
 Hamilton suggested in distinctly moral terms, 'there had been a great
 speculative activity in 1770-71 and this contained within itself the seeds of
 collapse'" (58). However, try as I might, I cannot detect any moral terms in
 Hamilton's statement at all: instead, it appears to me to be purely economic
 analysis. What's more, even if Hamilton had been using "distinctly moral
-terms," what of it? Does G deem it *a priori* impossible that any moral analysis
+terms," what of it? Does Goodspeed deem it *a priori* impossible that any moral analysis
 of an economic event should have any relevance?
 
-G then describes how some of the speculative ventures that had been called into
+Goodspeed then describes how some of the speculative ventures that had been called into
 question with the 1771 downturn later proved to be profitable, as though that
 proved that there was no speculative bubble. But again, that evidence simply
 does not demonstrate what he wishes it to demonstrate: a speculative bubble
@@ -104,20 +104,20 @@ It does not imply that none of those enterprises will succeed, and the
 subsequent success of some of them does not demonstrate that there was no bubble.
 
 Similarly, in trying to show that there was no railroad stock bubble in the
-recession of the 1870s, G writes that, if there had been one, "one would
+recession of the 1870s, Goodspeed writes that, if there had been one, "one would
 logically expect to observe sharp spikes in railroad mileage to be followed by
 long plateaus of no new railroad mileage" (75). He then shows that railroad
 mileage steadily increased in the United States from 1850 through the early
 20th century. But Jay Cooke, the railroad entrepreneur and 
-central character in G's story of that
+central character in Goodspeed's story of that
 recession, built very little mileage. The purported bubble, in fact, could well
 be *illustrated* by the fact that Cooke raised an enormous sum of money in
 order to build such a paltry amount of track. A more accurate dataset to test
 whether there really was such a bubble *might* consist of the valuations of
 railroad stocks, not the amount of miles of track built. I am not claiming that
-it *would* be better, only that G did not consider that possibility.
+it *would* be better, only that Goodspeed did not consider that possibility.
 
-G further attempts to prove that there was no bubble in 1871 by pointing
+Goodspeed further attempts to prove that there was no bubble in 1871 by pointing
 to the fact that Berkshire Hathaway acquired the ultimate successor of Cooke's
 railroad company in the 21st-century, fourteen decades and two mergers
 involving three other railroads later: if a wise investor like Warren Buffett thought
@@ -128,7 +128,7 @@ I think an analogy might be useful here. Imagine some writer who loaded up on
 amphetamines and tried to complete three books in a month by working 20
 hours a day, but collapsed before he was able to finsih any of them. If he
 recovered, and then completed the three books over the next few decades to
-great acclaim, it appears that G would claim that the amphetamine-fueled period
+great acclaim, it appears that Goodspeed would claim that the amphetamine-fueled period
 of writing was not an unsustainable boom, since the books were eventually
 finished and turned out to be good.
 
@@ -153,7 +153,7 @@ its name in 2000.
 
 ## Oscillation or plucks
 
-G goes on to endorse Milton Friedman's "plucking model" of downturns, where,
+Goodspeed goes on to endorse Milton Friedman's "plucking model" of downturns, where,
 rather than oscillations, they are analogous to someone plucking on a taught
 string and temporarily pulling it downward. He aims to back this hypothesis by
 demonstrating that the depth of a recession is not correlated with the height
@@ -162,21 +162,21 @@ the depths of the downturn are correlated with the steepness of the recover, as
 implied by the plucking model.
 
 However, since ABC does not claim that all expansion is due to unwarranted credit
-expansion, to test ABC using G's method, one would have to estimate how much of
+expansion, to test ABC using Goodspeed's method, one would have to estimate how much of
 an expansion was sound and how much was due to easy credit.
 
 In fact, since central banks are most likely to ease when growth is anemic, one
 might possibly find that the larger a sound economic expansion was, the less
 likely the central bank was to supply easy credit. And if that turned out to be
 the case, then we would get just the lack of correlation between the height of
-an expansion and the depth of a subsequent recession that G finds. (I am *not*
+an expansion and the depth of a subsequent recession that Goodspeed finds. (I am *not*
 asserting that that is the case: test that hypothesis would require detailed
 statistical analysis based on an actual understanding of the claims of ABC.)
 
 
 ## A great deal of Ruin
 
-G hopes to show that the steep decline in the prices of Internet stocks was
+Goodspeed hopes to show that the steep decline in the prices of Internet stocks was
 only a small part of the 2001 recession by pointing out that the wealth effect
 of such a fall in asset prices will have a very small effect on consumer
 spending.
@@ -190,13 +190,13 @@ watching a crash like this makes others timid about investing: Keynes had a
 good point about investors' "animal spirits."
 
 
-In a chapter entitled "Firefighters and Arsonists," G asks how much the
+In a chapter entitled "Firefighters and Arsonists," Goodspeed asks how much the
 expanded role of government in the modern economy, both through central banking
 and welfare programs, has made downturns less severe.
 Using the Davis-Romer method for measuring the length and depth of
 contractions, and looking at peak-to-trough changes in real GDP, real
 consumption, real investment, and the unemployment rate, in both the United
-States and the United Kingdom, G concludes that there is no evidence that
+States and the United Kingdom, Goodspeed concludes that there is no evidence that
 central banking and the expanded welfare state have meliorated the frequency or
 depth of recessions. Expansions have indeed been getting longer, but that is
 part of a trend that started well before the 20th century increases in the
@@ -209,7 +209,7 @@ recession, particularly through going to war.
 ## The patriotic recession
 
 In analyzing the great recession of 2008, in which problems originating in the
-United States wound up having effects in many other countries, G brings up the
+United States wound up having effects in many other countries, Goodspeed brings up the
 butterfly effect, the idea that, in a complex system, small changes in some
 variable can have large macro effects. As he describes it, the butterfly
 metaphor means that "the gentle flapping of a butterfly's wings... can set in
@@ -225,13 +225,13 @@ rarely have any measurable effect on the weather in Saskatchewan. But in a
 complex system, every once in a while the introduction of a tiny change in some
 variable will generate such large and unpredictable macro effects.
 
-G goes on to show that in only half U.S. recessions did a recession in the U.K.
+Goodspeed goes on to show that in only half U.S. recessions did a recession in the U.K.
 occur at roughly the same time. This actually shows a significant degree of
 linkage between the two economies, as we would not expect half of
 butterflies flapping in Brazil to produce some significant effect in
 Saskatchewan.
 
-G explains the better stability of the British banking system compared to
+Goodspeed explains the better stability of the British banking system compared to
 the American system by the fact that British banks were allowed to consolidate and
 open many branches, whereas many American banks were limited by state law to a
 single branch. These so-called "unit banks" were of course especially
@@ -253,19 +253,19 @@ evidence against the Schumpeterians.
 But is it really? Perhaps most of the
 "rottenness" during an expansion accumulates precisely in the many new firms
 that get funding despite the fact that their business prospects are not really
-very good. If so, then the data G cites would support, rather than refute, the
+very good. If so, then the data Goodspeed cites would support, rather than refute, the
 creative destruction theories. And, once again, I am not claiming that this is
-the case. I am only pointing out that G apparently never considered the
+the case. I am only pointing out that Goodspeed apparently never considered the
 possibility. Anxious to falsify theories of recession he doesn't like, he has
 paid inadequate attention to what might falsify his own conclusions.
 
-G further claims that "If there is cleansing and reallocation that occurs
+Goodspeed further claims that "If there is cleansing and reallocation that occurs
 during recessions, then would be expect to observe that a sector whose share of
 the economy had risen above (or fallen below) it's long-term trend during the
 proceeding expansion should subsequently experience a large contraction (or
 expansion) of it share of the economy during the succeeding recession" (185).
 Well, *would* we expect that? Is that what any of the adherents of the creative
-destruction theory of recessions have claimed we should see? If so, G offers no
+destruction theory of recessions have claimed we should see? If so, Goodspeed offers no
 evidence of the fact.
 
 He goes on to argue that the deviation below trend for residential investment
@@ -287,7 +287,7 @@ productive endeavors?" (190). This is a blatant example of cherry picking: I
 doubt there is a single intelligent advocate of ABC, mania theory, forest fire
 theory, creative destruction theory, or Keynesian theory, who would regard
 *that* particular recession as due to anything other than the pandemic and the
-policies adopted in response to it. It is as though G is trying to refute a
+policies adopted in response to it. It is as though Goodspeed is trying to refute a
 theory that holds that the worst forest fires are often due to inadequate brush
 management by citing that one time a volcano erupted and set massive amounts of
 forest ablaze.
@@ -317,8 +317,8 @@ itself must be internally coherent and offer a plausible explanation of what has
 occurred. But secondly, the characteristics of the type must be used to
 empirically test to what degree that type is exemplified in that particular
 situation. Obviously, such tests must depend, if they are to be meaningful, on
-an accurate understanding of what the ideal typing question implies. G's tests
-too often fail that latter qualification.
+an accurate understanding of what the ideal typing question implies.
+Goodspeed's tests too often fail that latter qualification.
 
 Why should we think that there is a single cause of recession? After all, we
 don't suspect that there is a single cause of, for instance, the death of
@@ -328,16 +328,16 @@ multiple causes can result in a person's death: they might be overweight, a
 smoker, a highly stressed person, and then experience some shock that triggered
 their heart attack. Imagine concluding from the fact that heart attacks usually
 follow a shock, that therefore obesity, lack of exercise, smoking, and bad diet
-have nothing to do with the cause of heart attacks!
+have nothing to do with their incidence.
 
 If we then consider the further complexity added by the myriad ways in which
 millions of humans can respond to the physical situation in which they find
 themselves, it seems very foolish to search for monocausal explanations of
 complex phenomena such as recessions. Yet, despite arguing against monocausal
-explanations himself, that is precisely what G has done by positing shocks as
+explanations himself, that is precisely what Goodspeed has done by positing shocks as
 the sole cause of recessions.
 
-I think it is noteworthy that G spends a good amount of time showing that
+I think it is noteworthy that Goodspeed spends a good amount of time showing that
 every recession he examines was triggered by one or more economic shocks, he
 never asks how often economic shocks do *not* trigger a recession. An interesting
 compliment to his research would be to establish some criteria for what
@@ -356,7 +356,7 @@ because it is the theory with which I am second most familiar. (NOTE)
 The human life-world is an
 incredibly complex system, and I see no reason to expect that any theory
 attempting to explain some concrete historical going-on should offer us any
-more than partial enlightenment as to what occurred. G appears to disagree with
+more than partial enlightenment as to what occurred. Goodspeed appears to disagree with
 me here: if a theory does not completely explain every single instance of some
 set of similar occurrences in the data that he looks at, that theory is
 inadequate. I suggest that he is applying the sort of method that is adequate
@@ -370,7 +370,7 @@ NOTE:
 As long ago
 as my 2003 paper with Roger Garrison (ref), we argued that mania theory and ABC
 could offer complementary explanations of a recession, and in my previous
-review of G I said the same about Keynesian theory.
+review of Goodspeed I said the same about Keynesian theory.
 
 
 ## References

@@ -318,7 +318,7 @@ occurred. But secondly, the characteristics of the type must be used to
 empirically test to what degree that type is exemplified in that particular
 situation. Obviously, such tests must depend, if they are to be meaningful, on
 an accurate understanding of what the ideal typing question implies. G's tests
-sometimes fail that latter qualification.
+too often fail that latter qualification.
 
 Why should we think that there is a single cause of recession? After all, we
 don't suspect that there is a single cause of, for instance, the death of
@@ -328,18 +328,14 @@ multiple causes can result in a person's death: they might be overweight, a
 smoker, a highly stressed person, and then experience some shock that triggered
 their heart attack. Imagine concluding from the fact that heart attacks usually
 follow a shock, that therefore obesity, lack of exercise, smoking, and bad diet
-have nothing to do with heart attacks!
+have nothing to do with the cause of heart attacks!
 
-Even when seeking to understand a physical event, such as a highly destructive
-forest fire, "the" cause might be all of a recent drought, a very windy day,
-carelessness on the part of a camper cooking some hotdogs, poor forestry
-management practices, the nature of the trees growing in that area, and more.
 If we then consider the further complexity added by the myriad ways in which
 millions of humans can respond to the physical situation in which they find
 themselves, it seems very foolish to search for monocausal explanations of
 complex phenomena such as recessions. Yet, despite arguing against monocausal
 explanations himself, that is precisely what G has done by positing shocks as
-their sole cause.
+the sole cause of recessions.
 
 I think it is noteworthy that G spends a good amount of time showing that
 every recession he examines was triggered by one or more economic shocks, he

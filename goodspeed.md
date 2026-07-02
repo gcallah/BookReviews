@@ -1,9 +1,10 @@
 # Recession: The Real Reason Economies Shrink and What to Do About It 
 
 Tyler Goodspeed
+2026
+Hachette Book Group: New York
+310 pages
 
-
-## Introduction
 
 Over a decade ago, I reviewed Tyler Beck Goodspeed's book, *Rethinking the
 Keynesian Revolution* (ref). I found it to be an
@@ -151,7 +152,6 @@ its name in 2000.
 
 
 
-## Oscillation or plucks
 
 Goodspeed goes on to endorse Milton Friedman's "plucking model" of downturns, where,
 rather than oscillations, they are analogous to someone plucking on a taught
@@ -174,7 +174,6 @@ asserting that that is the case: test that hypothesis would require detailed
 statistical analysis based on an actual understanding of the claims of ABC.)
 
 
-## A great deal of Ruin
 
 Goodspeed hopes to show that the steep decline in the prices of Internet stocks was
 only a small part of the 2001 recession by pointing out that the wealth effect
@@ -206,7 +205,6 @@ recession, particularly through going to war.
 
 
 
-## The patriotic recession
 
 In analyzing the great recession of 2008, in which problems originating in the
 United States wound up having effects in many other countries, Goodspeed brings up the
@@ -239,7 +237,6 @@ vulnerable to a regional drought, a plague of locusts in their area, or the
 closure of an important local factory.
 
 
-## Purge the rottenness
 
 
 G, predictably, does not much like Joseph Schumpeter's idea (endorsed recently

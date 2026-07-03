@@ -171,17 +171,15 @@ asserting that that is the case: test that hypothesis would require detailed
 statistical analysis based on an actual understanding of the claims of ABCT.)
 
 Goodspeed hopes to show that the steep decline in the prices of Internet stocks was
-only a small part of the 2001 recession by pointing out that the wealth effect
-of such a fall in asset prices will have a very small effect on consumer
-spending.
-But why look at only the wealth effect of the bursting of the Dot-Com
-bubble? (And yes, I will unashamedly continue to refer to it as a bubble.) In
-addition to the decline in the NASDAQ index, hundreds of Internet companies
-went out of business, throwing over a hundred thousand of employees out of
-work. And of course, those employees had been supporting local coffee shops,
-and dry cleaners, and landscapers, and bars, and so on. Furthermore,
-watching a crash like this makes others timid about investing: Keynes had a
-good point about investors' "animal spirits."
+only a small part of the 2001 recession by highlighting research showing that
+the wealth effect of such a fall in asset prices will have a very small effect
+on consumer spending.  But why look at only the wealth effect of the bursting
+of the Dot-Com bubble? In addition to the decline in the NASDAQ index, hundreds
+of Internet companies went out of business, throwing over a hundred thousand
+employees out of work. And of course, those employees had been supporting local
+coffee shops, and dry cleaners, and landscapers, and bars, and so on.
+Furthermore, watching a crash like this makes others timid about investing:
+Keynes had a good point about investors' "animal spirits."
 
 
 In a chapter entitled "Firefighters and Arsonists," Goodspeed asks how much the
@@ -247,7 +245,7 @@ But is it really? Perhaps most of the
 that get funding despite the fact that their business prospects are not really
 very good. If so, then the data Goodspeed cites would support, rather than refute, the
 creative destruction theories. And, once again, I am not claiming that this is
-the case. I am only pointing out that Goodspeed apparently never considered the
+the case. I am only pointing out that Goodspeed never considered the
 possibility. Anxious to falsify theories of recession he doesn't like, he has
 paid inadequate attention to what might falsify his own conclusions.
 
@@ -260,29 +258,17 @@ Well, *would* we expect that? Is that what any of the adherents of the creative
 destruction theory of recessions have claimed we should see? If so, Goodspeed offers no
 evidence of the fact.
 
-He goes on to argue that the deviation below trend for residential investment
-in the recession of the early 1980s could not represent a correction, because
-"residential investment had already been below trend at the end of the
-expansion proceeding the 1981–82 recession, so the recession was hardly
-correcting for prior excess allocation" (187). This argument simply treats an
-historical trend as though it were some sort of norm, so that investment below
-that trend could not possibly be too high. However, as the facts on the ground
-change, investment in line with or even below an historical trend may easily prove
-to be still too high: the litmus test for investments is not whether they
-conform to some past line on a graph, but whether they will turn out to be
-profitable.
-
-He then asks, "was there a large population of unproductive firms at
+Goodspeed then asks, "was there a large population of unproductive firms at
 the end of 2019 that required systematic liquidation by once-in-a-century
 pandemic to facilitate the constructive flow of people and capital to more
 productive endeavors?" (190). This is a blatant example of cherry picking: I
 doubt there is a single intelligent advocate of ABCT, mania theory, forest fire
 theory, creative destruction theory, or Keynesian theory, who would regard
-*that* particular recession as due to anything other than the pandemic and the
-policies adopted in response to it. It is as though Goodspeed is trying to refute a
-theory that holds that the worst forest fires are often due to inadequate brush
-management by citing that one time a volcano erupted and set massive amounts of
-forest ablaze.
+*that* particular recession as (at least primarily) due to anything other than
+the pandemic and the policies adopted in response to it. It is as though
+Goodspeed is trying to refute a theory that holds that the worst forest fires
+are often due to inadequate brush management by citing that one time a volcano
+erupted and set massive amounts of forest ablaze.
 
 As Steven Horwitz and I argued in our paper "Ideal Types and Austrian Business
 Cycle Theory" (Callahan and Horwitz 2010), ABCT is best understood as a Weberian
@@ -294,33 +280,25 @@ theory, creative destruction theory, and the "Keynesian" theory.)
 An ideal type, however logically sound, may be highly applicable, or somewhat
 applicable, or not applicable at all, in explaining any particular going-on.
 
-For example (as mentioned above), when
-Covid spread across the globe and governments everywhere shut down businesses
-and restricted activities, only a very naïve advocate of ABCT would attempt to
-explain the subsequent downturn using (primarily) that theory. (And the same
-would apply to advocates of those other theories.) In that instance, the
-downturn was obviously due primarily to an unexpected event (a shock),
-combined with the government policies that were adopted in response to that
-event.
-
 Max Weber taught us that the claim that an ideal type helps us to better
 comprehend some historical happening must pass two tests: first of all, the type
 itself must be internally coherent and offer a plausible explanation of what has
 occurred. But secondly, the characteristics of the type must be used to
 empirically test to what degree that type is exemplified in that particular
-situation. Obviously, such tests must depend, if they are to be meaningful, on
+situation. Obviously, such tests depend, if they are to be meaningful, on
 an accurate understanding of what the ideal typing question implies.
 Goodspeed's tests too often fail that latter qualification.
 
-Why should we think that there is a single cause of recession? After all, we
+And why should we think that there is a single cause of recessions? After all, we
 don't suspect that there is a single cause of, for instance, the death of
 people. We are quite satisfied in thinking some people die from gunshot wounds,
 some from cancer, some from car accidents, some drowning, and so on. And often
-multiple causes can result in a person's death: they might be overweight, a
-smoker, a highly stressed person, and then experience some shock that triggered
-their heart attack. Imagine concluding from the fact that heart attacks usually
-follow a shock, that therefore obesity, lack of exercise, smoking, and bad diet
-have nothing to do with their incidence.
+even a single person's demise might be from multiple causes: they might be
+overweight, a smoker, highly stressed, and then experience some shock
+that was the straw that broke the camel's back.
+Imagine concluding from the fact that heart attacks usually follow a shock,
+that therefore obesity, lack of exercise, smoking, and bad diet have nothing to
+do with their incidence.
 
 If we then consider the further complexity added by the myriad ways in which
 millions of humans can respond to the physical situation in which they find
@@ -349,7 +327,7 @@ The human life-world is an
 incredibly complex system, and I see no reason to expect that any theory
 attempting to explain some concrete historical going-on should offer us any
 more than partial enlightenment as to what occurred. Goodspeed appears to disagree with
-me here: if a theory does not completely explain every single instance of some
+me here: if a theory does not explain every instance of some
 set of similar occurrences in the data that he looks at, that theory is
 inadequate. I suggest that he is applying the sort of method that is adequate
 for analyzing simple systems, like billiard balls hitting other billiard balls,

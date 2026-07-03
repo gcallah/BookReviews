@@ -96,7 +96,7 @@ of an economic event should have any relevance?
 Goodspeed then describes how some of the speculative ventures that had been called into
 question with the 1771 downturn later proved to be profitable, as though that
 proved that there was no speculative bubble. But again, that evidence simply
-does not demonstrate what he wishes it to demonstrate: a speculative bubble
+does not demonstrate what he wishes it did: a speculative bubble
 will impact a large number of ventures, some sound, and some unsound. The
 Dot-Com bubble of 2001 resulted in high valuations for many tech companies that
 later proved to be sound, but also resulted in high valuations for many other
@@ -108,7 +108,7 @@ subsequent success of some of them does not demonstrate that there was no bubble
 Similarly, in trying to show that there was no railroad stock bubble in the
 recession of the 1870s, Goodspeed writes that, if there had been one, "one would
 logically expect to observe sharp spikes in railroad mileage to be followed by
-long plateaus of no new railroad mileage" (75). He then shows that railroad
+long plateaus of no new railroad mileage" (75). He then shows that instead, railroad
 mileage steadily increased in the United States from 1850 through the early
 20th century. But Jay Cooke, the railroad entrepreneur and 
 central character in Goodspeed's story of that
@@ -116,8 +116,7 @@ recession, built very little mileage. The purported bubble, in fact, could well
 be *illustrated* by the fact that Cooke raised an enormous sum of money in
 order to build such a paltry amount of track. A more accurate dataset to test
 whether there really was such a bubble *might* consist of the valuations of
-railroad stocks, not the amount of miles of track built. I am not claiming that
-it *would* be better, only that Goodspeed did not consider that possibility.
+railroad stocks, not the amount of miles of track built.
 
 Goodspeed further attempts to prove that there was no bubble in 1871 by pointing
 to the fact that Berkshire Hathaway acquired the ultimate successor of Cooke's

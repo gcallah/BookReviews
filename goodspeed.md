@@ -1,9 +1,9 @@
 # Recession: The Real Reason Economies Shrink and What to Do About It 
 
-Tyler Goodspeed
-2026
-Hachette Book Group: New York
-310 pages
+Tyler Goodspeed  
+2026  
+Hachette Book Group: New York  
+310 pages  
 
 
 Over a decade ago, I reviewed Tyler Beck Goodspeed's book, *Rethinking the
@@ -23,23 +23,24 @@ mistaken for random distributions what are actually intricate patterns with
 some random noise in them, but he does not consider that possibility.
 
 Goodspeed posits tests for what he calls "overinvestment" theories, which he takes to
-include the Austrian business cycle theory (henceforth ABC ), mania theories,
+include the Austrian business cycle theory (henceforth ABCT), mania theories,
 and forest fire theories based upon his understanding that they all imply that
-expansions cause recessions. But ABC does *not* make such a claim. (Nor do the
-mania theories I have encountered.) The claim of ABC is that expansions, *to the
+expansions cause recessions. But ABCT does *not* make such a claim. (Nor do the
+mania theories I have encountered.) The claim of ABCT is that expansions, *to the
 extent that they are fueled by overly easy credit*, cause recessions. And
-there is no reason that a sound expansion of the economy cannot be
-combined with an inflationary expansion. So one cannot test this
+there is no reason that any particular expansion cannot be
+a combination of sound and inflationary. So one cannot test this
 theory by seeing whether the length or height of an expansion correlates with
 the length or depth of the recession that comes after.
 
-Furthermore, contra Goodspeed, ABC does not posit that there is a "natural"
+Furthermore, contra Goodspeed, ABCT does not posit that there is a "natural"
 tendency for an credit-based economy to have artificial expansions of credit.
 Instead, the key idea is that central banks will sometimes act to hold the
 interest rate below the free market rate, and that decision will have
 unintended and unfortunate consequences.
 
-When Goodspeed describes Hayek's presentation at Cambridge in 1931, he quotes a
+In introducing ABCT, Goodspeed discusses F.A. Hayek very briefly.
+When Goodspeed describes Hayek's 1931 presentation at Cambridge, he quotes a
 story from the *Collected Works of Hayek* that was told by Joan
 Robinson, 40 years after the fact, and which makes Hayek appear foolish. But
 he fails to mention the paragraph immediately after, where the editor, Bruce
@@ -51,7 +52,7 @@ suspect that he shared Robinson's "mean-spirited" intent. (See Hayek 1995, pp. x
 
 
 Goodspeed then claims Wesley Clark Mitchell's statement that prosperity itself breeds
-the crisis places him in the same company as Hayek. This is nonsense: the ABC
+crises places him in the same company as Hayek. This is nonsense: ABCT
 is not a claim that prosperity must result in a crisis. It is a claim that
 setting the interest rate artificially low for an extended period of time will
 result in a crisis.
@@ -59,9 +60,9 @@ result in a crisis.
 Goodspeed again conflates completely different theories of the business
 cycle, when he says "in the cyclical 'manic,' 'malinvestment,' or 'forest fire'
 view of recessions, the longer we have gone without a recession, the more we
-should anticipate that one is imminent" (41). Again, this is just nonsense.
+should anticipate that one is imminent" (41). Again, this is plain wrong.
 While it may be true of the forest fire view, which was recently developed at
-Stanford and the University of Chicago, neither the malinvestment nor the manic
+Stanford and the University of Chicago, neither the malinvestment nor the mania
 theory implies any such thing. Any expansion, per the latter two theories, may
 be a genuinely sound increase in economic activity, *or* might be the result of
 an artificially low interest rate or a mania. Each case would have to be
@@ -75,19 +76,19 @@ phenomena, precise numerical predictions, such as "This expansion will end in
 the third week of March," are often impossible, and we must be satisfied with
 *pattern predictions*.)
 
-Goodspeed then makes an analogy between these distinct theories which he has
-erroneously lumped together with Oscar Wilde's story *The Picture of Dorian
+Goodspeed then makes an analogy between these distinct theories 
+and Oscar Wilde's story *The Picture of Dorian
 Gray*. This allows him to use some very lurid imagery to mock these
-theories; however, since his entire characterization of ABC and mania theory as
-implying that *all* expansions are due to manias or malinvestments is false, the
-analogy is nonsense. (It may be more apt when used as an analogy for the forest
+theories; however, since his entire characterization of ABCT and mania theory as
+implying that *all* expansions are due to malinvestments or manias is false, the
+analogy is strained. (It may be more apt when used as an analogy for the forest
 fire theory.)
 
 In discussing the British economic crisis of 1772, Goodspeed writes that "Henry
-Hamilton suggested in distinctly moral terms, 'there had been a great
+Hamilton suggested in distinctly moral terms, 'there had been a good deal of
 speculative activity in 1770-71 and this contained within itself the seeds of
-collapse'" (58). However, try as I might, I cannot detect any moral terms in
-Hamilton's statement at all: instead, it appears to me to be purely economic
+collapse'" (58). However, I cannot detect any moral terms in
+Hamilton's statement: instead, it appears to me to be purely financial
 analysis. What's more, even if Hamilton had been using "distinctly moral
 terms," what of it? Does Goodspeed deem it *a priori* impossible that any moral analysis
 of an economic event should have any relevance?
@@ -150,9 +151,6 @@ made sense to throw massive amounts of investment at any company with "Dot-Com"
 its name in 2000.
 
 
-
-
-
 Goodspeed goes on to endorse Milton Friedman's "plucking model" of downturns, where,
 rather than oscillations, they are analogous to someone plucking on a taught
 string and temporarily pulling it downward. He aims to back this hypothesis by
@@ -161,8 +159,8 @@ of the previous expansion (as he argues the oscillation model implies) but that
 the depths of the downturn are correlated with the steepness of the recover, as
 implied by the plucking model.
 
-However, since ABC does not claim that all expansion is due to unwarranted credit
-expansion, to test ABC using Goodspeed's method, one would have to estimate how much of
+However, since ABCT does not claim that all expansion is due to unwarranted credit
+expansion, to test ABCT using Goodspeed's method, one would have to estimate how much of
 an expansion was sound and how much was due to easy credit.
 
 In fact, since central banks are most likely to ease when growth is anemic, one
@@ -171,9 +169,7 @@ likely the central bank was to supply easy credit. And if that turned out to be
 the case, then we would get just the lack of correlation between the height of
 an expansion and the depth of a subsequent recession that Goodspeed finds. (I am *not*
 asserting that that is the case: test that hypothesis would require detailed
-statistical analysis based on an actual understanding of the claims of ABC.)
-
-
+statistical analysis based on an actual understanding of the claims of ABCT.)
 
 Goodspeed hopes to show that the steep decline in the prices of Internet stocks was
 only a small part of the 2001 recession by pointing out that the wealth effect
@@ -281,7 +277,7 @@ He then asks, "was there a large population of unproductive firms at
 the end of 2019 that required systematic liquidation by once-in-a-century
 pandemic to facilitate the constructive flow of people and capital to more
 productive endeavors?" (190). This is a blatant example of cherry picking: I
-doubt there is a single intelligent advocate of ABC, mania theory, forest fire
+doubt there is a single intelligent advocate of ABCT, mania theory, forest fire
 theory, creative destruction theory, or Keynesian theory, who would regard
 *that* particular recession as due to anything other than the pandemic and the
 policies adopted in response to it. It is as though Goodspeed is trying to refute a
@@ -290,7 +286,7 @@ management by citing that one time a volcano erupted and set massive amounts of
 forest ablaze.
 
 As Steven Horwitz and I argued in our paper "Ideal Types and Austrian Business
-Cycle Theory" (Callahan and Horwitz 2010), ABC is best understood as a Weberian
+Cycle Theory" (Callahan and Horwitz 2010), ABCT is best understood as a Weberian
 ideal type. It is not, unlike, for example, downward-sloping demand curves, a
 deduction from the pure logic of choice. Instead, it is a description of a
 pattern that may emerge in a certain sort of institutional setting. (And the
@@ -301,7 +297,7 @@ applicable, or not applicable at all, in explaining any particular going-on.
 
 For example (as mentioned above), when
 Covid spread across the globe and governments everywhere shut down businesses
-and restricted activities, only a very naïve advocate of ABC would attempt to
+and restricted activities, only a very naïve advocate of ABCT would attempt to
 explain the subsequent downturn using (primarily) that theory. (And the same
 would apply to advocates of those other theories.) In that instance, the
 downturn was obviously due primarily to an unexpected event (a shock),
@@ -345,7 +341,7 @@ economies without manias, or artificial credit expansions, might adapt to such
 shocks better than those exhibiting such pathologies.
 
 
-Nothing in my review should be regarded a special pleading for ABC as the best
+Nothing in my review should be regarded a special pleading for ABCT as the best
 or only explanation for all recessions: to the extent I mention it more than
 any other theory, that is only because it is the theory with which I am most
 familiar. Similarly, I discuss mania theory more often than other theories
@@ -364,10 +360,9 @@ byways to monocausal explanations.
 
 NOTE:
 
-As long ago
-as my 2003 paper with Roger Garrison (ref), we argued that mania theory and ABC
-could offer complementary explanations of a recession, and in my previous
-review of Goodspeed I said the same about Keynesian theory.
+As long ago as my 2003 paper with Roger Garrison (ref), we argued that mania
+theory and ABCT could offer complementary explanations of a recession, and in
+my previous review of Goodspeed I said the same about Keynesian theory.
 
 
 ## References

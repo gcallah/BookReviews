@@ -307,7 +307,7 @@ complex phenomena such as recessions. Yet, despite arguing against monocausal
 explanations himself, that is precisely what Goodspeed has done by positing shocks as
 the sole cause of recessions.
 
-I think it is noteworthy that Goodspeed spends a good amount of time showing that
+I think it is noteworthy that while Goodspeed spends a good amount of time showing that
 every recession he examines was triggered by one or more economic shocks, he
 never asks how often economic shocks do *not* trigger a recession. An interesting
 compliment to his research would be to establish some criteria for what
@@ -352,6 +352,10 @@ my previous review of Goodspeed I said the same about Keynesian theory.
 - Callahan, Gene, and Steven Horwitz (2010) "The Role of Ideal Types in
   Austrian Business Cycle Theory." *What Is so Austrian About Austrian
   Economics?* https://doi.org/10.1108/S1529-2134(2010)0000014013.
+
+- Callahan, G. (2013). Rethinking the Keynesian Revolution: Keynes, Hayek, and
+  the Wicksell Connection. Review of Political Economy, 25(4), 682–685.
+  https://doi.org/10.1080/09538259.2013.837322
 
 - Hayek, F.A. (1995) *Collected Works of F.A. Hayek, Volume 9: Contra Keynes
   and Cambridge*. Edited by Bruce Caldwell. University of Chicago Press,

@@ -7,8 +7,8 @@ Camus in his short story "The Artist at Work," from his book *Exile and the
 Kingdom*. The artist frequently paints in his garret while a group of his
 friends socialize below him, torn between his desire to be with his friends and
 to create his art. One day, when he fails to come down from the garret as
-expected, his friends climb up, only to find him in his chair. Before him is a
-painting, the canvas bearing just a single word. But the friends cannot tell if
+expected, his friends climb up, only to find him dead in his chair. Before him is a
+canvas bearing just a single, painted word. But the friends cannot tell if
 what he painted was "solitary" or "solidary."
 
 The parable that gave the book its title is from the Gospel of Luke: A single
@@ -26,10 +26,8 @@ knows and cares for each of the other ninety-nine individually." (12)
 That is all well and good, but it does nothing to resolve the puzzle Burgis
 presented us with two pages earlier: it is still the case that the shepherd
 risked a pack of wolves descending on the rest of his flock while he was away
-looking for the one lost sheep. The author has offered us no explanation of why
-this was a sensible decision.  One cannot resolve a dilemma by wishing it away.
-
-In any case, that puzzle leads him to the book's premise: 
+looking for the one lost sheep. One cannot resolve a dilemma by wishing it
+away. In any case, that puzzle leads him to the book's premise: 
 
 "Each of us is torn between belonging and differentiation, and few ever learn to
 manage that tension. We might not even realize it exists. Once we become aware
@@ -41,19 +39,19 @@ vulnerable to social contagion and peer pressure. And, he adds, this problem has
 been made much worse by social media. 
 
 His solution to this problem is to develop what he calls a "solid self," as
-opposed to a "pseudo-self." Well, the intention behind this distinction is
-good... He wants us to have a firm sense of our values, so that we cannot be
+opposed to a "pseudo-self." While the intention behind this distinction is
+good -- He wants us to have a firm sense of our values, so that we cannot be
 lured into bad choices by the weight of opinion of those we were with at the
-time... I find the terminology a little bit odd. After all, Jesus told us
+time -- I find the terminology a little bit odd. After all, Jesus told us
 "Whoever wants to be my disciple must deny themselves and take up their cross
 and follow me." That does not sound like they are making a more "solid self."
-And Saint Augustine told us to give up the amor sui and instead live with amor
-dei. The teachings of the Buddha were similar in this regard, and, as Leonard
+And Saint Augustine told us to surrender our *amor sui* and instead embrace *amor
+dei*. The teachings of the Buddha were similar in this regard. As Leonard
 Cohen put it, the light gets in through the cracks.
 
-Of course, Burgis does not mean that we should create a "solid self" by becoming
-totally self-absorbed and stoking our own ego, but that is why I doubt that was
-the best term for what he wished to designate.
+Of course, Burgis does not mean that we should create a "solid self" by
+erecting an impenetrable barrier around our ego. But that is why I doubt "solid
+self" was the best term for what he wished to designate.
 
 Burgis then introduces the idea of a "value response." He posits a hierarchy of
 importance, where some of our actions may aim at some end because it is
@@ -86,7 +84,7 @@ only "hold up" values that serve its end of saving souls?
 Burgis includes a little table demonstrating the transformation, across seven
 realms, of how they search for quick hits of dopamine have come to dominate our
 behavior. For instance, whereas in traditional culture, one would play a sport,
-I gradually became more common to watch a sport, and finally, to continually
+it gradually became more common to watch a sport, and finally, to continually
 gamble on a sport, with the ability to place bets online on things like whether
 Ohtani will hit a home run this next at-bat.
 
@@ -97,7 +95,7 @@ shape in emotional triangles. The smallest stable unit is never two people, but
 three." (54) Now, I don't doubt that it is usually possible to analyze family
 dynamics in terms of triangles. But is analysis in terms of triangles always
 more fundamental than binary analysis, or analysis in terms of rectangular or
-pentangularc relationships?
+pentangular relationships?
 
 In any case,  Burgis makes the plausible case that to achieve differentiation in
 social situations in general, we first must achieve it in the context of our
@@ -107,24 +105,26 @@ After a pitch for anti-schooling, including homeschooling and schools based more
 on concrete activities than abstract learning, Burgis goes on to discuss the
 impact of technology on self-formation. He lists three pathologies of our
 digital life:
+
 1. Counterfeit rites of passage, such as adolescents' initiation into the world
- of sex through pornography. 
+   of sex through pornography. 
+
 2. *Curiositas*, which is not mere curiosity, but a disordered love of
- gorging upon more and more information and content, without any concern as to
- whether the object of *curiositas* is in any way helpful or useful. An
- example would be scrolling through endless gossip posts on social media. 
-3. Acedia. (Which he curiously calls "an ancient spiritual disease," as if it
- isn't more prevalent today as ever.) Acedia is exacerbated by technology that
- makes us feel restless and dissatisfied with how slowly things move in the
- non-digital world.
+   gorging upon more and more information and content, without any concern as to
+   whether the object of *curiositas* is in any way helpful or useful. An
+   example would be scrolling through endless gossip posts on social media. 
+
+3. *Acedia* (roughly, restlessness), which is exacerbated by technology that
+   makes us feel restless and dissatisfied with how slowly things move in the
+   non-digital world.
 
 As medicine for these ills, Burgis recommends genuine rites of passage,
 *studiositas* as a replacement for curiositas, and leisure (in the sense
 Josef Pieper used the term) to combat Acedia,  all sound recommendations.
 
-Turning to politics, Burgis declares that today, it "functions like a
+Turning to politics, Burgis declares that today, politics "functions like a
 dysfunctional family." Because of the greatly increased partisanship of
-today's politics, many people form their political opinions based upon what
+today's world, many people form their political opinions based upon what
 will gain approval from whatever partisan group they belong to. In Burgis'
 terms, this tendency reinforces the "pseudo-self."
 
@@ -141,11 +141,11 @@ the experience. This is, indeed, a useful way to differentiate cults from
 genuine religions: cults are a sort of spiritual cul-de-sac, while genuine
 religions continually open us up to the transcendent. 
 
-Finally, Burgis takes up art. He says that "great art emerges from love,
+Then Burgis addresses art. He says that "great art emerges from love,
 resists the logic of virality, and aims at the timeless." He offers us
 Ornette Coleman as an example of an artist who would not conform to the
-strictures of the jazz forms to which he was supposed to conform, but instead
-continually aimed at the timeless.
+strictures of the prevalent jazz forms, but instead continually aimed at the
+timeless.
 
 Burgis discusses the rule of St. Benedict as a way of organizing communal
 life to avoid some of the pitfalls he has outlined. He is on solid ground in
@@ -169,13 +169,9 @@ personal computers were already pretty widespread.  At another point, four
 critiques of technology are introduced, including Heidegger's... but then
 they don't ever seem to be mentioned again. So why bring them up? Diogenes
 masturbating in public is introduced as though it were some sort of bold act,
-creating a "solid self," rather than merely being creepy. Burgis writes that
-"before AI," the trend towards working from home was already well underway,
-but "AI" has existed since about 1959. (AI is a marketing term, rather than
-any actual analytical category of software, but the hype around it began
-decades ago.)
+creating a "solid self," rather than merely being creepy.
 
-Nevertheless, this is a book worth reading. It is filled with interesting
+Nevertheless, this book is worth reading. It is filled with interesting
 insights, and good recommendations for how we might alleviate our current
 malaise. But I think it could have been an even better book, if only it had
 taken more time to find its solid self. 

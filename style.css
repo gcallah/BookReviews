@@ -309,7 +309,6 @@ body.home {
     background: var(--card);
     border: 1px solid var(--rule);
     box-shadow: 0 10px 25px rgba(60, 40, 20, .25);
-    transform: rotate(-2deg);
 }
 
 .home figure.plate img {
@@ -325,6 +324,12 @@ body.home {
     font-style: italic;
     text-align: center;
     color: var(--ink-soft);
+}
+
+.home figure.plate figcaption small {
+    display: block;
+    font-size: .75rem;
+    font-style: normal;
 }
 
 .home main {

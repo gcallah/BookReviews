@@ -1,667 +1,895 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Book reviews by Gene Callahan in philosophy, economics, history, politics, and computing.">
+        <link rel="icon" href="favicon.svg" type="image/svg+xml">
         <link href="style.css" rel="stylesheet" type="text/css"/>
         <title>
             Book Reviews
         </title>
     </head>
 
-    <body>
-        <div style="text-align:center">
-            <p>
-            <img
-             src="ParisBookStall.jpg"
-             height="213"
-             width="320">
-            </p>
-        </div>
-        <h1>
-            Gene Callahan: Book Reviews
-        </h1>
+    <body class="home">
+        <div class="shelf" role="presentation"></div>
 
-        <ul>
-                <li>
-                    Tyler Goodspeed,
-                    <i>Recession</i>,
-                    forthcoming,
-                    <i>The Review of Austrian Economics</i>.
-                </li>
-                <li>
-                    Christopher J. Coyne and Abigail R. Hall,
-                    <i>Austrian Economics: An Introduction</i>,
-                    July 2026,
-                    <i>The University Bookman</i>.
-                </li>
-                <li>
-                    Paul W. Schroeder,
-                    <i>America's Fatal Leap: 1991-2016</i>,
-                    June 2026,
-                    <i>History: Reviews of New Books</i>.
-                </li>
-                <li>
-                    Nigel Biggar,
-                    <i>The New Dark Age: Why Liberals Must Win the Culture Wars</i>,
-                    May 2026,
-                    <i>The University Bookman</i>.
-                </li>
-                <li>
-                    Robert Nisbet,
-                    <i>The Social Philosophers: Community and Conflict in Western Thought</i>,
-                    May 2026,
-                    <i>History: Reviews of New Books</i>.
-                </li>
-                <li>
-                    Philip Pilkington,
-                    <a href="https://kirkcenter.org/reviews/the-long-decline-of-liberalism/">
-                    <i>The Collapse of Global Liberalism</i></a>,
-                    March 2026,
-                    <i>The University Bookman</i>.
-                </li>
-                <li>
-                    Samuel T. Wilkinson,
-                    <a href="https://kirkcenter.org/reviews/science-and-meaning-parallel-tracks/">
-                    <i>Purpose: What Evolution and Human Nature Imply About the Meaning of Our Existence</i></a>,
-                    September 2025,
-                    <i>The University Bookman</i>.
-                </li>
-                <li>
-                    David McPherson,
-                    <a href="https://kirkcenter.org/reviews/limits-and-the-good-life/">
-                    <i>The Virtues of Limits</i></a>,
-                    July 2025,
-                    <i>The University Bookman</i>.
-                </li>
-                <li>
-                    Musa al-Gharbi,
-                    <a href="https://kirkcenter.org/reviews/the-fourth-awokening-and-its-discontents/">
-                    <i>We Have Never Been Woke</i></a>,
-                    November 2024,
-                    <i>The University Bookman</i>.
-                </li>
+        <header class="masthead">
+            <div class="inner">
+                <div class="titles">
+                    <p class="eyebrow">Gene Callahan</p>
+                    <h1>Book Reviews</h1>
+                    <p class="tagline">
+                        Philosophy, economics, history, politics, and computing.
+                    </p>
+                    <ul class="stats">
+                        <li><strong id="stat-reviews">&nbsp;</strong>reviews</li>
+                        <li><strong id="stat-journals">&nbsp;</strong>journals</li>
+                        <li><strong id="stat-years">&nbsp;</strong>years</li>
+                    </ul>
+                </div>
+                <figure class="plate">
+                    <img
+                     src="ParisBookStall.jpg"
+                     alt="A bookseller's stall in Paris, its shelves crowded with secondhand books"
+                     width="330"
+                     height="220">
+                    <figcaption>A bookstall in Paris</figcaption>
+                </figure>
+            </div>
+        </header>
 
-                <li>
-                    Timothy Fuller,
-                    <a href="https://modernagejournal.com/getting-to-know-oakeshott/243896/">
-                    <i>Michael Oakeshott on the Human Condition</i></a>,
-                    September 2024,
-                    <i>Modern Age</i>.
-                </li>
+        <main>
+            <div class="finder">
+                <label for="search">Search</label>
+                <input id="search" type="search"
+                       placeholder="Author, title, or journal&hellip;"
+                       autocomplete="off">
+                <output id="search-count" for="search"></output>
+            </div>
 
-                <li>
-                    John Gray,
-                    <a href="https://kirkcenter.org/reviews/after-liberalismfaith/">
-                    <i>The New Leviathans: Thoughts After Liberalism</i></a>,
-                    February 2024,
-                    <i>The University Bookman</i>.
-                </li>
+            <ul class="years" aria-label="Jump to year">
+                <li><a href="#yforthcoming">Forthcoming</a></li>
+                <li><a href="#y2026">2026</a></li>
+                <li><a href="#y2025">2025</a></li>
+                <li><a href="#y2024">2024</a></li>
+                <li><a href="#y2023">2023</a></li>
+                <li><a href="#y2022">2022</a></li>
+                <li><a href="#y2021">2021</a></li>
+                <li><a href="#y2020">2020</a></li>
+                <li><a href="#y2019">2019</a></li>
+                <li><a href="#y2018">2018</a></li>
+                <li><a href="#y2017">2017</a></li>
+                <li><a href="#y2016">2016</a></li>
+                <li><a href="#y2015">2015</a></li>
+                <li><a href="#y2014">2014</a></li>
+                <li><a href="#y2013">2013</a></li>
+                <li><a href="#y2012">2012</a></li>
+                <li><a href="#y2011">2011</a></li>
+                <li><a href="#y2010">2010</a></li>
+                <li><a href="#y2009">2009</a></li>
+                <li><a href="#y2008">2008</a></li>
+                <li><a href="#y2007">2007</a></li>
+                <li><a href="#y2005">2005</a></li>
+                <li><a href="#y2004">2004</a></li>
+                <li><a href="#y2003">2003</a></li>
+                <li><a href="#y2001">2001</a></li>
+            </ul>
 
-                <li>
-                    Alexander Salter,
-                    <a href="https://kirkcenter.org/reviews/good-economics-on-a-human-scale/">
-                    <i>The Political Economy of Distributism: Property, Liberty, and the Common Good</i></a>,
-                    January 2024,
-                    <i>The University Bookman</i>.
-                </li>
+            <!--
+                To add a review: copy an <li> into the right year's list.
+                Format: Author, <i>Title</i>, date, <i>Journal</i>.
+                The last <i> in an entry is styled as the journal name.
+            -->
 
-                <li>
-                    Huang Y., Huang J., Chen X., He K., Zhou X.,
-                    "BCGen: a comment generation method for bytecode,"
-                    December 2023,
-                    <i>Computing Reviews</i>.
-                </li>
-
-                <li>
-                    Mark Mitchell,
-                        <a href="https://isi.org/modern-age/plutocracy-left-and-right/">
-                        <i>Plutocratic Socialism</i></a>,
-                        October 2023,
-                        <i>Modern Age</i>.
-                </li>
-
-                <li>
-                    Ryan Holston,
-                        <a href="https://kirkcenter.org/reviews/why-public-reason-fails/">
-                        <i>Tradition and the Deliberative Turn: A Critique of
-                            Contemporary Democratic Theory</i></a>,
-                        October 2023,
+            <section class="year" id="yforthcoming">
+                <h2 class="year-label"><span>Forthcoming</span></h2>
+                <ul class="reviews">
+                    <li>
+                        Tyler Goodspeed,
+                        <i>Recession</i>,
+                        forthcoming,
+                        <i>The Review of Austrian Economics</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2026">
+                <h2 class="year-label"><span>2026</span></h2>
+                <ul class="reviews">
+                    <li>
+                        Christopher J. Coyne and Abigail R. Hall,
+                        <i>Austrian Economics: An Introduction</i>,
+                        July 2026,
                         <i>The University Bookman</i>.
-                </li>
+                    </li>
 
-                <li>
-                    Gary Gerstle,
-                    <i>The Rise and Fall of the Neoliberal Order: America and the World in the Free Market Era</i>,
-                    July 2023,
-                    <i>History: Reviews of New Books</i>.
-                </li>
+                    <li>
+                        Paul W. Schroeder,
+                        <i>America's Fatal Leap: 1991-2016</i>,
+                        June 2026,
+                        <i>History: Reviews of New Books</i>.
+                    </li>
 
-                <li>
-                    Tom Jones,
-                    <i>George Berkeley: A Philosophical Life</i>,
-                    February 2023,
-                    <i>British Journal for the History of Philosophy</i>.
-                </li>
+                    <li>
+                        Nigel Biggar,
+                        <i>The New Dark Age: Why Liberals Must Win the Culture Wars</i>,
+                        May 2026,
+                        <i>The University Bookman</i>.
+                    </li>
 
-                <li>
-                    Sahar Deppe,
-                    <i>Discovery of Ill-Known Motifs in Time Series Data</i>,
-                    October 2022,
-                    <i>Computing Reviews</i>.
-                </li>
+                    <li>
+                        Robert Nisbet,
+                        <i>The Social Philosophers: Community and Conflict in Western Thought</i>,
+                        May 2026,
+                        <i>History: Reviews of New Books</i>.
+                    </li>
 
-                <li>
-                    James Ashley Morrison,
-                    <i>England's Cross of Gold</i>,
-                    July 2022,
-                    <i>History: Reviews of New Books</i>.
-                </li>
+                    <li>
+                        Philip Pilkington,
+                        <a href="https://kirkcenter.org/reviews/the-long-decline-of-liberalism/">
+                        <i>The Collapse of Global Liberalism</i></a>,
+                        March 2026,
+                        <i>The University Bookman</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2025">
+                <h2 class="year-label"><span>2025</span></h2>
+                <ul class="reviews">
+                    <li>
+                        Samuel T. Wilkinson,
+                        <a href="https://kirkcenter.org/reviews/science-and-meaning-parallel-tracks/">
+                        <i>Purpose: What Evolution and Human Nature Imply About the Meaning of Our Existence</i></a>,
+                        September 2025,
+                        <i>The University Bookman</i>.
+                    </li>
 
-                <li>
-                    M. Zadka,
-                    <i>DevOps in Python</i>,
-                    December 2021,
-                    <i>Computing Reviews</i>.
-                </li>
+                    <li>
+                        David McPherson,
+                        <a href="https://kirkcenter.org/reviews/limits-and-the-good-life/">
+                        <i>The Virtues of Limits</i></a>,
+                        July 2025,
+                        <i>The University Bookman</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2024">
+                <h2 class="year-label"><span>2024</span></h2>
+                <ul class="reviews">
+                    <li>
+                        Musa al-Gharbi,
+                        <a href="https://kirkcenter.org/reviews/the-fourth-awokening-and-its-discontents/">
+                        <i>We Have Never Been Woke</i></a>,
+                        November 2024,
+                        <i>The University Bookman</i>.
+                    </li>
 
-                <li>
-                    Margaret Schabas and Carl Wennerlind,
-                    <i>A Philospher's Economist: Hume and the Rise of Capitalism</i>,
-                    July 2021,
-                    <i>History: Reviews of New Books</i>.
-                </li>
+                    <li>
+                        Timothy Fuller,
+                        <a href="https://modernagejournal.com/getting-to-know-oakeshott/243896/">
+                        <i>Michael Oakeshott on the Human Condition</i></a>,
+                        September 2024,
+                        <i>Modern Age</i>.
+                    </li>
 
-                <li>
-                    Upingco, J.,
-                    <a
-                        href="http://www.computingreviews.com/review/Review_review.cfm?review_id=147083">
-                <i>Python for probability, statistics, and machine learning (2nd
-                    ed.)</i></a>,
-                October 2020,
-                <i>Computing Reviews</i> (with Yujia Zhang).
-            </li>
+                    <li>
+                        John Gray,
+                        <a href="https://kirkcenter.org/reviews/after-liberalismfaith/">
+                        <i>The New Leviathans: Thoughts After Liberalism</i></a>,
+                        February 2024,
+                        <i>The University Bookman</i>.
+                    </li>
 
-            <li>
-                Ferenc Hörcher,
-                <a
-                    href="https://cosmosandtaxis.files.wordpress.com/2020/10/callahan_ct_vol8_iss10_11.pdf">
-                    <i>A Political Philosophy of Conservatism</i></a>,
-                September 2020,
-                <i>Cosmos and Taxis</i>.
-            </li>
+                    <li>
+                        Alexander Salter,
+                        <a href="https://kirkcenter.org/reviews/good-economics-on-a-human-scale/">
+                        <i>The Political Economy of Distributism: Property, Liberty, and the Common Good</i></a>,
+                        January 2024,
+                        <i>The University Bookman</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2023">
+                <h2 class="year-label"><span>2023</span></h2>
+                <ul class="reviews">
+                    <li>
+                        Huang Y., Huang J., Chen X., He K., Zhou X.,
+                        "BCGen: a comment generation method for bytecode,"
+                        December 2023,
+                        <i>Computing Reviews</i>.
+                    </li>
 
-            <li>
-                C. Bradley Thompson,
-                <a
-                    href="https://voegelinview.com/americas-revolutionary-mind-a-moral-history-of-the-american-revolution-and-the-declaration-that-defined-it/">
-                    <i>
-                        America’s Revolutionary Mind</i></a>,
-                July 2020,
-                <i>Voegelin View</i>.
-            </li>
+                    <li>
+                        Mark Mitchell,
+                            <a href="https://isi.org/modern-age/plutocracy-left-and-right/">
+                            <i>Plutocratic Socialism</i></a>,
+                            October 2023,
+                            <i>Modern Age</i>.
+                    </li>
 
-            <li>
-                Michael W. Mehaffy,
-                <a href="https://kirkcenter.org/reviews/the-patterns-of-living/">
-                    <i>Cities Alive: Jane Jacobs, Christopher Alexander,
-                        and the Roots of the New Urban Renaissance</i></a>,
-                January 2020,
-                <i>The University Bookman</i>.
-            </li>
+                    <li>
+                        Ryan Holston,
+                            <a href="https://kirkcenter.org/reviews/why-public-reason-fails/">
+                            <i>Tradition and the Deliberative Turn: A Critique of
+                                Contemporary Democratic Theory</i></a>,
+                            October 2023,
+                            <i>The University Bookman</i>.
+                    </li>
 
-            <li>
-                John H. McWhorter,
-                <a href="https://kirkcenter.org/reviews/language-chance-and-science/">
-                    <i>The Language Hoax</i>
-                </a>,
-                August 2019,
-                <i>The University Bookman</i>.
-            </li>
+                    <li>
+                        Gary Gerstle,
+                        <i>The Rise and Fall of the Neoliberal Order: America and the World in the Free Market Era</i>,
+                        July 2023,
+                        <i>History: Reviews of New Books</i>.
+                    </li>
 
-            <li>
-                <i>Conservative Moments</i> and 
-                <i>Blue-Collar Conservatism</i>,
-                July 2019,
-                <i>History: Reviews of New Books</i>.
-            </li>
+                    <li>
+                        Tom Jones,
+                        <i>George Berkeley: A Philosophical Life</i>,
+                        February 2023,
+                        <i>British Journal for the History of Philosophy</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2022">
+                <h2 class="year-label"><span>2022</span></h2>
+                <ul class="reviews">
+                    <li>
+                        Sahar Deppe,
+                        <i>Discovery of Ill-Known Motifs in Time Series Data</i>,
+                        October 2022,
+                        <i>Computing Reviews</i>.
+                    </li>
 
-            <li>
-                Israel M. Kirzner,
-                <a href="kirzner.html">
-                <i>
-                    Competition, Economic Planning, and the Knowledge Problem,
-                </i>
-                </a>
-                May 2019,
-                <i>Review of Political Economy</i>.
-            </li>
+                    <li>
+                        James Ashley Morrison,
+                        <i>England's Cross of Gold</i>,
+                        July 2022,
+                        <i>History: Reviews of New Books</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2021">
+                <h2 class="year-label"><span>2021</span></h2>
+                <ul class="reviews">
+                    <li>
+                        M. Zadka,
+                        <i>DevOps in Python</i>,
+                        December 2021,
+                        <i>Computing Reviews</i>.
+                    </li>
 
-            <li>
-                Adam Singer,
-                <i>	Practical C++ design: from programming to architecture</i>,
-                April 2019,
-                <i>Computing Reviews</i>.
-            </li>
+                    <li>
+                        Margaret Schabas and Carl Wennerlind,
+                        <i>A Philospher's Economist: Hume and the Rise of Capitalism</i>,
+                        July 2021,
+                        <i>History: Reviews of New Books</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2020">
+                <h2 class="year-label"><span>2020</span></h2>
+                <ul class="reviews">
+                        <li>
+                            Upingco, J.,
+                            <a
+                                href="http://www.computingreviews.com/review/Review_review.cfm?review_id=147083">
+                        <i>Python for probability, statistics, and machine learning (2nd
+                            ed.)</i></a>,
+                        October 2020,
+                        <i>Computing Reviews</i> (with Yujia Zhang).
+                    </li>
 
-            <li>
-                Parminder Singh Kochar,
-                <i>Microservices and containers</i>,
-                December 2018,
-                <i>Computing Reviews</i>.
-            </li>
+                    <li>
+                        Ferenc Hörcher,
+                        <a
+                            href="https://cosmosandtaxis.files.wordpress.com/2020/10/callahan_ct_vol8_iss10_11.pdf">
+                            <i>A Political Philosophy of Conservatism</i></a>,
+                        September 2020,
+                        <i>Cosmos and Taxis</i>.
+                    </li>
 
-            <li>
-                Kenneth L. Pearce,
-                <a href="pearce.html">
-                <i>Language and the Structure of Berkeley's World</i>,
-                </a>
-                2018,
-                <i>British Journal for the History of Philosophy</i>.
-            </li>
+                    <li>
+                        C. Bradley Thompson,
+                        <a
+                            href="https://voegelinview.com/americas-revolutionary-mind-a-moral-history-of-the-american-revolution-and-the-declaration-that-defined-it/">
+                            <i>
+                                America’s Revolutionary Mind</i></a>,
+                        July 2020,
+                        <i>Voegelin View</i>.
+                    </li>
 
-            <li>
-                Jerry Z. Muller,
-                <a href="https://kirkcenter.org/reviews/the-mismeasure-of-man/">
-                <i>
-                    The Tyranny of Metrics
-                </i>
-                </a>,
-                June 2018,
-                <i>The University Bookman</i>.
-            </li>
+                    <li>
+                        Michael W. Mehaffy,
+                        <a href="https://kirkcenter.org/reviews/the-patterns-of-living/">
+                            <i>Cities Alive: Jane Jacobs, Christopher Alexander,
+                                and the Roots of the New Urban Renaissance</i></a>,
+                        January 2020,
+                        <i>The University Bookman</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2019">
+                <h2 class="year-label"><span>2019</span></h2>
+                <ul class="reviews">
+                    <li>
+                        John H. McWhorter,
+                        <a href="https://kirkcenter.org/reviews/language-chance-and-science/">
+                            <i>The Language Hoax</i>
+                        </a>,
+                        August 2019,
+                        <i>The University Bookman</i>.
+                    </li>
 
-            <li>
-                James C. Scott,
-                <a href="scott.html">
-                    <i>Against the Grain: A Deep History of the Earliest States</i>,
-                </a>
-                May 2018,
-                <i>History: Reviews of New Books</i>.
-            </li>
+                    <li>
+                        <i>Conservative Moments</i> and 
+                        <i>Blue-Collar Conservatism</i>,
+                        July 2019,
+                        <i>History: Reviews of New Books</i>.
+                    </li>
 
-            <li>
-                Haas A.,
-                Rossberg A., Schuff D., Titzer B., Holman M., Gohman D., Wagner
-                L., Zakai A., Bastien J.,
-                "<a href="http://www.computingreviews.com/review/review_review.cfm?review_id=146043&listname=todaysissuearticle">
-                    Bringing the web up to
-                    speed with WebAssembly</a>"
-                <i>Computing Reviews</i>,
-                May 2018.
-            </li>
+                    <li>
+                        Israel M. Kirzner,
+                        <a href="kirzner.html">
+                        <i>
+                            Competition, Economic Planning, and the Knowledge Problem,
+                        </i>
+                        </a>
+                        May 2019,
+                        <i>Review of Political Economy</i>.
+                    </li>
 
-            <li>
-                Nassim Nicholas Taleb,
-                <a href="https://home.isi.org/under-skin">
-                    <i>Skin in the Game</i>,
-                </a>
-                April 2018,
-                <i>Modern Age</i>.
-            </li>
+                    <li>
+                        Adam Singer,
+                        <i> Practical C++ design: from programming to architecture</i>,
+                        April 2019,
+                        <i>Computing Reviews</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2018">
+                <h2 class="year-label"><span>2018</span></h2>
+                <ul class="reviews">
+                    <li>
+                        Parminder Singh Kochar,
+                        <i>Microservices and containers</i>,
+                        December 2018,
+                        <i>Computing Reviews</i>.
+                    </li>
 
-            <li>Patrick Deneen,
-                <a
-                    href="http://www.theamericanconservative.com/articles/announcing-the-death-of-classical-liberalism/">
-                <i>Why Liberalism Failed,</i>
-                </a>
-                January 2018,
-                <i>The American Conservative</i>.
-            </li>
+                    <li>
+                        Kenneth L. Pearce,
+                        <a href="pearce.html">
+                        <i>Language and the Structure of Berkeley's World</i>,
+                        </a>
+                        2018,
+                        <i>British Journal for the History of Philosophy</i>.
+                    </li>
 
-            <li>
-                Hsiang-Ke Chao and Julian Reiss, editors,
-                <a href="cartwright.html">
-                    <i>Philosophy of Science in Practice,</i>
-                </a>
-                2018,
-                <i>Computing Reviews</i>.
-            </li>
+                    <li>
+                        Jerry Z. Muller,
+                        <a href="https://kirkcenter.org/reviews/the-mismeasure-of-man/">
+                        <i>
+                            The Tyranny of Metrics
+                        </i>
+                        </a>,
+                        June 2018,
+                        <i>The University Bookman</i>.
+                    </li>
 
-            <li>Bas van Bavel,
-                <a href="bavel.html">
-                    <i>The Invisible Hand?</i>,
-                </a>
-                2017,
-                <i>History: Reviews of New Books</i>.
-            </li>
+                    <li>
+                        James C. Scott,
+                        <a href="scott.html">
+                            <i>Against the Grain: A Deep History of the Earliest States</i>,
+                        </a>
+                        May 2018,
+                        <i>History: Reviews of New Books</i>.
+                    </li>
 
-            <li>Paul Feyerabend,
-                <a href="feyerabend.html">
-                <i>Philosophy of Nature</i>,
-                </a>
-                May 2017,
-                <i>British Journal for the History of Philosophy</i>.
-            </li>
-            
-            <li>Scott Sumner,
-                <a
-                    href="https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/scott-b-sumner-the-midas-paradox-financial-markets-government-policy-shocks-and-the-great-depression-oakland-the-independent-institute-2015-pp-xviii-507-3795-hardcover-isbn-9781598131505/927C7619DE0F6D707A88C837A44C964C">
-                    <i>The Midas Paradox</i></a>,
-                2017,
-                <i>The Journal of the History of Economic Thought</i>.
-            </li>
+                    <li>
+                        Haas A.,
+                        Rossberg A., Schuff D., Titzer B., Holman M., Gohman D., Wagner
+                        L., Zakai A., Bastien J.,
+                        "<a href="http://www.computingreviews.com/review/review_review.cfm?review_id=146043&listname=todaysissuearticle">
+                            Bringing the web up to
+                            speed with WebAssembly</a>"
+                        <i>Computing Reviews</i>,
+                        May 2018.
+                    </li>
 
-            <li>
-                Ashwin Pajankar,
-                <a href="pajankar.html">
-                <i>Python Unit Test Automation</i>,
-                </a>
-                2017,
-                <i>Computing Reviews</i>.
-            </li>
-            
-            <li>Claes Ryn,
-                <a
-                    href="http://www.theamericanconservative.com/articles/making-do-with-what-weve-got/">
-                    <i>
-                        A Desperate Man</i></a>,
-                    November 2016,
-                    <i>The American Conservative</i>.
-            </li>
+                    <li>
+                        Nassim Nicholas Taleb,
+                        <a href="https://home.isi.org/under-skin">
+                            <i>Skin in the Game</i>,
+                        </a>
+                        April 2018,
+                        <i>Modern Age</i>.
+                    </li>
 
-            <li>Arthur Melzer,
-                <i>Philosophy Between the Lines</i>, 
-                2016,
-                <i>British Journal for the History of Philosophy</i>.
-            </li>
-            
-            <li>Pierre Manent,
-                <a
-                    href="https://voegelinview.com/beyond-radical-secularism-france-christian-west-respond-islamic-challenge/">
-                    <i>
-                        Beyond Radical Secularism: How France and the Christian
-                        West Should Respond to the Islamic Challenge</i></a>,
-                    August 2016,
-                    <i>Voegelin View</i>.
-            </li>
+                    <li>Patrick Deneen,
+                        <a
+                            href="http://www.theamericanconservative.com/articles/announcing-the-death-of-classical-liberalism/">
+                        <i>Why Liberalism Failed,</i>
+                        </a>
+                        January 2018,
+                        <i>The American Conservative</i>.
+                    </li>
 
-            <li>Rodney Stark,
-                <a
-                    href="http://www.kirkcenter.org/index.php/bookman/article/nobody-expects-the-spanish-inquisition-to-be-explained-fairly/">
-                <i>Bearing False Witness:
-                    Debunking Centuries of Anti-Catholic History</i></a>,
-                Summer 2016,
-                <i>The University Bookman</i>.
-            </li>
+                    <li>
+                        Hsiang-Ke Chao and Julian Reiss, editors,
+                        <a href="cartwright.html">
+                            <i>Philosophy of Science in Practice,</i>
+                        </a>
+                        2018,
+                        <i>Computing Reviews</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2017">
+                <h2 class="year-label"><span>2017</span></h2>
+                <ul class="reviews">
+                    <li>Bas van Bavel,
+                        <a href="bavel.html">
+                            <i>The Invisible Hand?</i>,
+                        </a>
+                        2017,
+                        <i>History: Reviews of New Books</i>.
+                    </li>
 
-            <li>P. Earl and Bruce Littleboy,
-                <i>G. L. S. Shackle</i>, 
-                2016,
-                <i>The Journal of the History of Economic Thought</i>.
-            </li>
-            
-            <li>Floud, Humphries, and Johnson (ed.),
-                <i>The Cambridge History of Modern Britain: Volume I</i>, 
-                2016,
-                <i>History: Reviews of New Books</i>.
-            </li>
-            
-            <li>Edmund Fawcett,
-                <i>Liberalism: The Life of an Idea</i>, 
-                2016,
-                <i>History: Reviews of New Books</i>.
-            </li>
-            
-            <li>Guinevere Nell (ed.),
-                <i>Austrian Economic Perspectives on Individualism and Society</i>, 
-                2015,
-                <i>Review of Austrian Economics</i>.
-            </li>
-            
-            <li>John Gray,
-                <a
-                    href="http://www.theamericanconservative.com/articles/who-pulls-john-grays-strings/">
-                    <i>
-                        The Soul of the Marionette: A Short Inquiry into Human
-                        Freedom</i></a>,
-                    September 2015,
-                    <i>The American Conservative</i>.
-            </li>
+                    <li>Paul Feyerabend,
+                        <a href="feyerabend.html">
+                        <i>Philosophy of Nature</i>,
+                        </a>
+                        May 2017,
+                        <i>British Journal for the History of Philosophy</i>.
+                    </li>
 
-            <li>Rod Dreher,
-                <a
-                    href="http://www.kirkcenter.org/index.php/bookman/article/a-tale-of-contagious-enthusiasm/">
-                <i>How Dante Can Save Your Life: The Life-Changing Wisdom of
-                    History's Greatest Poem</i></a>,
-                Summer 2015,
-                <i>The University Bookman</i>.
-            </li>
+                    <li>Scott Sumner,
+                        <a
+                            href="https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/scott-b-sumner-the-midas-paradox-financial-markets-government-policy-shocks-and-the-great-depression-oakland-the-independent-institute-2015-pp-xviii-507-3795-hardcover-isbn-9781598131505/927C7619DE0F6D707A88C837A44C964C">
+                            <i>The Midas Paradox</i></a>,
+                        2017,
+                        <i>The Journal of the History of Economic Thought</i>.
+                    </li>
 
-            <li>Francis Fukuyama,
-                <a
-                    href="http://www.theamericanconservative.com/articles/fukuyamas-recipe-for-political-order/">
-                    <i>
-                        Political Order and Political Decay: From the
-                        Industrial Revolution to the Globalization of Democracy</i></a>,
-                    April 2015,
-                    <i>The American Conservative</i>.
-            </li>
+                    <li>
+                        Ashwin Pajankar,
+                        <a href="pajankar.html">
+                        <i>Python Unit Test Automation</i>,
+                        </a>
+                        2017,
+                        <i>Computing Reviews</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2016">
+                <h2 class="year-label"><span>2016</span></h2>
+                <ul class="reviews">
+                    <li>Claes Ryn,
+                        <a
+                            href="http://www.theamericanconservative.com/articles/making-do-with-what-weve-got/">
+                            <i>
+                                A Desperate Man</i></a>,
+                            November 2016,
+                            <i>The American Conservative</i>.
+                    </li>
 
-            <li>Mary Morgan,
-                <i>The World in the Model</i>, 
-                2015,
-                <i>Review of Austrian Economics</i>.
-            </li>
-            
-            <li>Tim Dunne and Trine Flockhart,
-                <i>Liberal World Orders</i>, 
-                2014,
-                <i>History: Reviews of New Books</i>.
-            </li>
-            
-            <li>Alex Pentland,
-                <i>Social Physics</i>, 
-                2014,
-                <i>Review of Austrian Economics</i>.
-            </li>
-            
-            <li>Gregory Clark,
-                <a
-                    href="http://www.theamericanconservative.com/articles/is-social-mobility-a-myth/">
-                    <i>
-                        The Son Also Rises: Surnames and the History of Social
-                        Mobility</i></a>,
-                    July 2014,
-                    <i>The American Conservative</i>.
-            </li>
+                    <li>Arthur Melzer,
+                        <i>Philosophy Between the Lines</i>, 
+                        2016,
+                        <i>British Journal for the History of Philosophy</i>.
+                    </li>
 
-            <li>Pierre Manent,
-                <i>Metamorphoses of the City: On the Western Dynamic</i>, 
-                2014,
-                <i>History: Reviews of New Books</i>.
-            </li>
-            
-            <li>Kevin Gutzman,
-                <i>James Madison and the Making of America</i>, 
-                2014,
-                <i>History: Reviews of New Books</i>.
-            </li>
-            
-            <li>Charles Montgomery,
-                <a
-                    href="http://www.kirkcenter.org/index.php/bookman/article/happier-cities-happier-lives/">
-                <i>Happy City</i></a>, 
-                2014,
-                <i>The University Bookman</i>.
-            </li>
-            
-            <li>Tyler Cowen,
-                <a
-                    href="http://www.kirkcenter.org/index.php/bookman/article/better-average-than-unequal/">
-                <i>Average Is Over</i></a>, 
-                2013,
-                <i>The University Bookman</i>.
-            </li>
-            
-            <li>Bernard Bailyn,
-                <a
-                    href="http://www.theamericanconservative.com/articles/how-our-east-was-won/">
-                    <i>
-                        The Barbarous Years: The Peopling of British North
-                        America: the Conflict of Civilizations, 1600-1675
-                    </i></a>,
-                    October 2013,
-                <i>The American Conservative</i>.
-            </li>
+                    <li>Pierre Manent,
+                        <a
+                            href="https://voegelinview.com/beyond-radical-secularism-france-christian-west-respond-islamic-challenge/">
+                            <i>
+                                Beyond Radical Secularism: How France and the Christian
+                                West Should Respond to the Islamic Challenge</i></a>,
+                            August 2016,
+                            <i>Voegelin View</i>.
+                    </li>
 
-            <li>Virgil Storr,
-                <i>Understanding the Culture of Markets</i>, 
-                2013,
-                <i>Review of Austrian Economics</i>.
-            </li>
-            
-            <li>Andrew Burstein and Nancy Isenberg,
-                <a href="https://voegelinview.com/madison-and-jefferson-review/">
-                    <i>
-                        Madison and Jefferson
-                    </i></a>,
-                    April 2013,
-                    <i>Voegelin View</i>.
-            </li>
+                    <li>Rodney Stark,
+                        <a
+                            href="http://www.kirkcenter.org/index.php/bookman/article/nobody-expects-the-spanish-inquisition-to-be-explained-fairly/">
+                        <i>Bearing False Witness:
+                            Debunking Centuries of Anti-Catholic History</i></a>,
+                        Summer 2016,
+                        <i>The University Bookman</i>.
+                    </li>
 
-            <li>Tyler Beck Goodspeed,
-                <i>Rethinking the Keynesian Revolution</i>, 
-                2013,
-                <i>Review of Political Economy</i>.
-            </li>
-            
-            <li>James C. Scott,
-                <a
-                    href="http://www.theamericanconservative.com/articles/the-well-tempered-anarchist/">
-                    <i>
-                        Two Cheers for Anarchism: Six Easy Pieces on Autonomy,
-                        Dignity, and Meaningful Work and Play
-                    </i></a>,
-                    January 2013,
-                    <i>The American Conservative</i>.
-            </li>
+                    <li>P. Earl and Bruce Littleboy,
+                        <i>G. L. S. Shackle</i>, 
+                        2016,
+                        <i>The Journal of the History of Economic Thought</i>.
+                    </li>
 
-            <li>Francis Fukuyama,
-                <i>The Origins of Political Order</i>, 
-                December 2012,
-                <i>Anamnesis</i>.
-            </li>
-            
-            <li>John Medaille,
-                <i>Toward a Truly Free Market</i>, 
-                December 2012,
-                <i>Review of Political Economy</i>.
-            </li>
-            
-            <li>Gordon S. Wood,
-                <a href="https://voegelinview.com/the-idea-of-america-review/">
-                    <i>
-                        The Idea of America: Reflections on the Birth of the
-                        United States
-                    </i></a>,
-                    2012,
-                    <i>Voegelin View</i>.
-            </li>
+                    <li>Floud, Humphries, and Johnson (ed.),
+                        <i>The Cambridge History of Modern Britain: Volume I</i>, 
+                        2016,
+                        <i>History: Reviews of New Books</i>.
+                    </li>
 
-            <li>Roger Congleton,
-                <i>Perfecting Parliament:
-                    Constitutional Reform, Liberalism, and the Rise of Western Democracy</i>, 
-                May 2012,
-                <i>Review of Political Economy</i>.
-            </li>
-            
-            <li>John Gray,
-                <a
-                        href="https://www.theamericanconservative.com/how-to-live-forever/">
-                <i>The Immortalization Commission: Science and the Strange
-                    Quest to Cheat Death</i></a>,
-                October 2011,
-                <i>The American Conservative</i>
-            </li>
+                    <li>Edmund Fawcett,
+                        <i>Liberalism: The Life of an Idea</i>, 
+                        2016,
+                        <i>History: Reviews of New Books</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2015">
+                <h2 class="year-label"><span>2015</span></h2>
+                <ul class="reviews">
+                    <li>Guinevere Nell (ed.),
+                        <i>Austrian Economic Perspectives on Individualism and Society</i>, 
+                        2015,
+                        <i>Review of Austrian Economics</i>.
+                    </li>
 
-            <li>Peter Leeson,
-                <i>The Invisible Hook</i>, 
-                July 2011,
-                <i>Review of Political Economy</i>.
-            </li>
-            
-            <li>Vernon Smith,
-                <i>Rationality in Economics</i>, 
-                April 2011,
-                <i>Review of Political Economy</i>.
-            </li>
-            
-            <li>Jon Elster,
-                <i>Reason and Rationality</i>, 
-                2010,
-                <i>Review of Political Economy</i>, Vol. 22, Issue 3.
-            </li>
-            
-            <li>Bruce Caldwell,
-                <a
-                    href="https://fee.org/articles/hayeks-challenge-an-intellectual-biography-of-fa-hayek/">
-                    <i>Hayek's Challenge</i></a>,
-                    July 2010,
-                    <i>The Freeman</i>.
-            </li>
+                    <li>John Gray,
+                        <a
+                            href="http://www.theamericanconservative.com/articles/who-pulls-john-grays-strings/">
+                            <i>
+                                The Soul of the Marionette: A Short Inquiry into Human
+                                Freedom</i></a>,
+                            September 2015,
+                            <i>The American Conservative</i>.
+                    </li>
 
-            <li>Bryan Caplan,
-                <a
-                    href="http://www.independent.org/publications/tir/article.asp?a=723">
-                    <i>The Myth of the Rational Voter</i></a>, 
-                Winter 2009,
-                <i>Independent Review</i>.
-            </li>
-            
-            <li>Nassim Nicholas Taleb,
-                <i>The Black Swan: The Impact of the Highly Improbable</i>, 
-                2008,
-                <i>Review of Austrian Economics</i>, Vol. 22: 361-364.
-            </li>
-            
-            <li>Daniel M. Hausman and Michael S. McPherson,
-                <i>Economic Analysis, Moral Philosophy, and Public Policy</i>, 
-                Summer 2008,
-                <i>Independent Review</i>.
-            </li>
-            
-            <li>Douglass C. North,
-                <a
-                    href="http://www.kirkcenter.org/index.php/bookman/article/the-chastened-planner/">
-                <i>Understanding the Process of Economic Change</i></a>,
-                Fall 2007,
-                <i>The University Bookman</i>.
-            </li>
+                    <li>Rod Dreher,
+                        <a
+                            href="http://www.kirkcenter.org/index.php/bookman/article/a-tale-of-contagious-enthusiasm/">
+                        <i>How Dante Can Save Your Life: The Life-Changing Wisdom of
+                            History's Greatest Poem</i></a>,
+                        Summer 2015,
+                        <i>The University Bookman</i>.
+                    </li>
 
-            <li>Sandra Peart and David Levy,
-                <a href="">
-                    <i>The Vanity of the Philosopher</i></a>,
-                    April 2007,
-                    <i>The Freeman</i>.
-            </li>
+                    <li>Francis Fukuyama,
+                        <a
+                            href="http://www.theamericanconservative.com/articles/fukuyamas-recipe-for-political-order/">
+                            <i>
+                                Political Order and Political Decay: From the
+                                Industrial Revolution to the Globalization of Democracy</i></a>,
+                            April 2015,
+                            <i>The American Conservative</i>.
+                    </li>
 
-            <li>Paul Franco,
-                <a
-                    href="http://www.independent.org/publications/tir/article.asp?a=554">
-                    <i>Michael Oakeshott: An Introduction</i></a>, 
-                Fall 2005,
-                <i>Independent Review</i>.
-            </li>
-            
-            <li>Peter Lewin,
-                <i>Capital in Disequilibrium: The Role of Capital in a Changing World</i>, 
-                2004,
-                <i>Review of Austrian Economics</i>, Vol. 17, No. 1.
-            </li>
-            
-            <li>Steve Keen,
-                <i>Debunking Economics</i>, 
-                2003,
-                <i>Review of Austrian Economics</i>, Vol. 16, No. 4 (with Robert P. Murphy).
-            </li>
+                    <li>Mary Morgan,
+                        <i>The World in the Model</i>, 
+                        2015,
+                        <i>Review of Austrian Economics</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2014">
+                <h2 class="year-label"><span>2014</span></h2>
+                <ul class="reviews">
+                    <li>Tim Dunne and Trine Flockhart,
+                        <i>Liberal World Orders</i>, 
+                        2014,
+                        <i>History: Reviews of New Books</i>.
+                    </li>
 
-            <li>Steve Horwitz,
-                <a
-                    href="https://fee.org/articles/microfoundations-and-macroeconomics-an-austrian-perspective-by-steven-horwitz/">
-                    <i>Microfoundations and Macroeconomics</i></a>,
-                December 2001,
-                <i>The Freeman</i>.
-            </li>
+                    <li>Alex Pentland,
+                        <i>Social Physics</i>, 
+                        2014,
+                        <i>Review of Austrian Economics</i>.
+                    </li>
 
-        </ul>
+                    <li>Gregory Clark,
+                        <a
+                            href="http://www.theamericanconservative.com/articles/is-social-mobility-a-myth/">
+                            <i>
+                                The Son Also Rises: Surnames and the History of Social
+                                Mobility</i></a>,
+                            July 2014,
+                            <i>The American Conservative</i>.
+                    </li>
 
+                    <li>Pierre Manent,
+                        <i>Metamorphoses of the City: On the Western Dynamic</i>, 
+                        2014,
+                        <i>History: Reviews of New Books</i>.
+                    </li>
+
+                    <li>Kevin Gutzman,
+                        <i>James Madison and the Making of America</i>, 
+                        2014,
+                        <i>History: Reviews of New Books</i>.
+                    </li>
+
+                    <li>Charles Montgomery,
+                        <a
+                            href="http://www.kirkcenter.org/index.php/bookman/article/happier-cities-happier-lives/">
+                        <i>Happy City</i></a>, 
+                        2014,
+                        <i>The University Bookman</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2013">
+                <h2 class="year-label"><span>2013</span></h2>
+                <ul class="reviews">
+                    <li>Tyler Cowen,
+                        <a
+                            href="http://www.kirkcenter.org/index.php/bookman/article/better-average-than-unequal/">
+                        <i>Average Is Over</i></a>, 
+                        2013,
+                        <i>The University Bookman</i>.
+                    </li>
+
+                    <li>Bernard Bailyn,
+                        <a
+                            href="http://www.theamericanconservative.com/articles/how-our-east-was-won/">
+                            <i>
+                                The Barbarous Years: The Peopling of British North
+                                America: the Conflict of Civilizations, 1600-1675
+                            </i></a>,
+                            October 2013,
+                        <i>The American Conservative</i>.
+                    </li>
+
+                    <li>Virgil Storr,
+                        <i>Understanding the Culture of Markets</i>, 
+                        2013,
+                        <i>Review of Austrian Economics</i>.
+                    </li>
+
+                    <li>Andrew Burstein and Nancy Isenberg,
+                        <a href="https://voegelinview.com/madison-and-jefferson-review/">
+                            <i>
+                                Madison and Jefferson
+                            </i></a>,
+                            April 2013,
+                            <i>Voegelin View</i>.
+                    </li>
+
+                    <li>Tyler Beck Goodspeed,
+                        <i>Rethinking the Keynesian Revolution</i>, 
+                        2013,
+                        <i>Review of Political Economy</i>.
+                    </li>
+
+                    <li>James C. Scott,
+                        <a
+                            href="http://www.theamericanconservative.com/articles/the-well-tempered-anarchist/">
+                            <i>
+                                Two Cheers for Anarchism: Six Easy Pieces on Autonomy,
+                                Dignity, and Meaningful Work and Play
+                            </i></a>,
+                            January 2013,
+                            <i>The American Conservative</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2012">
+                <h2 class="year-label"><span>2012</span></h2>
+                <ul class="reviews">
+                    <li>Francis Fukuyama,
+                        <i>The Origins of Political Order</i>, 
+                        December 2012,
+                        <i>Anamnesis</i>.
+                    </li>
+
+                    <li>John Medaille,
+                        <i>Toward a Truly Free Market</i>, 
+                        December 2012,
+                        <i>Review of Political Economy</i>.
+                    </li>
+
+                    <li>Gordon S. Wood,
+                        <a href="https://voegelinview.com/the-idea-of-america-review/">
+                            <i>
+                                The Idea of America: Reflections on the Birth of the
+                                United States
+                            </i></a>,
+                            2012,
+                            <i>Voegelin View</i>.
+                    </li>
+
+                    <li>Roger Congleton,
+                        <i>Perfecting Parliament:
+                            Constitutional Reform, Liberalism, and the Rise of Western Democracy</i>, 
+                        May 2012,
+                        <i>Review of Political Economy</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2011">
+                <h2 class="year-label"><span>2011</span></h2>
+                <ul class="reviews">
+                    <li>John Gray,
+                        <a
+                                href="https://www.theamericanconservative.com/how-to-live-forever/">
+                        <i>The Immortalization Commission: Science and the Strange
+                            Quest to Cheat Death</i></a>,
+                        October 2011,
+                        <i>The American Conservative</i>
+                    </li>
+
+                    <li>Peter Leeson,
+                        <i>The Invisible Hook</i>, 
+                        July 2011,
+                        <i>Review of Political Economy</i>.
+                    </li>
+
+                    <li>Vernon Smith,
+                        <i>Rationality in Economics</i>, 
+                        April 2011,
+                        <i>Review of Political Economy</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2010">
+                <h2 class="year-label"><span>2010</span></h2>
+                <ul class="reviews">
+                    <li>Jon Elster,
+                        <i>Reason and Rationality</i>, 
+                        2010,
+                        <i>Review of Political Economy</i>, Vol. 22, Issue 3.
+                    </li>
+
+                    <li>Bruce Caldwell,
+                        <a
+                            href="https://fee.org/articles/hayeks-challenge-an-intellectual-biography-of-fa-hayek/">
+                            <i>Hayek's Challenge</i></a>,
+                            July 2010,
+                            <i>The Freeman</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2009">
+                <h2 class="year-label"><span>2009</span></h2>
+                <ul class="reviews">
+                    <li>Bryan Caplan,
+                        <a
+                            href="http://www.independent.org/publications/tir/article.asp?a=723">
+                            <i>The Myth of the Rational Voter</i></a>, 
+                        Winter 2009,
+                        <i>Independent Review</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2008">
+                <h2 class="year-label"><span>2008</span></h2>
+                <ul class="reviews">
+                    <li>Nassim Nicholas Taleb,
+                        <i>The Black Swan: The Impact of the Highly Improbable</i>, 
+                        2008,
+                        <i>Review of Austrian Economics</i>, Vol. 22: 361-364.
+                    </li>
+
+                    <li>Daniel M. Hausman and Michael S. McPherson,
+                        <i>Economic Analysis, Moral Philosophy, and Public Policy</i>, 
+                        Summer 2008,
+                        <i>Independent Review</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2007">
+                <h2 class="year-label"><span>2007</span></h2>
+                <ul class="reviews">
+                    <li>Douglass C. North,
+                        <a
+                            href="http://www.kirkcenter.org/index.php/bookman/article/the-chastened-planner/">
+                        <i>Understanding the Process of Economic Change</i></a>,
+                        Fall 2007,
+                        <i>The University Bookman</i>.
+                    </li>
+
+                    <li>Sandra Peart and David Levy,
+                        <a href="">
+                            <i>The Vanity of the Philosopher</i></a>,
+                            April 2007,
+                            <i>The Freeman</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2005">
+                <h2 class="year-label"><span>2005</span></h2>
+                <ul class="reviews">
+                    <li>Paul Franco,
+                        <a
+                            href="http://www.independent.org/publications/tir/article.asp?a=554">
+                            <i>Michael Oakeshott: An Introduction</i></a>, 
+                        Fall 2005,
+                        <i>Independent Review</i>.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2004">
+                <h2 class="year-label"><span>2004</span></h2>
+                <ul class="reviews">
+                    <li>Peter Lewin,
+                        <i>Capital in Disequilibrium: The Role of Capital in a Changing World</i>, 
+                        2004,
+                        <i>Review of Austrian Economics</i>, Vol. 17, No. 1.
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2003">
+                <h2 class="year-label"><span>2003</span></h2>
+                <ul class="reviews">
+                    <li>Steve Keen,
+                        <i>Debunking Economics</i>, 
+                        2003,
+                        <i>Review of Austrian Economics</i>, Vol. 16, No. 4 (with Robert P. Murphy).
+                    </li>
+                </ul>
+            </section>
+            <section class="year" id="y2001">
+                <h2 class="year-label"><span>2001</span></h2>
+                <ul class="reviews">
+                    <li>Steve Horwitz,
+                        <a
+                            href="https://fee.org/articles/microfoundations-and-macroeconomics-an-austrian-perspective-by-steven-horwitz/">
+                            <i>Microfoundations and Macroeconomics</i></a>,
+                        December 2001,
+                        <i>The Freeman</i>.
+                    </li>
+                </ul>
+            </section>
+
+            <p class="empty" id="no-results">No reviews match that search.</p>
+        </main>
+
+        <footer>
+            <p>
+                <span class="fleuron" aria-hidden="true">&#10087;</span>
+                &ldquo;When I get a little money I buy books;
+                and if any is left I buy food and clothes.&rdquo;
+                &mdash; Erasmus
+            </p>
+            <div class="shelf bottom" role="presentation"></div>
+        </footer>
+
+        <script>
+            (function () {
+                var entries = Array.prototype.slice.call(
+                    document.querySelectorAll("ul.reviews > li"));
+                var sections = document.querySelectorAll("section.year");
+                var journals = {};
+                var years = [];
+                entries.forEach(function (li) {
+                    var venues = li.querySelectorAll(":scope > i");
+                    if (venues.length) {
+                        var name = venues[venues.length - 1].textContent
+                            .replace(/\s+/g, " ").replace(/^The /, "").trim();
+                        journals[name] = true;
+                    }
+                });
+                Array.prototype.forEach.call(sections, function (s) {
+                    var y = parseInt(s.id.slice(1), 10);
+                    if (y) years.push(y);
+                });
+                document.getElementById("stat-reviews").textContent = entries.length;
+                document.getElementById("stat-journals").textContent =
+                    Object.keys(journals).length;
+                document.getElementById("stat-years").textContent =
+                    Math.max.apply(null, years) - Math.min.apply(null, years) + 1;
+
+                var input = document.getElementById("search");
+                var count = document.getElementById("search-count");
+                var empty = document.getElementById("no-results");
+                var yearNav = document.querySelector("ul.years");
+                input.addEventListener("input", function () {
+                    var q = input.value.toLowerCase().trim();
+                    var shown = 0;
+                    entries.forEach(function (li) {
+                        var hit = !q || li.textContent.toLowerCase().indexOf(q) !== -1;
+                        li.hidden = !hit;
+                        if (hit) shown++;
+                    });
+                    Array.prototype.forEach.call(sections, function (s) {
+                        s.hidden = !s.querySelector("ul.reviews > li:not([hidden])");
+                    });
+                    yearNav.hidden = !!q;
+                    count.textContent = q ? shown + " of " + entries.length : "";
+                    empty.style.display = shown ? "none" : "block";
+                });
+            })();
+        </script>
     </body>
 </html>

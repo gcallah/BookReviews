@@ -1,85 +1,608 @@
+/*
+ * Gene Callahan: Book Reviews
+ * Shared stylesheet for the index and all individual review pages.
+ * Plain-element rules style the review pages (body > h1, h3, p, ...);
+ * homepage-only rules are scoped under body.home.
+ */
+
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap");
+
+:root {
+    --paper: #f5eedf;
+    --paper-deep: #ebe0c9;
+    --card: #fffaf0;
+    --ink: #2a211a;
+    --ink-soft: #5b4d40;
+    --oxblood: #7b2027;
+    --oxblood-dark: #5a141a;
+    --forest: #2f4b3c;
+    --navy: #22385a;
+    --gold: #a9853a;
+    --gold-light: #d8bd7a;
+    --rule: #cdbb98;
+    --serif: "EB Garamond", "Garamond", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    --display: "Cormorant Garamond", "Garamond", "Iowan Old Style", Palatino, Georgia, serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background: var(--paper-deep);
+}
+
+/* ---------- Review pages (and shared base) ---------- */
+
 body {
-    margin: 0;
-    padding: 0;
-    font-size: 100%;
-    color: #222;
-    background: #dde;
+    max-width: 44rem;
+    margin: 0 auto;
+    padding: 2.5rem 1.75rem 4rem;
+    font-family: var(--serif);
+    font-size: 1.2rem;
+    line-height: 1.65;
+    color: var(--ink);
+    background:
+        radial-gradient(ellipse at top, rgba(255, 255, 255, .55), transparent 70%),
+        var(--paper);
+    min-height: 100vh;
+    box-shadow: 0 0 0 1px var(--rule), 0 0 40px rgba(60, 40, 20, .18);
+    -webkit-font-smoothing: antialiased;
 }
 
 a:link {
-    color: #579;
+    color: var(--oxblood);
+    text-decoration-color: rgba(123, 32, 39, .35);
+    text-underline-offset: .18em;
 }
 
 a:visited {
-    color: #659;
+    color: #5c3060;
+    text-decoration-color: rgba(92, 48, 96, .35);
 }
 
-
-table, th, td {
-    border: 1px solid black;
-    }
-    th, td {
-        padding: 2em;
-    }
-
-hr {
-    margin: 2em 8em 2em 8em;
+a:hover,
+a:focus {
+    color: var(--oxblood-dark);
+    text-decoration-color: currentColor;
 }
 
-ol, ul, dl, li {
-    margin: 2.5em 1.5em 1em 1.5em;
+nav.back {
+    font-family: var(--display);
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
 }
 
-p {
-    margin: 1em 5em 1em 5em;
-    padding: 0;
-    line-height: 140%;
+nav.back a {
+    text-decoration: none;
 }
 
-h1,h2,h3,h4,h5 {
-    font-weight: 500;
+h1, h2, h3, h4, h5 {
+    font-family: var(--display);
+    font-weight: 600;
+    line-height: 1.2;
+    color: var(--ink);
 }
 
 h1 {
-    margin: 2em 1em 2em 1em;
+    margin: 0 0 2rem;
     text-align: center;
-    font-weight: 300;
-    font-size: 2.2em;
-    color: #438;
-    background-color: #fbd;
+    font-size: 2.6rem;
+    color: var(--oxblood);
+}
+
+/* Ornamental fleuron beneath every page title. */
+h1::after {
+    content: "\2767";
+    display: block;
+    margin-top: .6rem;
+    font-size: 1.6rem;
+    color: var(--gold);
+    background:
+        linear-gradient(var(--rule), var(--rule)) left center / 38% 1px no-repeat,
+        linear-gradient(var(--rule), var(--rule)) right center / 38% 1px no-repeat;
 }
 
 h2 {
-    font-size: 1.8em;
-    margin: 2.5em 3em 1.5em 3em;
-    color: #966;
+    font-size: 1.8rem;
+    margin: 2.5rem 0 1rem;
+    color: var(--forest);
 }
 
 h2.subhead {
-    font-weight: normal;
+    font-weight: 500;
     margin-top: 0;
 }
 
+/* On review pages h3 holds the bibliographic details of the book. */
 h3 {
-    font-size: 1.5em;
-    margin: 2.5em 4em 1.5em 4em;
-    color: #734;
+    font-size: 1.3rem;
+    font-weight: 500;
+    line-height: 1.45;
+    margin: 0 0 2.25rem;
+    padding: 1rem 1.25rem;
+    background: var(--card);
+    border: 1px solid var(--rule);
+    border-left: 6px solid var(--oxblood);
+    border-radius: 2px 6px 6px 2px;
+    box-shadow: 0 2px 6px rgba(60, 40, 20, .08);
 }
 
 h4 {
-    font-size: 1.4em;
-    margin: 2em 5em 1.5em 5em;
-    color: #339;
+    font-size: 1.35rem;
+    margin: 2rem 0 1rem;
+    color: var(--navy);
 }
 
 h5 {
-    font-size: 1.3em;
-    margin: 2em 6em 1.5em 6em;
-    color: #600;
+    font-size: 1.2rem;
+    margin: 2rem 0 1rem;
+    color: var(--oxblood);
+}
+
+p {
+    margin: 0 0 1.1em;
+    hyphens: auto;
+}
+
+/* Drop cap on the opening paragraph of each review. */
+h3 + p::first-letter {
+    float: left;
+    font-family: var(--display);
+    font-weight: 700;
+    font-size: 3.7em;
+    line-height: .8;
+    padding: .08em .1em 0 0;
+    color: var(--oxblood);
 }
 
 blockquote {
-    margin: 1.2em 8em 1.2em 8em;
-    font-size: .9em;
+    margin: 1.5em 0 1.5em 1.25em;
+    padding: .25em 0 .25em 1.25em;
+    border-left: 3px solid var(--gold-light);
+    font-size: 1.05rem;
+    color: var(--ink-soft);
 }
 
+blockquote p {
+    margin-bottom: .6em;
+}
+
+ol, ul, dl {
+    margin: 1.25em 0 1.25em 1.5em;
+    padding: 0;
+}
+
+li {
+    margin: 0 0 .6em;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    margin: 2.5em 15%;
+    background: var(--rule);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid var(--rule);
+    padding: .5em 1em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* ---------- Homepage ---------- */
+
+body.home {
+    max-width: none;
+    padding: 0;
+    background: var(--paper);
+    box-shadow: none;
+}
+
+.home .shelf {
+    display: block;
+    width: 100%;
+    height: 96px;
+    background: url("bookshelf.svg") repeat-x left bottom / auto 96px;
+}
+
+.home .shelf.bottom {
+    transform: scaleX(-1);
+}
+
+.home header.masthead {
+    position: relative;
+    padding: 3rem 1.5rem 2.5rem;
+    text-align: center;
+    background:
+        radial-gradient(ellipse at center, rgba(255, 250, 235, .9), transparent 75%),
+        repeating-linear-gradient(90deg, rgba(120, 90, 50, .035) 0 2px, transparent 2px 6px),
+        var(--paper);
+    border-bottom: 1px solid var(--rule);
+}
+
+.home .masthead .inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    max-width: 60rem;
+    margin: 0 auto;
+}
+
+.home .masthead .titles {
+    text-align: left;
+}
+
+.home .eyebrow {
+    margin: 0;
+    font-family: var(--display);
+    font-size: 1.05rem;
+    font-weight: 600;
+    letter-spacing: .3em;
+    text-transform: uppercase;
+    color: var(--gold);
+}
+
+.home h1 {
+    margin: .1em 0 .2em;
+    font-size: clamp(3rem, 7vw, 5rem);
+    font-weight: 600;
+    font-style: italic;
+    line-height: 1;
+    text-align: left;
+    color: var(--oxblood);
+}
+
+.home h1::after {
+    display: none;
+}
+
+.home .tagline {
+    margin: 0;
+    font-size: 1.25rem;
+    font-style: italic;
+    color: var(--ink-soft);
+}
+
+.home .stats {
+    display: flex;
+    gap: 1.75rem;
+    margin: 1.25rem 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+.home .stats li {
+    margin: 0;
+    font-family: var(--display);
+    font-size: .95rem;
+    font-weight: 600;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+}
+
+.home .stats strong {
+    display: block;
+    font-size: 2rem;
+    letter-spacing: 0;
+    line-height: 1.1;
+    color: var(--forest);
+}
+
+.home figure.plate {
+    flex: none;
+    margin: 0;
+    padding: 10px 10px 6px;
+    background: var(--card);
+    border: 1px solid var(--rule);
+    box-shadow: 0 10px 25px rgba(60, 40, 20, .25);
+    transform: rotate(-2deg);
+}
+
+.home figure.plate img {
+    display: block;
+    width: 320px;
+    height: auto;
+    filter: sepia(.25) contrast(1.05);
+}
+
+.home figure.plate figcaption {
+    margin-top: 6px;
+    font-size: .9rem;
+    font-style: italic;
+    text-align: center;
+    color: var(--ink-soft);
+}
+
+.home main {
+    max-width: 52rem;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 3rem;
+}
+
+.home .finder {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .5rem 1rem;
+    margin: 0 -1.5rem 1rem;
+    padding: .9rem 1.5rem;
+    background: rgba(245, 238, 223, .94);
+    backdrop-filter: blur(4px);
+    border-bottom: 1px solid var(--rule);
+}
+
+.home .finder label {
+    font-family: var(--display);
+    font-weight: 600;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+}
+
+.home .finder input {
+    flex: 1 1 16rem;
+    min-width: 0;
+    padding: .5rem .85rem;
+    font: inherit;
+    font-size: 1.1rem;
+    color: var(--ink);
+    background: var(--card);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+}
+
+.home .finder input:focus {
+    outline: 2px solid var(--gold);
+    outline-offset: 1px;
+}
+
+.home .finder output {
+    font-style: italic;
+    color: var(--ink-soft);
+}
+
+.home .years {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .35rem;
+    margin: 0 0 2rem;
+    padding: 0;
+    list-style: none;
+}
+
+.home .years li {
+    margin: 0;
+}
+
+.home .years a {
+    display: inline-block;
+    padding: .1rem .55rem;
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: 1rem;
+    text-decoration: none;
+    color: var(--ink-soft);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    background: var(--card);
+}
+
+.home .years a:hover,
+.home .years a:focus {
+    color: var(--paper);
+    background: var(--oxblood);
+    border-color: var(--oxblood);
+}
+
+.home section.year {
+    position: relative;
+    margin: 0 0 2.5rem;
+    scroll-margin-top: 5rem;
+}
+
+/* Year headings look like a leather spine label with gold rules. */
+.home h2.year-label {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 0 0 1rem;
+    font-size: 1.6rem;
+    color: var(--ink);
+}
+
+.home h2.year-label span {
+    padding: .1rem 1rem .15rem;
+    color: var(--gold-light);
+    background: linear-gradient(180deg, #8c2b31, var(--oxblood-dark));
+    border-top: 2px solid var(--gold);
+    border-bottom: 2px solid var(--gold);
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(60, 20, 20, .3), inset 0 0 0 1px rgba(216, 189, 122, .35);
+    letter-spacing: .06em;
+}
+
+.home h2.year-label::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--rule);
+}
+
+.home ul.reviews {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* Each review is a catalogue card with a coloured "spine" on the left. */
+.home ul.reviews > li {
+    position: relative;
+    margin: 0 0 .75rem;
+    padding: .8rem 1.1rem .8rem 1.5rem;
+    font-size: 1.12rem;
+    line-height: 1.5;
+    background: var(--card);
+    border: 1px solid var(--rule);
+    border-radius: 2px 6px 6px 2px;
+    box-shadow: 0 1px 3px rgba(60, 40, 20, .08);
+    transition: transform .15s ease, box-shadow .15s ease;
+}
+
+.home ul.reviews > li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 7px;
+    border-radius: 2px 0 0 2px;
+    background: var(--spine, var(--oxblood));
+    box-shadow: inset 0 3px 0 var(--gold-light), inset 0 -3px 0 var(--gold-light);
+}
+
+.home ul.reviews > li:nth-child(5n+2) { --spine: var(--forest); }
+.home ul.reviews > li:nth-child(5n+3) { --spine: var(--navy); }
+.home ul.reviews > li:nth-child(5n+4) { --spine: #8a5a2b; }
+.home ul.reviews > li:nth-child(5n+5) { --spine: #4a3a5c; }
+
+.home ul.reviews > li:hover {
+    transform: translateX(4px);
+    box-shadow: 0 4px 12px rgba(60, 40, 20, .15);
+}
+
+/* Book titles. */
+.home ul.reviews > li i,
+.home ul.reviews > li a i {
+    font-weight: 500;
+}
+
+/* The final italic in each entry is the journal it appeared in. */
+.home ul.reviews > li > i:last-of-type {
+    font-style: normal;
+    font-variant: small-caps;
+    letter-spacing: .04em;
+    color: var(--forest);
+}
+
+.home ul.reviews > li a {
+    font-weight: 500;
+}
+
+.home ul.reviews > li a[href^="http"]::after {
+    content: "\2009\2197";
+    font-size: .8em;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.home .empty {
+    display: none;
+    text-align: center;
+    font-style: italic;
+    color: var(--ink-soft);
+}
+
+.home footer {
+    text-align: center;
+    color: var(--ink-soft);
+    border-top: 1px solid var(--rule);
+}
+
+.home footer p {
+    margin: 0;
+    padding: 1.5rem 1rem 2rem;
+    font-style: italic;
+}
+
+.home footer .fleuron {
+    display: block;
+    font-size: 1.8rem;
+    font-style: normal;
+    color: var(--gold);
+}
+
+/* ---------- Small screens ---------- */
+
+@media (max-width: 760px) {
+    body {
+        padding: 1.5rem 1.1rem 3rem;
+        font-size: 1.1rem;
+        box-shadow: none;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h3 {
+        font-size: 1.15rem;
+    }
+
+    blockquote {
+        margin-left: .25em;
+        padding-left: .9em;
+    }
+
+    .home .shelf {
+        height: 64px;
+        background-size: auto 64px;
+    }
+
+    .home .masthead .inner {
+        flex-direction: column-reverse;
+        gap: 2rem;
+    }
+
+    .home .masthead .titles,
+    .home h1 {
+        text-align: center;
+    }
+
+    .home .stats {
+        justify-content: center;
+    }
+
+    .home figure.plate img {
+        width: 260px;
+    }
+
+    .home main {
+        padding: 1rem 1rem 2rem;
+    }
+
+    .home .finder {
+        margin: 0 -1rem 1rem;
+        padding: .75rem 1rem;
+    }
+
+    .home ul.reviews > li {
+        font-size: 1.05rem;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .home ul.reviews > li {
+        transition: none;
+    }
+
+    .home ul.reviews > li:hover {
+        transform: none;
+    }
+}

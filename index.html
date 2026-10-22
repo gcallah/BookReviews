@@ -79,6 +79,12 @@
                 <li><a href="#y2001">2001</a></li>
             </ul>
 
+            <p class="honors">
+                Named a
+                <a href="https://www.computingreviews.com/todaysissue/todaysissue_featured.cfm?reviewer_id=123869">Featured Reviewer</a>
+                by <i>Computing Reviews</i>.
+            </p>
+
             <!--
                 To add a review: copy an <li> into the right year's list.
                 Format: Author, <i>Title</i>, date, <i>Journal</i>.
@@ -926,6 +932,7 @@
                 var count = document.getElementById("search-count");
                 var empty = document.getElementById("no-results");
                 var yearNav = document.querySelector("ul.years");
+                var honors = document.querySelector("p.honors");
                 input.addEventListener("input", function () {
                     var q = input.value.toLowerCase().trim();
                     var shown = 0;
@@ -938,6 +945,7 @@
                         s.hidden = !s.querySelector("ul.reviews > li:not([hidden])");
                     });
                     yearNav.hidden = !!q;
+                    honors.hidden = !!q;
                     count.textContent = q ? shown + " of " + entries.length : "";
                     empty.style.display = shown ? "none" : "block";
                 });

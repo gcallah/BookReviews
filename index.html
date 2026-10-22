@@ -25,7 +25,6 @@
                     <ul class="stats">
                         <li><strong id="stat-reviews">&nbsp;</strong>reviews</li>
                         <li><strong id="stat-journals">&nbsp;</strong>journals</li>
-                        <li><strong id="stat-years">&nbsp;</strong>years</li>
                     </ul>
                 </div>
                 <figure class="plate">
@@ -911,7 +910,6 @@
                     document.querySelectorAll("ul.reviews > li"));
                 var sections = document.querySelectorAll("section.year");
                 var journals = {};
-                var years = [];
                 entries.forEach(function (li) {
                     var venues = li.querySelectorAll(":scope > i");
                     if (venues.length) {
@@ -920,15 +918,9 @@
                         journals[name] = true;
                     }
                 });
-                Array.prototype.forEach.call(sections, function (s) {
-                    var y = parseInt(s.id.slice(1), 10);
-                    if (y) years.push(y);
-                });
                 document.getElementById("stat-reviews").textContent = entries.length;
                 document.getElementById("stat-journals").textContent =
                     Object.keys(journals).length;
-                document.getElementById("stat-years").textContent =
-                    Math.max.apply(null, years) - Math.min.apply(null, years) + 1;
 
                 var input = document.getElementById("search");
                 var count = document.getElementById("search-count");
